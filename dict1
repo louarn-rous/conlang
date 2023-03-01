@@ -1,4 +1,4 @@
-age;n. až
+age;n. v. až
 dar;adj. hard
 déplas;v. displace
 dus;adj. soft
@@ -12,13 +12,13 @@ plas;n, v. place
 popyl;n. people (collective);v. populate
 profit;n, v. profit
 réplas;v. replace
-stasjon;n, v. station
+stasjon;n. station;v. station at, occupy
 tram;n. tram
 trèn;n. train
-fin;v. complete, finish
-flam;v. set alight
+fin;n. end;v. complete, finish
+flam;n. flame;v. set alight
 flot;v. float
-fob;v. fear
+fob;v. n. fear
 frit;v. fry
 frot;v. rub
 gyst;v. taste
@@ -26,10 +26,10 @@ kol;v. stick, adhere
 lèk;v. lick
 løn;n. wool
 løv;v. stand up
-lym;v. cast light onto
+lym;n. light;v. cast light onto
 marš;v. march
-nam;v. name
-pèst;v. plague, annoy
+nam;n. v. name;
+pèst;n. plague;n. annoyance;v. plague, pester, annoy;v. spread plague amongst
 plod;v. burst, blow
 probit;v. prohibit, disallow
 rèš;v. give form to
@@ -40,19 +40,62 @@ skrib;v. write
 som;v. sleep
 syl;v. drink
 sys;v. suck, slurp
-syt;v. sweat
+syt;n. sweat;v. sweat
 takt;v. touch, reach, attain
 us;v. move
-votš;v. voice
-vyr;v. want, wish
-žus;v. to make into juice
+votš;n. v. voice
+vyr;n. v. want, wish
+žus;n. juice;v. to make into juice
 don;v. give
-pèrd;v. lose, waste
+pèrd;n. loss, waste;v. lose, waste
 yn;v. unite, unify
-égal;v. equal
+égal;n. equal;v. equal
 bat;v. beat, hit, defeat
-baž;v. need
+baž;n. need;v. need
 bild;v. build
 èn;v. have
 ès;v. be
 fil;v. like, appreciate
+saksofon;n. saxophone
+pjano;n. piano
+idé;n. idea
+lydo;n. game
+banan;n. banana
+kafé;n. coffee
+patat;n. potato
+šokola;n. chocolate
+sup;n. soup
+té;n. tea
+tomat;n. tomato
+myzik;n. music
+kyltyr;n. culture
+fèld;n. field
+miraž;n. mirage
+šos;n. shoe
+radjo;n. radio
+bol;n. bowl
+mjok;n. truck
+éšèk;n. chess
+maži;n. magic
+fals;n. sickle
+šømit;n. shirt
+kasèt;n. cassette, cartridge
+onjon;n. onion
+vodka;n. vodka
+soj;n. soy, soya
+mèlon;n. melon
+tart;n. tart
+nakèt;n. peanut
+radi;n. radish
+otryš;n. ostrich
+léo;n. lion
+urs;n. bear
+pors;n. pig
+gupil;n. fox
+pantér;n. panther
+pesk;n. fish
+kaktys;n. cactus
+žiraf;n. giraffe
+sèl;n. v. salt
+krèm;n. cream;v. to fill or cover with cream
+mèlk;n. v. milk;v. exploit excessively
