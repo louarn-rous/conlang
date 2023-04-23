@@ -1,7 +1,7 @@
 # conlang
 
 ## Alphabet
-The Ižtèr language has two scripts/alphabet: one Latin and one Cyrillic (kinda like Serbian!)
+The Ižtér language has two scripts/alphabet: one Latin and one Cyrillic (kinda like Serbian!)
 
 | IPA | Latin | Cyrillic | Braille | IPA | Latin | Cyrillic | Braille |
 | --- | --- | --- | --- | --- | --- | --- | --- |
