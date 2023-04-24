@@ -46,5 +46,7 @@ the braille alphabet is inspired by French, English, Czech and Scandinavian brai
 | : | ⠒ | ; | ⠆ |
 | ! | ⠖ | ? | ⠢ |
 
-Capital marker - ⠠
-Number sign - ⠼
+| Name | Braille |
+| --- |:---:|
+| Capital marker | ⠠ |
+| Number sign | ⠼ |
