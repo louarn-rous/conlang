@@ -2,7 +2,7 @@
 
 ## Phonology
 
-| --- | Labial | Alveolar | Post-Alveolar | Palatal | Velar | Glottal |
+| Consonants | Labial | Alveolar | Post-Alveolar | Palatal | Velar | Glottal |
 | --- | --- | --- | --- | --- | --- | --- |
 | Nasal | /m/ | /n/ | --- | /ɲ/ | --- | --- |
 | Plosive | /p/ /b/ | /t/ /d/ | --- | --- | /k/ /g/ | --- |
@@ -11,6 +11,13 @@
 | Approximant | --- | --- | --- | /j/ | --- | --- |
 | Tap/Flap | --- | /ɾ/ | --- | --- | --- | --- |
 | Lat. Approximant | --- | /l/ | --- | /ʎ/ | --- | --- |
+
+| Vowels | Front | Back |
+| --- | --- | --- |
+| Close | /i/ /y/ | /u/ |
+| Close-mid | /e/ /ø/ | /o/ |
+| Open-mid | /ɛ/ | --- |
+| Open | /a/ | --- |
 
 ## Alphabet
 The Ižtér language has two scripts/alphabet: one Latin and one Cyrillic (kinda like Serbian!)
