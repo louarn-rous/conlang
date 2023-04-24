@@ -4,12 +4,13 @@
 
 | --- | Labial | Alveolar | Post-Alveolar | Palatal | Velar | Glottal |
 | --- | --- | --- | --- | --- | --- | --- |
-| Nasal | /m/ | /n/ | --- | --- | --- | --- |
+| Nasal | /m/ | /n/ | --- | /ɲ/ | --- | --- |
 | Plosive | /p/ /b/ | /t/ /d/ | --- | --- | /k/ /g/ | --- |
 | Affricate | --- | /ts/ /dz/ | /tʃ/ /dʒ/ | --- | --- | --- |
 | Fricative | /f/ /v/ | /s/ /z/ | /ʃ/ /ʒ/ | --- | --- | /h/ |
-| Approximant | --- | /l/ | --- | /j/ | --- | --- |
+| Approximant | --- | --- | --- | /j/ | --- | --- |
 | Tap/Flap | --- | /ɾ/ | --- | --- | --- | --- |
+| Lat. Approximant | --- | /l/ | --- | /ʎ/ | --- | --- |
 
 ## Alphabet
 The Ižtér language has two scripts/alphabet: one Latin and one Cyrillic (kinda like Serbian!)
