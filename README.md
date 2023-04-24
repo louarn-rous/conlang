@@ -23,7 +23,7 @@
 The Ižtér language has two scripts/alphabet: one Latin and one Cyrillic (similar to Serbian)
 
 | IPA | Latin | Cyrillic | Braille | IPA | Latin | Cyrillic | Braille |
-| --- |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | /a/ | Aa | Аа | ⠁ | /m/ | Mm | Мм | ⠍ |
 | /b/ | Bb | Бб | ⠃ | /n/ | Nn | Нн | ⠝ |
 | /v/ | Vv | Вв | ⠧ | /o/ | Oo | Оо | ⠕ |
