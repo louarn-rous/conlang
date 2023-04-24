@@ -16,8 +16,8 @@
 | --- | --- | --- |
 | Close | /i/ /y/ | /u/ |
 | Close-mid | /e/ /ø/ | /o/ |
-| Open-mid | /ɛ/ | --- |
-| Open | /a/ | --- |
+| Open-mid | /ɛ/ | |
+| Open | /a/ |  |
 
 ## Alphabet
 The Ižtér language has two scripts/alphabet: one Latin and one Cyrillic (similar to Serbian)
@@ -43,4 +43,5 @@ The Ižtér language has two scripts/alphabet: one Latin and one Cyrillic (simil
 | . | ⠲ | , | ⠂ |
 | : | ⠒ | ; | ⠆ |
 | ! | ⠖ | ? | ⠢ |
+| Capital marker | ⠠ | Number sign | ⠼ |
 
