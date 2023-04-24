@@ -5,7 +5,7 @@
 | Consonants | Labial | Alveolar | Post-Alveolar | Palatal | Velar | Glottal |
 | --- | --- | --- | --- | --- | --- | --- |
 | Nasal | /m/ | /n/ | --- | /ɲ/ | --- | --- |
-| Plosive | /p/ /b/ | /t/ /d/ | --- | --- | /k/ /g/ | --- |
+| Plosive | /p/ /b/ | /t/ /d/ | --- | --- | /k/ /ɡ/ | --- |
 | Affricate | --- | /ts/ /dz/ | /tʃ/ /dʒ/ | --- | --- | --- |
 | Fricative | /f/ /v/ | /s/ /z/ | /ʃ/ /ʒ/ | --- | --- | /h/ |
 | Approximant | --- | --- | --- | /j/ | --- | --- |
@@ -37,3 +37,10 @@ The Ižtér language has two scripts/alphabet: one Latin and one Cyrillic (simil
 | /j/ | Jj | Јј | ⠚ | /y/ | Üü | Ӱӱ | ⠽ |
 | /k/ | Kk | Кк | ⠅ | /f/ | Ff | Фф | ⠋ |
 | /l/ | Ll | Лл | ⠇ | /h/ | Hh | Һһ | ⠓ |
+
+| Punc. | Braille | Punc. | Braille |
+| --- | --- | --- | --- |
+| . | ⠲ | , | ⠂ |
+| : | ⠒ | ; | ⠆ |
+| ! | ⠖ | ? | ⠢ |
+
