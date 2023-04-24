@@ -1,4 +1,14 @@
-# conlang
+# Ižtér
+
+## Phonology
+
+| --- | Labial | Alveolar | Post-Alveolar | Palatal | Velar | Glottal |
+| Nasal | /m/ | /n/ | --- | --- | --- | --- |
+| Plosive | /p/ /b/ | /t/ /d/ | --- | --- | /k/ /g/ | --- |
+| Affricate | --- | /ts/ /dz/ | /tʃ/ /dʒ/ | --- | --- | --- |
+| Fricative | /f/ /v/ | /s/ /z/ | /ʃ/ /ʒ/ | --- | --- | /h/ |
+| Approximant | --- | /l/ | --- | /j/ | --- | --- |
+| Tap/Flap | --- | /ɾ/ | --- | --- | --- | --- |
 
 ## Alphabet
 The Ižtér language has two scripts/alphabet: one Latin and one Cyrillic (kinda like Serbian!)
