@@ -52,3 +52,17 @@ the braille alphabet is inspired by French, English, Czech and Scandinavian brai
 | --- |:---:|
 | Capital marker | ⠠ |
 | Number sign | ⠼ |
+
+## Pronouns
+
+| --- | Object case | Subject case | Possessive |
+|:---:|:---:|:---:|:---:|
+| 1st person singular | Iž | Mö | Mön |
+| 1st person plural | --- | Nö | Nös |
+| 2nd person singular | --- | Tö | Tön |
+| 2nd person plural | --- | Vö | Vön |
+| 3rd person neuter singular | --- | Sö | Sön |
+| 3rd person feminine singular | --- | Sa | San |
+| 3rd person neuter singular | --- | So | Son |
+| 3rd person plural | --- | Zö | Zön |
+
