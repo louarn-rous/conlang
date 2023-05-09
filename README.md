@@ -55,14 +55,22 @@ the braille alphabet is inspired by French, English, Czech and Scandinavian brai
 
 ## Pronouns
 
+### Personal
+
 | --- | Object case | Subject case | Possessive |
 |:---:|:---:|:---:|:---:|
 | 1st person singular | Iž | Mö | Mön |
-| 1st person plural | --- | Nö | Nös |
-| 2nd person singular | --- | Tö | Tön |
-| 2nd person plural | --- | Vö | Vön |
-| 3rd person neuter singular | --- | Sö | Sön |
-| 3rd person feminine singular | --- | Sa | San |
-| 3rd person neuter singular | --- | So | Son |
-| 3rd person plural | --- | Zö | Zön |
+| 1st person plural | Nö | Nö | Nös |
+| 2nd person singular | Tö | Tö | Tön |
+| 2nd person plural | Vö | Vö | Vön |
+| 3rd person neuter singular | Sö | Sö | Sön |
+| 3rd person feminine singular | Sa | Sa | San |
+| 3rd person neuter singular | So | So | Son |
+| 3rd person plural | Zö | Zö | Zön |
 
+A unique feature of Ižtér is the possibility of combining a personal pronoun with a definite or indefinite determiner.
+
+| Ižtér | English | Literal translation |
+| --- | --- | --- |
+| mönèn _colleague_ | a colleague of mine | my-a(n) colleague |
+| sönèr _friends_ | those friends of theirs (singular) | their-the friends |
