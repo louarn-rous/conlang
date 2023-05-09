@@ -3,7 +3,7 @@
 ## Phonology
 
 | Consonants | Labial | Alveolar | Post-Alveolar | Palatal | Velar | Glottal |
-| --- |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| --- |:---:|:---:|:---:|:---:|:---:|:---:|
 | Nasal | /m/ | /n/ | --- | /ɲ/ | --- | --- |
 | Plosive | /p/ /b/ | /t/ /d/ | --- | --- | /k/ /ɡ/ | --- |
 | Affricate | --- | /ts/ /dz/ | /tʃ/ /dʒ/ | --- | --- | --- |
@@ -23,7 +23,7 @@
 The Ižtér language has two scripts/alphabet: one Latin and one Cyrillic (similar to Serbian)
 
 | IPA | Eg. | Latin | Cyrillic | Braille | IPA | Eg. | Latin | Cyrillic | Braille |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | /a/ | --- | Aa | Аа | ⠁ | /m/ | --- |Mm | Мм | ⠍ |
 | /b/ | b in 'ball' | Bb | Бб | ⠃ | /n/ | --- | Nn | Нн | ⠝ |
 | /v/ | --- | Vv | Вв | ⠧ | /o/ | --- | Oo | Оо | ⠕ |
