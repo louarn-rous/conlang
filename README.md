@@ -3,7 +3,7 @@
 ## Phonology
 
 | Consonants | Labial | Alveolar | Post-Alveolar | Palatal | Velar | Glottal |
-| --- |:---:|:---:|:---:|:---:|:---:|:---:|
+| --- |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Nasal | /m/ | /n/ | --- | /ɲ/ | --- | --- |
 | Plosive | /p/ /b/ | /t/ /d/ | --- | --- | /k/ /ɡ/ | --- |
 | Affricate | --- | /ts/ /dz/ | /tʃ/ /dʒ/ | --- | --- | --- |
