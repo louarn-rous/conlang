@@ -1,5 +1,7 @@
 # Ižtér
 
+Ižtér (localized in English as 'Ijter') is a constructed language with no specific purpose.
+
 ## Phonology
 
 | Consonants | Labial | Alveolar | Post-Alveolar | Palatal | Velar | Glottal |
