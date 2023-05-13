@@ -29,9 +29,9 @@ The Ižtér language has two scripts/alphabet: one Latin and one Cyrillic (simil
 | /a/ | a in 'hat' (California, Canada) | Aa | Аа | ⠁ | /m/ | m in 'may' |Mm | Мм | ⠍ |
 | /b/ | b in 'ball' | Bb | Бб | ⠃ | /n/ | n in 'nap' | Nn | Нн | ⠝ |
 | /v/ | v in 'vine' | Vv | Вв | ⠧ | /o/ | aw in 'yawn' (South Africa) | Oo | Оо | ⠕ |
-| /g/ | g in 'gum' | Gg | Гг | ⠛ | /ø/ | ir in 'bird' (Broad New Zealand) | Öö | Ӧӧ | ⠪ |
+| /g/ | g in 'gum' | Gg | Гг | ⠛ | /ø/ | ir in 'bird' (Broad NZ) | Öö | Ӧӧ | ⠪ |
 | /d/ | d in 'dog' | Dd | Дд | ⠙ | /p/ | p in 'pen' | Pp | Пп | ⠏ |
-| /e/ | a in 'may' (General American) | Éé | Ее | ⠜ | /ɾ/ | tt in 'better' (Aus, NZ, North Am. English) | Rr | Рр | ⠗ |
+| /e/ | a in 'may' (Gen. Am.) | Éé | Ее | ⠜ | /ɾ/ | tt in 'better' (Aus, NZ, NAE) | Rr | Рр | ⠗ |
 | /ɛ/ | e in 'dress' | Èè | Ээ | ⠣ | /s/ | s in 'sing' | Ss | Сс | ⠎ |
 | /ʒ/ | s in 'pleasure' | Žž | Жж | ⠮ | /ʃ/ | sh in 'shy' | Šš | Шш | ⠱ |
 | /z/ | z in 'zoo' | Zz | Зз | ⠵ | /t/ | t in 'top' | Tt | Тт | ⠞ |
