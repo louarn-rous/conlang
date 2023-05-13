@@ -26,17 +26,17 @@ The Ižtér language has two scripts/alphabet: one Latin and one Cyrillic (simil
 
 | IPA | English | Latin | Cyrillic | Braille | IPA | English | Latin | Cyrillic | Braille |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| /a/ | --- | Aa | Аа | ⠁ | /m/ | m in 'may' |Mm | Мм | ⠍ |
+| /a/ | a in 'hat' (California, Canada) | Aa | Аа | ⠁ | /m/ | m in 'may' |Mm | Мм | ⠍ |
 | /b/ | b in 'ball' | Bb | Бб | ⠃ | /n/ | n in 'nap' | Nn | Нн | ⠝ |
-| /v/ | v in 'vine' | Vv | Вв | ⠧ | /o/ | --- | Oo | Оо | ⠕ |
-| /g/ | g in 'gum' | Gg | Гг | ⠛ | /ø/ | --- | Öö | Ӧӧ | ⠪ |
+| /v/ | v in 'vine' | Vv | Вв | ⠧ | /o/ | aw in 'yawn' (South Africa) | Oo | Оо | ⠕ |
+| /g/ | g in 'gum' | Gg | Гг | ⠛ | /ø/ | ir in 'bird' (Broad New Zealand) | Öö | Ӧӧ | ⠪ |
 | /d/ | d in 'dog' | Dd | Дд | ⠙ | /p/ | p in 'pen' | Pp | Пп | ⠏ |
-| /e/ | --- | Éé | Ее | ⠜ | /ɾ/ | --- | Rr | Рр | ⠗ |
+| /e/ | a in 'may' (General American) | Éé | Ее | ⠜ | /ɾ/ | tt in 'better' (Aus, NZ, North Am. English) | Rr | Рр | ⠗ |
 | /ɛ/ | e in 'dress' | Èè | Ээ | ⠣ | /s/ | s in 'sing' | Ss | Сс | ⠎ |
 | /ʒ/ | s in 'pleasure' | Žž | Жж | ⠮ | /ʃ/ | sh in 'shy' | Šš | Шш | ⠱ |
 | /z/ | z in 'zoo' | Zz | Зз | ⠵ | /t/ | t in 'top' | Tt | Тт | ⠞ |
 | /i/ | ee in 'see' | Ii | Ии | ⠊ | /u/ | u in 'fruit' | Uu | Уу | ⠥ |
-| /j/ | y in 'yes' | Jj | Јј | ⠚ | /y/ | --- | Üü | Ӱӱ | ⠽ |
+| /j/ | y in 'yes' | Jj | Јј | ⠚ | /y/ | ü in über (German) | Üü | Ӱӱ | ⠽ |
 | /k/ | k in 'sky' | Kk | Кк | ⠅ | /f/ | f in 'fruit' | Ff | Фф | ⠋ |
 | /l/ | l in 'line' | Ll | Лл | ⠇ | /h/ | h in 'home' | Hh | Һһ | ⠓ |
 
