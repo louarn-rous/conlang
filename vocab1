@@ -2,15 +2,15 @@
 kolor
 -- n. colour, pigment
 -- v. colour
-rod · red
-blo · blue
-grön · green
-gèl · yellow
-oranž · orange
-roz · pink
-nor · black
-brön · brown
-griz · grey
+blo : blue
+brön : brown
+gèl : yellow
+griz : grey
+grön : green
+nor : black
+oranž : orange
+rod : red
+roz : pink
 
 === animals ===
 mus · mouse
