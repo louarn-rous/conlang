@@ -32,12 +32,16 @@ léo · lion
 mostik · mosquito
 
 === crops ===
+kafé · coffee
 karot · carrot
 mèlon · melon
 radis · radish
+ris · rice
 patat · potato
+té · tea
 tomat · tomato
 banan · banana
+nüs · nut
 nüskèt · peanut
 soj · soy
 sukar
@@ -67,13 +71,20 @@ frit
 -- v. fry
 
 === plants & trees ===
-hèrb · grass, herb
-solflor · sunflower
-tülip · tulip
-lilak · lilac
+arb · tree
+bambu · bamboo
 burš · birch
+busk · bush
+flor
+-- n. flower
+-- v. bloom, blossom, flower
 föl · leaf
 forès · forest
+hèrb · grass, herb
+kaktüs · cactus
+lilak · lilac
+solflor · sunflower
+tülip · tulip
 
 === natural phenomena ===
 kumul
@@ -143,6 +154,9 @@ tünèl
 -- v. (to make a) tunnel through
 
 === körp · body ===
+blüt
+-- n. blood
+-- v. bleed
 dènt · tooth
 kap
 -- n. head
@@ -204,6 +218,9 @@ radio
 -- n. radio reciever or transmitter
 -- v. communicate with by radio
 raj · rail
+
+=== tools ===
+fals · sickle
 
 === music ===
 müzik · music
@@ -267,6 +284,7 @@ totèm · totem
 
 === substance ===
 slèm · slime, goo, sludge
+pélüš · fluff, 
 pul
 -- n. powder, dust
 -- v. (adorn with) powder
@@ -285,7 +303,8 @@ kras
 štok
 -- n. stick, branch
 -- n. handle, rod
-lin · n. line, string, cord, rope
+lin · line, string, cord, rope
+bol · bowl
 
 === house ===
 kav · basement
