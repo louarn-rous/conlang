@@ -36,6 +36,13 @@ hoš
 -- adj. hot
 -- v. heat (up)
 -- n. heat
+gul
+-- v. wet
+-- adj. wet
+sèk
+-- v. dry
+-- adj. dry
+
 
 déplas;v. displace
 donèt;n. data
@@ -45,7 +52,6 @@ dös;n. god, deity
 fal;n. v. fall;n. v. drop, decrease
 fatig;n. tiredness;v. make weary, tired
 fam;n. v. hunger
-fèld;n. field
 fiènd;n. enemy;adj. hostile
 
 fin;n. end;v. complete, finish
@@ -62,12 +68,7 @@ fümör;n. smoker;n. appartus for smoking ingredients
 glas;n. ice;v. freeze
 grafit;n. v. graffiti, scribble
 
-gul
--- v. wet
--- adj. wet
-sèk
--- v. dry
--- adj. dry
+
 
 güst;n. v. taste
 invèrs;n. v. adj. inverse
@@ -100,7 +101,7 @@ lémur;n. ghost, spirit of the dead;n. lemur (lemur catta)
 léng;n. language ?
 lèk;n. lick ??
 
-léš;n. way, manner, path
+
 libèr;n. freedom;v. adj. free
 limit;n. v. limit
 lis;adj. smooth;v. smoothen
@@ -121,6 +122,7 @@ mistèr;n. mystery
 mitèl;n. adj. middle
 
 métod;n. method
+léš;n. way, manner, path
 mod;n. way, manner;v. [composite suffix] to play the role of, be
 
 
@@ -135,7 +137,7 @@ baž;n. need, requirement;v. need, require
 vür;n. v. want, wish
 
 nèkt;v. attach, bind
-nèt;adj. v. clean
+
 nos;n. v. birth;v. be born
 not;n. brief record, usually written;n. score, mark or grade
 nov;adj. new
@@ -143,7 +145,7 @@ nöl;n. adj. zero, none, nought, null
 nüdit;adj. naked, nude;v. to strip of protection or clothing
 nümèr;n. number;v. to assign a number;n. number of, count
 
-ovér;v. adj. open
+
 
 pèrmit;v. adj. allow, permit
 probit;v. prohibit, disallow
@@ -156,7 +158,7 @@ plod;n. v. burst, blow
 popül;n. people (collective);v. populate
 
 profit;n. v. profit
-prom;v. promise
+
 püli;adj. multiple, plural
 
 régül;v. regulate
@@ -168,7 +170,7 @@ stèn;n. adj. stone, rock ###
 salvör;n. saviour
 sésion;n. session
 sèrvör;n. waiter;n. servant;n. computer server
-sèrš;v. search, seek
+
 
 siléns;n. silence;adj. silent
 sistèm;n. system
@@ -185,8 +187,7 @@ lon : adj. long
 tis : adj. small
 
 štüt;n. v. support
-tamor;n. v. hammer
-tènj;n. v. stain
+
 tèr;n. earth, ground, dirt;v. (of electrical equipment) connect to the ground;v. (of aircraft) prevent from flying
 
 tortür;n. v. torture
@@ -196,12 +197,10 @@ tröb;n. v. work, labour
 tšans;n. chance, luck
 tüš;v. touch, reach, attain
 
-us;v. move
-ir;v. go, move (oneself)
+
 
 ün;num. 1 (one)
 
-vèlt;n. world
 vèn;n. vein
 vèr;n. adj. glass;n. a vessel, especially one made of glass or transparent plastic, from which one drinks;v. to turn into glass
 vèrsion;n. version
