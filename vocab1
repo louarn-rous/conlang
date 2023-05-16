@@ -1,4 +1,7 @@
 === colours ===
+kolor
+-- n. colour, pigment
+-- v. colour
 rod · red
 blo · blue
 grön · green
@@ -44,11 +47,16 @@ frut · fruit
 === food ===
 šokola · chocolate
 vodka · vodka
-krèm · cream
+krèm
+-- n. cream
 -- v. to fill or cover with cream
-kébab · kebab
+kébab
+-- n. kebab
 -- v. to pierce with a sharp rod (informal)
 tart · tart
+žus
+-- n. juice
+-- v. to make into juice
 
 === plants & trees ===
 hèrb · grass, herb
@@ -58,25 +66,29 @@ lilak · lilac
 burš · birch
 föl · leaf
 forès · forest
-frus · moss
 
 === natural phenomena ===
-kumul · cloud
+kumul
+-- n. cloud
 -- v. cloud, obstruct, confuse
 miraž · mirage
 džangal · jungle
 biom · biome
 briz · breeze
 vènt · wind
-glav · rain
--- v.
-šjèl · sky
+glav
+-- n. rain
+-- v. (of a liquid) rain
+šjèl
+-- n. sky
 -- n. ceiling
-snèž · snow
--- v.
+snèž
+-- n. snow
+-- v. (of a powder or snow-like substance) snow 
 
 === space ===
-sol · sun
+sol
+-- n. sun
 -- v. to expose to sunlight
 lün · moon
 planèt · planet
@@ -85,13 +97,19 @@ planèt · planet
 oséan · ocean
 pèrl · pearl
 koral · coral
-klunpèsk · n. clownfish
+klunpèsk · clownfish
+haj · shark
 
 === geological & mineral ===
-kvartz · quartz
+kvardz · quartz
 granit · granite
+métal · metal
 fèr · iron
 or · gold
+bronz · bronze
+kristal
+-- n. crystal
+-- v. crystallize
 émrod · emerald
 ardžènt · silver
 diamant · diamond
@@ -99,22 +117,30 @@ magma · magma
 térakota · terracotta
 ravin · ravine
 kav · cave
-mont · mountain
+mont
+-- n. mountain
 -- v. to tower over, to dwarf
-tünèl · tunnel
--- v. to make a tunnel
+tünèl
+-- n. tunnel
+-- v. (to make a) tunnel through
 
 === körp · body ===
-kap · head
-kol · neck
+kap
+-- n. head
+-- v. lead, direct
+kol
+-- n. neck
+-- n. collar
 pil · hair
-séréb · brain
+séréb
+-- n. brain
 -- v. to think of/find a solution to a problem (informal)
 os · mouth
 dènt · tooth
 léng · tongue
 nas · nose
-lèp · lip
+lèp
+-- n. lip
 -- v. to kiss (common)
 öl · eye
 rèš · flesh, meat
@@ -123,13 +149,22 @@ ost · bone
 
 === technology ===
 mus · computer mouse
-mjok · truck
+éskrèn
+-- n. monitor, computer screen
+-- v. screen, display
+miok · truck
 otomobil · car (formal)
 oto · car (common)
 kasèt · cassette, cartridge
 disk · disk, disc, record, CD, CD-ROM
 pilül · pill, pastule
 raj · rail
+tram
+-- n. tram
+-- v. take the tram, commute by tram
+trèn
+-- n. train
+-- v. take the train, commute by train
 
 === music ===
 müzik · music
@@ -138,9 +173,20 @@ piano · piano
 not · note
 
 === society ===
-stat · state, government
-répüblik · republic
-partizan · partisan
+stat · n. state, government
+répüblik · n. republic
+partizan · n. partisan
+polis
+-- n. police, law enforcement
+-- v. police
+politik
+-- n. politics
+-- n. set of (political) beliefs of a person or organization, ideology
+gèr
+-- n. war
+-- v. to be at war or go to war with
+soldat · soldier
+žénéral · n. general
 
 === places ===
 otèl · hotel
@@ -164,10 +210,24 @@ dragon · dragon
 
 === substance ===
 slèm · slime, goo, sludge
-pul · powder, dust
+pul
+-- n. powder, dust
 -- v. (adorn with) powder
-frus · froth, moss, foam
+frus
+-- n. froth, moss, foam
 -- v. foam, froth
+füm
+-- n. smoke
+-- v. produce smoke
+kras
+-- n. scum, dirt, grime
+-- v. make dirty
+-- adj. dirty
+
+=== form ===
+štok
+-- n. stick, branch
+-- n. handle, rod
 
 === house ===
 kav · basement
@@ -188,4 +248,9 @@ nošt · night
 minüt · minute
 
 === abstract ===
+idé · idea
 nivèl · level
+nam
+-- n. name
+-- v. to give/assign a name to
+
