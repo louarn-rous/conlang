@@ -39,7 +39,11 @@ tomat · tomato
 banan · banana
 nüskèt · peanut
 soj · soy
-sukar · sugar
+sukar
+-- n. sugar
+-- adj. sweet
+-- v. sweeten @@@
+
 onjon · onion
 oranž · orange
 frut · fruit
@@ -57,6 +61,9 @@ tart · tart
 žus
 -- n. juice
 -- v. to make into juice
+frit
+-- n. fry
+-- v. fry
 
 === plants & trees ===
 hèrb · grass, herb
@@ -76,6 +83,9 @@ džangal · jungle
 biom · biome
 briz · breeze
 vènt · wind
+stürm
+-- n. storm
+-- v. rush, attack, storm
 glav
 -- n. rain
 -- v. (of a liquid) rain
@@ -87,84 +97,111 @@ snèž
 -- v. (of a powder or snow-like substance) snow 
 
 === space ===
+lün · moon
+planèt · planet
 sol
 -- n. sun
 -- v. to expose to sunlight
-lün · moon
-planèt · planet
 
 === marine ===
 oséan · ocean
 pèrl · pearl
-koral · coral
 klunpèsk · clownfish
+koral · coral
 haj · shark
 
 === geological & mineral ===
-kvardz · quartz
-granit · granite
-métal · metal
-fèr · iron
-or · gold
+ardžènt · silver
 bronz · bronze
+diamant · diamond
+émrod · emerald
+fèr · iron
+granit · granite
+kav · cave
 kristal
 -- n. crystal
 -- v. crystallize
-émrod · emerald
-ardžènt · silver
-diamant · diamond
+kvardz · quartz
 magma · magma
-térakota · terracotta
-ravin · ravine
-kav · cave
+métal · metal
+min
+-- n. mine, mineshaft
+-- v. mine (out)
 mont
 -- n. mountain
 -- v. to tower over, to dwarf
+or · gold
+ravin · ravine
+sèl
+-- n. salt
+-- v. salt
+térakota · terracotta
 tünèl
 -- n. tunnel
 -- v. (to make a) tunnel through
 
 === körp · body ===
+dènt · tooth
 kap
 -- n. head
 -- v. lead, direct
 kol
 -- n. neck
 -- n. collar
-pil · hair
-séréb
--- n. brain
--- v. to think of/find a solution to a problem (informal)
-os · mouth
-dènt · tooth
 léng · tongue
-nas · nose
 lèp
 -- n. lip
 -- v. to kiss (common)
-öl · eye
-rèš · flesh, meat
-skélét · skeleton
+man
+-- n. hand
+-- v. handle, control, manage
+nas · nose
+os · mouth
 ost · bone
+öl · eye
+pil · hair
+rèš
+-- n. flesh, meat
+-- v. shape, give form to
+séréb
+-- n. brain
+-- v. to think of/find a solution to a problem (informal)
+skélét · skeleton
+
+=== biology ===
+lön
+-- n. wool
+-- adj. woolen
+mèlk
+-- n. milk
+-- v. [usu. of an animal] milk
+-- v. exploit excessively
+ov · egg
 
 === technology ===
-mus · computer mouse
+disk · disk, disc, record, CD, CD-ROM
 éskrèn
 -- n. monitor, computer screen
 -- v. screen, display
-miok · truck
-otomobil · car (formal)
-oto · car (common)
 kasèt · cassette, cartridge
-disk · disk, disc, record, CD, CD-ROM
+miok · truck
+mus · computer mouse
+oto · car (common)
+otomobil · car (formal)
 pilül · pill, pastule
-raj · rail
+piston
+-- n. piston
+-- v. to move in and out of or into, like a piston
 tram
 -- n. tram
 -- v. take the tram, commute by tram
 trèn
 -- n. train
 -- v. take the train, commute by train
+radio
+-- n. radio reciever or transmitter
+-- v. communicate with by radio
+raj · rail
 
 === music ===
 müzik · music
@@ -187,6 +224,13 @@ gèr
 -- v. to be at war or go to war with
 soldat · soldier
 žénéral · n. general
+salar · wage, salary
+salarör · salary-man, employee
+prizon
+-- n. prison
+-- v. imprison ###
+prizonör
+-- n. prisoner
 
 === places ===
 otèl · hotel
@@ -207,6 +251,17 @@ maži · magic
 golèm · golem
 zambi · zombie
 dragon · dragon
+posion · potion
+
+=== historical ===
+armor · armor
+klad · sword
+koron
+-- n. crown
+-- v. crown
+sklèv · slave
+sklèvör · one who owns or trades slaves
+totèm · totem
 
 === substance ===
 slèm · slime, goo, sludge
@@ -228,10 +283,14 @@ kras
 štok
 -- n. stick, branch
 -- n. handle, rod
+lin · n. line, string, cord, rope
 
 === house ===
 kav · basement
 somis · bed
+tapir
+-- n. carpet
+-- v. to cover with carpet
 
 === building ===
 pilar · pillar; support, foundation
@@ -239,8 +298,8 @@ simènt · cement (n. v.)
 zdal · slab
 
 === games ===
-éšèk · chess
 bal · ball
+éšèk · chess
 
 === time ===
 nat · day
