@@ -15,20 +15,21 @@ roz : pink
 === animals ===
 mus · mouse
 kat · cat
-
+pèsk · fish
 urs · bear
 luv · wolf
 gupil · fox
-
+rat · rat
 bok · goat
 bov · cow
 ékus · horse
 pors · pig
-
+pol · chicken
 otrüš · ostrich
 pantèr · panther
 léo · lion
 žiraf · giraffe
+mostik · mosquito
 
 === crops ===
 karot · carrot
@@ -43,12 +44,12 @@ sukar
 -- n. sugar
 -- adj. sweet
 -- v. sweeten @@@
-
 onjon · onion
 oranž · orange
 frut · fruit
 
 === food ===
+sup · soup, stew
 šokola · chocolate
 vodka · vodka
 krèm
