@@ -13,44 +13,48 @@ rod : red
 roz : pink
 
 === animals ===
-mus · mouse
-kat · cat
-pèsk · fish
-urs · bear
-luv · wolf
-gupil · fox
-rat · rat
-bok · goat
-bov · cow
-ékus · horse
-pors · pig
-pol · chicken
-otrüš · ostrich
-pantèr · panther
-léo · lion
-žiraf · giraffe
-mostik · mosquito
+bok : goat
+bov : cow
+ékus : horse
+gupil : fox
+kat : cat
+kleb : dog
+lapin : rabbit
+léo : lion
+luv : wolf
+mostik : mosquito
+mus : mouse
+oris : bird
+otrüš : ostrich
+pantèr : panther
+pèsk : fish
+pol : chicken
+pors : pig
+rat : rat
+urs : bear
+žiraf : giraffe
+
 
 === crops ===
-kafé · coffee
-karot · carrot
-mèlon · melon
-radis · radish
-ris · rice
-patat · potato
-té · tea
-tomat · tomato
-banan · banana
-nüs · nut
+kafé : coffee
+karot : carrot
+mèlon : melon
+radis : radish
+ris : rice
+patat : potato
+té : tea
+tomat : tomato
+banan : banana
+nüs : nut
 nüskèt · peanut
-soj · soy
+soj : soy
 sukar
 -- n. sugar
 -- adj. sweet
 -- v. sweeten @@@
-onjon · onion
-oranž · orange
-frut · fruit
+onjon : onion
+oranž : orange
+frut : fruit
 
 === food ===
 sup · soup, stew
