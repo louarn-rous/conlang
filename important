@@ -1,15 +1,24 @@
-é : [cnjc.] and
-
 ér : [det.] definite ('the')
 én : [det.] indefinite ('a'/'an')
 
 ža : [det.] interrogative ('what', 'which')
 
-dö : [prep.] ablative particle
+dö : [prep.] ablative particle ### alt: dé
    - from, of
    - authorship
-u : [prep.] at, in, near
+u : [prep.] at, in, near @@@
+
+im : [prep] in (contained by, within the bounds of, part of, into)
+-> imir : [v.] enter
+-> imira : [n.] entry, input
 ust : [prep.] out (outside of, away from, not in)
+-> ustir : [v.] exit
+- > ustira : [n.] exit, output
+
+ot : up, high, top (of)
+ös : down, low, bottom (of)
+od : on (top of) @@@
+öš : under @@@
 
 mér : [adv.] comparative ('more')
 mést : [adv.] superlative ('most')
@@ -24,10 +33,11 @@ is
 -- [n.] there
 -- [det] distal demonstrative ('that')
 
-ül : [adj.] before
-üla : [adj.] previous, anticedent
-ülna : [adj.] first, primordial
+ül : [adj.] (the) previous, anticedent 
+-> üla : [adj.] before
+-> ülna : [adj.] first, primordial
 
+é : [cnjc.] and
 mit : [cnjc.] with
 
 gèšt : [prep.] against
