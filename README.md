@@ -1,6 +1,6 @@
-# Ižtér
+# Ižter
 
-Ižtér (localized in English as 'Ijter') is a constructed language with no specific purpose.
+Ižter (localized in English as 'Ijter') is a constructed language with no specific purpose.
 
 ## Phonology
 
@@ -18,21 +18,20 @@ Ižtér (localized in English as 'Ijter') is a constructed language with no spec
 | --- |:---:|:---:|
 | Close | /i/ /y/ | /u/ |
 | Close-mid | /e/ /ø/ | /o/ |
-| Open-mid | /ɛ/ | |
 | Open | /a/ |  |
 
 ## Alphabet
-The Ižtér language has two scripts/alphabet: one Latin and one Cyrillic (similar to Serbian)
+The Ižter language has two scripts/alphabet: one Latin and one Cyrillic (similar to Serbian)
 
 | IPA | English | Latin | Cyrillic | Braille | IPA | English | Latin | Cyrillic | Braille |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | /a/ | a in 'hat' (California, Canada) | Aa | Аа | ⠁ | /m/ | m in 'may' |Mm | Мм | ⠍ |
 | /b/ | b in 'ball' | Bb | Бб | ⠃ | /n/ | n in 'nap' | Nn | Нн | ⠝ |
-| /v/ | v in 'vine' | Vv | Вв | ⠧ | /o/ | aw in 'yawn' (South Africa) | Oo | Оо | ⠕ |
+| /ʋ/ | between v in 'vine' and w in 'war' | Vv | Вв | ⠧ | /o/ | aw in 'yawn' (South Africa) | Oo | Оо | ⠕ |
 | /g/ | g in 'gum' | Gg | Гг | ⠛ | /ø/ | ir in 'bird' (Broad NZ) | Öö | Ӧӧ | ⠪ |
 | /d/ | d in 'dog' | Dd | Дд | ⠙ | /p/ | p in 'pen' | Pp | Пп | ⠏ |
-| /e/ | a in 'may' (Gen. Am.) | Éé | Ее | ⠜ | /ɾ/ | tt in 'better' (Aus, NZ, NAE) | Rr | Рр | ⠗ |
-| /ɛ/ | e in 'dress' | Èè | Ээ | ⠣ | /s/ | s in 'sing' | Ss | Сс | ⠎ |
+| /e/ | a in 'may' (Gen. Am.) | Ee | Ее | ⠑ | /ɾ/ | tt in 'better' (Aus, NZ, NAE) | Rr | Рр | ⠗ |
+| --- | --- | --- | --- | --- | /s/ | s in 'sing' | Ss | Сс | ⠎ |
 | /ʒ/ | s in 'pleasure' | Žž | Жж | ⠮ | /ʃ/ | sh in 'shy' | Šš | Шш | ⠱ |
 | /z/ | z in 'zoo' | Zz | Зз | ⠵ | /t/ | t in 'top' | Tt | Тт | ⠞ |
 | /i/ | ee in 'see' | Ii | Ии | ⠊ | /u/ | u in 'fruit' | Uu | Уу | ⠥ |
@@ -60,7 +59,7 @@ the braille alphabet is inspired by French, English, Czech and Scandinavian brai
 
 ### Personal
 
-| --- | Object case | Subject case | Possessive |
+| --- | Obj. case | Subj. case | Pos. |
 |:---:|:---:|:---:|:---:|
 | 1st person singular | Iž | Mö | Mön |
 | 1st person plural | Nö | Nö | Nös |
@@ -73,7 +72,7 @@ the braille alphabet is inspired by French, English, Czech and Scandinavian brai
 
 A unique feature of Ižtér is the possibility of combining a personal pronoun with a definite or indefinite determiner.
 
-| Ižtér | English | Literal translation |
+| Ižter | English | Literal translation |
 | --- | --- | --- |
-| mönèn _colleague_ | a colleague of mine | my-a(n) colleague |
-| sönèr _friends_ | those friends of theirs (singular) | their-the friends |
+| mönen _colleague_ | a colleague of mine | my-a(n) colleague |
+| söner _friends_ | those friends of theirs (singular) | their-the friends |
