@@ -4,7 +4,7 @@ kolor
 -- v. colour
 blo : blue
 brön : brown
-gèl : yellow
+gel : yellow
 griz : grey
 grön : green
 nor : black
@@ -15,38 +15,37 @@ roz : pink
 === animals ===
 bok : goat
 bov : cow
-ékus : horse
+ekus : horse
 gupil : fox
 kat : cat
 kleb : dog
 lapin : rabbit
-léo : lion
+leo : lion
 luv : wolf
 mostik : mosquito
 mus : mouse
 oris : bird
 otrüš : ostrich
-pantèr : panther
-pèsk : fish
+panter : panther
+pesk : fish
 pol : chicken
 pors : pig
 rat : rat
 urs : bear
 žiraf : giraffe
 
-
 === crops ===
-kafé : coffee
+kafe : coffee
 karot : carrot
-mèlon : melon
+melon : melon
 radis : radish
 ris : rice
 patat : potato
-té : tea
+te : tea
 tomat : tomato
 banan : banana
 nüs : nut
-nüskèt · peanut
+nüsket : peanut
 soj : soy
 sukar
 -- n. sugar
@@ -57,16 +56,16 @@ oranž : orange
 frut : fruit
 
 === food ===
-sup · soup, stew
-šokola · chocolate
-vodka · vodka
-krèm
+sup : soup, stew
+šokola : chocolate
+vodka : vodka
+krem
 -- n. cream
 -- v. to fill or cover with cream
-kébab
+kebab
 -- n. kebab
 -- v. to pierce with a sharp rod (informal)
-tart · tart
+tart : tart
 žus
 -- n. juice
 -- v. to make into juice
@@ -75,87 +74,87 @@ frit
 -- v. fry
 
 === plants & trees ===
-arb · tree
-bambu · bamboo
-burš · birch
-busk · bush
+arb : tree
+bambu : bamboo
+burš : birch
+busk : bush
 flor
 -- n. flower
 -- v. bloom, blossom, flower
-föl · leaf
-forès · forest
-hèrb · grass, herb
-kaktüs · cactus
-lilak · lilac
-solflor · sunflower
-tülip · tulip
+föl : leaf
+fores : forest
+herb : grass, herb
+kaktüs : cactus
+lilak : lilac
+solflor : sunflower
+tülip : tulip
 
 === natural phenomena ===
 kumul
 -- n. cloud
 -- v. cloud, obstruct, confuse
-miraž · mirage
-džangal · jungle
-biom · biome
-briz · breeze
-fèld · field
-vèlt · world
-vènt · wind
+miraž : mirage
+džangal : jungle
+biom : biome
+briz : breeze
+feld : field
+velt : world
+vent : wind
 stürm
 -- n. storm
 -- v. rush, attack, storm
 glav
 -- n. rain
 -- v. (of a liquid) rain
-šjèl
+šjel
 -- n. sky
 -- n. ceiling
-snèž
+snež
 -- n. snow
 -- v. (of a powder or snow-like substance) snow 
 
 === space ===
-lün · moon
-planèt · planet
+lün : moon
+planet : planet
 sol
 -- n. sun
 -- v. to expose to sunlight
 
 === marine ===
-haj · shark
-klunpèsk · clownfish
-koral · coral
-mar · sea
-oséan · ocean
-pèrl · pearl
+haj : shark
+klunpesk : clownfish
+koral : coral
+mar : sea
+osean : ocean
+perl : pearl
 
 === geological & mineral ===
-ardžènt · silver
-bronz · bronze
-diamant · diamond
-émrod · emerald
-fèr · iron
-granit · granite
-kav · cave
+ardžent : silver
+bronz : bronze
+diamant : diamond
+emrod : emerald
+fer : iron
+granit : granite
+kav : cave
 kristal
 -- n. crystal
 -- v. crystallize
-kvardz · quartz
-magma · magma
-métal · metal
+kvardz : quartz
+magma : magma
+metal : metal
 min
 -- n. mine, mineshaft
 -- v. mine (out)
 mont
 -- n. mountain
 -- v. to tower over, to dwarf
-or · gold
-ravin · ravine
-sèl
+or : gold
+ravin : ravine
+sel
 -- n. salt
 -- v. salt
-térakota · terracotta
-tünèl
+terakota : terracotta
+tünel
 -- n. tunnel
 -- v. (to make a) tunnel through
 
@@ -163,97 +162,97 @@ tünèl
 blüt
 -- n. blood
 -- v. bleed
-dènt · tooth
+dent : tooth
 kap
 -- n. head
 -- v. lead, direct
 kol
 -- n. neck
 -- n. collar
-léng · tongue
-lèp
+leng : tongue
+lep
 -- n. lip
--- v. to kiss (common)
+-- v. to kiss [informal]
 man
 -- n. hand
 -- v. handle, control, manage
-nas · nose
-os · mouth
-ost · bone
-öl · eye
-pil · hair
-rèš
+nas : nose
+os : mouth
+ost : bone
+öl : eye
+pil : hair
+reš
 -- n. flesh, meat
 -- v. shape, give form to
-séréb
+sereb
 -- n. brain
 -- v. to think of/find a solution to a problem (informal)
-skélét · skeleton
+skelet · skeleton
 
 === biology ===
 lön
 -- n. wool
 -- adj. woolen
-mèlk
+melk
 -- n. milk
 -- v. [usu. of an animal] milk
 -- v. exploit excessively
-ov · egg
+ov : egg
 
 === technology ===
-disk · disk, disc, record, CD, CD-ROM
-éskrèn
+disk : disk, disc, record, CD, CD-ROM
+eskren
 -- n. monitor, computer screen
 -- v. screen, display
-kasèt · cassette, cartridge
-miok · truck
-mus · computer mouse
-oto · car (common)
-otomobil · car (formal)
-pilül · pill, pastule
+kaset : cassette, cartridge
+miok : truck
+mus : computer mouse
+oto : car (common)
+otomobil : car (formal)
+pilül : pill, pastule
 piston
 -- n. piston
 -- v. to move in and out of or into, like a piston
 tram
 -- n. tram
 -- v. take the tram, commute by tram
-trèn
+tren
 -- n. train
 -- v. take the train, commute by train
 radio
 -- n. radio reciever or transmitter
 -- v. communicate with by radio
-raj · rail
+raj : rail
 
 === tools ===
-fals · sickle
+fals : sickle
 tamor
 -- n. hammer
 -- v. to strike with a hammer
 
 === music ===
-müzik · music
-saksofon · saxophone
-piano · piano
-not · note
+müzik : music
+saksofon : saxophone
+piano : piano
+not : note
 
 === society ===
-stat · n. state, government
-répüblik · n. republic
-partizan · n. partisan
+stat : state, government
+repüblik : republic
+partizan : partisan
 polis
 -- n. police, law enforcement
 -- v. police
 politik
 -- n. politics
 -- n. set of (political) beliefs of a person or organization, ideology
-gèr
+ger ###
 -- n. war
 -- v. to be at war or go to war with
-soldat · soldier
-žénéral · n. general
-salar · wage, salary
-salarör · salary-man, employee
+soldat : soldier
+ženeral : n. general
+salar : wage, salary
+-> salarör : salary-man, employee
 prizon
 -- n. prison
 -- v. imprison ###
@@ -261,39 +260,39 @@ prizonör
 -- n. prisoner
 
 === places ===
-otèl · hotel
+otel · hotel
 skol · school
-katédral · cathedral
+katedral · cathedral
 
 === clothes ===
 šos · shoe
 šömit · shirt
-kèp · cape
+kep · cape
 džin · jean
 
 === concepts ===
 kültür · culture
 
 === fantasy ===
-maži · magic
-golèm · golem
-zambi · zombie
-dragon · dragon
-posion · potion
+maži : magic
+golem : golem
+zambi : zombie
+dragon : dragon
+posion : potion
 
 === historical ===
-armor · armor
-klad · sword
+armor : armor
+klad : sword
 koron
 -- n. crown
 -- v. crown
-sklèv · slave
-sklèvör · one who owns or trades slaves
-totèm · totem
+sklev : slave
+-> sklevör · one who owns or trades slaves
+totem : totem
 
 === substance ===
-slèm · slime, goo, sludge
-pélüš · fluff, 
+slem : slime, goo, sludge
+pelüš : fluff, 
 pul
 -- n. powder, dust
 -- v. (adorn with) powder
@@ -312,33 +311,36 @@ kras
 štok
 -- n. stick, branch
 -- n. handle, rod
-lin · line, string, cord, rope
-bol · bowl
+lin : line, string, cord, rope
+bol : bowl
 
 === house ===
-kav · basement
-somis · bed
+kav : basement
+somis : bed
 tapir
 -- n. carpet
 -- v. to cover with carpet
 
 === building ===
-pilar · pillar; support, foundation
-simènt · cement (n. v.)
-zdal · slab
+pilar : pillar; support, foundation
+siment
+-- n. cement
+-- v. cement (in)
+zdal : slab
 
 === games ===
-bal · ball
-éšèk · chess
+bal : ball
+ešek : chess
 
 === time ===
-nat · day
-nošt · night
-minüt · minute
+nat : day
+taj : day [archaic]
+nošt : night
+minüt : minute
 
 === abstract ===
-idé · idea
-nivèl · level
+ide : idea
+nivel : level
 nam
 -- n. name
 -- v. to give/assign a name to
@@ -350,10 +352,10 @@ visina : n. view, perspective, observation
 spir : v. breathe
 spirina : n. breath
 
-lèg : v. select, choose, pick
-lègina : n. selection
+leg : v. select, choose, pick
+-> legina : n. selection
 lav : v. wash
-lavina : n. washing
-sèrš : v. search, seek
-sèršina : n. search
+-> lavina : n. washing
+serš : v. search, seek
+-> seršina : n. search
 
