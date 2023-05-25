@@ -1,5 +1,5 @@
-ér : [det.] definite ('the')
-én : [det.] indefinite ('a'/'an')
+er : [det.] definite ('the')
+en : [det.] indefinite ('a'/'an')
 
 ža : [det.] interrogative ('what', 'which')
 
@@ -24,11 +24,11 @@ ot : up, high, top (of)
 od : on (top of) @@@
 öš : under @@@
 
-mér : [adv.] comparative ('more')
-mést : [adv.] superlative ('most')
-lér : [adv.] diminutive comparative ('less')
-lést : [adv.] diminutive superlative ('least')
-té : [adv.] too, too much, too many
+mer : [adv.] comparative ('more')
+mest : [adv.] superlative ('most')
+ler : [adv.] diminutive comparative ('less')
+lest : [adv.] diminutive superlative ('least')
+te : [adv.] too, too much, too many
 
 is
 -- [n.] here
@@ -41,16 +41,18 @@ is
 -> üla : [adj.] before
 -> ülna : [adj.] first, primordial
 
-é : [cnjc.] and
+e : [cnjc.] and
 mit : [cnjc.] with
 
-gèšt : [prep.] against
+gešt : [prep.] against
 ob : [prep.] on, on top of
 
 sti : [prep. cnjc.] as if, like so, similar to
 stit : [adv.] thus, in this way or manner
 
-gèn : [cjnc.] when, during the time that, at the time of the action of the following clause
+mo : [cnjc.] also, both, as well, again
+
+gen : [cjnc.] when, during the time that, at the time of the action of the following clause
 si : [cnjc.] if, in the case/condition that, given/supposing/assuming that
 
 fas : [n.] front
