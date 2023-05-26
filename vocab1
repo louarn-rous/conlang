@@ -68,10 +68,14 @@ kebab
 tart : tart
 žus
 -- n. juice
--- v. to make into juice
+-- v. to make into juice ###
 frit
 -- n. fry
--- v. fry
+-- v. fry ###
+maskarpone : mascarpone
+makademia : macadamia
+formaž : cheese
+tšedar : Cheddar (cheese)
 
 === plants & trees ===
 arb : tree
@@ -198,6 +202,8 @@ melk
 -- v. [usu. of an animal] milk
 -- v. exploit excessively
 ov : egg
+zbas : wing
+sübas : wing (archaic)
 
 === technology ===
 disk : disk, disc, record, CD, CD-ROM
@@ -260,18 +266,25 @@ prizonör
 -- n. prisoner
 
 === places ===
-otel · hotel
-skol · school
-katedral · cathedral
+otel : hotel
+skol : school
+katedral : cathedral
 
 === clothes ===
-šos · shoe
-šömit · shirt
-kep · cape
-džin · jean
+šos : shoe
+šömit : shirt
+kep : cape
+džin : jean
 
 === concepts ===
-kültür · culture
+kültür : culture
+version : version
+sistem : system
+ide : idea
+nivel : level
+nam
+-- n. name
+-- v. to give/assign a name to
 
 === fantasy ===
 maži : magic
@@ -302,6 +315,7 @@ frus
 füm
 -- n. smoke
 -- v. produce smoke
+-> fümör : n. smoker ; n. appartus for smoking
 kras
 -- n. scum, dirt, grime
 -- v. make dirty
@@ -319,7 +333,13 @@ kav : basement
 somis : bed
 tapir
 -- n. carpet
--- v. to cover with carpet
+-- v. to cover with carpet ###
+mis 
+-- n. home, nest
+-- v. host
+štog
+-- n. trash, garbage, rubbish
+-- v. pollute
 
 === building ===
 pilar : pillar; support, foundation
@@ -338,35 +358,111 @@ taj : day [archaic]
 nošt : night
 minüt : minute
 
-=== abstract ===
-ide : idea
-nivel : level
-nam
--- n. name
--- v. to give/assign a name to
-
 === verbs ===
 es : be
 ev : have
 ten : hold
 sen : know
 ser : say, speak
+ir : go, move (oneself)
+
+müs : v. to have to (do something)
+düs : v. should
+baž : v. need, require
+-> bažina : n. need, requirement
+vür : v. want, wish
+-> vürina : n. want, wish
+
+manž : eat
+sül : drink
 som : sleep
+
+sit
+-- v. thirst
+-- n. thirst
+fam ##
+-- v. hunger
+-- n. hunger
+
+fatig
+-- n. tiredness
+-- v. to tire, make weary
+-- v. [passive] to tire, become weary
+
+
+güst
+-- v. taste
+-- n. taste ##
+
+rume :
+-- v. dream
+-- n. dream ##
 
 treš : throw
 tür : pull
 
-löv : stand, rise
 
+
+
+
+nos
+-- v. give birth to
+-- v. [passive] be born
+viv
+-- n. life
+-- v. live
+-- adj. alive
+mur
+-- n. death, end
+-- n. dead (person)
+-- v. die, end
+
+fil
+-- like, appreciate
+léd
+-- v. love
+-- n. love
+
+don : v. give, deal
+-> donina : n. donation
+ged
+-- v. get, gain, obtain
+-- v. take, steal
+
+tüš : touch, reach, attain
+
+las
+-- v. leave, depart
+-> lasina : n. departure
+-- v. leave behind, let (go of)
+perd
+-- n. loss, waste
+-- v. lose, waste
+
+
+salv : v. save
+-> salvör : n. saviour
+
+
+mét : set, change, assign, put
+
+kal : fit, match, correspond
+
+löv : v. stand, rise
+-> lövina : n. stand, rising outrage
 vis : v. see, perceive, view, look
 -> visina : n. view, perspective, observation
 spir : v. breathe
 -> spirina : n. breath
-
+vitš : v. win
+-> vitšina : n. victory
 leg : v. select, choose, pick
 -> legina : n. selection
 lav : v. wash
 -> lavina : n. washing
 serš : v. search, seek
 -> seršina : n. search
-
+profit : v. profit
+-> profitina : n. profit
+regül : v. regulate
+-> regülina : n. regulation
