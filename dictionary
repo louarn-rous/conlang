@@ -11,17 +11,15 @@ brik;n. brick, ingot, brick-shaped item;v. [computing] (of a dev) to become non-
 
 sken : [v.] climb, scale
 dants : [v.] dance
-kal : [v.] fit, match
+
 fis : [adj.] definite, stable, certain
-zbas : [n.] wing
-sübas : [n.] wing (archaic)
+
 gove : [n.] voice, (manner of) speech
 
-maskarpone : [n.] mascarpone
-makademia : [n.] macadamia
-formaž : [n.] cheese
-tšedar : [n.] Cheddar (cheese)
-rume : [n.] [v.] dream
+
+
+
+
 penal
 -- n. penalty
 -- v. penalize
@@ -33,33 +31,29 @@ dar
 dus
 -- adj. soft
 -- v. soften ###
+gul
+-- adj. wet
+-- v. wet ###
+sèk
+-- adj. dry
+-- v. dry ###
 
 ful
--- v. fill
 -- adj. full
+-- v. fill ##
 vid
--- v. empty
 -- adj. empty
--- n. void, emptiness
-
-géd;v. take, get, gain, obtain;v. steal
-don;v. give, deal
-pèrd;n. loss, waste;v. lose, waste
-
+-- v. empty ###
+-- n. void, emptiness ##
 frid
 -- adj. cold
--- v. cool, chill
--- n. cold
+-- v. cool, chill ###
+-- n. cold ##
 hoš
 -- adj. hot
--- v. heat (up)
--- n. heat
-gul
--- v. wet
--- adj. wet
-sèk
--- v. dry
--- adj. dry
+-- v. heat (up) ###
+-- n. heat ##
+
 
 
 déplas;v. displace
@@ -68,8 +62,7 @@ dös;n. god, deity
 égal;n. equal;v. equal
 égzam;n. examination, test;v. inspect, examine
 fal;n. v. fall;n. v. drop, decrease
-fatig;n. tiredness;v. make weary, tired
-fam;n. v. hunger
+
 fiènd;n. enemy;adj. hostile
 
 fin;n. end;v. complete, finish
@@ -80,7 +73,7 @@ föl;n. feather;n. leaflet, strip of paper
 frut;n. product, result of
 furn;n. oven, furnace;v. to bake
 fül;v. n. flow
-fümör;n. smoker;n. appartus for smoking ingredients
+
 
 
 glas;n. ice;v. freeze
@@ -88,11 +81,13 @@ grafit;n. v. graffiti, scribble
 
 
 
-güst;n. v. taste
+
 invèrs;n. v. adj. inverse
 
 jot;v. n. jump
-jus;adv. just, only, simply, merely
+
+
+
 kamarad;n. comrade, mate;n. (school) fellow student, classmate
 kanton;v. canton [vexillology]
 kapitèn;n. capitain
@@ -106,13 +101,13 @@ kol;v. stick, adhere;n. glue, adhesive @@@
 kompost;n. compost
 
 kovér;v. cover
+
 kratèr;n. crater
 küb;n. cube;n. [mathematics] third power of a number or term;v. [mathematics] multiply a number by itself twice
 lant;n. land;v. make contact/arrive at land surface from air or sea
-las;v. leave, depart;v. leave behind
 
-fil;v. like, appreciate
-léd;n. v. love
+
+
 
 lémur;n. ghost, spirit of the dead;n. lemur (lemur catta)
 
@@ -122,77 +117,111 @@ lèk;n. lick ??
 
 libèr;n. freedom;v. adj. free
 limit;n. v. limit
-lis;adj. smooth;v. smoothen
+
+lis
+-- adj. smooth
+-- v. smoothen ###
+plat
+-- adj. flat
+-- v. flatten ###
+
 list;n. v. list
 lozanž;n. rhombus, lozange;n. pill or tablet, esp. one shaped like a rhombus
-lös;adj. single, lone, only;v. single out
+
 lüd;v. play
 lüdo;n. game
 lüdör;n. player
-lüm;n. light;v. cast light onto
+
+lüm
+-- n. light
+-- v. cast light onto ##
+
 mésaž;n. v. message
-mét;v. set, change, assign, put
 
 
-mis;n. home, nest;v. host
+
+
 mistèr;n. mystery
 
 mitèl;n. adj. middle
 
-métod;n. method
-léš;n. way, manner, path
+leš;n. way, path, method
 mod;n. way, manner;v. [composite suffix] to play the role of, be
 
 
 modif;v. modify, change, edit
 mord;n. v. murder
 motš;adj. nice, pleasant
-mur;n. death, end;n. dead (person);v. die, end
 
-müs;v. to have to (do something)
-düs;v. should
-baž;n. need, requirement;v. need, require
-vür;n. v. want, wish
+
+
 
 nèkt;v. attach, bind
 
-nos;n. v. birth;v. be born
+
 not;n. brief record, usually written;n. score, mark or grade
-nov;adj. new
-nöl;n. adj. zero, none, nought, null
+
+
+
+
 nüdit;adj. naked, nude;v. to strip of protection or clothing
-nümèr;n. number;v. to assign a number;n. number of, count
+
+
+nümer
+-- n. number
+-- v. to assign a number ##
+-- n. number of, count
+nöl
+-- num. 0 (zero)
+-- adj. none, null, nought
+ün : num. 1 (one)
+-> ünit : v. unite, unify
 
 
 
-pèrmit;v. adj. allow, permit
-probit;v. prohibit, disallow
+pèrmit : v. allow, permit
+-> adj.
+probit : v. prohibit, disallow
+-> adj.
 
 pèst;n. plague;n. annoyance;v. plague, pester, annoy;v. spread plague amongst
 
 plas;n. v. place
-plat;adj. flat;v. flatten
+réplas;v. replace
+
+
+
 plod;n. v. burst, blow
 popül;n. people (collective);v. populate
 
-profit;n. v. profit
 
-püli;adj. multiple, plural
 
-régül;v. regulate
-réplas;v. replace
 
 rož;n. rock, stone;adj. made of or relating to rock or stone ###
 stèn;n. adj. stone, rock ###
 
-salvör;n. saviour
+
 sésion;n. session
-sèrvör;n. waiter;n. servant;n. computer server
+
+sèrv : v. serve
+-> sèrvör : n. waiter ; servant ; [computing] server
 
 
-siléns;n. silence;adj. silent
-sistèm;n. system
-sit;n. v. thirst
+silens
+-- v. silence
+-- n. silence
+-- adj. silent
+
+
+
+dants
+-- v. dance
+-- n. dance ##
+
+net
+-- adj. clean 
+-- v. clean ###
+
 
 stasion;n. station;v. station at, occupy
 
@@ -200,31 +229,45 @@ stasion;n. station;v. station at, occupy
 süt;n. v. sweat;n. residue
 šarž;v. charge, load;n. charge
 
-lon : adj. long
-škort : adj. short
-tis : adj. small
+škort : [adj.] short
+lon : [adj.] long
+tis : [adj.] small
+nov : [adj.] new
+püli : [adj.] multiple, plural
+lös
+-- [adj.] single, lone, only
+-- v. single out ##
 
 štüt;n. v. support
 
 tèr;n. earth, ground, dirt;v. (of electrical equipment) connect to the ground;v. (of aircraft) prevent from flying
 
 tortür;n. v. torture
-töl;n. tile, pane, plate, square, panel;v. to cover with tiles
-troš;v. slice, cut;n. cut, incision
-tröb;n. v. work, labour
+
+töl
+-- n. tile, pane, plate, square, panel
+-- v. to cover with tiles ##
+
+troš
+-- v. slice, cut
+-- n. cut, incision
+tröb
+-- v. work, labour
+-- n. work, labour
+
 tšans;n. chance, luck
-tüš;v. touch, reach, attain
 
 
 
-ün;num. 1 (one)
+
+
 
 vèn;n. vein
 vèr;n. adj. glass;n. a vessel, especially one made of glass or transparent plastic, from which one drinks;v. to turn into glass
-vèrsion;n. version
+
 
 vilaž;n. village
-viv;n. life;v. live;adj. alive
+
 vizit;v. visit
 votš;n. voice;v. express, voice
 
