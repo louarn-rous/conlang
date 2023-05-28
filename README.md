@@ -23,21 +23,21 @@ Ižter (localized in English as 'Ijter') is a constructed language with no speci
 ## Alphabet
 The Ižter language has two scripts/alphabet: one Latin and one Cyrillic (similar to Serbian)
 
-| IPA | English | Latin | Cyrillic | Braille | IPA | English | Latin | Cyrillic | Braille |
+| IPA | English                         | Latin | Cyrillic | Braille | IPA | English | Latin | Cyrillic | Braille |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| /a/ | a in 'hat' (California, Canada) | Aa | Аа | ⠁ | /m/   | m in 'may'                    | Mm | Мм | ⠍ |
+| /a/ | a in 'hat' (Cali, Canada)       | Aa | Аа | ⠁ | /m/   | m in 'may'                    | Mm | Мм | ⠍ |
 | /b/ | b in 'ball'                     | Bb | Бб | ⠃ | /n/   | n in 'nap'                    | Nn | Нн | ⠝ |
 | /v/ | v in 'vine'                     | Vv | Вв | ⠧ | /o/   | aw in 'yawn' (South Africa)   | Oo | Оо | ⠕ |
 | /g/ | g in 'gum'                      | Gg | Гг | ⠛ | /ø/   | ir in 'bird' (Broad NZ)       | Öö | Ӧӧ | ⠪ |
 | /d/ | d in 'dog'                      | Dd | Дд | ⠙ | /p/   | p in 'pen'                    | Pp | Пп | ⠏ |
-| /e/ | a in 'may' (Gen. Am.)           | Ee | Ее | ⠑ | /ɾ~r/ | tt in 'better' (Aus, NZ, NAE) | Rr | Рр | ⠗ |
-| --- | --- | --- | --- | --- | /s/ | s in 'sing' | Ss | Сс | ⠎ |
-| /ʒ/ | s in 'pleasure' | Žž | Жж | ⠮ | /ʃ/ | sh in 'shy'       | Šš | Шш | ⠱ |
-| /z/ | z in 'zoo'      | Zz | Зз | ⠵ | /t/ | t in 'top'        | Tt | Тт | ⠞ |
-| /i/ | ee in 'see'     | Ii | Ии | ⠊ | /u/ | u in 'fruit'      | Uu | Уу | ⠥ |
-| /j/ | y in 'yes'      | Jj | Јј | ⠚ | /y/ | ü in über (German) | Üü | Ӱӱ | ⠽ |
-| /k/ | k in 'sky'      | Kk | Кк | ⠅ | /f/ | f in 'fruit'      | Ff | Фф | ⠋ |
-| /l/ | l in 'line'     | Ll | Лл | ⠇ | /h/ | h in 'home'       | Hh | Һһ | ⠓ |
+| /e/ | a in 'may' (Gen. Am.)           | Ee | Ее | ⠑ | /ɾ~r/ | tt in 'better' (Aus, NAE) | Rr | Рр | ⠗ |
+| --- | ---                             | --- | --- | --- | /s/ | s in 'sing'                 | Ss | Сс | ⠎ |
+| /ʒ/ | s in 'pleasure' | Žž | Жж | ⠮ | /ʃ/ | sh in 'shy'         | Šš | Шш | ⠱ |
+| /z/ | z in 'zoo'      | Zz | Зз | ⠵ | /t/ | t in 'top'          | Tt | Тт | ⠞ |
+| /i/ | ee in 'see'     | Ii | Ии | ⠊ | /u/ | u in 'fruit'        | Uu | Уу | ⠥ |
+| /j/ | y in 'yes'      | Jj | Јј | ⠚ | /y/ | ü in über (German)  | Üü | Ӱӱ | ⠽ |
+| /k/ | k in 'sky'      | Kk | Кк | ⠅ | /f/ | f in 'fruit'        | Ff | Фф | ⠋ |
+| /l/ | l in 'line'     | Ll | Лл | ⠇ | /h/ | h in 'home'         | Hh | Һһ | ⠓ |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | /ts/ | ---            | Ts ts | --- | ---         | /dz/ | ---             | Dz dz | --- | --- |
 | /tʃ/ | ch in 'choose' | Tš tš | --- | ---         | /dʒ/ | j in 'jump'     | Dž dž | --- | --- |
