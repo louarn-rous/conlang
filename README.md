@@ -6,42 +6,44 @@ Ižter (localized in English as 'Ijter') is a constructed language with no speci
 
 | Consonants | Labial | Alveolar | Post-Alveolar | Palatal | Velar | Glottal |
 | --- |:---:|:---:|:---:|:---:|:---:|:---:|
-| Nasal | /m/ | /n/ | --- | /ɲ/ | --- | --- |
-| Plosive | /p/ /b/ | /t/ /d/ | --- | --- | /k/ /ɡ/ | --- |
-| Affricate | --- | /ts/ /dz/ | /tʃ/ /dʒ/ | --- | --- | --- |
-| Fricative | /f/ /v/ | /s/ /z/ | /ʃ/ /ʒ/ | --- | --- | /h/ |
-| Approximant | --- | --- | --- | /j/ | --- | --- |
-| Tap/Flap | --- | /ɾ/ | --- | --- | --- | --- |
-| Lat. Approximant | --- | /l/ | --- | /ʎ/ | --- | --- |
+| Nasal       | /m/     | /n/       | ---       | /ɲ/ | ---     | --- |
+| Plosive     | /p/ /b/ | /t/ /d/   | ---       | --- | /k/ /ɡ/ | --- |
+| Affricate   | ---     | /ts/ /dz/ | /tʃ/ /dʒ/ | --- | ---     | --- |
+| Fricative   | /f/ /v/ | /s/ /z/   | /ʃ/ /ʒ/   | --- | ---     | /h/ |
+| Approximant | ---     | ---       | ---       | /j/ | ---     | --- |
+| Tap/Flap        | --- | /ɾ/       | ---       | --- | ---     | --- |
+| Lat. Approximant | --- | /l/      | ---       | /ʎ/ | ---     | --- |
 
-| Vowels | Front | Back |
-| --- |:---:|:---:|
-| Close | /i/ /y/ | /u/ |
+| Vowels    | Front   | Back |
+| ---       |:---:    |:---:|
+| Close     | /i/ /y/ | /u/ |
 | Close-mid | /e/ /ø/ | /o/ |
-| Open | /a/ |  |
+| Open      | /a/     |     |
 
 ## Alphabet
 The Ižter language has two scripts/alphabet: one Latin and one Cyrillic (similar to Serbian)
 
 | IPA | English | Latin | Cyrillic | Braille | IPA | English | Latin | Cyrillic | Braille |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| /a/ | a in 'hat' (California, Canada) | Aa | Аа | ⠁ | /m/ | m in 'may' |Mm | Мм | ⠍ |
-| /b/ | b in 'ball' | Bb | Бб | ⠃ | /n/ | n in 'nap' | Nn | Нн | ⠝ |
-| /v/ | v in 'vine' | Vv | Вв | ⠧ | /o/ | aw in 'yawn' (South Africa) | Oo | Оо | ⠕ |
-| /g/ | g in 'gum' | Gg | Гг | ⠛ | /ø/ | ir in 'bird' (Broad NZ) | Öö | Ӧӧ | ⠪ |
-| /d/ | d in 'dog' | Dd | Дд | ⠙ | /p/ | p in 'pen' | Pp | Пп | ⠏ |
-| /e/ | a in 'may' (Gen. Am.) | Ee | Ее | ⠑ | /ɾ~r/ | tt in 'better' (Aus, NZ, NAE) | Rr | Рр | ⠗ |
+| /a/ | a in 'hat' (California, Canada) | Aa | Аа | ⠁ | /m/   | m in 'may'                    | Mm | Мм | ⠍ |
+| /b/ | b in 'ball'                     | Bb | Бб | ⠃ | /n/   | n in 'nap'                    | Nn | Нн | ⠝ |
+| /v/ | v in 'vine'                     | Vv | Вв | ⠧ | /o/   | aw in 'yawn' (South Africa)   | Oo | Оо | ⠕ |
+| /g/ | g in 'gum'                      | Gg | Гг | ⠛ | /ø/   | ir in 'bird' (Broad NZ)       | Öö | Ӧӧ | ⠪ |
+| /d/ | d in 'dog'                      | Dd | Дд | ⠙ | /p/   | p in 'pen'                    | Pp | Пп | ⠏ |
+| /e/ | a in 'may' (Gen. Am.)           | Ee | Ее | ⠑ | /ɾ~r/ | tt in 'better' (Aus, NZ, NAE) | Rr | Рр | ⠗ |
 | --- | --- | --- | --- | --- | /s/ | s in 'sing' | Ss | Сс | ⠎ |
-| /ʒ/ | s in 'pleasure' | Žž | Жж | ⠮ | /ʃ/ | sh in 'shy' | Šš | Шш | ⠱ |
-| /z/ | z in 'zoo' | Zz | Зз | ⠵ | /t/ | t in 'top' | Tt | Тт | ⠞ |
-| /i/ | ee in 'see' | Ii | Ии | ⠊ | /u/ | u in 'fruit' | Uu | Уу | ⠥ |
-| /j/ | y in 'yes' | Jj | Јј | ⠚ | /y/ | ü in über (German) | Üü | Ӱӱ | ⠽ |
-| /k/ | k in 'sky' | Kk | Кк | ⠅ | /f/ | f in 'fruit' | Ff | Фф | ⠋ |
-| /l/ | l in 'line' | Ll | Лл | ⠇ | /h/ | h in 'home' | Hh | Һһ | ⠓ |
+| /ʒ/ | s in 'pleasure' | Žž | Жж | ⠮ | /ʃ/ | sh in 'shy'       | Šš | Шш | ⠱ |
+| /z/ | z in 'zoo'      | Zz | Зз | ⠵ | /t/ | t in 'top'        | Tt | Тт | ⠞ |
+| /i/ | ee in 'see'     | Ii | Ии | ⠊ | /u/ | u in 'fruit'      | Uu | Уу | ⠥ |
+| /j/ | y in 'yes'      | Jj | Јј | ⠚ | /y/ | ü in über (German) | Üü | Ӱӱ | ⠽ |
+| /k/ | k in 'sky'      | Kk | Кк | ⠅ | /f/ | f in 'fruit'      | Ff | Фф | ⠋ |
+| /l/ | l in 'line'     | Ll | Лл | ⠇ | /h/ | h in 'home'       | Hh | Һһ | ⠓ |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| /ɲ/ | --- | Nj nj | Њњ | --- | /ʎ/ | ll in 'million' | Lj lj | Љљ | --- |
-| /kʲ/ | --- | Kj kj | --- | --- | /gʲ/ | --- | Gj gj | --- | --- |
-| /kʷ/ | --- | Kv kv | --- | --- | /gʷ/ | --- | Gv gv | --- | --- |
+| /ts/ | --- | Ts ts | ---            | --- | /dz/ | ---             | Dz dz | --- | --- |
+| /tʃ/ | --- | Tš tš | ch in 'choose' | --- | /dʒ/ | j in 'jump'     | Dž dž | --- | --- |
+| /ɲ/  | --- | Nj nj | Њ њ            | --- | /ʎ/  | ll in 'million' | Lj lj | Љ љ | --- |
+| /kʲ/ | --- | Kj kj | ---            | --- | /gʲ/ | ---             | Gj gj | --- | --- |
+| /kʷ/ | --- | Kv kv | ---            | --- | /gʷ/ | ---             | Gv gv | --- | --- |
 
 the braille alphabet is inspired by French, English, Czech and Scandinavian braille.
 
