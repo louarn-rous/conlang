@@ -71,9 +71,13 @@ the braille alphabet is inspired by French, English, Czech and Scandinavian brai
 | 3rd person neuter singular | So | So | Son |
 | 3rd person plural | Zö | Zö | Zön |
 
-A unique feature of Ižtér is the possibility of combining a personal pronoun with a definite or indefinite determiner.
+A unique feature of Ižter is the possibility of combining a personal pronoun with a definite or indefinite determiner.
 
 | Ižter | English | Literal translation |
 | --- | --- | --- |
 | mönen _colleague_ | a colleague of mine | my-a(n) colleague |
 | söner _friends_ | those friends of theirs (singular) | their-the friends |
+
+## Grammar
+
+Ižter utilises Subject-Verb-Object word order.
