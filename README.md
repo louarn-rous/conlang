@@ -27,10 +27,10 @@ The Ižter language has two scripts/alphabet: one Latin and one Cyrillic (simila
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | /a/ | a in 'hat' (California, Canada) | Aa | Аа | ⠁ | /m/ | m in 'may' |Mm | Мм | ⠍ |
 | /b/ | b in 'ball' | Bb | Бб | ⠃ | /n/ | n in 'nap' | Nn | Нн | ⠝ |
-| /ʋ/ | between v in 'vine' and w in 'war' | Vv | Вв | ⠧ | /o/ | aw in 'yawn' (South Africa) | Oo | Оо | ⠕ |
+| /v/ | v in 'vine' | Vv | Вв | ⠧ | /o/ | aw in 'yawn' (South Africa) | Oo | Оо | ⠕ |
 | /g/ | g in 'gum' | Gg | Гг | ⠛ | /ø/ | ir in 'bird' (Broad NZ) | Öö | Ӧӧ | ⠪ |
 | /d/ | d in 'dog' | Dd | Дд | ⠙ | /p/ | p in 'pen' | Pp | Пп | ⠏ |
-| /e/ | a in 'may' (Gen. Am.) | Ee | Ее | ⠑ | /ɾ/ | tt in 'better' (Aus, NZ, NAE) | Rr | Рр | ⠗ |
+| /e/ | a in 'may' (Gen. Am.) | Ee | Ее | ⠑ | /ɾ~r/ | tt in 'better' (Aus, NZ, NAE) | Rr | Рр | ⠗ |
 | --- | --- | --- | --- | --- | /s/ | s in 'sing' | Ss | Сс | ⠎ |
 | /ʒ/ | s in 'pleasure' | Žž | Жж | ⠮ | /ʃ/ | sh in 'shy' | Šš | Шш | ⠱ |
 | /z/ | z in 'zoo' | Zz | Зз | ⠵ | /t/ | t in 'top' | Tt | Тт | ⠞ |
@@ -41,6 +41,7 @@ The Ižter language has two scripts/alphabet: one Latin and one Cyrillic (simila
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | /ɲ/ | --- | Nj nj | Њњ | --- | /ʎ/ | ll in 'million' | Lj lj | Љљ | --- |
 | /kʲ/ | --- | Kj kj | --- | --- | /gʲ/ | --- | Gj gj | --- | --- |
+| /kʷ/ | --- | Kv kv | --- | --- | /gʷ/ | --- | Gv gv | --- | --- |
 
 the braille alphabet is inspired by French, English, Czech and Scandinavian braille.
 
@@ -64,7 +65,7 @@ the braille alphabet is inspired by French, English, Czech and Scandinavian brai
 | 1st person singular | Iž | Mö | Mön |
 | 1st person plural | Nö | Nö | Nös |
 | 2nd person singular | Tö | Tö | Tön |
-| 2nd person plural | Vö | Vö | Vön |
+| 2nd person plural | Vö | Vö | Vös |
 | 3rd person neuter singular | Sö | Sö | Sön |
 | 3rd person feminine singular | Sa | Sa | San |
 | 3rd person neuter singular | So | So | Son |
