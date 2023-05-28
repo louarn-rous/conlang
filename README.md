@@ -9,8 +9,8 @@ Ižter (localized in English as 'Ijter') is a constructed language with no speci
 | Nasal | /m/ | /n/ | --- | /ɲ/ | --- | --- |
 | Plosive | /p/ /b/ | /t/ /d/ | --- | --- | /k/ /ɡ/ | --- |
 | Affricate | --- | /ts/ /dz/ | /tʃ/ /dʒ/ | --- | --- | --- |
-| Fricative | /f/ | /s/ /z/ | /ʃ/ /ʒ/ | --- | --- | /h/ |
-| Approximant | /ʋ/ | --- | --- | /j/ | --- | --- |
+| Fricative | /f/ /v/ | /s/ /z/ | /ʃ/ /ʒ/ | --- | --- | /h/ |
+| Approximant | --- | --- | --- | /j/ | --- | --- |
 | Tap/Flap | --- | /ɾ/ | --- | --- | --- | --- |
 | Lat. Approximant | --- | /l/ | --- | /ʎ/ | --- | --- |
 
