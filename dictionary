@@ -1,13 +1,24 @@
-alfabèt;n. alphabet
-altér;adj. n. other
-arm;n. weapon;v. bear or equip weapons;v. prime, charge with ammunition
-až;n. age;v. age, grow older
-baés;v. bite;v. [informal] kid, fool around
-banèr;n. banner
-bild;v. build
-bit;n. beet;n. [computing] binary digit
-bonüs;n. adj. bonus
-brik;n. brick, ingot, brick-shaped item;v. [computing] (of a dev) to become non-functional
+alfabèt : n. alphabet
+altér : adj. n. other
+arm 
+-- n. weapon
+-- v. bear or equip weapons
+-- v. prime, charge with ammunition
+až
+-- n. age
+-- v. age, grow older
+baes
+-- v. bite
+-- v. [informal] kid, fool around
+banèr : n. banner
+bild : v. build
+bit
+-- n. beet
+-- n. [computing] binary digit
+bonüs : n. adj. bonus
+brik
+-- n. brick, ingot, brick-shaped item
+-- v. [computing] (of a dev) to become non-functional
 
 ven : [v.] come
 
@@ -15,6 +26,7 @@ sken : [v.] climb, scale
 dants : [v.] dance
 
 fis : [adj.] definite, stable, certain
+
 
 gove : [n.] voice, (manner of) speech
 
@@ -27,6 +39,8 @@ penal
 -- n. penalty
 -- v. penalize
 
+
+frel : [adj.] weak, fragile
 
 dar
 -- adj. hard
@@ -91,9 +105,11 @@ jot;v. n. jump
 
 
 
-kamarad;n. comrade, mate;n. (school) fellow student, classmate
-kanton;v. canton [vexillology]
-kapitèn;n. capitain
+kamarad
+-- n. comrade, mate
+-- n. (school) fellow student, classmate
+kanton : v. canton [vexillology]
+kapitèn : n. capitain
 kažn. cage;v. to put in a cage
 kél;n. key
 kémiš;n. chemistry (academic field);n. chemical substance
