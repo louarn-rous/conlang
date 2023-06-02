@@ -318,6 +318,7 @@ koron
 sklev : slave
 -> sklevör · one who owns or trades slaves
 totem : totem
+rei : king
 
 === substance ===
 slem : slime, goo, sludge
@@ -332,10 +333,6 @@ füm
 -- n. smoke
 -- v. produce smoke
 -> fümör : n. smoker ; n. appartus for smoking
-kras
--- n. scum, dirt, grime
--- v. make dirty
--- adj. dirty
 
 === form ===
 štok
@@ -436,17 +433,17 @@ mur
 
 fil
 -- like, appreciate
-léd
+led
 -- v. love
 -- n. love
 
-don : v. give, deal
+don : give, deal
 -> donina : n. donation
 ged
 -- v. get, gain, obtain
 -- v. take, steal
 
-tüš : touch, reach, attain
+tüš : [intrans.] touch, reach, attain
 
 las
 -- v. leave, depart
@@ -454,9 +451,10 @@ las
 -- v. leave behind, let (go of)
 perd
 -- n. loss, waste
--- v. lose, waste
+-- v. lose
+-- v. waste
 
-serv : vserve
+serv : serve
 -> servör : n. waiter ; servant ; [computing] server
 
 permit : v. allow, permit
@@ -464,14 +462,52 @@ permit : v. allow, permit
 probit : v. prohibit, disallow
 -> adj.
 
+sken : climb, scale
+
 salv : v. save
 -> salvör : n. saviour
+
+ven : [intrans.] come
+dants
+-- v. [intrans.] dance
+-- n. dance
 
 bras : ferment, brew
 
 mét : set, change, assign, put
 
 kal : fit, match, correspond
+
+konsol : v. console
+
+töl
+-- n. tile, pane, plate, square, panel
+-- v. to cover with tiles ##
+
+limit
+-- v. limit
+-- n. limit
+list
+-- v. list
+-- n. list
+troš
+-- v. slice, cut
+-- n. cut, incision
+tröb
+-- v. work, labour
+-- n. work, labour
+štüt
+-- v. support
+-- n. support
+tortür
+-- v. torture
+-- n. torture
+mord
+-- v. murder
+-- n. murder
+šarž
+-- v. charge, load
+-- n. charge
 
 löv : v. stand, rise
 -> lövina : n. stand, rising outrage
