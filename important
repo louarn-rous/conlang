@@ -2,13 +2,13 @@ er : [det.] definite ('the')
 en : [det.] indefinite ('a'/'an')
 
 ža : [det.] interrogative ('what', 'which')
+ödža : [det.] why
 
 dö : [prep.] ablative particle ### alt: dé
    - from, of
    - authorship
 öd : [prep.] allative particle
    - to, for
-
 
 u : [prep.] at, in, near, of
 
@@ -18,6 +18,10 @@ im : [prep] in (contained by, within the bounds of, part of, into)
 ust : [prep.] out (outside of, away from, not in)
 -> ustir : [v.] exit
 - > ustira : [n.] exit, output
+
+mitel :
+-- n. middle, centre
+-- adj. middle, central
 
 ot : up, high, top (of)
 ös : down, low, bottom (of)
@@ -58,12 +62,30 @@ stit : [adv.] thus, in this way or manner
 
 mo : [cnjc.] also, both, as well, again
 
+alter : adj. n. other
 
 gen : [cjnc.] when, during the time that, at the time of the action of the following clause
 si : [cnjc.] if, in the case/condition that, given/supposing/assuming that
 
 fas : [n.] front
 dos : [n.] back
+
+škort : [adj.] short
+lon : [adj.] long
+nov : [adj.] new
+ou : [adj.] old
+lis : [adj.] smooth
+plat : [adj.] flat
+dar : [adj.] hard
+dus : [adj.] soft
+gul : [adj.] wet
+sek : [adj.] dry
+net : [adj.] clean
+kras
+-- [adj.] dirty
+-- [n.] scum, dirt, grime
+
+tis : [adj.] small
 
 nord
 -- [n.] north
