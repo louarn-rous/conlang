@@ -51,7 +51,7 @@ dus
 gul
 -- adj. wet
 -- v. wet ###
-sèk
+sek
 -- adj. dry
 -- v. dry ###
 
@@ -78,11 +78,13 @@ donèt;n. data
 dös;n. god, deity
 égal;n. equal;v. equal
 égzam;n. examination, test;v. inspect, examine
+
 fal;n. v. fall;n. v. drop, decrease
 
 fiènd;n. enemy;adj. hostile
 
 fin;n. end;v. complete, finish
+
 flot;v. float;n. fleet
 fob;n. v. fear
 fors;n. v. force
@@ -162,12 +164,10 @@ mésaž;n. v. message
 
 mistèr;n. mystery
 
-mitèl;n. adj. middle
 
-leš;n. way, path, method
 mod;n. way, manner;v. [composite suffix] to play the role of, be
 
-bras : [v.] ferment, brew
+
 
 modif;v. modify, change, edit
 
@@ -202,10 +202,7 @@ nöl
 
 
 
-pèrmit : v. allow, permit
--> adj.
-probit : v. prohibit, disallow
--> adj.
+
 
 pèst;n. plague;n. annoyance;v. plague, pester, annoy;v. spread plague amongst
 
@@ -226,8 +223,7 @@ stèn;n. adj. stone, rock ###
 
 sésion;n. session
 
-sèrv : v. serve
--> sèrvör : n. waiter ; servant ; [computing] server
+
 
 
 silens
@@ -249,20 +245,12 @@ net
 stasion;n. station;v. station at, occupy
 
 
-süt
--- v. sweat
--- n. sweat
--- n. residue
 
 šarž
 -- v. charge, load
 -- n. charge
 
-škort : [adj.] short
-lon : [adj.] long
-tis : [adj.] small
-nov : [adj.] new
-ou : [adj.] old
+
 
 püli : [adj.] multiple, plural
 lös
