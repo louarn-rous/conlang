@@ -245,23 +245,37 @@ net
 stasion;n. station;v. station at, occupy
 
 
-süt;n. v. sweat;n. residue
-šarž;v. charge, load;n. charge
+süt
+-- v. sweat
+-- n. sweat
+-- n. residue
+
+šarž
+-- v. charge, load
+-- n. charge
 
 škort : [adj.] short
 lon : [adj.] long
 tis : [adj.] small
 nov : [adj.] new
+ou : [adj.] old
+
 püli : [adj.] multiple, plural
 lös
 -- [adj.] single, lone, only
 -- v. single out ##
 
-štüt;n. v. support
+štüt
+-- n. support
+-- v. support
 
 tèr;n. earth, ground, dirt;v. (of electrical equipment) connect to the ground;v. (of aircraft) prevent from flying
 
-tortür;n. v. torture
+tortür
+-- n. torture
+-- v. torture
+
+konsol : v. console
 
 töl
 -- n. tile, pane, plate, square, panel
