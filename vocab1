@@ -198,6 +198,10 @@ sereb
 -- n. brain
 -- v. to think of/find a solution to a problem (informal)
 skelet · skeleton
+süt
+-- v. sweat
+-- n. sweat
+-- n. residue
 
 === biology ===
 lön
@@ -292,6 +296,11 @@ nivel : level
 nam
 -- n. name
 -- v. to give/assign a name to
+enor : honor
+heer
+-- v. hate
+-- n. hatred
+leš : n. way, path, method
 
 === fantasy ===
 maži : magic
@@ -373,7 +382,8 @@ sen : know
 ser : say, speak
 ir : go, move (oneself)
 
-müs : v. to have to (do something)
+gan : v. can, able to
+müs : v. have to (do something)
 düs : v. should
 baž : v. need, require
 -> bažina : n. need, requirement
@@ -446,10 +456,18 @@ perd
 -- n. loss, waste
 -- v. lose, waste
 
+serv : vserve
+-> servör : n. waiter ; servant ; [computing] server
+
+permit : v. allow, permit
+-> adj.
+probit : v. prohibit, disallow
+-> adj.
 
 salv : v. save
 -> salvör : n. saviour
 
+bras : ferment, brew
 
 mét : set, change, assign, put
 
