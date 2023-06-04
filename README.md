@@ -20,6 +20,8 @@ Ižter (localized in English as 'Ijter') is a constructed language with no speci
 | Close-mid | /e/ /ø/ | /o/ |
 | Open      | /a/     |     |
 
+//ai// [aiä]
+
 ## Alphabet
 The Ižter language has two scripts/alphabet: one Latin and one Cyrillic (similar to Serbian)
 
