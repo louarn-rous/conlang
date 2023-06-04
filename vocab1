@@ -11,6 +11,7 @@ nor : black
 oranž : orange
 rod : red
 roz : pink
+rus : reddish-brown
 
 === animals ===
 bok : goat
@@ -214,6 +215,9 @@ melk
 ov : egg
 zbas : wing
 sübas : wing (archaic)
+fung :
+-- n. mushroom
+-> n. [colloq.] penis
 
 === technology ===
 disk : disk, disc, record, CD, CD-ROM
@@ -340,6 +344,11 @@ füm
 -- n. smoke
 -- v. produce smoke
 -> fümör : n. smoker ; n. appartus for smoking
+flam
+-- n. visible portion of gas undergoing combustion
+-- n. [figurative] strong passion
+-- v. to set ablaze, aflame
+-- v. to deliberately encourage hostility or anger
 
 === form ===
 štok
