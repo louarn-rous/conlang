@@ -20,63 +20,59 @@ brik
 -- n. brick, ingot, brick-shaped item
 -- v. [computing] (of a dev) to become non-functional
 
-
-
-
-
-fis : [adj.] definite, stable, certain
-
-
 gove : [n.] voice, (manner of) speech
 
 penal
 -- n. penalty
 -- v. penalize
 
-
-frel : [adj.] weak, fragile
-
-ful
--- adj. full
--- v. fill ##
-vid
--- adj. empty
--- v. empty ###
--- n. void, emptiness ##
-frid
--- adj. cold
--- v. cool, chill ###
--- n. cold ##
-hoš
--- adj. hot
--- v. heat (up) ###
--- n. heat ##
-
-
-
-déplas;v. displace
-donèt;n. data
-dös;n. god, deity
-égal;n. equal;v. equal
+déplas : v. displace
+donèt : n. data
+dös : n. god, deity
+égal
+-- n. equal
+-- v. equal
 égzam;n. examination, test;v. inspect, examine
 
-fal;n. v. fall;n. v. drop, decrease
+fal
+-- n. fall
+-- v. fall
+-- n. drop, decrease
+-- v. drop, decrease
 
-fiènd;n. enemy;adj. hostile
+fiènd
+-- n. enemy
+-- adj. hostile
 
-fin;n. end;v. complete, finish
+fin
+-- n. end
+-- v. complete, finish
 
-flot;v. float;n. fleet
-fob;n. v. fear
-fors;n. v. force
-föl;n. feather;n. leaflet, strip of paper
+flot
+-- v. float
+-- n. fleet
+fob 
+-- n. fear
+-- v. fear
+fors
+-- n. force
+-- v. force
+
+föl
+-- n. feather
+-- n. leaf
+-- n. leaflet, strip of paper
+
 frut;n. product, result of
 furn;n. oven, furnace;v. to bake
 fül;v. n. flow
 
 
 
-glas;n. ice;v. freeze
+glas
+-- n. ice
+-- v. freeze
+
 grafit;n. v. graffiti, scribble
 
 
@@ -91,6 +87,7 @@ jot;v. n. jump
 kamarad
 -- n. comrade, mate
 -- n. (school) fellow student, classmate
+
 kanton : v. canton [vexillology]
 kapitèn : n. capitain
 kažn. cage;v. to put in a cage
@@ -142,14 +139,15 @@ mod;n. way, manner;v. [composite suffix] to play the role of, be
 modif;v. modify, change, edit
 
 
-motš : [adj.] nice, pleasant
 
 nèkt;v. attach, bind
 
 
 not;n. brief record, usually written;n. score, mark or grade
 
-nüdit;adj. naked, nude;v. to strip of protection or clothing
+nüdit
+-- adj. naked, nude
+-- v. to strip of protection or clothing
 
 
 nümer
@@ -161,11 +159,15 @@ nöl
 -- adj. none, null, nought
 ün : num. 1 (one)
 -> ünit : v. unite, unify
+to : num. 2 (two)
+tri : num. 3 (three)
 
 
-
-
-pèst;n. plague;n. annoyance;v. plague, pester, annoy;v. spread plague amongst
+pest
+-- n. plague
+-- v. spread plague amongst
+-- n. annoyance
+-- v. plague, pester, annoy
 
 plas;n. v. place
 réplas;v. replace
