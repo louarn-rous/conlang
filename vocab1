@@ -284,10 +284,10 @@ politik
 ger ###
 -- n. war
 -- v. to be at war or go to war with
-soldat : soldier
-ženeral : n. general
-salar : wage, salary
--> salarör : salary-man, employee
+soldat : [n.] soldier
+ženeral : [n.] general
+salar : [n.] wage, salary
+-> salarör : [n.] salary-man, employee
 prizon
 -- n. prison
 -- v. imprison ###
@@ -391,26 +391,29 @@ ešek : chess
 doš : die/dice
 
 === time ===
-nat : day
-taj : day [archaic]
-nošt : night
+nat : [n.] day
+taj : [n.] [archaic] day 
+nošt : [n.] night
 minüt : minute
 
+=== people ===
+klun : [n.] clown
+
 === verbs ===
-es : be
-ev : have
-ten : hold
-sen : know
-ser : say, speak
+es : [v.] be
+ev : [v.] have
+ten : [v.] hold
+sen : [v.] know
+ser : [v.] say, speak
 ir : go, move (oneself)
 
-gan : v. can, able to
-müs : v. have to (do something)
-düs : v. should
-baž : v. need, require
--> bažina : n. need, requirement
-vür : v. want, wish
--> vürina : n. want, wish
+gan : [v.] can, able to
+müs : [v.] have to (do something)
+düs : [v.] should
+baž : [v.] need, require
+-> bažina : [n.] need, requirement
+vür : [v.] want, wish
+-> vürina : [n.] want, wish
 
 alt : stop, cease
 
@@ -434,7 +437,6 @@ fatig
 güst
 -- v. taste
 -- n. taste ##
-
 rume :
 -- v. dream
 -- n. dream ##
@@ -489,28 +491,28 @@ permit : v. allow, permit
 probit : v. prohibit, disallow
 -> adj.
 
-kres : grow
+kres : [v.] grow
 bran : [v.] burn
-sken : climb, scale
-
-stred
--- v. struggle
--- n. struggle
+-- n. burn
+sken : [v.] climb, scale
+-- n. climb
 
 
-salv : v. save
--> salvör : n. saviour
+
+salv : save
+-> salvör : [n.] saviour
 
 ven : [intrans.] come
 dants
 -- v. [intrans.] dance
 -- n. dance
 
-bras : ferment, brew
+res : leave, depart ####
+-> resina [n.] : departure
 
-mét : set, change, assign, put
-
-kal : fit, match, correspond
+bras : [v.] ferment, brew
+met : [v.] set, change, assign, put
+kal : [v.] fit, match, correspond
 
 konsol : v. console
 
@@ -518,6 +520,9 @@ töl
 -- n. tile, pane, plate, square, panel
 -- v. to cover with tiles ##
 
+stred
+-- v. struggle
+-- n. struggle
 limit
 -- v. limit
 -- n. limit
@@ -542,6 +547,12 @@ mord
 šarž
 -- v. charge, load
 -- n. charge
+fül
+-- v. flow
+-- n. flow
+fors
+-- v. force
+-- n. force
 
 löv : v. stand, rise
 -> lövina : n. stand, rising outrage
@@ -615,5 +626,9 @@ lös : [adj.] single, lone, only
 püli : [adj.] multiple, plural
 -> apüli [v.] : to make plural, to multiply; to duplicate
 
+nüdit : [adj.] naked, nude
+-> anüdit : [v.] to strip of protection or clothing
+
 === vulgar ===
 küs : [intj.] fuck, damn, darn, shit
+smet : [v.] to copulate with
