@@ -27,12 +27,13 @@ penal
 -- v. penalize
 
 déplas : v. displace
-donèt : n. data
 dös : n. god, deity
 égal
 -- n. equal
 -- v. equal
-égzam;n. examination, test;v. inspect, examine
+égzam
+-- v. inspect, examine
+-- n. examination, test ###
 
 fal
 -- n. fall
@@ -54,19 +55,21 @@ flot
 fob 
 -- n. fear
 -- v. fear
-fors
--- n. force
--- v. force
+
 
 föl
 -- n. feather
 -- n. leaf
 -- n. leaflet, strip of paper
 
-frut;n. product, result of
 furn;n. oven, furnace;v. to bake
-fül;v. n. flow
 
+fül
+-- v. flow
+-- n. flow
+fors
+-- v. force
+-- n. force
 
 
 glas
@@ -80,8 +83,9 @@ grafit;n. v. graffiti, scribble
 
 invèrs;n. v. adj. inverse
 
-jot;v. n. jump
-
+jot
+-- v. jump
+-- n. jump
 
 
 kamarad
@@ -90,13 +94,19 @@ kamarad
 
 kanton : v. canton [vexillology]
 kapitèn : n. capitain
-kažn. cage;v. to put in a cage
+kaž
+-- n. cage
+-- v. to put in a cage
 kél;n. key
 kémiš;n. chemistry (academic field);n. chemical substance
 klas;n. class;v. to put into classes, sort
 klik;n. clicking sound;v. click
 klun;n. clown
-kol;v. stick, adhere;n. glue, adhesive @@@
+
+kül
+-- v. stick, adhere
+-- n. glue, adhesive
+
 kompost;n. compost
 
 kovér;v. cover
@@ -114,9 +124,14 @@ léng;n. language ?
 lèk;n. lick ??
 
 
-libèr;n. freedom;v. adj. free
+libèr
+-- n. freedom
+-- adj. free
+-> aliber : [v.]
 
-lozanž;n. rhombus, lozange;n. pill or tablet, esp. one shaped like a rhombus
+lozanž
+-- n. rhombus, lozange
+-- n. pill or tablet, esp. one shaped like a rhombus
 
 lüd;v. play
 lüdo;n. game
@@ -142,12 +157,10 @@ modif;v. modify, change, edit
 
 nèkt;v. attach, bind
 
-
 not;n. brief record, usually written;n. score, mark or grade
 
-nüdit
--- adj. naked, nude
--- v. to strip of protection or clothing
+nüdit : [adj.] naked, nude
+-> anüdit : [v.] to strip of protection or clothing
 
 
 nümer
@@ -157,6 +170,7 @@ nümer
 nöl
 -- num. 0 (zero)
 -- adj. none, null, nought
+-> anöl : [v.]
 ün : num. 1 (one)
 -> ünit : v. unite, unify
 to : num. 2 (two)
@@ -169,8 +183,10 @@ pest
 -- n. annoyance
 -- v. plague, pester, annoy
 
-plas;n. v. place
-réplas;v. replace
+plas
+-- v. place
+-> réplas : v. replace
+-- n. place
 
 plod;n. v. burst, blow
 popül;n. people (collective);v. populate
@@ -178,31 +194,39 @@ popül;n. people (collective);v. populate
 rož;n. rock, stone;adj. made of or relating to rock or stone ###
 stèn;n. adj. stone, rock ###
 
-sésion;n. session
+sésion : n. session
 
 silens
 -- v. silence
 -- n. silence
--- adj. silent
+-- adj. silent ##
 
-stasion;n. station;v. station at, occupy
-
-püli : [adj.] multiple, plural
-lös
--- [adj.] single, lone, only
--- v. single out ##
+stasion
+-- n. station
+-- v. station at, occupy
 
 
-tèr;n. earth, ground, dirt;v. (of electrical equipment) connect to the ground;v. (of aircraft) prevent from flying
 
-tšans;n. chance, luck
 
-vèn;n. vein
-vèr;n. adj. glass;n. a vessel, especially one made of glass or transparent plastic, from which one drinks;v. to turn into glass
+tèr
+-- n. earth, ground, dirt
+-- v. (of electrical equipment) connect to the ground
+-- v. (of aircraft) prevent from flying
 
+tšans : n. chance, luck
+
+vèn : n. vein
+
+ver
+-- [n.] glass
+-- [adj.] made up of, or relating to, glass
+-> aver : [v.] to turn into glass
+-- n. a vessel, especially one made of glass or transparent plastic, from which one drinks
 
 vilaž;n. village
 
 vizit;v. visit
-votš;n. voice;v. express, voice
+votš
+-- n. voice
+-- v. express, voice
 
