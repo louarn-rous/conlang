@@ -36,18 +36,19 @@ dös : n. god, deity
 -- n. examination, test ###
 
 fal
--- n. fall
 -- v. fall
--- n. drop, decrease
 -- v. drop, decrease
+-- n. fall
+-- n. drop, decrease
 
 fiènd
 -- n. enemy
 -- adj. hostile
 
 fin
--- n. end
 -- v. complete, finish
+-- n. end
+
 
 flot
 -- v. float
@@ -62,24 +63,20 @@ föl
 -- n. leaf
 -- n. leaflet, strip of paper
 
-furn;n. oven, furnace;v. to bake
+furn
+-- n. oven, furnace
+-- v. to bake
 
-fül
--- v. flow
--- n. flow
-fors
--- v. force
--- n. force
+
 
 
 glas
 -- n. ice
 -- v. freeze
 
-grafit;n. v. graffiti, scribble
-
-
-
+grafit
+-- n. scribble, grafitti
+-- v. scribble, graffiti
 
 invèrs;n. v. adj. inverse
 
@@ -98,22 +95,31 @@ kaž
 -- n. cage
 -- v. to put in a cage
 kél;n. key
-kémiš;n. chemistry (academic field);n. chemical substance
+kémiš
+-- n. chemistry (academic field)
+-- n. chemical substance
 klas;n. class;v. to put into classes, sort
 klik;n. clicking sound;v. click
-klun;n. clown
+
 
 kül
 -- v. stick, adhere
 -- n. glue, adhesive
 
-kompost;n. compost
+kompost : n. compost
 
-kovér;v. cover
+kovér : v. cover
 
-kratèr;n. crater
-küb;n. cube;n. [mathematics] third power of a number or term;v. [mathematics] multiply a number by itself twice
-lant;n. land;v. make contact/arrive at land surface from air or sea
+kratèr : n. crater
+
+küb
+-- n. cube
+-- n. [mathematics] third power of a number or term
+-- v. [mathematics] multiply a number by itself twice
+
+lant
+-- n. land
+-- v. make contact/arrive at land surface from air or sea
 
 
 
