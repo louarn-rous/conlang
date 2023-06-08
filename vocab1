@@ -7,6 +7,7 @@ brön : brown
 gel : yellow
 griz : grey
 grön : green
+van : white
 nor : black
 oranž : orange
 rod : red
@@ -54,7 +55,9 @@ sukar
 -- v. sweeten @@@
 onjon : onion
 oranž : orange
-frut : fruit
+frut
+-- n. fruit
+-- n. product, result of
 
 === food ===
 sup : soup, stew
@@ -231,6 +234,7 @@ eskren
 -- n. monitor, computer screen
 -- v. screen, display
 kaset : cassette, cartridge
+donet : data
 miok : truck
 mus : computer mouse
 otomobil : car [formal]
@@ -458,8 +462,8 @@ led
 -- v. love
 -- n. love
 
-don : give, deal
--> donina : n. donation
+don : [v.] give, deal
+-> donina : [n.] donation
 ged
 -- v. get, gain, obtain
 -- v. take, steal
@@ -484,7 +488,7 @@ probit : v. prohibit, disallow
 -> adj.
 
 kres : grow
-bran : burn
+bran : [v.] burn
 sken : climb, scale
 
 stred
@@ -558,44 +562,56 @@ regül : v. regulate
 
 === adjectives ===
 škort : [adj.] short
+-> aškort : [v.] shorten
 lon : [adj.] long
+-> alon : [v.] lengthen
 nov : [adj.] new
 ou : [adj.] old
 lis : [adj.] smooth
+-> alis : [v.] smooth
 plat : [adj.] flat
+-> aplat : [v.] flatten
 dar : [adj.] hard
+-> adar : [v.] harden
 dus : [adj.] soft
+-> adus : [v.] soften
 gul : [adj.] wet
 sek : [adj.] dry
+-> asek : [v.] dry
 net : [adj.] clean
 kras
 -- [adj.] dirty
--- [n.] scum, dirt, grime
+-> akras : [v.] to dirty, soil
+-- [n.] scum, dirt, grime ##
+
 
 motš : [adj.] nice, pleasant
 
 tis : [adj.] small
-
+-> atis : [v.] to reduce, shrink
 frel : [adj.] weak, fragile
-
+-> afrel : [v.] to weaken
 fis : [adj.] definite, stable, certain
+-> afis : [v.] to stabilize, confirm, 
 
-
-ful
--- adj. full
--- v. fill ##
-vid
--- adj. empty
--- v. empty ###
+ful : [adj.] full
+-> aful : [v.] fill
+vid : [adj.] empty
+-> avid : [v.] empty
 -- n. void, emptiness ##
-frid
--- adj. cold
--- v. cool, chill ###
+
+frid : [adj.] cold
+-> afrid [v.] cool, chill
 -- n. cold ##
-hoš
--- adj. hot
--- v. heat (up) ###
+
+hoš : [adj.] hot
+-> ahoš [v.] heat (up)
 -- n. heat ##
+
+lös : [adj.] single, lone, only
+-> alös [v.] single out
+püli : [adj.] multiple, plural
+-> apüli [v.] : to make plural, to multiply; to duplicate
 
 === vulgar ===
 küs : [intj.] fuck, damn, darn, shit
