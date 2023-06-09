@@ -78,8 +78,8 @@ the braille alphabet is inspired by French, English, Czech and Scandinavian brai
 | 2nd person singular | Tö | Tö | Tön |
 | 2nd person plural | Vö | Vö | Vös |
 | 3rd person neuter singular | Sö | Sö | Sön |
-| 3rd person feminine singular | Sa | Sa | San |
-| 3rd person neuter singular | So | So | Son |
+| 3rd person fem. singular | Sa | Sa | San |
+| 3rd person masc. singular | So | So | Son |
 | 3rd person plural | Zö | Zö | Zön |
 
 A unique feature of Ižter is the possibility of combining a personal pronoun with a definite or indefinite determiner.
