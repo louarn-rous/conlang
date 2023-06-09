@@ -415,7 +415,10 @@ es : [v.] be
 ev : [v.] have
 ten : [v.] hold
 sen : [v.] know
-ser : [v.] say, speak
+ser
+-- [v.] say, speak
+-- [v.] signifies, represents, means
+-> serina : [n.] meaning
 ir : go, move (oneself)
 
 gan : [v.] can, able to
