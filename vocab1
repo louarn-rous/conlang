@@ -483,8 +483,8 @@ perd
 -- v. lose
 -- v. waste
 
-serv : serve
--> servör : n. waiter ; servant ; [computing] server
+serv : [v.] serve
+-> servör : [n.] waiter, servant; [computing] server
 
 permit : v. allow, permit
 -> adj.
@@ -499,7 +499,7 @@ sken : [v.] climb, scale
 
 
 
-salv : save
+salv : [v.] save
 -> salvör : [n.] saviour
 
 ven : [intrans.] come
@@ -513,12 +513,15 @@ res : leave, depart ####
 bras : [v.] ferment, brew
 met : [v.] set, change, assign, put
 kal : [v.] fit, match, correspond
+mel : [v.] mix, combine, blend, tangle, fuse
 
-konsol : v. console
+konsol : [v.] console
 
 töl
 -- n. tile, pane, plate, square, panel
 -- v. to cover with tiles ##
+
+
 
 stred
 -- v. struggle
