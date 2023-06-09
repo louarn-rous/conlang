@@ -30,48 +30,15 @@ gešt : [prep.] against
 ob : [prep.] on (top of)
 us : [prep.] underneath
 
-mitel :
+ot : [n.] up, high, top (of)
+ös : [n.] down, low, bottom (of)
+
+let : [n.] left
+rešt : [n.] right
+
+mitel
 -- [n.] middle, centre
 -- [adj.] middle, central ###
-
-ot : up, high, top (of)
-ös : down, low, bottom (of)
-
-let : [adv.] left
-rešt : [adv.] right
-
-mer : [adv.] comparative ('more')
-mest : [adv.] superlative ('most')
-ler : [adv.] diminutive comparative ('less')
-lest : [adv.] diminutive superlative ('least')
-te : [adv.] too, too much, too many
-jus : [adv.] just, only, simply, merely
-
-
-
-ül : [adj.] (the) previous, anticedent 
--> üla : [adj.] before
--> ülna : [adj.] first, primordial
-
-e : [cnjc.] and
-mit : [cnjc.] with
-
-
-
-da : [ptcl.] (interrogative, marks the preceding clause as a question)
-
-na : [prep.] (preceding the object of a sentence, marking it as the active agent)
-
-sti : [prep. cnjc.] as if, like so, similar to
-stit : [adv.] thus, in this way or manner
-
-mo : [cnjc.] also, both, as well, again
-ne : [cnjc.] but, however
-
-alter : adj. n. other
-
-gen : [cjnc.] when, during the time that, at the time of the action of the following clause
-si : [cnjc.] if, in the case/condition that, given/supposing/assuming that
 
 fas : [n.] front
 dos : [n.] back
@@ -88,6 +55,36 @@ süd
 vest
 -- [n.] west
 -- [adj.] western
+
+mer : [adv.] comparative ('more')
+mest : [adv.] superlative ('most')
+ler : [adv.] diminutive comparative ('less')
+lest : [adv.] diminutive superlative ('least')
+te : [adv.] too, too much, too many
+jus : [adv.] just, only, simply, merely
+
+ül : [adj.] (the) previous, anticedent 
+-> üla : [adj.] before
+-> ülna : [adj.] first, primordial
+
+da : [ptcl.] (interrogative, marks the preceding clause as a question)
+
+na : [prep.] (preceding the object of a sentence, marking it as the active agent)
+
+sti : [prep. cnjc.] as if, like so, similar to
+stit : [adv.] thus, in this way or manner
+
+e : [cnjc.] and
+mit : [cnjc.] with
+
+mo : [cnjc.] also, both, as well, again
+-> omo : [adj.] same, common
+ne : [cnjc.] but, however
+
+alter : adj. n. other
+
+gen : [cjnc.] when, during the time that, at the time of the action of the following clause
+si : [cnjc.] if, in the case/condition that, given/supposing/assuming that
 
 === affixes ===
 -ör : [suf.] used to form agent nouns
