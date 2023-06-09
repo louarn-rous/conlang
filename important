@@ -42,12 +42,10 @@ lest : [adv.] diminutive superlative ('least')
 te : [adv.] too, too much, too many
 jus : [adv.] just, only, simply, merely
 
-is
--- [n.] here
--- [det.] proximal demonstrative ('this')
-üs
--- [n.] there
--- [det] distal demonstrative ('that')
+is : [det.] proximal demonstrative ('this')
+-> isa : [n.] here
+üs : [det] distal demonstrative ('that')
+-> üsa : [n.] there
 
 ül : [adj.] (the) previous, anticedent 
 -> üla : [adj.] before
