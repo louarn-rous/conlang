@@ -323,7 +323,10 @@ enor : honor
 heer
 -- v. hate
 -- n. hatred
-leš : n. way, path, method
+leš : [n.] way, path, method
+fren :
+-- [n.] mind
+-- [v.] be aware/conscious of @@
 
 === fantasy ===
 maži : magic
@@ -423,7 +426,7 @@ alt : stop, cease
 
 manž : eat
 sül : drink
-som : sleep
+som : [v.] sleep
 
 pas : [v.] pass, go by
 
@@ -440,18 +443,10 @@ fatig
 -- v. [passive] to tire, become weary
 
 
-güst
--- v. taste
--- n. taste ##
-rume :
--- v. dream
--- n. dream ##
+
 
 treš : throw
-tür : pull
-
-
-
+tür : [v.] pull
 
 
 nos
@@ -504,8 +499,8 @@ sken : [v.] climb, scale
 -- n. climb
 
 kül
--- v. stick, adhere
--- n. glue, adhesive
+-- [v.] stick, adhere
+-- [n.] glue, adhesive
 
 salv : [v.] save
 -> salvör : [n.] saviour
@@ -523,6 +518,7 @@ bras : [v.] ferment, brew
 met : [v.] set, change, assign, put
 kal : [v.] fit, match, correspond
 mel : [v.] mix, combine, blend, tangle, fuse
+sked : [v.] split, divide
 
 konsol : [v.] console
 
@@ -565,6 +561,12 @@ fül
 fors
 -- v. force
 -- n. force
+güst
+-- v. taste
+-- n. taste ##
+rume :
+-- v. dream
+-- n. dream ##
 
 löv : v. stand, rise
 -> lövina : n. stand, rising outrage
@@ -642,5 +644,6 @@ nüdit : [adj.] naked, nude
 -> anüdit : [v.] to strip of protection or clothing
 
 === vulgar ===
+bata : [n.] imbecile, bastard
 küs : [intj.] fuck, damn, darn, shit
 smet : [v.] to copulate with
