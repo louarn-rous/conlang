@@ -71,13 +71,13 @@ the braille alphabet is inspired by French, English, Czech and Scandinavian brai
 
 ### Personal
 
-| --- | Obj. case | Subj. case | Pos. |
+| --- | Accusative | Dative | Possessive |
 |:---:|:---:|:---:|:---:|
 | 1st person singular | Iž | Mö | Mön |
-| 1st person plural | Nö | Nö | Nös |
+| 1st person plural | No | No | Nos |
 | 2nd person singular | Tö | Tö | Tön |
-| 2nd person plural | Vö | Vö | Vös |
-| 3rd person neuter singular | Sö | Sö | Sön |
+| 2nd person plural | Vo | Vo | Vos |
+| 3rd person singular | Sö | Sö | Sön |
 | 3rd person fem. singular | Sa | Sa | San |
 | 3rd person masc. singular | So | So | Son |
 | 3rd person plural | Zö | Zö | Zön |
