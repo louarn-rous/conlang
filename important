@@ -3,9 +3,14 @@ er : [det.] definite ('the')
 en : [det.] indefinite ('a'/'an')
 -> d'en [cntrc.] of a/an/some
 
+is : [det.] proximal demonstrative ('this')
+-> isa : [n.] proximal locative ('here')
+üs : [det.] distal demonstrative ('that')
+-> üsa : [n.] distal locative ('there')
+
 ža : [det.] interrogative ('what', 'which')
-ödža : [det.] why
-leža : [det.] how
+-> ödža : [det.] why
+-> leža : [det.] how
 
 dö : [prep.] ablative particle ### alt: dé
    - from, of
@@ -42,10 +47,7 @@ lest : [adv.] diminutive superlative ('least')
 te : [adv.] too, too much, too many
 jus : [adv.] just, only, simply, merely
 
-is : [det.] proximal demonstrative ('this')
--> isa : [n.] here
-üs : [det] distal demonstrative ('that')
--> üsa : [n.] there
+
 
 ül : [adj.] (the) previous, anticedent 
 -> üla : [adj.] before
