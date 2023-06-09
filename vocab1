@@ -425,6 +425,8 @@ manž : eat
 sül : drink
 som : sleep
 
+pas : [v.] pass, go by
+
 sit
 -- v. thirst
 -- n. thirst
@@ -501,7 +503,9 @@ bran : [v.] burn
 sken : [v.] climb, scale
 -- n. climb
 
-
+kül
+-- v. stick, adhere
+-- n. glue, adhesive
 
 salv : [v.] save
 -> salvör : [n.] saviour
@@ -513,6 +517,7 @@ dants
 
 res : leave, depart ####
 -> resina [n.] : departure
+
 
 bras : [v.] ferment, brew
 met : [v.] set, change, assign, put
