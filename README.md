@@ -6,13 +6,13 @@ It utilises Subject-Verb-Object word order.
 
 | Consonants | Labial | Alveolar | Post-Alveolar | Palatal | Velar | Glottal |
 | --- |:---:|:---:|:---:|:---:|:---:|:---:|
-| Nasal       | /m/     | /n/       | ---       | /ɲ/ | ---     | --- |
-| Plosive     | /p/ /b/ | /t/ /d/   | ---       | --- | /k/ /ɡ/ | --- |
-| Affricate   | ---     | /ts/ /dz/ | /tʃ/ /dʒ/ | --- | ---     | --- |
-| Fricative   | /f/ /v/ | /s/ /z/   | /ʃ/ /ʒ/   | --- | ---     | /h/ |
-| Approximant | ---     | ---       | ---       | /j/ | ---     | --- |
-| Tap/Flap        | --- | /ɾ/       | ---       | --- | ---     | --- |
-| Lat. Approximant | --- | /l/      | ---       | /ʎ/ | ---     | --- |
+| Nasal            | /m/     | /n/       |           | /ɲ/ |         |     |
+| Plosive          | /p/ /b/ | /t/ /d/   |           |     | /k/ /ɡ/ |     |
+| Affricate        |         | /ts/ /dz/ | /tʃ/ /dʒ/ |     |         |     |
+| Fricative        | /f/ /v/ | /s/ /z/   | /ʃ/ /ʒ/   |     |         | /h/ |
+| Approximant      |         |           |           | /j/ |         |     |
+| Tap/Flap         |         | /ɾ/       |           |     |         |     |
+| Lat. Approximant |         | /l/       |           | /ʎ/ |         |     |
 
 | Vowels    | Front   | Back |
 | ---       |:---:    |:---:|
@@ -84,5 +84,5 @@ A unique feature of Ižter is the possibility of combining a personal pronoun wi
 
 | Ižter | English | Literal translation |
 | --- | --- | --- |
-| mönen _colleague_ | a colleague of mine | my-a(n) colleague |
-| söner _friends_ | those friends of theirs (singular) | their-the friends |
+| mönen _colleague_ | a colleague of mine                | my-a(n) colleague |
+| söner _friends_   | those friends of theirs (singular) | their-the friends |
