@@ -45,7 +45,6 @@ The Ižter language has two scripts/alphabet: one Latin and one Cyrillic (simila
 | /k/ | k in 'sky'                | Kk | Кк | ⠅ | /f/   | f in 'fruit'                | Ff | Фф | ⠋ |
 | /l/ | l in 'line'               | Ll | Лл | ⠇ | /h/   | h in 'home'                 | Hh | Һһ | ⠓ |
 | /m/ | m in 'may'                | Mm | Мм | ⠍ |       |                             |    |    |   |
-
 |      |                |       |     | ---         | ---  |                 |       |     |     |
 | /ts/ |                | Ts ts |     | ---         | /dz/ |                 | Dz dz |     |     |   
 | /tʃ/ | ch in 'choose' | Tš tš | --- | ---         | /dʒ/ | j in 'jump'     | Dž dž |     |     |
