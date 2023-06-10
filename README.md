@@ -20,10 +20,8 @@ Ižter (localized in English as 'Ijter') is a constructed language with no speci
 | Close-mid | /e/ /ø/ | /o/ |
 | Open      | /a/     |     |
 
-### Diphtongs
-
-| Group | Diphtong |
-|:---:|:---:|
+| Group  | Diphtong |
+|:---:   |:---: |
 | //ai// | [aɪ] |
 | //ae// | [ɐe̞] |
 | //ou// | [oʊ] |
