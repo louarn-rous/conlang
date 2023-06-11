@@ -1,41 +1,56 @@
+=== numbers ===
+nümer
+-- [n.] number
+-- [v.] [trans] to assign a number to
+-- [n.] number of, count
+nöl
+-- [num.] 0 (zero)
+-- [adj.] none, null, nought
+---> anöl : [v.] cancel, make null
+ün : [num.] 1 (one)
+-> ünit : [v.] unite, unify
+to  : [num.] 2 (two)
+tri : [num.] 3 (three)
+
 === colours ===
 kolor
--- n. colour, pigment
--- v. colour
-blo   : blue
-brön  : brown
-gel   : yellow
-griz  : grey
-grön  : green
-van   : white
-nor   : black
-oranž : orange
-rod   : red
-roz   : pink
-rus   : reddish-brown
+-- [n.] colour, pigment
+-- [v.] colour
+blo   : [m.] blue
+brön  : [m.] brown
+gel   : [m.] yellow
+griz  : [m.] grey
+grön  : [m.] green
+van   : [m.] white
+nor   : [m.] black
+oranž : [m.] orange
+rod   : [m.] red
+roz   : [m.] pink
+rus   : [m.] reddish-brown
 
 === animals ===
-bok    : goat
-bov    : cow
-ekus   : horse
-gupil  : fox
-kat    : cat
-kleb   : dog
-lapin  : rabbit
-leo    : lion
-luv    : wolf
-mostik : mosquito
-mus    : mouse
-oris   : bird
-otrüš  : ostrich
-panter : panther
-pesk   : fish
-pol    : chicken
-pors   : pig
-rat    : rat
-urs    : bear
-žiraf  : giraffe
-korvas : crow, raven
+bok    : [n.] goat
+bov    : [n.] cow
+ekus   : [n.] horse
+gupil  : [n.] fox
+kat    : [n.] cat
+kleb   : [n.] dog
+lapin  : [n.] rabbit
+leo    : [n.] lion
+luv    : [n.] wolf
+mostik : [n.] mosquito
+mus    : [n.] mouse
+oris   : [n.] bird
+otrüš  : [n.] ostrich
+panter : [n.] panther
+pol    : [n.] chicken
+pors   : [n.] pig
+rat    : [n.] rat
+urs    : [n.] bear
+žiraf  : [n.] giraffe
+korvas : [n.] crow, raven
+pesk   : [n.] fish
+-> pesktröbör : [n.] fishmonger ##
 
 === crops ===
 karot : [n.] carrot
@@ -47,47 +62,61 @@ kafe  : [n.] coffee
 te    : [n.] tea
 tomat : [n.] tomato
 banan : [n.] banana
+onjon : [n.] onion
+soj   : [n.] soy
+oranž : [n.] orange
 nüs   : [n.] nut
-nüsket : peanut
-soj   : soy
-onjon : onion
-oranž : orange
+-> nüsket : [n.] peanut
 frut
--- n. fruit
--- n. product, result of
+-- [n.] fruit
+----> fruttröbör : [n.] fruitmonger ##
+-- [n.] product, result of
 sukar
--- n. sugar
--- adj. sweet
--- v. sweeten @@@
+-- [n.] sugar
+-- [adj.] sweet
+-----> asukar [v.] sweeten
 
 === food ===
-sup   : soup, stew
-šokola : chocolate
-vodka : vodka
 krem
--- n. cream
--- v. to fill or cover with cream
+-- [n.] cream
+-- [v.] to fill or cover with cream
 kebab
--- n. kebab
--- v. to pierce with a sharp rod (informal)
-tart : tart
+-- [n.] kebab
+-- [v.] [informal] to pierce with a sharp rod
 žus
--- n. juice
--- v. to make into juice ###
+-- [n.] juice
+-- [v.] to make into juice
+-----> žusör : [n.] machine that makes juice
 frit
--- n. fry
--- v. fry ###
-maskarpone : mascarpone
-makademia : macadamia
-formaž    : cheese
-tšedar    : Cheddar (cheese)
+-- [n.] fry
+-- [v.] fry
+
+-- [adj.] fried
+----> afrit : [v.] to make fried?
+
+sup       : [n.] soup, stew
+šokola    : [m.] chocolate
+akal      : [n.] alcohol
+vodka     : [n.] vodka
+tart      : [n.] tart
+maskarpon : [n.] mascarpone
+makademia : [n.] macadamia
+formaž    : [n.] cheese
+tšedar    : [n.] Cheddar (cheese)
 
 === plants & trees ===
-arb    : [n.] tree
-busk   : [n.] bush
-bambu  : [n.a] bamboo
-burš   : [n.a] birch
-akašia : [n.a] acacia
+arb     : [n.] tree
+busk    : [n.] bush
+fores   : [n.] forest
+herb    : [n.] grass, herb
+kaktüs  : [n.] cactus
+lilak   : [n.] lilac
+solflor : [n.] sunflower
+-> solflor : [n.] [colloq.] [figurative] person with little to no capacity for independent thought
+tülip   : [n.] tulip
+bambu   : [m.] bamboo
+burš    : [m.] birch
+akašia  : [m.] acacia
 flor
 -- [n.] flower
 -- [v.] [intrans] bloom, blossom, flower
@@ -97,18 +126,11 @@ föl :
 -- [n.] leaflet, strip of paper
 mets
 -- [n. unc.] wood
+----> metstrošör : [n.] lumberjack
+----> metströbör : [n.] woodworker
 -- [n.] forest, woods
-fores   : [n.] forest
-herb    : [n.] grass, herb
-kaktüs  : [n.] cactus
-lilak   : [n.] lilac
-solflor : [n.] sunflower
-tülip   : [n.] tulip
 
 === natural phenomena ===
-kumul
--- [n.] cloud
--- v. cloud, obstruct, confuse
 miraž   : [n.] mirage
 džangal : [n.] jungle
 biom    : [n.] biome
@@ -117,17 +139,20 @@ feld    : [n.] field
 velt    : [n.] world
 vent    : [n.] wind
 stürm
--- n. storm
--- v. rush, attack, storm
+-- [v.] rush, attack, storm
+-- [n.] storm
 glav
+-- [v.] [intrans] (of a liquid) rain
 -- [n.] rain
--- v. (of a liquid) rain
-šjel
+snež
+-- [v.] [intrans] (of a powder or snow-like substance) snow 
+-- [n.] snow
+šiel
 -- [n.] sky
 -- n. ceiling
-snež
--- n. snow
--- v. (of a powder or snow-like substance) snow 
+kumul
+-- [n.] cloud
+-- v. cloud, obstruct, confuse
 
 === space ===
 lün    : [n.] moon
@@ -137,73 +162,55 @@ sol
 -- [v.] [trans] to expose to sunlight
 
 === marine ===
-haj : [n.] shark
-klunpesk : [n.] clownfish
-koral : [n.] coral
-mar : [n.] sea
-osean : [n.] ocean
-perl : [n.] pearl
+haj      : [n.] shark
+klunpesk : [n.] clownfish 
+mar      : [n.] sea
+osean    : [n.] ocean
+koral    : [m.] coral
+perl     : [m.] pearl
 
 === geological & mineral ===
-bronz   : [n. unc.] [adj.] bronze
-fer     : [n. unc.] iron
-ardžent : [n. unc.] [adj.] silver
-or      : [n. unc.] gold
-granit  : [n. unc.] granite
-kvardz  : [n. unc.] quartz
-diamant : [n.] diamond
-emrod   : [n.] emerald
-kav     : [n.] cave
-ravin   : [n.] ravine
+bronz    : [m. unc.] bronze
+fer      : [m. unc.] iron
+ardžent  : [m. unc.] silver
+or       : [m. unc.] gold
+granit   : [m. unc.] granite
+kvardz   : [m. unc.] quartz
+diamant  : [m.] diamond
+emrod    : [m.] emerald
 
-terakota : [n.] terracotta
-magma : [n. unc.] magma
-metal : [n. unc.] metal
+terakota : [m.] terracotta
+magma    : [m. unc.] magma
+metal    : [m. unc.] metal
+-> metaltröbör : [n.] metalworker
+
+kav      : [n.] cave
+-> kavör : [n.] one who explores caves
+ravin    : [n.] ravine
+krater   : [n.] crater
+
 
 kristal
--- n. crystal
+-- [n.] crystal
 -- v. crystallize
 
 min
--- n. mine, mineshaft
--- v. mine (out)
+-- [n.] mine, mineshaft
+-- [v.] mine (out)
+----> minör : [n.] miner
 mont
 -- [n.] mountain
+----> ?? mountaineer
 -- [v.] [trans] to tower over, to dwarf
 sel
 -- [n.] salt
 -- [v.] [trans] salt
-
 tünel
--- n. tunnel
--- v. (to make a) tunnel through
-krater : [n.] crater
+-- [n.] tunnel
+-- [v.] (to make a) tunnel through
+----> tünelör : [n.] one who tunnels
 
 === körp · body ===
-blüt
--- [n.] blood
--- [v.] bleed
-kap
--- [n.] head
--- [v.] lead, direct
-lep
--- [n.] lip
--- [v.] [informal] to kiss
-man
--- [n.] hand
--- [v.] handle, control, manage
-reš
--- [n.] flesh, meat
--- [v.] [trans] shape, give form to
-sereb
--- [n.] brain
--- [v.] [informal] to think of/find a solution to a problem
-kol
--- [n.] neck
--- [n.] collar
-hart
--- [n.] heart
--- [n.] core, centre, heart
 pil    : [n.] hair
 öl     : [n.] eye
 nas    : [n.] nose
@@ -212,15 +219,35 @@ dent   : [n.] tooth
 leng   : [n.] tongue
 ost    : [n.] bone
 skelet : [n.] skeleton
-
-
-
-
-
+kol
+-- [n.] neck
+-- [n.] collar
+hart
+-- [n.] heart
+-- [n.] core, centre, heart
+blüt
+-- [v.] bleed
+-- [n.] blood
+kap
+-- [n.] head
+-- [v.] lead, direct
+----> kapör : [n.] leader, director
+----> kapiten : [n.] capitain
+lep
+-- [n.] lip
+-- [v.] [informal] to kiss
+man
+-- [n.] hand
+-- [v.] [trans] handle, control, manage
+reš
+-- [n.] flesh, meat
+-- [v.] [trans] shape, give form to
+sereb
+-- [n.] brain
+-- [v.] [informal] to think of/find a solution to a problem
 süt
--- v. sweat
--- n. sweat
--- n. residue
+-- [v.] sweat
+-- [n.] sweat; residue
 
 === biology ===
 lön
@@ -228,35 +255,38 @@ lön
 -- [adj.] woolen
 melk
 -- [n.] milk
--- v. [usu. of an animal] milk
--- v. exploit excessively
+-- [v.] [usu. of an animal] milk
+-- [v.] exploit excessively
 ov   : [n.] egg
-zbas : wing
+zbas : [n.] wing
 sübas : wing (archaic)
 fung :
 -- [n.] mushroom
--> [n.] [colloq.] penis
+----> [n.] [colloq.] penis
 
 === technology ===
-disk : [n.] disk, disc, record, CD, CD-ROM
-drog :
--- n. medicinal substance
--- n. narcotic, hallucinogen or stimulant
--- n. [figurative] having the effect of a drug, addictive
--- v. administer a drug to
--- v. add drugs to (food or drink)
-eskren
--- n. monitor, computer screen
--- v. screen, display
+disk  : [n.] disk, disc, record, CD, CD-ROM
 kaset : [n.] cassette, cartridge
 donet : [n.] data
 mus   : [n.] computer mouse
-raj   : [n.] rail
-miok  : [n.] truck
-
-otomobil : [n.] [formal] car 
--> oto : [n.] [common] car 
 pilül : [n.] pill, pastule
+miok  : [n.] truck
+-> miokör : [n.] truck driver
+raj   : [n.] rail
+-> rajtröbör : [n.] rail-worker
+
+drog :
+-- [n.] medicinal substance
+-- [n.] narcotic, hallucinogen or stimulant
+-- [n.] [figurative] having the effect of a drug, addictive
+-- [v.] [trans] administer a drug to
+-- [v.] [trans] add drugs to (food or drink)
+eskren
+-- [n.] monitor, computer screen
+-- [v.] screen, display
+otomobil : [n.] [formal] car
+-> oto : [n.] [common] car 
+----> ototröbör : [n.] [common] car mechanic
 piston
 -- [n.] piston
 -- [v.] to move in and out of or into, like a piston
@@ -270,16 +300,15 @@ radio
 -- n. radio reciever or transmitter
 -- v. communicate with by radio
 
-
 === tools ===
 fals : [n.] sickle
 tamor
 -- [n.] hammer
 -- [v.] to strike with a hammer
 flis
--- n. whistle
--- n. whistle (sound)
--- v. whistle
+-- [n.] whistle (sound)
+-- [v.] whistle
+----> flisör : [n.] whistle (device)
 
 === music ===
 müzik    : [n.] music
@@ -292,6 +321,12 @@ stat     : [n.] state, government
 partit   : [n.] (political) party
 repüblik : [n.] republic
 partizan : [n.] partisan
+soldat   : [n.] soldier
+ženeral  : [n.] general
+
+salar    : [n.] wage, salary
+-> salarör : [n.] salary-man, employee
+
 polis
 -- [n.] police, law enforcement
 -- [v.] police
@@ -302,10 +337,7 @@ ger ###
 -- n. war
 -- v. to be at war or go to war with
 
-soldat  : [n.] soldier
-ženeral : [n.] general
-salar   : [n.] wage, salary
--> salarör : [n.] salary-man, employee
+
 prizon : [n.] prison
 -> prizonör : [n.] prisoner
 -- v. imprison ###
@@ -313,16 +345,16 @@ prizon : [n.] prison
 
 === places ===
 otel     : [n.] hotel
-skol     : [n.] school
--> skolör : [n.] student
 katedral : [n.] cathedral
 dom      : [n.] house, home
+skol     : [n.] school
+-> skolör : [n.] student
 
 === clothes ===
 šos   : [n.] shoe
 šömit : [n.] shirt
 kep   : [n.] cape
-džin  : [n.a] jean
+džin  : [m.] jean
 
 === concepts ===
 kültür  : [n.] culture
@@ -343,9 +375,10 @@ prod
 heer
 -- [n.] hatred
 -- [v.] hate
-enor :
--- [n.] honor
+enor
 -- [v.] honor
+-- [n.] honor
+ 
 
 fren :
 -- [n.] mind
@@ -361,34 +394,34 @@ posion  : [n.] potion
 === historical ===
 armor : [n.] armor
 klad  : [n.] sword
-koron
--- n. crown
--- v. crown
-sklev : [n.] slave
--> sklevör : [n.] one who owns or trades slaves
 totem : [n.] totem
 rei   : [n.] king
+koron
+-- [n.] crown
+-- [v.] crown
+sklev : [n.] slave
+-> sklevör : [n.] one who owns or trades slaves
 
 === substance ===
-slem  : [n.a] slime, goo, sludge
-pelüš : [n.] fluff, plush
+slem  : [m.] slime, goo, sludge
+pelüš : [m.] fluff, plush
 pul
 -- [n.] powder, dust
 -- [v.] (adorn with) powder
 frus
--- [n.] froth, moss, foam
+-- [m.] froth, moss, foam
 -- [v.] foam, froth
 füm
--- [n.] smoke
+-- [m.] smoke
 -- [v.] produce smoke
 -> fümör :
 ----- [n.] smoker
 ----- [n.] appartus for smoking
 flam
--- n. visible portion of gas undergoing combustion
--- n. [figurative] strong passion
--- v. to set ablaze, aflame
--- v. to deliberately encourage hostility or anger
+-- [n.] visible portion of gas undergoing combustion
+-- [n.] [figurative] strong passion
+-- [v.] to set ablaze, aflame @
+-- [v.] to deliberately encourage hostility or anger
 
 === form ===
 štok : [n.] stick, branch; handle, rod
@@ -401,34 +434,43 @@ lozanž
 === house ===
 kav   : [n.] basement
 somis : [n.] bed
+kel   : [n.] key
+-> keltröbör : [n.] locksmith
+tür   : [n.] door, gate
 tapir
 -- [n.] carpet
--- v. to cover with carpet ##
+-- [v.] to cover with carpet
 mis 
--- n. home, nest
--- v. host ##
+-- [n.] home, nest
+-- [v.] host
+----> misör : [n.] host
 štog
--- n. trash, garbage, rubbish
--- v. pollute ##
-kel : [n.] key
+-- [n.] trash, garbage, rubbish
+----> štogtröbör : [n.] garbage collector
+-- [v.] pollute
+----> štogör : [n.] polluter
 
 === building ===
 pilar : [n.] pillar; support, foundation
+zdal  : [n.] slab
+most  : [n.] bridge
 siment
--- n. cement
--- v. cement (in) ##
-zdal : [n.] slab
+-- [v.] [trans] cement (in)
+-- [m.] cement
 
 === games ===
-bal : ball
-ešek : chess
-doš : die/dice
+bal  : [n.] ball
+doš  : [n.] die/dice
+ešek : [n. unc.] chess
 
 === time ===
 nat   : [n.] day
 taj   : [n.] [archaic] day 
 nošt  : [n.] night
-minüt : minute
+damer : [n.] dusk
+sekond : [n.] second
+minüt : [n.] minute
+uur   : [n.] hour 
 mens  : [n.] month
 
 === people ===
@@ -449,41 +491,60 @@ ten : [v.] hold
 sen : [v.] know
 ser
 -- [v.] say, speak
+----> serör : [n.] one who speaks
 -- [v.] signifies, represents, means
 -> serina : [n.] meaning
-ir  : go, move (oneself)
+ir  : [v.] go, move (oneself)
 
 gan : [v.] can, able to
 müs : [v.] have to (do something)
 düs : [v.] should
-baž : [v.] need, require
--> bažina : [n.] need, requirement
-vür : [v.] want, wish
--> vürina : [n.] want, wish
+baž
+-- [v.] need, require
+-- [n.] need, requirement
+vür
+-- [v.] want, wish
+-- [n.] want, wish
 
-treš : [v.] throw
+treš
+-- [v.] [trans] throw
+-> trešör : [n.] one who throws
+-- [n.] throw
+trös
+-- [v.] [trans] catch
+-> trösör : [n.] one who catches
+-- [n.] catch
+
+
 tür : [v.] pull
 
 alt : [v.] stop, cease
+-> altör : [n.] device for stopping
 
 manž : [v.] eat
-sül : [v.] drink
-som : [v.] sleep
+sül
+-- [v.] drink
+-> sülör : [n.] one who drinks (usu. alcohol)
+-- [n.] drink
+
+som
+-- [v.] [intrans] sleep
+-- [n.] sleep
 
 pas : [v.] pass, go by
 
 sit
--- v. thirst
--- n. thirst ##
+-- [v.] thirst
+-- [n.] thirst
 fam
--- v. hunger
--- n. hunger ##
+-- [v.] hunger
+-- [n.] hunger
 
 fatig
--- n. tiredness
+-- [n.] tiredness
 -- v. to tire, make weary
 -- v. [passive] to tire, become weary
-
+-- adj, ??
 
 
 
@@ -494,9 +555,9 @@ nos
 -- v. give birth to
 -- v. [passive] be born
 viv
--- n. life
--- v. live
--- adj. alive
+-- [v.] live
+-- [n.] life
+-- [adj.] alive
 mur
 -- n. death, end
 -- n. dead (person)
@@ -505,21 +566,21 @@ mur
 fil
 -- like, appreciate
 led
--- v. love
--- n. love
+-- [v.] love
+-- [n.] love
 
 don : [v.] give, deal
 -> donina : [n.] donation
-ged
+ged ##
 -- v. get, gain, obtain
 -- v. take, steal
 
-tüš : [intrans.] touch, reach, attain
+tüš : [v.] [intrans.] touch, reach, attain
 
 las
--- v. leave, depart
--> lasina : n. departure ##
--- v. leave behind, let (go of)
+-- [v.] leave, depart
+----> lasina : [n.] departure ##
+-- [v.] leave behind, let (go of)
 perd
 -- n. loss, waste #
 -- v. lose
@@ -534,10 +595,20 @@ probit : v. prohibit, disallow
 -> adj.
 
 kres : [v.] grow
-bran : [v.] burn
--- n. burn
-sken : [v.] climb, scale
--- n. climb
+-> kresör : [n.] one that grows
+
+bran
+-- [v.] burn
+-- [n.] burn
+sken
+-- [v.] climb, scale
+----> skenör : [n.] one that climbs
+-- [n.] climb
+plod
+-- [v.] burst, blow
+----> ustplod : [v.] explode
+----> implod : [v.] implode
+-- [n.] burst, blow
 
 kül
 -- [v.] stick, adhere
@@ -548,18 +619,23 @@ salv : [v.] save
 
 ven : [intrans.] come
 dants
--- v. [intrans.] dance
--- n. dance
+-- [v.] [intrans] dance
+-- [n.] dance
 
 res : leave, depart ####
 -> resina [n.] : departure
 
 
 bras : [v.] ferment, brew
-met : [v.] set, change, assign, put
-kal : [v.] fit, match, correspond
-mel : [v.] mix, combine, blend, tangle, fuse
+-> brasör : [n.] machine or person who prepares mixtures
+-- bras : [n.] concoction, mixture, brew
+met  : [v.] set, change, assign, put
+kal  : [v.] fit, match, correspond
 sked : [v.] split, divide
+mel
+-- [v.] mix, combine, blend, tangle, fuse
+-- [n.] mix, combination, blend
+
 
 konsol : [v.] console
 
@@ -568,70 +644,81 @@ töl
 -- v. to cover with tiles ##
 
 grafit
--- v. scribble, graffiti
--- n. scribble, grafitti
-
+-- [v.] scribble, graffiti
+-- [n.] scribble, grafitti
 stred
--- v. struggle
--- n. struggle
+-- [v.] struggle
+-- [n.] struggle
 limit
--- v. limit
--- n. limit
+-- [v.] limit
+----> limitör : [n.] device that limits
+-- [n.] limit
 list
--- v. list
--- n. list
+-- [v.] list
+-- [n.] list
 troš
--- v. slice, cut
--- n. cut, incision
+-- [v.] slice, cut
+----> trošör : [n.] one that cuts
+-- [n.] cut, incision
 tröb
--- v. work, labour
--- n. work, labour
+-- [v.] work, labour
+----> tröbör : [n.] worker
+-- [n.] work, labour
 štüt
--- v. support
--- n. support
+-- [v.] support
+-- [n.] support
 tortür
--- v. torture
--- n. torture
+-- [v.] torture
+----> tortürör : [n.] torturer
+-- [n.] torture
 mord
--- v. murder
--- n. murder
+-- [v.] kill, murder
+----> mordör : [n.] killer, murderer
+-- [n.] murder
 šarž
 -- v. charge, load
 -- n. charge
 fül
--- v. flow
--- n. flow
+-- [v.] flow
+-- [n.] flow
 fors
--- v. force
--- n. force
+-- [v.] force
+-- [n.] force
 güst
--- v. taste
--- n. taste ##
+-- [v.] taste
+----> güstör : [n.] one that tastes
+-- [n.] taste
 rume :
--- v. dream
--- n. dream ##
+-- [v.] dream
+-- [n.] dream
 fal
--- v. fall; drop, decrease
--- n. fall; drop, decrease
+-- [v.] fall; drop, decrease
+-- [n.] fall; drop, decrease
 
-löv : v. stand, rise
--> lövina : n. stand, rising outrage
-vis : v. see, perceive, view, look
--> visina : n. view, perspective, observation
-spir : v. breathe
--> spirina : n. breath
-vitš : v. win
--> vitšina : n. victory
-leg : v. select, choose, pick
--> legina : n. selection
-lav : v. wash
--> lavina : n. washing
-serš : v. search, seek
--> seršina : n. search
-profit : v. profit
--> profitina : n. profit
-regül : v. regulate
--> regülina : n. regulation
+löv : [v.] stand, rise
+-> lövina : [n.] stand, rising outrage
+vis : [v.] see, perceive, view, look
+-> visina : [n.] view, perspective, observation
+-> visör : [n.] viewer, witness
+spir : [v.] breathe
+-> spirina : [n.] breath
+vitš : [v.] win
+-> vitšina : [n.] victory
+-> vitšör : [n.] victor
+leg : [v.] select, choose, pick
+-> legina : [n.] selection
+lav : [v.] wash
+-> lavina : [n.] washing
+-> lavör : [n.] person or machine that washes
+serš : [v.] search, seek
+-> seršina : [n.] search
+profit : [v.] profit
+-> profitina : [n.] profit
+-> profitör : [n.] profiteer
+regül : [v.] regulate
+-> regülina : [n.] regulation
+-> regülör : [n.] one that regulates
+
 
 === adjectives ===
 škort : [adj.] short
@@ -639,6 +726,7 @@ regül : v. regulate
 lon : [adj.] long
 -> alon : [v.] lengthen
 nov : [adj.] new
+
 ou : [adj.] old
 lis : [adj.] smooth
 -> alis : [v.] smooth
@@ -649,13 +737,14 @@ dar : [adj.] hard
 dus : [adj.] soft
 -> adus : [v.] soften
 gul : [adj.] wet
+
 sek : [adj.] dry
 -> asek : [v.] dry
 net : [adj.] clean
 kras
 -- [adj.] dirty
 -> akras : [v.] to dirty, soil
--- [n.] scum, dirt, grime ##
+-- [n.] scum, dirt, grime
 
 
 motš : [adj.] nice, pleasant
@@ -665,21 +754,21 @@ tis : [adj.] small
 frel : [adj.] weak, fragile
 -> afrel : [v.] to weaken
 fis : [adj.] definite, stable, certain
--> afis : [v.] to stabilize, confirm, 
+-> afis : [v.] to stabilize, confirm
 
 ful : [adj.] full
 -> aful : [v.] fill
+
 vid : [adj.] empty
 -> avid : [v.] empty
--- n. void, emptiness ##
+-- [n.] void, emptiness ##
 
 frid : [adj.] cold
 -> afrid [v.] cool, chill
--- n. cold ##
-
+-- [n.] cold ##
 hoš : [adj.] hot
 -> ahoš [v.] heat (up)
--- n. heat ##
+-- [n.] heat ##
 
 lös : [adj.] single, lone, only
 -> alös [v.] single out
@@ -691,5 +780,5 @@ nüdit : [adj.] naked, nude
 
 === vulgar ===
 bata : [n.] imbecile, bastard
-küs : [intj.] fuck, damn, darn, shit
+küs  : [intj.] fuck, damn, darn, shit
 smet : [v.] to copulate with
