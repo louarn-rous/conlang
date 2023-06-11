@@ -1,3 +1,4 @@
+=== determinants ===
 er : [det.] definite ('the')
 -> d'er [cntrc.] of the
 en : [det.] indefinite ('a'/'an')
@@ -12,11 +13,12 @@ is : [det.] proximal demonstrative ('this')
 -> ödža : [det.] why
 -> leža : [det.] how
 
+=== prepositions ===
 dö : [prep.] ablative particle ### alt: dé
-   - from, of
-   - authorship
+-- from, of
+-- authorship
 öd : [prep.] allative particle
-   - to, for
+-- to, for
 
 im : [prep.] in (contained by, within the bounds of, part of, into)
 -> imir : [v.] enter
@@ -25,24 +27,23 @@ ust : [prep.] out (outside of, away from, not in)
 -> ustir : [v.] exit
 - > ustira : [n.] exit, output
 
-u : [prep.] at, in, near, of
+u    : [prep.] at, in, near, of
 gešt : [prep.] against
-ob : [prep.] on (top of)
-us : [prep.] underneath
+ob   : [prep.] on (top of)
+us   : [prep.] underneath
 
+=== pos. nouns ===
 ot : [n.] up, high, top (of)
 ös : [n.] down, low, bottom (of)
 
-let : [n.] left
+let  : [n.] left
 rešt : [n.] right
+fas  : [n.] front
+dos  : [n.] back
 
 mitel
 -- [n.] middle, centre
--- [adj.] middle, central ###
-
-fas : [n.] front
-dos : [n.] back
-
+-- [adj.] middle, central
 nord
 -- [n.] north
 -- [adj.] northern
@@ -56,38 +57,65 @@ vest
 -- [n.] west
 -- [adj.] western
 
-mer : [adv.] comparative ('more')
+=== adverbs ===
+mer  : [adv.] comparative ('more')
 mest : [adv.] superlative ('most')
-ler : [adv.] diminutive comparative ('less')
+ler  : [adv.] diminutive comparative ('less')
 lest : [adv.] diminutive superlative ('least')
-te : [adv.] too, too much, too many
-jus : [adv.] just, only, simply, merely
+te   : [adv.] too, too much, too many
+jus  : [adv.] just, only, simply, merely
 
 ül : [adj.] (the) previous, anticedent 
 -> üla : [adj.] before
 -> ülna : [adj.] first, primordial
 
-da : [ptcl.] (interrogative, marks the preceding clause as a question)
+alter :
+-- [det.] other
+-- [n.] other
+-- [adj.] other
 
-na : [prep.] (preceding the object of a sentence, marking it as the active agent)
+sti : [prep.] as if, like so, similar to
+-> stit : [adv.] thus, in this way or manner
 
-sti : [prep] as if, like so, similar to
-stit : [adv.] thus, in this way or manner
-
-e : [cnjc.] and
-mit : [cnjc.] with
+=== conjunctions ===
+e   : [cnjc.] and
+mit : [cnjc.] with ##
 
 mo : [cnjc.] also, both, as well, again
 -> omo : [adj.] same, common
 ne : [cnjc.] but, however
 
-alter : adj. n. other
-
 gen : [cjnc.] when, during the time that, at the time of the action of the following clause
-si : [cnjc.] if, in the case/condition that, given/supposing/assuming that
+si  : [cnjc.] if, in the case/condition that, given/supposing/assuming that
+
+=== other particles ===
+da : [ptcl.] interrogative, marks the preceding clause as a question
+
+na : [prep.] precedes the object of a sentence, marking it as the active agent
 
 === affixes ===
 -ör : [suf.] used to form agent nouns
 -ina : [suf.] used to form nouns from verbs, indicating the action or result of what is denoted by the verb
 
 a- : [prf.] used to form verbs from adjectives, indicating that something gains the adjectivial property
+
+=== interjections ===
+halo : [intj.] greeting, call for response ('hello')
+hej  : [intj.] exclamation, protest or reprimand, expression of surprise; informal greeting ('hey')
+
+ja
+-- [intj.] affirmative; used to show agreement or acceptance ('yes')
+-- [par] marks preceding clause as interrogative, prompting affirmation ('isn't it'/'right?')
+
+jos
+-- [intj.] confirmation, acknowledgement ('okay')
+-- v. (transitive) prepare ##
+-- adj. ready, done #
+
+tagrem
+-- [intj.] sorry
+-- [v.] apologise
+-> tagremina : [n.] apology
+-- [adj.] feeling apologetic
+
+
