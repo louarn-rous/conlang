@@ -1,4 +1,4 @@
-alfabèt : n. alphabet
+
 
 arm 
 -- n. weapon
@@ -26,8 +26,8 @@ penal
 -- n. penalty
 -- v. penalize
 
-déplas : v. displace
-dös : n. god, deity
+deplas : v. displace, move
+
 égal
 -- n. equal
 -- v. equal
@@ -35,11 +35,7 @@ dös : n. god, deity
 -- v. inspect, examine
 -- n. examination, test ###
 
-fal
--- v. fall
--- v. drop, decrease
--- n. fall
--- n. drop, decrease
+
 
 fiènd
 -- n. enemy
@@ -68,9 +64,7 @@ glas
 -- n. ice
 -- v. freeze
 
-grafit
--- n. scribble, grafitti
--- v. scribble, graffiti
+
 
 invèrs;n. v. adj. inverse
 
@@ -83,12 +77,12 @@ kamarad
 -- n. comrade, mate
 -- n. (school) fellow student, classmate
 
-kanton : v. canton [vexillology]
+
 kapitèn : n. capitain
 kaž
 -- n. cage
 -- v. to put in a cage
-kél;n. key
+
 kémiš
 -- n. chemistry (academic field)
 -- n. chemical substance
@@ -96,11 +90,10 @@ klas;n. class;v. to put into classes, sort
 klik;n. clicking sound;v. click
 
 
-kompost : n. compost
+
 
 kovér : v. cover
 
-kratèr : n. crater
 
 küb
 -- n. cube
@@ -125,13 +118,9 @@ libèr
 -- adj. free
 -> aliber : [v.]
 
-lozanž
--- n. rhombus, lozange
--- n. pill or tablet, esp. one shaped like a rhombus
-
-lüd;v. play
-lüdo;n. game
-lüdör;n. player
+lüd : v. play
+lüdo : n. game
+lüdör : n. player
 
 lüm
 -- n. light
@@ -141,7 +130,7 @@ mésaž;n. v. message
 
 
 
-mistèr;n. mystery
+mister;n. mystery ##
 
 
 mod;n. way, manner;v. [composite suffix] to play the role of, be
