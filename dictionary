@@ -28,16 +28,16 @@ penal
 
 deplas : v. displace, move
 
-égal
+egal
 -- n. equal
 -- v. equal
-égzam
+egzam
 -- v. inspect, examine
 -- n. examination, test ###
 
 
 
-fiènd
+fiend
 -- n. enemy
 -- adj. hostile
 
@@ -66,7 +66,10 @@ glas
 
 
 
-invèrs;n. v. adj. inverse
+invers
+-- n. inverse
+-- v. inverse
+-- adj. inverse
 
 jot
 -- v. jump
@@ -78,7 +81,6 @@ kamarad
 -- n. (school) fellow student, classmate
 
 
-kapitèn : n. capitain
 kaž
 -- n. cage
 -- v. to put in a cage
@@ -86,8 +88,14 @@ kaž
 kémiš
 -- n. chemistry (academic field)
 -- n. chemical substance
-klas;n. class;v. to put into classes, sort
-klik;n. clicking sound;v. click
+
+klas
+-- n. class
+-- v. to put into classes, sort, classify
+
+klik
+-- n. clicking sound
+-- v. click
 
 
 
@@ -144,24 +152,6 @@ nèkt;v. attach, bind
 
 not;n. brief record, usually written;n. score, mark or grade
 
-nüdit : [adj.] naked, nude
--> anüdit : [v.] to strip of protection or clothing
-
-
-nümer
--- n. number
--- v. to assign a number ##
--- n. number of, count
-nöl
--- num. 0 (zero)
--- adj. none, null, nought
--> anöl : [v.]
-ün : num. 1 (one)
--> ünit : v. unite, unify
-to : num. 2 (two)
-tri : num. 3 (three)
-
-
 pest
 -- n. plague
 -- v. spread plague amongst
@@ -173,13 +163,14 @@ plas
 -> réplas : v. replace
 -- n. place
 
-plod;n. v. burst, blow
+
+
 popül;n. people (collective);v. populate
 
 rož;n. rock, stone;adj. made of or relating to rock or stone ###
-stèn;n. adj. stone, rock ###
+sten;n. adj. stone, rock ###
 
-sésion : n. session
+sesion : n. session
 
 silens
 -- v. silence
