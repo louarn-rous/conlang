@@ -1,17 +1,17 @@
 === numbers ===
-nümer
+nümer {French 'numéro'}
 -- [n.] number
 -- [v.] [trans] to assign a number to
 -- [n.] number of, count
-nöl
+nöl {German 'Null', English 'null', French 'annuler'}
 -- [num.] 0 (zero)
 -- [adj.] none, null, nought
 ---> anöl : [v.] cancel, make null
-ün : [num.] 1 (one)
+ün : [num.] 1 (one) {French 'une'}
 -> ünit : [v.] unite, unify
 to  : [num.] 2 (two)
-tri : [num.] 3 (three)
-mil : [num.] 1000 (thousand)
+tri : [num.] 3 (three) {Russian 'три', French 'trois'}
+mil : [num.] 1000 (thousand) {French 'mille'}
 
 === colours ===
 kolor
@@ -19,15 +19,16 @@ kolor
 -- [v.] colour
 blo   : [m.] blue {Swedish 'blå'}
 brön  : [m.] brown
-gel   : [m.] yellow
+gel   : [m.] yellow {Swedish 'gul', German 'Gelb', Dutch 'geel'}
 griz  : [m.] grey {French 'grize'}
-grön  : [m.] green {German 'grün'}
-van   : [m.] white
+grön  : [m.] green {German 'Grün'}
+van   : [m.] white {Breton 'gwenn'} 
 nor   : [m.] black {French 'noir', ? Italian 'notte'}
-oranž : [m.] orange
+oranž : [m.] orange {French, English 'orange'}
+-> oranž : [n.] orange (fruit)
 rod   : [m.] red {German 'rot', English 'red'}
 roz   : [m.] pink {French 'rose'}
-rus   : [m.] reddish-brown
+rus   : [m.] reddish-brown {French 'rousse'}
 
 === animals ===
 bok    : [n.] goat {Afrikaans}
@@ -41,7 +42,7 @@ lapin  : [n.] rabbit {French}
 leo    : [n.] lion {Latin}
 luv    : [n.] wolf {Latin 'lupus' through French 'louve'}
 mostik : [n.] mosquito {French 'moustique', English 'mosquito'}
-mus    : [n.] mouse
+mus    : [n.] mouse {English 'mouse', French 'souris'}
 oris   : [n.] bird
 otrüš  : [n.] ostrich {French 'otruche'}
 panter : [n.] panther {French 'panthère', Serbian 'пантери'}
@@ -66,26 +67,25 @@ tomat : [n.] tomato {French 'tomate'}
 banan : [n.] banana {French 'banane'}
 onjon : [n.] onion {French 'oignon'}
 soj   : [n.] soy
-oranž : [n.] orange
-nüs   : [n.] nut
--> nüsket : [n.] peanut
-frut
+nüs   : [n.] nut {French 'noix', English 'nut'}
+-> nüsket : [n.] peanut {'nüs' + French 'cacahuète'}
+frut : {French, English 'fruit'}
 -- [n.] fruit
 ----> fruttröbör : [n.] fruitmonger ##
 -- [n.] product, result of
-sukar
+sukar : {Arabic 'سكر' via French 'sucre' & English 'sugar'}
 -- [n.] sugar
 -- [adj.] sweet
 -----> asukar [v.] sweeten
 
 === food ===
-krem {French 'crème'}
+krem : {French 'crème'}
 -- [n.] cream
 -- [v.] to fill or cover with cream
-kebab
+kebab : {Arabic 'كباب' via English 'kebab' & French 'kébab'}
 -- [n.] kebab
 -- [v.] [informal] to pierce with a sharp rod
-žus
+žus : {French 'jus', English 'juice'}
 -- [n.] juice
 -- [v.] to make into juice
 -----> žusör : [n.] machine that makes juice
@@ -101,24 +101,24 @@ sup       : [n.] soup, stew {French 'soupe'}
 akal      : [n.] alcohol {Arabic 'أَكْحَال' via English 'alcohol' & French 'alcool'}
 vodka     : [n.] vodka {Russian 'водка' via French, English 'vodka'}
 tart      : [n.] tart {French 'tarte'}
-maskarpon : [n.] mascarpone
+maskarpon : [n.] mascarpone {Italian 'mascarpone' via French & English}
 makademia : [n.] macadamia
 formaž    : [n.] cheese {Italian 'formaggio' via French 'fromage'}
-tšedar    : [n.] Cheddar (cheese)
+tšedar    : [n.] Cheddar (cheese) {English 'Cheddar'}
 
 === plants & trees ===
-arb     : [n.] tree
-busk    : [n.] bush
-fores   : [n.] forest
-herb    : [n.] grass, herb
+arb     : [n.] tree {French 'arbre'}
+busk    : [n.] bush {English 'bush', ? German 'Busch', ? Finnish 'puska'}
+fores   : [n.] forest {English 'forest', French 'fôret'}
+herb    : [n.] grass, herb {French 'herbe', English 'herb'}
 kaktüs  : [n.] cactus {French 'cactus'}
-lilak   : [n.] lilac
+lilak   : [n.] lilac {English 'lilac'}
 solflor : [n.] sunflower {'sol' + 'flor'}
 -> solflor : [n.] [colloq.] [figurative] person with little to no capacity for independent thought
-tülip   : [n.] tulip
+tülip   : [n.] tulip {French 'tulipe', English 'tulip'}
 bambu   : [m.] bamboo {French 'bambou'}
-burš    : [m.] birch
-akašia  : [m.] acacia
+burš    : [m.] birch {English 'birch', French 'bouleau}
+akašia  : [m.] acacia {English, French 'acacia'}
 flor : {Italian 'fiore', French 'fleur'}
 -- [n.] flower
 -- [v.] [intrans] bloom, blossom, flower
@@ -134,7 +134,7 @@ mets : {Estonian}
 
 === natural phenomena ===
 miraž   : [n.] mirage {French 'mirage'}
-džangal : [n.] jungle
+džangal : [n.] jungle {Hindi 'जंगल' via English 'jungle'}
 biom    : [n.] biome {French 'biome'}
 briz    : [n.] breeze {French 'brize', English 'breeze'}
 feld    : [n.] field {German 'Feld'}
