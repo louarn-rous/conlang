@@ -17,23 +17,24 @@ mil : [num.] 1000 (thousand)
 kolor
 -- [n.] colour, pigment
 -- [v.] colour
-blo   : [m.] blue
+blo   : [m.] blue {Swedish 'blå'}
 brön  : [m.] brown
 gel   : [m.] yellow
 griz  : [m.] grey
-grön  : [m.] green
+grön  : [m.] green {German 'grün'}
 van   : [m.] white
 nor   : [m.] black
 oranž : [m.] orange
-rod   : [m.] red
+rod   : [m.] red {German 'rot', English 'red'}
 roz   : [m.] pink
 rus   : [m.] reddish-brown
 
 === animals ===
-bok    : [n.] goat
+bok    : [n.] goat {Afrikaans}
 bov    : [n.] cow
-ekus   : [n.] horse
-gupil  : [n.] fox
+ekus   : [n.] horse {Latin 'equus'}
+az     : [n.] donkey {Breton 
+gupil  : [n.] fox {Old/Middle French 'goupil'}
 kat    : [n.] cat
 kleb   : [n.] dog
 lapin  : [n.] rabbit
@@ -47,10 +48,10 @@ panter : [n.] panther
 pol    : [n.] chicken
 pors   : [n.] pig
 rat    : [n.] rat
-urs    : [n.] bear
+urs    : [n.] bear {Latin 'ursus'}
 žiraf  : [n.] giraffe
 korvas : [n.] crow, raven
-pesk   : [n.] fish
+pesk   : [n.] fish {Breton}
 -> pesktröbör : [n.] fishmonger ##
 
 === crops ===
@@ -59,7 +60,7 @@ melon : [n.] melon
 radis : [n.] radish
 ris   : [n.] rice
 patat : [n.] potato
-kafe  : [n.] coffee
+kafe  : [n.] coffee {German 'Kaffee'}
 te    : [n.] tea
 tomat : [n.] tomato
 banan : [n.] banana
@@ -136,13 +137,13 @@ miraž   : [n.] mirage
 džangal : [n.] jungle
 biom    : [n.] biome
 briz    : [n.] breeze
-feld    : [n.] field
-velt    : [n.] world
-vent    : [n.] wind
-stürm
+feld    : [n.] field {German 'Feld'}
+velt    : [n.] world {German 'Welt'}
+vent    : [n.] wind {Latin 'ventus'}
+stürm {German 'Sturm', English 'storm'}
 -- [v.] rush, attack, storm
 -- [n.] storm
-glav
+glav {Breton}
 -- [v.] [intrans] (of a liquid) rain
 -- [n.] rain
 snež
@@ -156,7 +157,7 @@ kumul
 -- v. cloud, obstruct, confuse
 
 === space ===
-lün    : [n.] moon
+lün    : [n.] moon {Latin 'luna'}
 planet : [n.] planet
 sol
 -- [n.] sun
@@ -165,7 +166,7 @@ sol
 === marine ===
 haj      : [n.] shark
 klunpesk : [n.] clownfish 
-mar      : [n.] sea
+mar      : [n.] sea {Breton 'mor'}
 osean    : [n.] ocean
 koral    : [m.] coral
 perl     : [m.] pearl
@@ -226,7 +227,7 @@ kol
 hart
 -- [n.] heart
 -- [n.] core, centre, heart
-blüt
+blüt {German 'Blut'}
 -- [v.] bleed
 -- [n.] blood
 kap
@@ -302,7 +303,9 @@ radio
 -- v. communicate with by radio
 
 === tools ===
-fals : [n.] sickle
+fals  : [n.] sickle {Catalan 'falç'}
+brust : [n.] brush {Breton 'broust'}
+torš  : [n.] cloth {Breton 'torch'}
 tamor
 -- [n.] hammer
 -- [v.] to strike with a hammer
@@ -312,18 +315,18 @@ flis
 ----> flisör : [n.] whistle (device)
 
 === music ===
-müzik    : [n.] music
+müzik    : [n.] music {German 'Musik'}
 saksofon : [n.] saxophone
 piano    : [n.] piano
 not : note
 
 === society ===
-stat     : [n.] state, government
+stat     : [n.] state, government {German 'Staat'}
 partit   : [n.] (political) party
 repüblik : [n.] republic
 partizan : [n.] partisan
-soldat   : [n.] soldier
-ženeral  : [n.] general
+soldat   : [n.] soldier {French 'soldat', German 'Soldat'}
+ženeral  : [n.] general 
 
 salar    : [n.] wage, salary
 -> salarör : [n.] salary-man, employee
@@ -346,13 +349,13 @@ prizon : [n.] prison
 
 === places ===
 otel     : [n.] hotel
-katedral : [n.] cathedral
-dom      : [n.] house, home
+katedral : [n.] cathedral {French 'catédrale'}
+dom      : [n.] house, home {Russian 'дома'}
 skol     : [n.] school
 -> skolör : [n.] student
 
 === clothes ===
-šos   : [n.] shoe
+šos   : [n.] shoe 
 šömit : [n.] shirt
 kep   : [n.] cape
 džin  : [m.] jean
@@ -406,13 +409,14 @@ sklev : [n.] slave
 === substance ===
 slem  : [m.] slime, goo, sludge
 pelüš : [m.] fluff, plush
+tan   : [n.] fire
 pul
 -- [n.] powder, dust
 -- [v.] (adorn with) powder
 frus
 -- [m.] froth, moss, foam
 -- [v.] foam, froth
-füm
+füm {French 'fumée'}
 -- [m.] smoke
 -- [v.] produce smoke
 -> fümör :
@@ -433,11 +437,11 @@ lozanž
 -- [n.] pill or tablet, esp. one shaped like a rhombus
 
 === house ===
-kav   : [n.] basement
-somis : [n.] bed
+kav   : [n.] basement {French 'cave'}
+somis : [n.] bed 
 kel   : [n.] key
 -> keltröbör : [n.] locksmith
-tür   : [n.] door, gate
+tür   : [n.] door, gate {German 'Tür'}
 tapir
 -- [n.] carpet
 -- [v.] to cover with carpet
@@ -471,14 +475,14 @@ nošt  : [n.] night
 damer : [n.] dusk
 sekond : [n.] second
 minüt : [n.] minute
-uur   : [n.] hour 
-mens  : [n.] month
+uur   : [n.] hour {German 'Uhr'}
+mens  : [n.] month {Latin 'mensis' through French 'mensuel'}
 
 === people ===
 klun : [n.] clown
 
 === misc ===
-dös     : [n.] god, deity
+dös     : [n.] god, deity {Portugese 'Deus'}
 kompost : [n.] compost
 
 === jargon ===
