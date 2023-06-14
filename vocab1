@@ -40,9 +40,10 @@ kat    : [n.] cat {English, German 'Katze'}
 kleb   : [n.] dog
 lapin  : [n.] rabbit {French}
 leo    : [n.] lion {Latin}
-luv    : [n.] wolf {Latin 'lupus' through French 'louve'}
+luv    : [n.] wolf {Latin 'lupus' via French 'louve'}
 mostik : [n.] mosquito {French 'moustique', English 'mosquito'}
 mus    : [n.] mouse {English 'mouse', French 'souris'}
+-> mus : [n.] computer mouse
 oris   : [n.] bird
 otrüš  : [n.] ostrich {French 'otruche'}
 panter : [n.] panther {French 'panthère', Serbian 'пантери'}
@@ -66,7 +67,7 @@ te    : [n.] tea {German 'Tee'}
 tomat : [n.] tomato {French 'tomate'}
 banan : [n.] banana {French 'banane'}
 onjon : [n.] onion {French 'oignon'}
-soj   : [n.] soy
+soj   : [n.] soy {Satsuma Jp. '醤油' via Dutch 'soja' via French 'soja' & English 'soy'}
 nüs   : [n.] nut {French 'noix', English 'nut'}
 -> nüsket : [n.] peanut {'nüs' + French 'cacahuète'}
 frut : {French, English 'fruit'}
@@ -76,7 +77,7 @@ frut : {French, English 'fruit'}
 sukar : {Arabic 'سكر' via French 'sucre' & English 'sugar'}
 -- [n.] sugar
 -- [adj.] sweet
------> asukar [v.] sweeten
+-----> asukar [v.] sweeten {'-a' + 'sukar'}
 
 === food ===
 krem : {French 'crème'}
@@ -89,7 +90,7 @@ kebab : {Arabic 'كباب' via English 'kebab' & French 'kébab'}
 -- [n.] juice
 -- [v.] to make into juice
 -----> žusör : [n.] machine that makes juice
-frit
+frit : {French 'frite'}
 -- [n.] fry
 -- [v.] fry
 
@@ -128,8 +129,8 @@ föl : {French 'feuille'}
 -- [n.] leaflet, strip of paper
 mets : {Estonian}
 -- [n. unc.] wood
-----> metstrošör : [n.] lumberjack
-----> metströbör : [n.] woodworker
+----> metstrošör : [n.] lumberjack {'mets' + 'troš' + '-ör'}
+----> metströbör : [n.] woodworker {'mets' + 'tröbör'}
 -- [n.] forest, woods
 
 === natural phenomena ===
@@ -146,7 +147,7 @@ stürm {German 'Sturm', English 'storm'}
 glav {Breton}
 -- [v.] [intrans] (of a liquid) rain
 -- [n.] rain
-snež
+snež {English 'snow', French 'neige'}
 -- [v.] [intrans] (of a powder or snow-like substance) snow 
 -- [n.] snow
 tšel {Italian 'cielo'}
@@ -166,28 +167,28 @@ sol {Latin 'sol' via French 'solaire'}
 === marine ===
 haj      : [n.] shark {Swedish}
 klunpesk : [n.] clownfish {'klun' + 'pesk'}
-mar      : [n.] sea {Breton 'mor'}
+mar      : [n.] sea {Breton 'mor', French 'mer'}
 osean    : [n.] ocean {French 'océan'}
 koral    : [m.] coral {French 'corail', English 'coral'}
 perl     : [m.] pearl {French 'perle'}
 
 === geological & mineral ===
-bronz    : [m. unc.] bronze
+metal    : [m. unc.] metal {French 'métal'}
+-> metaltröbör : [n.] metalworker {'metal' + 'tröbör'}
+bronz    : [m. unc.] bronze {English 'bronze'}
 fer      : [m. unc.] iron {French}
-ardžent  : [m. unc.] silver 
+ardžent  : [m. unc.] silver {Latin 'argentum' via French 'argent'}
 or       : [m. unc.] gold {French}
-granit   : [m. unc.] granite {French 'granit' through Russian 'гранит'}
-kvardz   : [m. unc.] quartz
-diamant  : [m.] diamond
+granit   : [m. unc.] granite {French 'granit' via Russian 'гранит'}
+kvardz   : [m. unc.] quartz {German 'Quarz' via French & English 'quartz'}
+diamant  : [m.] diamond {French, German 'Diamant'}
 emrod    : [m.] emerald {French 'émeraude', English 'emerald'}
 
-terakota : [m.] terracotta
-magma    : [m. unc.] magma
-metal    : [m. unc.] metal
--> metaltröbör : [n.] metalworker
+terakota : [m.] terracotta {Italian 'terracotta'}
+magma    : [m. unc.] magma {Anc. Greek 'μάγμα' via French, English}
 
 kav      : [n.] cave {French 'cave'}
--> kavör : [n.] one who explores caves
+-> kavör : [n.] one who explores caves {'kav' + '-ör'} 
 ravin    : [n.] ravine
 krater   : [n.] crater {French 'cratère'}
 
@@ -204,23 +205,23 @@ mont
 -- [n.] mountain
 ----> ?? mountaineer
 -- [v.] [trans] to tower over, to dwarf
-sel {French}
+sel : {French}
 -- [n.] salt
 -- [v.] [trans] salt
 tünel : {French 'tunnel'}
 -- [n.] tunnel
 -- [v.] (to make a) tunnel through
-----> tünelör : [n.] one who tunnels
+----> tünelör : [n.] one who tunnels {'tünel' + '-ör'}
 
 === körp · body ===
-pil    : [n.] hair
+pil    : [n.] hair {Latin 'pilus' via French 'épiler'}
 öl     : [n.] eye {French 'œil'}
 nas    : [n.] nose {Latin 'nasus' via English, French 'nasal'}
 mož    : [n.] mouth
 dent   : [n.] tooth {Latin 'dens' via French 'dentiste'/'dentaire', English 'dentist'/'dental'}
-leng   : [n.] tongue
-ost    : [n.] bone
-skelet : [n.] skeleton
+leng   : [n.] tongue {French 'langue'}
+ost    : [n.] bone {Anc. Greek 'ὀστέον' via French 'ostéo-'}
+skelet : [n.] skeleton {Anc. Greek 'σκελετός' via French 'squelette' & English 'skeleton'}
 kol : {Latin 'collum' via French 'col' & English 'collar'}
 -- [n.] neck
 -- [n.] collar
@@ -252,25 +253,24 @@ süt
 -- [n.] sweat; residue
 
 === biology ===
-lön
+lön : {French 'laine'}
 -- [n.] wool
 -- [adj.] woolen
-melk
+melk : {English 'milk', French 'lait'}
 -- [n.] milk
 -- [v.] [usu. of an animal] milk
 -- [v.] exploit excessively
 ov   : [n.] egg {Latin 'ovum'}
 zbas : [n.] wing
 sübas : wing (archaic)
-fung :
+fung : {Italian 'funghi'}
 -- [n.] mushroom
 ----> [n.] [colloq.] penis
 
 === technology ===
 disk  : [n.] disk, disc, record, CD, CD-ROM {French 'disque', English 'disc'/'disk'}
 kaset : [n.] cassette, cartridge {French, English 'cassette'}
-donet : [n.] data
-mus   : [n.] computer mouse
+donet : [n.] data {French 'donées'}
 pilül : [n.] pill, pastule {French 'pilule'}
 miok  : [n.] truck
 -> miokör : [n.] truck driver
@@ -476,7 +476,7 @@ damer : [n.] dusk
 sekond : [n.] second
 minüt : [n.] minute {French, English 'minute'}
 uur   : [n.] hour {German 'Uhr'}
-mens  : [n.] month {Latin 'mensis' through French 'mensuel'}
+mens  : [n.] month {Latin 'mensis' via French 'mensuel'}
 
 === people ===
 klun : [n.] clown {French 'clown'}
@@ -523,7 +523,7 @@ trös
 
 tür : [v.] pull
 
-alt : [v.] stop, cease
+alt : [v.] stop, cease {German 'Halt'}
 -> altör : [n.] device for stopping
 
 manž : [v.] eat {Italian 'mangiare', French 'manger'}
@@ -541,7 +541,7 @@ pas : [v.] pass, go by
 sit
 -- [v.] thirst
 -- [n.] thirst
-fam
+fam : {Latin 'fames' via French 'faim'}
 -- [v.] hunger
 -- [n.] hunger
 
@@ -599,7 +599,7 @@ permit : [v.] allow, permit
 probit : [v.] prohibit, disallow
 -> adj.
 
-kres : [v.] grow {Latin 'crescere' through Portugese 'crescer'}
+kres : [v.] grow {Latin 'crescere' via Portugese 'crescer'}
 -> kresör : [n.] one that grows
 
 bran {Swedish 'brann'}
