@@ -35,6 +35,7 @@ bok    : [n.] goat {Afrikaans}
 bov    : [n.] cow {Late Latin 'bovinus'}
 ekus   : [n.] horse {Latin 'equus'}
 az     : [n.] donkey {Breton 'azen'}
+kuz    : [n.] sheep {Turkish 'kuzu'}
 gupil  : [n.] fox {Old/Middle French 'goupil'}
 kat    : [n.] cat {English, German 'Katze'}
 kleb   : [n.] dog
@@ -275,9 +276,9 @@ pilül : [n.] pill, pastule {French 'pilule'}
 miok  : [n.] truck
 -> miokör : [n.] truck driver
 raj   : [n.] rail {French 'rail'}
--> rajtröbör : [n.] rail-worker
+-> rajtröbör : [n.] rail-worker {'raj' + 'tröbör'}
 
-drog :
+drog : {English 'drug', French 'drogue'}
 -- [n.] medicinal substance
 -- [n.] narcotic, hallucinogen or stimulant
 -- [n.] [figurative] having the effect of a drug, addictive
@@ -317,7 +318,7 @@ flis : {Frisian 'fluitsje', French 'siffle(t)'}
 === music ===
 müzik    : [n.] music {German 'Musik'}
 saksofon : [n.] saxophone
-piano    : [n.] piano
+piano    : [n.] piano {Italian}
 not : note
 
 === society ===
