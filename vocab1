@@ -389,7 +389,6 @@ heer
 enor {Breton}
 -- [v.] honor
 -- [n.] honor
- 
 
 fren :
 -- [n.] mind
@@ -535,20 +534,25 @@ trös
 -> trösör : [n.] one who catches
 -- [n.] catch
 
-
-tür  : [v.] pull
-prüs : [v.] push
+šam  : [v.] hide, conceal
+avis : [v.] show, uncover, demonstrate, discover
+lüs  : [v.] open
+üset : [v.] close
+tör  : [v.] pull
+prös : [v.] push
 
 alt : [v.] stop, cease {German 'Halt'}
 -> altör : [n.] device for stopping
-
-tat : [v.] sit
 
 manž : [v.] eat {Italian 'mangiare', French 'manger'}
 sül
 -- [v.] drink
 -> sülör : [n.] one who drinks (usu. alcohol)
 -- [n.] drink
+
+tenj
+-- [v.] stain
+-- [n.] stain
 
 som : {Latin 'somnus' via French 'sommeil'}
 -- [v.] [intrans] sleep
@@ -656,7 +660,7 @@ bras : [v.] ferment, brew
 met  : [v.] set, change, assign, put
 kal  : [v.] fit, match, correspond
 sked : [v.] split, divide
-mel
+mel : {French 'mêler'}
 -- [v.] mix, combine, blend, tangle, fuse
 -- [n.] mix, combination, blend
 
@@ -665,28 +669,30 @@ ovis : [v.] show, uncover, demonstrate, discover
 lüs  : [v.] open
 uset : [v.] close
 
-
+baes
+-- [v.] bite
+-- [v.] [colloq.] kid, fool around
 
 konsol : [v.] console
 
-töl {French 'tuile'}
+töl : {French 'tuile'}
 -- [n.] tile, pane, plate, square, panel
 -- [v.] to cover with tiles ##
 
 grafit
 -- [v.] scribble, graffiti
 -- [n.] scribble, grafitti
-stred {Frisian 'striid', Swedish 'strida'}
+stred : {Frisian 'striid', Swedish 'strida'}
 -- [v.] struggle
 -- [n.] struggle
-limit {French 'limite', English}
+limit : {French 'limite', English}
 -- [v.] limit
 ----> limitör : [n.] device that limits
 -- [n.] limit
-list {French 'liste', English}
+list : {French 'liste', English}
 -- [v.] list
 -- [n.] list
-troš
+troš : {French 'trancher'}
 -- [v.] slice, cut
 ----> trošör : [n.] one that cuts
 -- [n.] cut, incision
@@ -714,17 +720,17 @@ fül
 fors
 -- [v.] force
 -- [n.] force
-marš
+marš : {English 'march', French 'marcher'}
 -- [v.] march
 -- [n.] march
 güst
 -- [v.] taste
 ----> güstör : [n.] one that tastes
 -- [n.] taste
-rume :
+rume : {Japanese '夢', French 'rêve', English 'dream'}
 -- [v.] dream
 -- [n.] dream
-fal {Swedish 'falla'}
+fal : {Swedish 'falla'}
 -- [v.] fall; drop, decrease
 -- [n.] fall; drop, decrease
 
@@ -763,7 +769,7 @@ nov : [adj.] new
 ou : [adj.] old {Afrikaans}
 lis : [adj.] smooth {French 'lisse'}
 -> alis : [v.] smooth
-plat : [adj.] flat
+plat : [adj.] flat {French 'aplatir'}
 -> aplat : [v.] flatten
 dar : [adj.] hard
 -> adar : [v.] harden
@@ -773,17 +779,20 @@ gul : [adj.] wet
 
 sek : [adj.] dry
 -> asek : [v.] dry
-net : [adj.] clean
-kras
+net : [adj.] clean {Breton 'naet'}
+kras : {French 'crasse'}
 -- [adj.] dirty
 -> akras : [v.] to dirty, soil
 -- [n.] scum, dirt, grime
 
+sut : [adj.] still, down, seated
+-> asut : [v.] sit down
 
 motš : [adj.] nice, pleasant
 
 tis : [adj.] small
 -> atis : [v.] to reduce, shrink
+
 frel : [adj.] weak, fragile
 -> afrel : [v.] to weaken
 fis : [adj.] definite, stable, certain
@@ -792,7 +801,7 @@ fis : [adj.] definite, stable, certain
 ful : [adj.] full
 -> aful : [v.] fill
 
-vid : [adj.] empty
+vid : [adj.] empty {French 'vide'}
 -> avid : [v.] empty
 -- [n.] void, emptiness ##
 
@@ -803,12 +812,11 @@ hoš : [adj.] hot
 -> ahoš [v.] heat (up)
 -- [n.] heat ##
 
+tün : [adj.] whole, complete, entire
 lös : [adj.] single, lone, only
 -> alös [v.] single out
 püli : [adj.] multiple, plural
 -> apüli [v.] : to make plural, to multiply; to duplicate
-
-tün : [adj.] whole, complete, entire
 
 nüdit : [adj.] naked, nude
 -> anüdit : [v.] to strip of protection or clothing
