@@ -220,6 +220,8 @@ pil    : [n.] hair {Latin 'pilus' via French 'épiler'}
 öl     : [n.] eye {French 'œil'}
 nas    : [n.] nose {Latin 'nasus' via English, French 'nasal'}
 mož    : [n.] mouth
+stom   : [n.] [archaic] mouth {Anc. Greek 'στόμα'}
+-> stomak : [n.] stomach {Anc. Greek 'στόμαχος'}
 dent   : [n.] tooth {Latin 'dens' via French 'dentiste'/'dentaire', English 'dentist'/'dental'}
 leng   : [n.] tongue {French 'langue'}
 ost    : [n.] bone {Anc. Greek 'ὀστέον' via French 'ostéo-'}
@@ -504,6 +506,10 @@ ser
 -- [v.] signifies, represents, means
 -> serina : [n.] meaning
 ir  : [v.] go, move (oneself)
+
+tatlen
+-- [v.] doubt
+-- [n.] doubt
 
 söt : [v.] create, make, build, assemble, bring to fruition
 
