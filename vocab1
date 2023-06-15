@@ -157,10 +157,13 @@ snež {English 'snow', French 'neige'}
 -- [n.] snow
 tšel {Italian 'cielo'}
 -- [n.] sky
--- n. ceiling
+-- [n.] ceiling ##
 kumul {Latin 'cumulus'}
 -- [n.] cloud
--- v. cloud, obstruct, confuse
+-- [v.] [trans] cloud, obstruct, confuse
+lant
+-- [n.] land
+-- [v.] [intrans] make contact/arrive at land surface from air or sea
 
 === space ===
 lün    : [n.] moon {Latin 'luna'}
