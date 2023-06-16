@@ -112,18 +112,17 @@ hej  : [intj.] exclamation, protest or reprimand, expression of surprise; inform
 
 ja
 -- [intj.] affirmative; used to show agreement or acceptance ('yes')
--- [par] marks preceding clause as interrogative, prompting affirmation ('isn't it'/'right?')
+-- [ptcl.] marks preceding clause as interrogative, prompting affirmation ('isn't it'/'right?')
 
 jos
 -- [intj.] confirmation, acknowledgement ('okay')
-
--- [v.] [trans] prepare ##
--- [adj.] ready, done #
+-- [adj.] ready, done
+----> ajos [v.] : make ready; prepare
 
 tagrem
 -- [intj.] sorry
 -- [v.] apologise
--> tagremina : [n.] apology
--- [adj.] feeling apologetic
+----> tagremina : [n.] apology
+-- [adj.] apologetic
 
 
