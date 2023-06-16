@@ -519,6 +519,10 @@ tatlen
 
 söt : [v.] create, make, build, assemble, bring to fruition
 
+tös :
+-- [v.] to make into/become, turn the subject into
+-- [v.] [reflexive] to become, to turn into
+
 gan : [v.] can, able to
 müs : [v.] have to (do something)
 düs : [v.] should
@@ -583,8 +587,8 @@ fatig
 
 
 nos
--- v. give birth to
--- v. [passive] be born
+-- [v.] [trans] give birth to
+-- [v.] [intrans] [passive] be born
 viv
 -- [v.] live
 -- [n.] life
@@ -789,10 +793,10 @@ kras : {French 'crasse'}
 -> akras : [v.] to dirty, soil
 -- [n.] scum, dirt, grime
 
-sut : [adj.] still, down, seated
--> asut : [v.] sit down
+sut : [adj.] still, down, low, seated
+-> asut : [v.] sit/lay down
 
-motš : [adj.] nice, pleasant
+
 
 tis : [adj.] small
 -> atis : [v.] to reduce, shrink
@@ -802,8 +806,9 @@ frel : [adj.] weak, fragile
 fis : [adj.] definite, stable, certain
 -> afis : [v.] to stabilize, confirm
 
-yats
--> ayats
+motš : [adj.] nice, pleasant
+yats : [adj.] great, grand, mighty
+-> ayats : [v.] make great, improve, elevate
 
 ful : [adj.] full
 -> aful : [v.] fill
