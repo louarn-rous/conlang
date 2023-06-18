@@ -72,6 +72,17 @@ the braille alphabet is inspired by French, English, Czech and Scandinavian brai
 | Capital marker | ⠠ |
 | Number sign | ⠼ |
 
+## Verbs
+
+| Tense          | Example         | Ending |
+|:---:           |:---             |:---:   |
+| Simple Past    | I did           | -a     |
+| Simple Present | I do            | -e     |
+| Simple Future  | I will do       | -i     |
+| Contd. Past    | I was doing     | -as    |
+| Contd. Present | I am doing      | -et    |
+| Contd. Future  | I will be doing | -is    |
+
 ## Pronouns
 
 ### Personal
