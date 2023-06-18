@@ -4,16 +4,21 @@ arm
 -- n. weapon
 -- v. bear or equip weapons
 -- v. prime, charge with ammunition
+
 až
 -- n. age
 -- v. age, grow older
 
 baner : n. banner
+
 bild : v. build
+
 bit
 -- n. beet
 -- n. [computing] binary digit
-bonüs : n. adj. bonus
+
+bonüs : [m.] bonus
+
 brik
 -- n. brick, ingot, brick-shaped item
 -- v. [computing] (of a dev) to become non-functional
@@ -29,11 +34,10 @@ deplas : v. displace, move
 egal
 -- n. equal
 -- v. equal
+
 egzam
 -- v. inspect, examine
 -- n. examination, test ###
-
-
 
 fiend
 -- n. enemy
@@ -43,10 +47,10 @@ fin
 -- v. complete, finish
 -- n. end
 
-
 flot
 -- v. float
 -- n. fleet
+
 fob 
 -- n. fear
 -- v. fear
@@ -55,14 +59,9 @@ furn
 -- n. oven, furnace
 -- v. to bake
 
-
-
-
 glas
 -- n. ice
 -- v. freeze
-
-
 
 invers
 -- n. inverse
@@ -73,17 +72,15 @@ jot
 -- v. jump
 -- n. jump
 
-
 kamarad
 -- n. comrade, mate
 -- n. (school) fellow student, classmate
-
 
 kaž
 -- n. cage
 -- v. to put in a cage
 
-kémiš
+kemiš
 -- n. chemistry (academic field)
 -- n. chemical substance
 
@@ -100,13 +97,12 @@ küb
 -- n. [mathematics] third power of a number or term
 -- v. [mathematics] multiply a number by itself twice
 
-lémur;n. ghost, spirit of the dead;n. lemur (lemur catta)
+lemur : n. ghost, spirit of the dead;n. lemur (lemur catta) ###
 
-léng;n. language ?
-lèk;n. lick ??
+leng : n. language ?
+lek : n. lick ??
 
-
-libèr
+liber
 -- n. freedom
 -- adj. free
 -> aliber : [v.]
@@ -115,33 +111,35 @@ lüd : v. play
 lüdo : n. game
 lüdör : n. player
 
-mésaž;n. v. message
+mesaž
+-- [v.] message
+-- [n.] message
 
-mister;n. mystery ##
+mister : [n.] mystery ##
 
-mod;n. way, manner;v. [composite suffix] to play the role of, be
+mod
+-- [n.] style, fashion, way, manner
+-- [v.] [composite suffixial verb] to play the role of, be
 
-modif;v. modify, change, edit
+modif : [v.] modify, change, edit
 
-nèkt;v. attach, bind
+nekt : [v.] attach, bind
 
-not;n. brief record, usually written;n. score, mark or grade
-
-pest
--- n. plague
--- v. spread plague amongst
--- n. annoyance
--- v. plague, pester, annoy
+not
+-- [n.] brief record, usually written
+-- [n.] score, mark or grade
 
 plas
 -- v. place
--> réplas : v. replace
+-> replas : v. replace
 -- n. place
 
-popül;n. people (collective);v. populate
+popül
+-- n. people (collective)
+-- v. populate
 
-rož;n. rock, stone;adj. made of or relating to rock or stone ###
-sten;n. adj. stone, rock ###
+rož : [m.] rock, stone
+sten : [m.] stone, rock ###
 
 sesion : n. session
 
@@ -154,24 +152,41 @@ stasion
 -- n. station
 -- v. station at, occupy
 
-
-ter
--- n. earth, ground, dirt
--- v. (of electrical equipment) connect to the ground
--- v. (of aircraft) prevent from flying
-
 tšans : n. chance, luck
 
 ver
 -- [n.] glass
 -- [adj.] made up of, or relating to, glass
 -> aver : [v.] to turn into glass
--- n. a vessel, especially one made of glass or transparent plastic, from which one drinks
+-- [n.] a vessel, especially one made of glass or transparent plastic, from which one drinks
 
-vilaž;n. village
+vilaž : [n.] village
+-> vilažör : [n.] villager {'vilaž' + '-ör'}
 
-vizit;v. visit
+vizit : v. visit
+
 votš
 -- n. voice
 -- v. express, voice
 
+=== verbs ===
+
+skrib : v. write
+
+prom : v. promise
+
+kur : v. run
+
+vol : v. fly
+
+levit : v. levitate, hover
+
+bat : v. beat, hit, defeat
+
+raz : v. shear, shave
+
+šant : v. sing
+
+frot : v. rub
+
+süs : v. suck, slurp
