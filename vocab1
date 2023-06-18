@@ -561,6 +561,7 @@ lüs  : [v.] open
 üset : [v.] close
 tör  : [v.] pull
 prös : [v.] push
+prem : [v.] press
 
 alt : [v.] stop, cease {German 'Halt'}
 -> altör : [n.] device for stopping
