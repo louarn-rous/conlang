@@ -76,12 +76,14 @@ the braille alphabet is inspired by French, English, Czech and Scandinavian brai
 
 | Tense          | Example         | Ending |
 |:---:           |:---             |:---:   |
-| Simple Past    | I did           | -a     |
+| Simple Past    | I did           | -i     |
 | Simple Present | I do            | -e     |
-| Simple Future  | I will do       | -i     |
-| Contd. Past    | I was doing     | -as    |
+| Simple Future  | I will do       | -a     |
+| Contd. Past    | I was doing     | -is    |
 | Contd. Present | I am doing      | -et    |
-| Contd. Future  | I will be doing | -is    |
+| Contd. Future  | I will be doing | -as    |
+
+Verbs are conjugated by taking the root and appending the ending as a suffix.
 
 ## Pronouns
 
