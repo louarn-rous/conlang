@@ -421,6 +421,7 @@ sklev : [n.] slave
 slem  : [m.] slime, goo, sludge
 pelüš : [m.] fluff, plush
 tan   : [n.] fire {Breton}
+-> atan : [v.] light on fire @@
 pul
 -- [n.] powder, dust
 -- [v.] (adorn with) powder
@@ -438,6 +439,9 @@ flam : {French 'flamme'}
 -- [n.] [figurative] strong passion
 -- [v.] to set ablaze, aflame @
 -- [v.] to deliberately encourage hostility or anger
+lüm :
+-- [n.] light
+-- [v.] cast light onto/throughout
 
 === form ===
 štok : [n.] stick, branch; handle, rod {German 'Stock'}
@@ -797,7 +801,7 @@ kras : {French 'crasse'}
 sut : [adj.] still, down, low, seated
 -> asut : [v.] sit/lay down
 
-
+stese : [adj.] sacred, blessed
 
 tis : [adj.] small
 -> atis : [v.] to reduce, shrink
