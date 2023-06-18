@@ -14,8 +14,8 @@ It utilises Subject-Verb-Object word order.
 | Tap/Flap         |         | /ɾ~r/     |           |     |         |     |
 | Lat. Approximant |         | /l/       |           | /ʎ/ |         |     |
 
-/ʝ/ is a frequent allophone of /j/.
-/ɕ/ is a frequent allophone of /ʃ/.
+/ʝ/ is a frequent allophone of /j/.  
+/ɕ/ is a frequent allophone of /ʃ/.  
 /ʑ/ is a frequent allophone of /ʒ/.
 
 | Vowels    | Front   | Back |
