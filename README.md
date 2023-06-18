@@ -11,8 +11,12 @@ It utilises Subject-Verb-Object word order.
 | Affricate        |         | /ts/ /dz/ | /tʃ/ /dʒ/ |     |         |     |
 | Fricative        | /f/ /v/ | /s/ /z/   | /ʃ/ /ʒ/   |     |         | /h/ |
 | Approximant      |         |           |           | /j/ |         |     |
-| Tap/Flap         |         | /ɾ/       |           |     |         |     |
+| Tap/Flap         |         | /ɾ~r/     |           |     |         |     |
 | Lat. Approximant |         | /l/       |           | /ʎ/ |         |     |
+
+/ʝ/ is a frequent allophone of /j/.
+/ɕ/ is a frequent allophone of /ʃ/.
+/ʑ/ is a frequent allophone of /ʒ/.
 
 | Vowels    | Front   | Back |
 | ---       |:---:    |:---:|
@@ -22,10 +26,13 @@ It utilises Subject-Verb-Object word order.
 
 | Group  | Diphtong |
 |:---:   |:---: |
-| //ai// | [aɪ] |
+| //ou// | \[o̞ʊ] |
 | //ae// | [ɐe̞] |
-| //ou// | [oʊ] |
-| //ui// | [ʊɪ] |
+| //ai// | [aɪ] |
+| //au// | [äʊ] |
+| //ue// | [ʊɪ] |
+| //ui// | [ʊi] |
+| //üe// | [ɨɪ] |
 
 ## Alphabet
 The Ižter language has two scripts/alphabet: one Latin and one Cyrillic (similar to Serbian)
