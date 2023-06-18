@@ -220,7 +220,10 @@ tünel : {French 'tunnel'}
 -- [n.] tunnel
 -- [v.] (to make a) tunnel through
 ----> tünelör : [n.] one who tunnels {'tünel' + '-ör'}
-
+ter : {French 'terre'}
+-- [n.] earth, ground, dirt
+-- [v.] (of electrical equipment) connect to the ground
+-- [v.] (of aircraft) prevent from flying
 === körp · body ===
 pil    : [n.] hair {Latin 'pilus' via French 'épiler'}
 öl     : [n.] eye {French 'œil'}
@@ -501,6 +504,11 @@ dös     : [n.] god, deity {Portugese 'Deus'}
 kompost : [n.] compost {English, French 'compost'}
 post    : [n.] mail {English, French 'poste'}
 -> pos'tröbör : [n.] postman {'post' + 'tröbör'}
+pest : {French 'peste', English 'pester'}
+-- [n.] plague
+-- [v.] spread plague amongst
+-- [n.] annoyance
+-- [v.] plague, pester, annoy
 
 === jargon ===
 alfabet : [n.] [f:linguistics] alphabet
@@ -603,8 +611,10 @@ mur : {French 'mourir'}
 -- [n.] dead (person)
 -- [v.] die, end
 
+
+
 fil
--- like, appreciate
+-- [v.] like, appreciate
 led
 -- [v.] love
 -- [n.] love
