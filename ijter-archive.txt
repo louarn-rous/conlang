@@ -1,0 +1,197 @@
+
+=== conlang-archive ====
+
+`2022/12/29 [from #announcements]` it's funny that consonants ended up being pretty international even if my intention was never to make an auxlang
+and before you say /h/ isn't international, i had to learn to pronounce it as a completely new sound so..
+it becomes v. clear that it's not international when you look at the vocab, the vast majority of which is taken from either english, french, german or a mix between them. i'm also aware that the very large number of consonants is the opposite of international, although i'll likely get rid of /ə/ (which i planned to do multiple times) and certainly /ɑ/ since i never planned for it to be there
+also /ɔ/ has been a part of the vowels but rarely implemented so i might include it only as a digraph
+not a digraph but like a rule, like 'or' becomes [ɔʁ] instead of [oʁ]
+keeping in mind that most words are taken from en, fr or de, if you have any ideas for words or such pls dm me :3
+other stuff im aiming towards: inclusive and exclusive 'we', minimal conjugation of verbs according to pronouns, general regularity
+
+`2022/12/30 [from #announcements]` oh also i make sorta start making a 2nd conlang, which would essentially be a sort of very dense informational medium which uses pictograms to represent certain concepts
+i heard the term 'engineering language' in reference to that kind of thing but when i tried searching for it all that came up was stuff on programming languages that are good in the field of engineering, rather than... anything related to conlanging
+also i started writing a piece on how english could be made to be more consistent and efficient, i don't think i'll make a conlang (con-dialect?) out of it though, i'll probably expand upon it maybe a little and then type it up so i can make it into a blog
+i should actually start doing that, i've got a bunch of stuff i've written down and done nothing with when  they might be good if i could put them up on my page
+i have a lot of personal projects atm, hopefully ill remember to show you guys more of them and more often here
+
+`2023/01/18` looking at pronouns (inc. possessives) and articles, comparative and superlative for adjectives
+pissed cause so many nasalized sounds in french that feel natural to me but i can't include
+also ive noticed that /ə/ is a good sound but i personally have difficulty differentiating it with /œ/
+which came up while i was still deciding phonemes, i decided to go with /œ/ but it was only over slight preference
+if i got rid of /œ/ in favour of /ə/ i would probably also get rid of /ø/ (also ive yet to use /œ/ in ANY vocab so unless i find a good use without shoving it in just for the sake of using it, i might leave it behind) in order to have a smaller vowel inventory
+
+`2023/02/16` had a great idea of using flesh as both a noun and a verb meaning 'to give shape/form to', like how we say 'fleshed out' in english
+
+`2023/02/28` what if i just. didnt have possessives and instead just put the object after the subject
+
+`2023/02/31` [...] da - it's [...] (asserting statement)
+
+`2023/03/06` ok so back to alphabet for once
+many languages use ö for /ø/, a lot of them (Asturian in Iberia, Chenchen, Estonian, German and some of its dialects, Lombard, Luxembourgish, Sater Frisian among others)
+its nice to have ø represent itself but of course thats not a rule ive ever considered, otherwise /e/ wouldnt be é
+i feel like ø looks to distinctly scandinavian, which is bad considering my language has very minor scandinavian influence
+because yes, aesthetics is important when considering alphabet
+ö is used by a bunch of germanic languages, which have arguably the most influence on my conlang (remember, english is a germanic language, im also often borrow from german and dutch) so it makes sense i would use it
+i think more of the examples of /ø/ on wikipedia use ö compared to ø
+the `o ö` pair would also go nicely with `é è`
+
+`2023/03/07` in a couple cases im conflicted between roman and latin roots
+for example, idk if 'god' should be 'Got' or 'Dös'/'Döš'
+
+`2023/03/10` what if i used `ü` instead of`y`? it would allow me to forego the use of `y` entirely (because broken keyboard + `y` looks completely different to `u` even though they are 'twinned' in my alphabet due to vague phonetic proximity\) plus multiple languages use it to represent /y/ while `u` represents... /u/
+
+`2023/03/10` saw something i'd written down before: i should have a particle to demonstrate when a verb is reflexive or intransitive (which are different)
+
+`2023/03/10` steering things in a diff. direction: i'm not giving up, i will still have a non-roman script
+
+`2023/03/10` since im very interested by concepts surrounding input, language and codes, i'm gonna see if i can come up with a sort of highly efficient keyboard-type thing which isnt in traditional layout/structure
+
+`2023/03/17` what is better: 'got' (germanic, e.g: "god" in english, "gott" in german) or 'dös' (latin, e.g: "dieu" in french, "dio" in italian, "deus" in portugese)
+...please give me feedback i need to make progress
+
+`2023/03/17` __Cyrillic Alphabet 1 - 2023/03/17__
+/t/ Тт /d/ Дд /p/ Пп /b/ Бб /f/ Фф /v/ Вв
+/s/ Сс /z/ Зз /ʃ/ Шш /ʒ/ Жж /tʃ/ Чч /dʒ/ Ђђ
+/k/ Кк /g/ Гг  /m/ Мм /n/ Нн /j/ Јј /h/ ?Хх? /ɾ/ Рр /l/ Лл
+/e/ Ее /ɛ/ Ээ /i/ Ии /y/ ?Йй? /a/ Аа /ø/ ?Öö? /o/ Оо /u/ Уу
+based on mostly serbian and some russian cyrillic
+
+`2023/03/17` for def. det. i could do `ér`, like how breton does 'ar' and but it keeps the same vowel as `én`
+
+`2023/03/19`
+this would mean perfect symetry
+o : rounded close-mid back vowel   - o
+ø : rounded close-mid front vowel   - ö
+u : rounded close back vowel          - u
+y : rounded close front vowel          - ü
+
+`2023/03/20` __Shite Alphabet 1 - 20/03/2023__
+t · Ꞁt     d · Ԁԁ     p · Пп   b · Ƌƌ     f · Եե    v · Vv
+s · ᒐs    z · ᒉz     ʃ · Šš    ʒ · Žž     k · Cc  g · Ɔɔ
+m · Мм n · Нн     l · Ll ɾ · Rr     h · Һһ  j · Jj 
+u · Uu  y · Üü   o · Oo  ø · Öö     a · Aa   i · Ii     e · Ee   ɛ · Ɛɛ
+
+`2023/03/22`
+thinking of using /is/ as proximal dem. ('this') and to denote proximal location ('here')
+thats an idea ive had since 21st of Feb
+
+`2023/03/23`
+realized that `an` is way too awkward as indef. det.
+its just annoying to make, i think its because of how /a/ is made
+and i thought for a while, 'what should i do'
+i considered `ön` and `d'ön` for 'of the'
+but something i just remembered, i used to employ `én` for verb 'have' and then retracted it
+its pretty good as an intermediate, easier to pronounce
+
+`2023/03/23 [from #conlang-alfabètèn]`
+__Latin Script__
+Aa /a/ · Bb /b/ · Dd /d/ · Éé /e/ · Èè /ɛ/ · Ff /f/ · Gg /g/ · Hh /h/ · Ii /i/ · Jj /j/ · Kk /k/ · Ll /l/ · Mm /m/ 
+Nn /n/ · Oo /o/ · Öö /ø/ · Pp /p/ · Rr /ɾ/ · Ss /s/ · Šš /ʃ/ · Tt /t/ · Uu /u/ · Üü /y/ · Vv /v/ · Zz /z/ · Žž /ʒ/
+__Cyrillic Script__
+Аа /a/ · Бб /b/ · Вв /v/ · Дд /d/ · Ее /e/ · Ээ /ɛ/ · Фф /f/ · Гг /g/ · Һһ /h/ · Ии /i/ · Јј /j/ · Кк /k/ · Лл /l/
+Мм /m/ · Нн /n/ · Оо /o/ · Ӧӧ /ø/ · Пп /p/ · Рр /ɾ/ · Сс /s/ · Шш /ʃ/ · Тт /t/ · Уу /u/ · Ӱӱ /y/ · Зз /z/ · Жж /ʒ/
+
+`2023/03/24` i want to slowly move towards making proper 'dictionary' definitions in english instead of just listing the english equivalent for each word with occasional additional context, but its a lot of work, especially for shit like this which is really hard to describe from the ground up
+i already started doing that a little bit with that finalized document, although idk if ill keep going
+like im not a fucking dictionary writer, thats an enormous amount of work even for a very limited vocab
+if im to develop it sufficiently, it would be way too much to have to write an entire dictionary with descriptions that are actual definitions instead of english translations (which i've been doing in my github documents)
+
+`2023/03/24`
+-1:day i þought ðat 'is' & 'us' could b good 4 proximal & distal det.s (respectively) 'this' and 'that' & ðeir corresponding nouns ('here' and 'there')
+'i went there' → 'iž irèt us'
+'you want this shoe' → 'tö vyr is šos'
+'he needs to play here' → 'sö baž lyd is'
+'they worked in that school' → 'zö tröbèt im us skol'
+...
+`us;n.:in a place or location distal from the speaker;prn. dem.:that which is indicated or understood from context, esp. in contrast to a (more proximate) thing`
+`is;n. in a place or location proximate to the speaker;prn. dem.:which is indicated or understood from context`
+these are bad descriptions, feel free to suggest better wording/improvement
+
+`2023/03/30` had an idea, its still useful to have gener prns so i could do
+1ps fem. : sa - san
+1ps masc. : so - son
+(despite their simplicity these dont overlap with any preexisting words)
+
+`2023/04/01` most of these i just list as their english equivalent but when i feel like it, i put a dictionary definition (usually close correspondence to wikitionary article, although there's a few i did some weeks ago, then i used an oxford australian english dictionary)
+[[ ## transcription of attachment:
+**bov** n. cow
+**gupil** n. fox
+**kat** n. cat
+**léo** n. lion
+**pors** n. pig
+**urs** n. large mammal, member of the family *Ursidae*
+**žiraf** n. ruminant of the genus *Giraffa*, found in the African savannah
+\## end transcription ]]
+if i have the time to, although its certainly not a priority, i'll do this for most/all vocab
+
+`2023/04/20` got a really stupid idea last night
+i could allow combining indef/def det. with a personal det. to indicate that the subject is simultaneously either (def/indef) and belonging to a person
+'ér *friend*' → 'the *friend*'
+'mön *friend*' → 'my *friend*'
+- 'mönér *friend*' → 'that *friend* of mine'
+'én *colleague*' → 'a *colleague*'
+'tön *colleague*' → 'your *colleague*'
+- 'tönén *colleague*' → 'a *colleague* of yours'
+honestly i have no goddamn clue if this even exists in any language, even any constructed one
+
+`2023/04/23` official localized english name of the language is 'ijter' btw, i'm not gonna do like turkey and force people to call it 'ižtér'
+
+`2023/05/01` heres something, not perfect but it's a start
+sorry if theres a few reliant on specific dialects of english (and one on german), nonspecific english actually doesnt contain a lot of vowels that other languages/certain dialects do
+NAE = North American English, GenAm = General American (minnesota, nebraska, kansas, missouri and the great lakes)
+[[ ## revised transcription of attachment:
+Aa Аа     [Can, Cali]    h__a__t    Mm Мм   __m__ay
+Bb Бб     __b__all                           Nn Нн __n__o
+Vv Вв     __v__ine                           Oo Оо   [SudAfr] y__aw__n
+Gg Гг     __g__um                           Öö Ӧӧ   [NZ] b__ir__d
+Dd Дд     __d__og                           Pp Пп   __p__en
+Éé Ее     [Gen. Am.] m__a__y      Rr Рр [Aus, NZ, NAE] be__tt__er
+Èè Ээ     dr__e__ss                         Ss Сс   __s__ing
+Žž Жж   plea__s__ure                   Šš Шш __sh__y
+Zz Зз      __z__oo                            Tt Тт   __t__op
+Ii Ии    s__ee__                               Uu Уу fr__u__it
+Jj Јј     __y__es                                Üü Ӱӱ [German] über
+ Kk Кк     s__k__y                           Ff Фф __f__ind
+Ll Лл     __l__ime                           Hh Һһ __h__ome
+\## end transcription ]]
+im so stupid i couldve written these in text instead of spending ages adjusting it for the longer lines
+
+`2023-05-01` i had decided to use 'éd' for 'eat' but it feels too weird and too identical to the CV-structure e-syllable verbs i tend to have, which are meant for important things like 'to be' or 'to have'   /   something more latin like 'manž' (italian 'mangiare', french 'manger') might be more natural
+
+`2023-05-13` will probably move #conlang-archive to an offline doc
+
+`2023-05-15` unrelated, might change /v/ to /ʋ/ ("roughly between **v**ortex and **w**ar " according to wikipedia)
+i dont think i should be afraid of messing around with phonology, even now
+yeah it sucks to idle on a single feature but thats not the same as making revisions
+
+`2023-05-16` will probably delete #ijter-media since i rarely translate stuff, all the things i do are saved on my pc, and they can just be posted here
+
+`2023-05-16` this might seem radical but i *could* remove è /ɛ/ entirely
+/e/ is already an extremely common vowel, making the difference between the two is not something that most languages do, in the sense that most languages don't have /ɛ/ at all
+>> this would also mean that typing 'é' or 'è' wouldnt be necessary since removing /ɛ/ would mean that /e/ would be changed to 'e'
+>> also the cyrillic form Э/э would be removed, which is preferrable since it looks similar to З/з (although i wish it was the latter that could be removed, since it looks nearly identical to the number 3)
+
+`2023-05-19` installed polyglot and poking around, pretty good so far
+
+`2023-05-23` consonant diagraphs wherein the succeeding letter is v will probably become labialized forms of the preceding consonant, if possible
+ie 'kv' → /kʷ/ and 'gv' → /gʷ/
+for those of you who dont even IPA, yes those are pronounced pretty much like what you think   /   gwa gwa
+
+`2023-05-24` probably gonna switch 'v' back to /v/, i mightve only changed it to /ʋ/ so that the labialization of /k/ and /g/
+
+`2023-05-26` Le chien a mordu le facteur
+The dog bit the postal carrier.
+subj (active) verb obj (passive)
+Le facteur a été mordu par le chien
+The postal carrier was bitten by the dog.
+subj (passive) verb obj (active)
+//
+“Iž baesi en kleb" → I bit a dog
+"Iž baesi na en kleb" → I was bitten by a dog
+"Er kleb baesi mö" → The dog bit me
+"Er kleb baesi na mö" → The dog was bitten by me
+
+
+
+
