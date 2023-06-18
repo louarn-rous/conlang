@@ -11,7 +11,7 @@ It utilises Subject-Verb-Object word order.
 | Affricate        |         | /ts/ /dz/ | /tʃ/ /dʒ/ |     |         |     |
 | Fricative        | /f/ /v/ | /s/ /z/   | /ʃ/ /ʒ/   |     |         | /h/ |
 | Approximant      |         |           |           | /j/ |         |     |
-| Tap/Flap         |         | /ɾ/     |           |     |         |     |
+| Tap/Flap         |         | /ɾ/       |           |     |         |     |
 | Lat. Approximant |         | /l/       |           | /ʎ/ |         |     |
 
 /ʝ/ is a frequent allophone of /j/.  
@@ -39,22 +39,22 @@ The Ižter language has two scripts/alphabet: one Latin and one Cyrillic (simila
 
 | IPA | English                   | Latin | Cyrillic | Braille | IPA | English | Latin | Cyrillic | Braille |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| /a/ | a in 'hat' (Cali, Canada) | Aa | Аа | ⠁ | /n/   | n in 'nap'                  | Nn | Нн | ⠝ |
-| /b/ | b in '**b**all'               | Bb | Бб | ⠃ | /o/   | aw in 'yawn' (South Africa) | Oo | Оо | ⠕ |
-| /v/ | v in '**v**ine'               | Vv | Вв | ⠧ | /ø/   | ir in 'bird' (Broad NZ)     | Öö | Ӧӧ | ⠪ |
-| /g/ | g in '**g**um'                | Gg | Гг | ⠛ | /p/   | p in '**p**en'                  | Pp | Пп | ⠏ |
-| /d/ | d in '**d**og'                | Dd | Дд | ⠙ | /ɾ/   | tt in 'better' (Aus, NAE)   | Rr | Рр | ⠗ |
-| /e/ | a in 'may' (Gen. Am.)     | Ee | Ее | ⠑ | /s/   | s in 'sing'                 | Ss | Сс | ⠎ |
-| /ʒ/ | s in 'pleasure'           | Žž | Жж | ⠮ | /ʃ/   | sh in 'shy'                 | Šš | Шш | ⠱ |
-| /z/ | z in 'zoo'                | Zz | Зз | ⠵ | /t/   | t in 'top'                  | Tt | Тт | ⠞ |
-| /i/ | ee in 'see'               | Ii | Ии | ⠊ | /u/   | u in 'fruit'                | Uu | Уу | ⠥ |
-| /j/ | y in 'yes'                | Jj | Јј | ⠚ | /y/   | ü in über (German)          | Üü | Ӱӱ | ⠽ |
-| /k/ | k in 'sky'                | Kk | Кк | ⠅ | /f/   | f in 'fruit'                | Ff | Фф | ⠋ |
-| /l/ | l in 'line'               | Ll | Лл | ⠇ | /h/   | h in 'home'                 | Hh | Һһ | ⠓ |
-| /m/ | m in 'may'                | Mm | Мм | ⠍ |       |                             |    |    |   |
+| /a/ | a in 'hat' (Cali, Canada) | Aa | Аа | ⠁ | /n/   | '**n**ap'                  | Nn | Нн | ⠝ |
+| /b/ | '**b**all'               | Bb | Бб | ⠃ | /o/   | aw in 'yawn' (South Africa) | Oo | Оо | ⠕ |
+| /v/ | '**v**ine'               | Vv | Вв | ⠧ | /ø/   | ir in 'bird' (Broad NZ)     | Öö | Ӧӧ | ⠪ |
+| /g/ | '**g**um'                | Gg | Гг | ⠛ | /p/   | '**p**en'                  | Pp | Пп | ⠏ |
+| /d/ | '**d**og'                | Dd | Дд | ⠙ | /ɾ/   | tt in 'better' (Aus, NAE)   | Rr | Рр | ⠗ |
+| /e/ | a in 'may' (Gen. Am.)    | Ee | Ее | ⠑ | /s/   | '**s**ing'                 | Ss | Сс | ⠎ |
+| /ʒ/ | 'plea**s**ure'           | Žž | Жж | ⠮ | /ʃ/   | '**sh**y'                 | Šš | Шш | ⠱ |
+| /z/ | '**z**oo'                | Zz | Зз | ⠵ | /t/   | '**t**op'                  | Tt | Тт | ⠞ |
+| /i/ | 's**ee**'                | Ii | Ии | ⠊ | /u/   | 'fr**u**it'                | Uu | Уу | ⠥ |
+| /j/ | '**y**es'                | Jj | Јј | ⠚ | /y/   | ü in über (German)          | Üü | Ӱӱ | ⠽ |
+| /k/ | 's**k**y'                | Kk | Кк | ⠅ | /f/   | '**f**ind'                | Ff | Фф | ⠋ |
+| /l/ | '**l**ine'               | Ll | Лл | ⠇ | /h/   | '**h**ome'                 | Hh | Һһ | ⠓ |
+| /m/ | '**m**ay'                | Mm | Мм | ⠍ |       |                             |    |    |   |
 |      |                |       |     |             |      |                 |       |     |     |
 | /ts/ |                | Ts ts |     |             | /dz/ |                 | Dz dz |     |     |   
-| /tʃ/ | ch in 'choose' | Tš tš |     |             | /dʒ/ | j in 'jump'     | Dž dž |     |     |
+| /tʃ/ | '**ch**oose'   | Tš tš |     |             | /dʒ/ | j in 'jump'     | Dž dž |     |     |
 | /ɲ/  |                | Nj nj | Њ њ |             | /ʎ/  | ll in 'million' | Lj lj | Љ љ |     |
 | /kʲ/ |                | Kj kj |     |             | /gʲ/ |                 | Gj gj |     |     |
 | /kʷ/ |                | Kv kv |     |             | /gʷ/ |                 | Gv gv |     |     |
