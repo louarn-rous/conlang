@@ -52,8 +52,6 @@ The Ižter language has two scripts/alphabet: one Latin and one Cyrillic (simila
 | /k/ | 's**k**y'                | Kk | Кк | ⠅ | /f/ | '**f**ind'                | Ff | Фф | ⠋ |
 | /l/ | '**l**ine'               | Ll | Лл | ⠇ | /h/ | '**h**ome'                | Hh | Һһ | ⠓ |
 | /m/ | '**m**ay'                | Mm | Мм | ⠍ |     |                           |    |    |   |
-| /kʲ/ |                | Kj kj |     |             | /gʲ/ |                 | Gj gj |     |     |
-| /kʷ/ |                | Kv kv |     |             | /gʷ/ |                 | Gv gv |     |     |
 
 the braille alphabet is inspired by French, English, Czech and Scandinavian braille.
 
