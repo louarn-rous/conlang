@@ -41,18 +41,18 @@ The Ižter language has two scripts/alphabet: one Latin and one Cyrillic (simila
 | IPA | English | Latin | Cyrillic | Braille | IPA | English | Latin | Cyrillic | Braille |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | /a/ | 'h*a*t' (Cali, Canada)   | Aa | Аа | ⠁ | /n/ | '**n**ap'                 | Nn | Нн | ⠝ |
-| /ɛ/ | 'b**e**d'                | Ää |    |   | /o/ | 'y**aw**n' (South Africa) | Oo | Оо | ⠕ |
+| /ɛ/ | 'b**e**d'                | Ää | Ӓӓ | ⠣ | /o/ | 'y**aw**n' (South Africa) | Oo | Оо | ⠕ |
 | /t/ | '**t**op'                | Tt | Тт | ⠞ | /ø/ | 'b**ir**d' (Broad NZ)     | Öö | Ӧӧ | ⠪ |
 | /d/ | '**d**og'                | Dd | Дд | ⠙ | /l/ | '**l**ine'                | Ll | Лл | ⠇ |
 | /i/ | 's**ee**'                | Ii | Ии | ⠊ | /ɾ/ | 'be**tt**er' (Aus, NAE)   | Rr | Рр | ⠗ |
-| /e/ | 'm**a**y' (Gen. Am.)     | Ee | Ее | ⠑ | /s/ | '**s**ing'                | Ss | Сс | ⠎ |
+| /e/ | 'm**a**y' (Gen. Am.)     | Ee | Ее | ⠜ | /s/ | '**s**ing'                | Ss | Сс | ⠎ |
 | /p/ | '**p**en'                | Pp | Пп | ⠏ | /ʃ/ | '**sh**y'                 | Šš | Шш | ⠱ |
 | /b/ | '**b**all'               | Bb | Бб | ⠃ | /z/ | '**z**oo'                 | Zz | Зз | ⠵ |
 | /f/ | '**f**ind'               | Ff | Фф | ⠋ | /ʒ/ | 'plea**s**ure'            | Žž | Жж | ⠮ |
 | /v/ | '**v**ine'               | Vv | Вв | ⠧ | /u/ | 'fr**u**it'               | Uu | Уу | ⠥ |
 | /k/ | 's**k**y'                | Kk | Кк | ⠅ | /y/ | '**ü**ber' (German)       | Üü | Ӱӱ | ⠽ |
 | /g/ | '**g**um'                | Gg | Гг | ⠛ | /h/ | '**h**ome'                | Hh | Һһ | ⠓ |
-| /m/ | '**m**ay'                | Mm | Мм | ⠍ | /j/ | '**y**es'                | Jj | Јј | ⠚ |
+| /m/ | '**m**ay'                | Mm | Мм | ⠍ | /j/ | '**y**es'                 | Jj | Јј | ⠚ |
 
 
 
