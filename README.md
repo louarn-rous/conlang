@@ -22,6 +22,7 @@ It utilises Subject-Verb-Object word order.
 | ---       |:---:    |:---:|
 | Close     | /i/ /y/ | /u/ |
 | Close-mid | /e/ /ø/ | /o/ |
+| Open-mid  | /ɛ/     |     |
 | Open      | /a/     |     |
 
 | Group  | Diphtong |
@@ -40,18 +41,20 @@ The Ižter language has two scripts/alphabet: one Latin and one Cyrillic (simila
 | IPA | English | Latin | Cyrillic | Braille | IPA | English | Latin | Cyrillic | Braille |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | /a/ | 'h*a*t' (Cali, Canada)   | Aa | Аа | ⠁ | /n/ | '**n**ap'                 | Nn | Нн | ⠝ |
-| /b/ | '**b**all'               | Bb | Бб | ⠃ | /o/ | 'y**aw**n' (South Africa) | Oo | Оо | ⠕ |
-| /v/ | '**v**ine'               | Vv | Вв | ⠧ | /ø/ | 'b**ir**d' (Broad NZ)     | Öö | Ӧӧ | ⠪ |
-| /g/ | '**g**um'                | Gg | Гг | ⠛ | /p/ | '**p**en'                 | Pp | Пп | ⠏ |
-| /d/ | '**d**og'                | Dd | Дд | ⠙ | /ɾ/ | 'be**tt**er' (Aus, NAE)   | Rr | Рр | ⠗ |
+| /ɛ/ | 'b**e**d'                | Ää |    |   | /o/ | 'y**aw**n' (South Africa) | Oo | Оо | ⠕ |
+| /t/ | '**t**op'                | Tt | Тт | ⠞ | /ø/ | 'b**ir**d' (Broad NZ)     | Öö | Ӧӧ | ⠪ |
+| /d/ | '**d**og'                | Dd | Дд | ⠙ | /l/ | '**l**ine'                | Ll | Лл | ⠇ |
+| /i/ | 's**ee**'                | Ii | Ии | ⠊ | /ɾ/ | 'be**tt**er' (Aus, NAE)   | Rr | Рр | ⠗ |
 | /e/ | 'm**a**y' (Gen. Am.)     | Ee | Ее | ⠑ | /s/ | '**s**ing'                | Ss | Сс | ⠎ |
-| /ʒ/ | 'plea**s**ure'           | Žž | Жж | ⠮ | /ʃ/ | '**sh**y'                 | Šš | Шш | ⠱ |
-| /z/ | '**z**oo'                | Zz | Зз | ⠵ | /t/ | '**t**op'                 | Tt | Тт | ⠞ |
-| /i/ | 's**ee**'                | Ii | Ии | ⠊ | /u/ | 'fr**u**it'               | Uu | Уу | ⠥ |
-| /j/ | '**y**es'                | Jj | Јј | ⠚ | /y/ | '**ü**ber' (German)       | Üü | Ӱӱ | ⠽ |
-| /k/ | 's**k**y'                | Kk | Кк | ⠅ | /f/ | '**f**ind'                | Ff | Фф | ⠋ |
-| /l/ | '**l**ine'               | Ll | Лл | ⠇ | /h/ | '**h**ome'                | Hh | Һһ | ⠓ |
-| /m/ | '**m**ay'                | Mm | Мм | ⠍ |     |                           |    |    |   |
+| /p/ | '**p**en'                | Pp | Пп | ⠏ | /ʃ/ | '**sh**y'                 | Šš | Шш | ⠱ |
+| /b/ | '**b**all'               | Bb | Бб | ⠃ | /z/ | '**z**oo'                 | Zz | Зз | ⠵ |
+| /f/ | '**f**ind'               | Ff | Фф | ⠋ | /ʒ/ | 'plea**s**ure'            | Žž | Жж | ⠮ |
+| /v/ | '**v**ine'               | Vv | Вв | ⠧ | /u/ | 'fr**u**it'               | Uu | Уу | ⠥ |
+| /k/ | 's**k**y'                | Kk | Кк | ⠅ | /y/ | '**ü**ber' (German)       | Üü | Ӱӱ | ⠽ |
+| /g/ | '**g**um'                | Gg | Гг | ⠛ | /h/ | '**h**ome'                | Hh | Һһ | ⠓ |
+| /m/ | '**m**ay'                | Mm | Мм | ⠍ | /j/ | '**y**es'                | Jj | Јј | ⠚ |
+
+
 
 the braille alphabet is inspired by French, English, Czech and Scandinavian braille.
 
