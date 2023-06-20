@@ -20,7 +20,7 @@ kolor
 -- [v.] colour
 blo   : [m.] blue {Swedish 'blå'}
 brön  : [m.] brown
-gel   : [m.] yellow {Swedish 'gul', German 'Gelb', Dutch 'geel'}
+gäl   : [m.] yellow {Swedish 'gul', German 'Gelb', Dutch 'geel'}
 griz  : [m.] grey {French 'grize'}
 grön  : [m.] green {German 'Grün'}
 van   : [m.] white {Breton 'gwenn'} 
@@ -39,7 +39,7 @@ az     : [n.] donkey {Breton 'azen'}
 kuz    : [n.] sheep {Turkish 'kuzu'}
 gupil  : [n.] fox {Old/Middle French 'goupil'}
 kat    : [n.] cat {English, German 'Katze'}
-kleb   : [n.] dog
+kläb   : [n.] dog
 lapin  : [n.] rabbit {French}
 läo    : [n.] lion {Latin}
 luv    : [n.] wolf {Latin 'lupus' via French 'louve'}
@@ -63,7 +63,7 @@ päsk   : [n.] fish {Breton}
 
 === crops ===
 karot : [n.] carrot {French 'carrote'}
-mälon : [n.] melon {English}
+melon : [n.] melon {English}
 radis : [n.] radish {French}
 ris   : [n.] rice {French 'riz', English 'rice'}
 patat : [n.] potato {French 'patate'}
