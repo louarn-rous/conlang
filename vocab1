@@ -41,14 +41,14 @@ gupil  : [n.] fox {Old/Middle French 'goupil'}
 kat    : [n.] cat {English, German 'Katze'}
 kleb   : [n.] dog
 lapin  : [n.] rabbit {French}
-leo    : [n.] lion {Latin}
+läo    : [n.] lion {Latin}
 luv    : [n.] wolf {Latin 'lupus' via French 'louve'}
 mostik : [n.] mosquito {French 'moustique', English 'mosquito'}
 mus    : [n.] mouse {English 'mouse', French 'souris'}
 -> mus : [n.] computer mouse
 oris   : [n.] bird
 otrüš  : [n.] ostrich {French 'otruche'}
-panter : [n.] panther {French 'panthère', Serbian 'пантери'}
+pantär : [n.] panther {French 'panthère', Serbian 'пантери'}
 pol    : [n.] chicken {Spanish 'pollo'}
 pors   : [n.] pig {Latin 'Porcus' via French 'porc'}
 rat    : [n.] rat {English, Latin 'rattus' via French 'rat'}
@@ -58,12 +58,12 @@ korvas : [n.] crow, raven {Japanese '烏', Latin 'corvus' via English 'corvid' &
 lüzd
 -- [n.] worm
 -- [v.] squirm, wriggle, worm, crawl
-pesk   : [n.] fish {Breton}
--> pesktröbör : [n.] fishmonger ##
+päsk   : [n.] fish {Breton}
+-> päsktröbör : [n.] fishmonger ##
 
 === crops ===
 karot : [n.] carrot {French 'carrote'}
-melon : [n.] melon {English}
+mälon : [n.] melon {English}
 radis : [n.] radish {French}
 ris   : [n.] rice {French 'riz', English 'rice'}
 patat : [n.] potato {French 'patate'}
@@ -71,13 +71,13 @@ kafe  : [n.] coffee {German 'Kaffee'}
 te    : [n.] tea {German 'Tee'}
 tomat : [n.] tomato {French 'tomate'}
 banan : [n.] banana {French 'banane'}
-onjon : [n.] onion {French 'oignon'}
+onion : [n.] onion {French 'oignon'}
 soj   : [n.] soy {Satsuma Jp. '醤油' via Dutch 'soja' via French 'soja' & English 'soy'}
 nüs   : [n.] nut {French 'noix', English 'nut'}
--> nüsket : [n.] peanut {'nüs' + French 'cacahuète'}
+-> nüskät : [n.] peanut {'nüs' + French 'cacahuète'}
 frut : {French, English 'fruit'}
 -- [n.] fruit
-----> fruttröbör : [n.] fruitmonger ##
+----> fru'tröbör : [n.] fruitmonger ##
 -- [n.] product, result of
 sukar : {Arabic 'سكر' via French 'sucre' & English 'sugar'}
 -- [n.] sugar
@@ -85,10 +85,10 @@ sukar : {Arabic 'سكر' via French 'sucre' & English 'sugar'}
 -----> asukar [v.] sweeten {'-a' + 'sukar'}
 
 === food ===
-krem : {French 'crème'}
+kräm : {French 'crème'}
 -- [n.] cream
 -- [v.] to fill or cover with cream
-kebab : {Arabic 'كباب' via English 'kebab' & French 'kébab'}
+käbab : {Arabic 'كباب' via English 'kebab' & French 'kébab'}
 -- [n.] kebab
 -- [v.] [informal] to pierce with a sharp rod
 žus : {French 'jus', English 'juice'}
@@ -110,13 +110,13 @@ tart      : [n.] tart {French 'tarte'}
 maskarpon : [n.] mascarpone {Italian 'mascarpone' via French & English}
 makademia : [n.] macadamia
 formaž    : [n.] cheese {Italian 'formaggio' via French 'fromage'}
-tšedar    : [n.] Cheddar (cheese) {English 'Cheddar'}
+tšädar    : [n.] Cheddar (cheese) {English 'Cheddar'}
 
 === plants & trees ===
 arb     : [n.] tree {French 'arbre'}
 busk    : [n.] bush {English 'bush', ? German 'Busch', ? Finnish 'puska'}
-fores   : [n.] forest {English 'forest', French 'fôret'}
-herb    : [n.] grass, herb {French 'herbe', English 'herb'}
+foräs   : [n.] forest {English 'forest', French 'fôret'}
+härb    : [n.] grass, herb {French 'herbe', English 'herb'}
 kaktüs  : [n.] cactus {French 'cactus'}
 lilak   : [n.] lilac {English 'lilac'}
 solflor : [n.] sunflower {'sol' + 'flor'}
@@ -132,10 +132,10 @@ föl : {French 'feuille'}
 -- [n.] leaf
 -- [n.] feather
 -- [n.] leaflet, strip of paper
-mets : {Estonian}
+mäts : {Estonian}
 -- [n. unc.] wood
-----> metstrošör : [n.] lumberjack {'mets' + 'troš' + '-ör'}
-----> metströbör : [n.] woodworker {'mets' + 'tröbör'}
+----> mätstrošör : [n.] lumberjack {'mets' + 'troš' + '-ör'}
+----> mätströbör : [n.] woodworker {'mets' + 'tröbör'}
 -- [n.] forest, woods
 
 === natural phenomena ===
@@ -145,7 +145,7 @@ biom    : [n.] biome {French 'biome'}
 briz    : [n.] breeze {French 'brize', English 'breeze'}
 feld    : [n.] field {German 'Feld'}
 velt    : [n.] world {German 'Welt'}
-vent    : [n.] wind {Latin 'ventus'}
+vänt    : [n.] wind {Latin 'ventus'}
 stürm {German 'Sturm', English 'storm'}
 -- [v.] rush, attack, storm
 -- [n.] storm
@@ -155,28 +155,28 @@ glav {Breton}
 snež {English 'snow', French 'neige'}
 -- [v.] [intrans] (of a powder or snow-like substance) snow 
 -- [n.] snow
-tšel {Italian 'cielo'}
+tšäl {Italian 'cielo'}
 -- [n.] sky
 -- [n.] ceiling ##
 kumul {Latin 'cumulus'}
 -- [n.] cloud
 -- [v.] [trans] cloud, obstruct, confuse
-lant
+lant : {German 'Land'}
 -- [n.] land
 -- [v.] [intrans] make contact/arrive at land surface from air or sea
 
 === space ===
 lün    : [n.] moon {Latin 'luna'}
-planet : [n.] planet {French 'planète'}
+planät : [n.] planet {French 'planète'}
 sol {Latin 'sol' via French 'solaire'}
 -- [n.] sun
 -- [v.] [trans] to expose to sunlight
 
 === marine ===
 haj      : [n.] shark {Swedish}
-klunpesk : [n.] clownfish {'klun' + 'pesk'}
+klunpäsk : [n.] clownfish {'klun' + 'pesk'}
 mar      : [n.] sea {Breton 'mor', French 'mer'}
-osean    : [n.] ocean {French 'océan'}
+osäan    : [n.] ocean {French 'océan'}
 koral    : [m.] coral {French 'corail', English 'coral'}
 perl     : [m.] pearl {French 'perle'}
 
@@ -185,14 +185,14 @@ metal    : [m. unc.] metal {French 'métal'}
 -> metaltröbör : [n.] metalworker {'metal' + 'tröbör'}
 bronz    : [m. unc.] bronze {English 'bronze'}
 fer      : [m. unc.] iron {French}
-ardžent  : [m. unc.] silver {Latin 'argentum' via French 'argent'}
+ardžänt  : [m. unc.] silver {Latin 'argentum' via French 'argent'}
 or       : [m. unc.] gold {French}
 granit   : [m. unc.] granite {French 'granit' via Russian 'гранит'}
 kvardz   : [m. unc.] quartz {German 'Quarz' via French & English 'quartz'}
 diamant  : [m.] diamond {French, German 'Diamant'}
 emrod    : [m.] emerald {French 'émeraude', English 'emerald'}
 
-terakota : [m.] terracotta {Italian 'terracotta'}
+tärakota : [m.] terracotta {Italian 'terracotta'}
 magma    : [m. unc.] magma {Anc. Greek 'μάγμα' via French, English}
 
 kav      : [n.] cave {French 'cave'}
@@ -213,10 +213,10 @@ mont
 -- [n.] mountain
 ----> ?? mountaineer
 -- [v.] [trans] to tower over, to dwarf
-sel : {French}
+säl : {French}
 -- [n.] salt
 -- [v.] [trans] salt
-tünel : {French 'tunnel'}
+tünäl : {French 'tunnel'}
 -- [n.] tunnel
 -- [v.] (to make a) tunnel through
 ----> tünelör : [n.] one who tunnels {'tünel' + '-ör'}
@@ -227,15 +227,15 @@ ter : {French 'terre'}
 === körp · body ===
 pil    : [n.] hair {Latin 'pilus' via French 'épiler'}
 öl     : [n.] eye {French 'œil'}
-ven    : [n.] vein {French 'veine'}
+vän    : [n.] vein {French 'veine'}
 nas    : [n.] nose {Latin 'nasus' via English, French 'nasal'}
 mož    : [n.] mouth
 stom   : [n.] [archaic] mouth {Anc. Greek 'στόμα'}
 -> stomak : [n.] stomach {Anc. Greek 'στόμαχος'}
-dent   : [n.] tooth {Latin 'dens' via French 'dentiste'/'dentaire', English 'dentist'/'dental'}
+dänt   : [n.] tooth {Latin 'dens' via French 'dentiste'/'dentaire', English 'dentist'/'dental'}
 leng   : [n.] tongue {French 'langue'}
 ost    : [n.] bone {Anc. Greek 'ὀστέον' via French 'ostéo-'}
-skelet : [n.] skeleton {Anc. Greek 'σκελετός' via French 'squelette' & English 'skeleton'}
+skelät : [n.] skeleton {Anc. Greek 'σκελετός' via French 'squelette' & English 'skeleton'}
 kol : {Latin 'collum' via French 'col' & English 'collar'}
 -- [n.] neck
 -- [n.] collar
@@ -250,16 +250,16 @@ kap : {Latin 'caput' via English 'captain' & French 'décapiter'}
 -- [v.] lead, direct
 ----> kapör : [n.] leader, director
 ----> kapiten : [n.] capitain
-lep : {English 'lip', Latin 'labrum' via French 'lèvre'}
+läp : {English 'lip', Latin 'labrum' via French 'lèvre'}
 -- [n.] lip
 -- [v.] [informal] to kiss
 man : {Latin 'manus' via French 'main' & English 'manual'}
 -- [n.] hand
 -- [v.] [trans] handle, control, manage
-reš
+räš
 -- [n.] flesh, meat
 -- [v.] [trans] shape, give form to
-sereb : {Latin 'cerebrum' via English 'cerebellum' & French 'cervelle'}
+seräb : {Latin 'cerebrum' via English 'cerebellum' & French 'cervelle'}
 -- [n.] brain
 -- [v.] [informal] to think of/find a solution to a problem
 süt
@@ -270,21 +270,21 @@ süt
 lön : {French 'laine'}
 -- [n.] wool
 -- [adj.] woolen
-melk : {English 'milk', French 'lait'}
+mälk : {English 'milk', French 'lait'}
 -- [n.] milk
 -- [v.] [usu. of an animal] milk
 -- [v.] exploit excessively
 ov   : [n.] egg {Latin 'ovum'}
 zbas : [n.] wing
-sübas : wing (archaic)
+sübas : [n.] wing (archaic)
 fung : {Italian 'funghi'}
 -- [n.] mushroom
 ----> [n.] [colloq.] penis
 
 === technology ===
 disk  : [n.] disk, disc, record, CD, CD-ROM {French 'disque', English 'disc'/'disk'}
-kaset : [n.] cassette, cartridge {French, English 'cassette'}
-donet : [n.] data {French 'donées'}
+kasät : [n.] cassette, cartridge {French, English 'cassette'}
+donät : [n.] data {French 'donées'}
 pilül : [n.] pill, pastule {French 'pilule'}
 miok  : [n.] truck
 -> miokör : [n.] truck driver
@@ -297,7 +297,7 @@ drog : {English 'drug', French 'drogue'}
 -- [n.] [figurative] having the effect of a drug, addictive
 -- [v.] [trans] administer a drug to
 -- [v.] [trans] add drugs to (food or drink)
-eskren : {French 'écran', English 'screen'}
+eskrän : {French 'écran', English 'screen'}
 -- [n.] monitor, computer screen
 -- [v.] screen, display
 otomobil : [n.] [formal] car
@@ -309,7 +309,7 @@ piston {English, French}
 tram
 -- [n.] tram
 -- [v.] [intrans] commute by tram
-tren
+trän
 -- [n.] train
 -- [v.] [intrans] commute by train
 radio
@@ -363,7 +363,7 @@ prizon : [n.] prison
 
 === places ===
 otel     : [n.] hotel {French 'hôtel'}
-katedral : [n.] cathedral {French 'catédrale'}
+katädral : [n.] cathedral {French 'catédrale'}
 dom      : [n.] house, home {Russian 'дома'}
 skol     : [n.] school
 -> skolör : [n.] student
@@ -371,16 +371,16 @@ skol     : [n.] school
 === clothes ===
 šos   : [n.] shoe 
 šömit : [n.] shirt
-kep   : [n.] cape
+käp   : [n.] cape
 džin  : [m.] jean
 
 === concepts ===
 kültür  : [n.] culture {German 'Kultur', French 'culture'}
-version : [n.] version
-sistem  : [n.] system
+värsion : [n.] version
+sistäm  : [n.] system
 ide     : [n.] idea {French 'idée'}
-nivel   : [n.] level
-leš     : [n.] way, path, method
+niväl   : [n.] level
+läš     : [n.] way, path, method
 tšo     : [n.] thing
 
 nam
@@ -398,13 +398,13 @@ enor {Breton}
 -- [v.] honor
 -- [n.] honor
 
-fren :
+frän :
 -- [n.] mind
 -- [v.] be aware/conscious of @@
 
 === fantasy ===
 maži    : [n.] magic {French 'magie'}
-golem   : [n.] golem {English}
+goläm   : [n.] golem {English}
 zambi   : [n.] zombie
 dragon  : [n.] dragon {English, French}
 posion  : [n.] potion {French, English 'potion'}
@@ -412,23 +412,23 @@ posion  : [n.] potion {French, English 'potion'}
 === historical ===
 armor : [n.] armor
 klad  : [n.] sword
-totem : [n.] totem {French, English}
-rei   : [n.] king {Portugese}
+totäm : [n.] totem {French, English}
+räi   : [n.] king {Portugese}
 koron : {Latin 'corona' via Italian 'corona' & French 'couronne'}
 -- [n.] crown
 -- [v.] crown
-sklev : [n.] slave
--> sklevör : [n.] one who owns or trades slaves
+skläv : [n.] slave
+-> sklävör : [n.] one who owns or trades slaves
 
 === substance ===
-slem  : [m.] slime, goo, sludge
+släm  : [m.] slime, goo, sludge
 pelüš : [m.] fluff, plush
 tan   : [n.] fire {Breton}
 -> atan : [v.] light on fire @@
-pul
+pul :
 -- [n.] powder, dust
 -- [v.] (adorn with) powder
-frus
+frus :
 -- [m.] froth, moss, foam
 -- [v.] foam, froth
 füm {French 'fumée'}
@@ -457,17 +457,17 @@ lozanž : {French 'losange'}
 === house ===
 kav   : [n.] basement {French 'cave'}
 somis : [n.] bed {'som' + 'mis'}
-kel   : [n.] key
--> keltröbör : [n.] locksmith
+käl   : [n.] key
+-> kältröbör : [n.] locksmith
 tür   : [n.] door, gate {German 'Tür'}
-tapir
+tapir :
 -- [n.] carpet
 -- [v.] to cover with carpet
-mis 
+mis :
 -- [n.] home, nest
 -- [v.] host
 ----> misör : [n.] host
-štog
+štog :
 -- [n.] trash, garbage, rubbish
 ----> štogtröbör : [n.] garbage collector
 -- [v.] pollute
@@ -477,24 +477,24 @@ mis
 pilar : [n.] pillar; support, foundation
 zdal  : [n.] slab {French 'dalle'}
 most  : [n.] bridge {Serbian 'мост'}
-siment : {French 'ciment', English 'cement'}
+simänt : {French 'ciment', English 'cement'}
 -- [v.] [trans] cement (in)
 -- [m.] cement
 
 === games ===
 bal  : [n.] ball
 doš  : [n.] die/dice
-ešek : [n. unc.] chess
+ešäk : [n. unc.] chess
 
 === time ===
 nat   : [n.] day
 taj   : [n.] [archaic] day 
 nošt  : [n.] night {Russian 'ночь', German 'Nacht'}
 damer : [n.] dusk
-sekond : [n.] second
+säkond : [n.] second
 minüt : [n.] minute {French, English 'minute'}
 uur   : [n.] hour {German 'Uhr'}
-mens  : [n.] month {Latin 'mensis' via French 'mensuel'}
+mäns  : [n.] month {Latin 'mensis' via French 'mensuel'}
 
 === people ===
 klun : [n.] clown {French 'clown'}
@@ -504,14 +504,14 @@ dös     : [n.] god, deity {Portugese 'Deus'}
 kompost : [n.] compost {English, French 'compost'}
 post    : [n.] mail {English, French 'poste'}
 -> pos'tröbör : [n.] postman {'post' + 'tröbör'}
-pest : {French 'peste', English 'pester'}
+päst : {French 'peste', English 'pester'}
 -- [n.] plague
 -- [v.] spread plague amongst
 -- [n.] annoyance
 -- [v.] plague, pester, annoy
 
 === jargon ===
-alfabet : [n.] [f:linguistics] alphabet
+alfabät : [n.] [f:linguistics] alphabet
 kanton  : [n.] [f:vexillology] canton 
 
 === verbs ===
@@ -519,14 +519,14 @@ es  : [v.] be
 ev  : [v.] have
 ten : [v.] hold {French 'tenir'}
 sen : [v.] know {Latin 'sciens'}
-ser
+ser :
 -- [v.] say, speak
 ----> serör : [n.] one who speaks
 -- [v.] signifies, represents, means
 -> serina : [n.] meaning
 ir  : [v.] go, move (oneself)
 
-tatlen
+tatlän :
 -- [v.] doubt
 -- [n.] doubt
 
@@ -539,14 +539,14 @@ tös :
 gan : [v.] can, able to
 müs : [v.] have to (do something)
 düs : [v.] should
-baž
+baž :
 -- [v.] need, require
 -- [n.] need, requirement
-vür
+vür :
 -- [v.] want, wish
 -- [n.] want, wish
 
-treš
+träš
 -- [v.] [trans] throw
 -> trešör : [n.] one who throws
 -- [n.] throw
@@ -558,21 +558,21 @@ trös
 šam  : [v.] hide, conceal
 avis : [v.] show, uncover, demonstrate, discover
 lüs  : [v.] open
-üset : [v.] close
+üsät : [v.] close
 tör  : [v.] pull
 prös : [v.] push
-prem : [v.] press
+präm : [v.] press
 
 alt : [v.] stop, cease {German 'Halt'}
 -> altör : [n.] device for stopping
 
 manž : [v.] eat {Italian 'mangiare', French 'manger'}
-sül
+sül :
 -- [v.] drink
 -> sülör : [n.] one who drinks (usu. alcohol)
 -- [n.] drink
 
-tenj
+tänj : {French 'teindre'}
 -- [v.] stain
 -- [n.] stain
 
@@ -582,14 +582,14 @@ som : {Latin 'somnus' via French 'sommeil'}
 
 pas : [v.] pass, go by
 
-sit
+sit :
 -- [v.] thirst
 -- [n.] thirst
 fam : {Latin 'fames' via French 'faim'}
 -- [v.] hunger
 -- [n.] hunger
 
-fatig
+fatig :
 -- [n.] tiredness
 -- v. to tire, make weary
 -- v. [passive] to tire, become weary
@@ -597,13 +597,10 @@ fatig
 
 
 
-
-
-
-nos
+nos :
 -- [v.] [trans] give birth to
 -- [v.] [intrans] [passive] be born
-viv
+viv :
 -- [v.] live
 -- [n.] life
 -- [adj.] alive
@@ -614,9 +611,9 @@ mur : {French 'mourir'}
 
 
 
-fil
+fil :
 -- [v.] like, appreciate
-led
+läd : {German 'leibt'}
 -- [v.] love
 -- [n.] love
 
@@ -628,11 +625,11 @@ ged ##
 
 tüš : [v.] [intrans.] touch, reach, attain
 
-las
+las :
 -- [v.] leave, depart
 ----> lasina : [n.] departure ##
 -- [v.] leave behind, let (go of)
-perd
+perd :
 -- n. loss, waste #
 -- v. lose
 -- v. waste
@@ -640,20 +637,20 @@ perd
 serv : [v.] serve
 -> servör : [n.] waiter, servant; [computing] server
 
-permit : [v.] allow, permit
+pärmit : [v.] allow, permit
 -> adj.
 probit : [v.] prohibit, disallow
 -> adj.
 
-kres : [v.] grow {Latin 'crescere' via Portugese 'crescer'}
--> kresör : [n.] one that grows
+kräs : [v.] grow {Latin 'crescere' via Portugese 'crescer'}
+-> kräsör : [n.] one that grows
 
-bran {Swedish 'brann'}
+bran : {Swedish 'brann'}
 -- [v.] burn
 -- [n.] burn
-sken
+skän
 -- [v.] climb, scale
-----> skenör : [n.] one that climbs
+----> skänör : [n.] one that climbs
 -- [n.] climb
 plod
 -- [v.] burst, blow
@@ -661,37 +658,37 @@ plod
 ----> implod : [v.] implode
 -- [n.] burst, blow
 
-kül
+kül : {French 'colle', English 'glue'}
 -- [v.] stick, adhere
 -- [n.] glue, adhesive
 
 salv : [v.] save
 -> salvör : [n.] saviour
 
-ven : [intrans.] come
+vän : [intrans.] come
 
 dants {German 'tanz', English 'dance'}
 -- [v.] [intrans] dance
 -- [n.] dance
 
-res : leave, depart ####
+räs : leave, depart ####
 -> resina [n.] : departure
 
 
 bras : [v.] ferment, brew
 -> brasör : [n.] machine or person who prepares mixtures
 -- bras : [n.] concoction, mixture, brew
-met  : [v.] set, change, assign, put
+mät  : [v.] set, change, assign, put
 kal  : [v.] fit, match, correspond
 sked : [v.] split, divide
-mel : {French 'mêler'}
+mäl : {French 'mêler'}
 -- [v.] mix, combine, blend, tangle, fuse
 -- [n.] mix, combination, blend
 
 šam  : [v.] hide, conceal
 ovis : [v.] show, uncover, demonstrate, discover
 lüs  : [v.] open
-uset : [v.] close
+usät : [v.] close
 
 baes
 -- [v.] bite
@@ -703,10 +700,10 @@ töl : {French 'tuile'}
 -- [n.] tile, pane, plate, square, panel
 -- [v.] to cover with tiles ##
 
-grafit
+grafit :
 -- [v.] scribble, graffiti
 -- [n.] scribble, grafitti
-stred : {Frisian 'striid', Swedish 'strida'}
+sträd : {Frisian 'striid', Swedish 'strida'}
 -- [v.] struggle
 -- [n.] struggle
 limit : {French 'limite', English}
@@ -735,10 +732,10 @@ mord {German 'morden'}
 -- [v.] kill, murder
 ----> mordör : [n.] killer, murderer
 -- [n.] murder
-šarž
+šarž :
 -- v. charge, load
 -- n. charge
-fül
+fül : 
 -- [v.] flow
 -- [n.] flow
 fors
@@ -747,11 +744,11 @@ fors
 marš : {English 'march', French 'marcher'}
 -- [v.] march
 -- [n.] march
-güst
+güst :
 -- [v.] taste
 ----> güstör : [n.] one that tastes
 -- [n.] taste
-rume : {Japanese '夢', French 'rêve', English 'dream'}
+rumä : {Japanese '夢', French 'rêve', English 'dream'}
 -- [v.] dream
 -- [n.] dream
 fal : {Swedish 'falla'}
@@ -768,13 +765,13 @@ spir : [v.] breathe
 vitš : [v.] win
 -> vitšina : [n.] victory
 -> vitšör : [n.] victor
-leg : [v.] select, choose, pick
--> legina : [n.] selection
+läg : [v.] select, choose, pick
+-> lägina : [n.] selection
 lav : [v.] wash {French 'laver'}
 -> lavina : [n.] washing
 -> lavör : [n.] person or machine that washes
-serš : [v.] search, seek
--> seršina : [n.] search
+särš : [v.] search, seek
+-> säršina : [n.] search
 profit : [v.] profit
 -> profitina : [n.] profit
 -> profitör : [n.] profiteer
@@ -803,7 +800,7 @@ gul : [adj.] wet
 
 sek : [adj.] dry
 -> asek : [v.] dry
-net : [adj.] clean {Breton 'naet'}
+nät : [adj.] clean {Breton 'naet'}
 kras : {French 'crasse'}
 -- [adj.] dirty
 -> akras : [v.] to dirty, soil
@@ -812,7 +809,7 @@ kras : {French 'crasse'}
 sut : [adj.] still, down, low, seated
 -> asut : [v.] sit/lay down
 
-stese : [adj.] sacred, blessed
+stese : [adj.] sacred, blessed @@
 
 tis : [adj.] small
 -> atis : [v.] to reduce, shrink
@@ -825,6 +822,7 @@ fis : [adj.] definite, stable, certain
 motš : [adj.] nice, pleasant
 yats : [adj.] great, grand, mighty
 -> ayats : [v.] make great, improve, elevate
+-> iyats @@@
 
 ful : [adj.] full
 -> aful : [v.] fill
@@ -852,4 +850,4 @@ nüdit : [adj.] naked, nude
 === vulgar ===
 bata : [n.] imbecile, bastard
 küs  : [intj.] fuck, damn, darn, shit
-smet : [v.] to copulate with
+smät : [v.] to copulate with
