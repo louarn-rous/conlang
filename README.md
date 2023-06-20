@@ -1,6 +1,6 @@
-# Ižter
+# Ižtär
 
-Ižter (localized in English as 'Ijter') is a constructed language with no specific purpose.
+Ižtär (localized in English as 'Ijter') is a constructed language with no specific purpose.
 It utilises Subject-Verb-Object word order.
 ## Phonology
 
@@ -36,7 +36,7 @@ It utilises Subject-Verb-Object word order.
 | //üe// | [ɨɪ] |
 
 ## Alphabet
-The Ižter language has two scripts/alphabet: one Latin and one Cyrillic (similar to Serbian)
+The Ižtär language has two scripts/alphabet: one Latin and one Cyrillic (similar to Serbian)
 
 | IPA | English | Latin | Cyrillic | Braille | IPA | English | Latin | Cyrillic | Braille |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -54,8 +54,6 @@ The Ižter language has two scripts/alphabet: one Latin and one Cyrillic (simila
 | /g/ | '**g**um'                | Gg | Гг | ⠛ | /h/ | '**h**ome'                | Hh | Һһ | ⠓ |
 | /m/ | '**m**ay'                | Mm | Мм | ⠍ | /j/ | '**y**es'                 | Jj | Јј | ⠚ |
 
-
-
 the braille alphabet is inspired by French, English, Czech and Scandinavian braille.
 
 | Punc. | Braille | Punc. | Braille |
@@ -64,10 +62,10 @@ the braille alphabet is inspired by French, English, Czech and Scandinavian brai
 | :     | ⠒       | ;     | ⠆       |
 | !     | ⠖       | ?     | ⠢       |
 
-| Name | Braille |
+| Name     | Braille |
 | ---  |:---:|
 | Capital marker | ⠠ |
-| Number sign | ⠼ |
+| Number sign    | ⠼ |
 
 ## Verbs
 
@@ -97,9 +95,9 @@ Verbs are conjugated by taking the root and appending the ending as a suffix.
 | 3ms | So | So | Son |
 | 3p  | Zö | Zö | Zön |
 
-A unique feature of Ižter is the possibility of combining a personal pronoun with a definite or indefinite determiner.
+A unique feature of Ižtär is the possibility of combining a personal pronoun with a definite or indefinite determiner.
 
-| Ižter | English | Literal translation |
+| Ižtär | English | Literal translation |
 | --- | --- | --- |
 | mönen _colleague_ | a colleague of mine                | my-a(n) colleague |
 | söner _friends_   | those friends of theirs (singular) | their-the friends |
