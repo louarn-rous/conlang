@@ -1,6 +1,6 @@
-# Ižtär
+# Ižter
 
-Ižtär (localized in English as 'Ijter') is a constructed language with no specific purpose.
+Ižter (localized in English as 'Ijter') is a constructed language with no specific purpose.
 It utilises Subject-Verb-Object word order.
 ## Phonology
 
@@ -36,7 +36,7 @@ It utilises Subject-Verb-Object word order.
 | //üe// | [ɨɪ] |
 
 ## Alphabet
-The Ižtär language has two scripts/alphabet: one Latin and one Cyrillic (similar to Serbian)
+The Ižter language has two scripts/alphabet: one Latin and one Cyrillic (similar to Serbian)
 
 | IPA | English | Latin | Cyrillic | Braille | IPA | English | Latin | Cyrillic | Braille |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -95,9 +95,9 @@ Verbs are conjugated by taking the root and appending the ending as a suffix.
 | 3ms | So | So | Son |
 | 3p  | Zö | Zö | Zön |
 
-A unique feature of Ižtär is the possibility of combining a personal pronoun with a definite or indefinite determiner.
+A unique feature of Ižter is the possibility of combining a personal pronoun with a definite or indefinite determiner.
 
-| Ižtär | English | Literal translation |
+| Phrase | English | Literal translation |
 | --- | --- | --- |
 | mönen _colleague_ | a colleague of mine                | my-a(n) colleague |
 | söner _friends_   | those friends of theirs (singular) | their-the friends |
