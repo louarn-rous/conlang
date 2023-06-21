@@ -174,7 +174,6 @@ sol {Latin 'sol' via French 'solaire'}
 
 === marine ===
 haj      : [n.] shark {Swedish}
-klunpäsk : [n.] clownfish {'klun' + 'pesk'}
 mar      : [n.] sea {Breton 'mor', French 'mer'}
 osäan    : [n.] ocean {French 'océan'}
 koral    : [m.] coral {French 'corail', English 'coral'}
@@ -497,7 +496,17 @@ uur   : [n.] hour {German 'Uhr'}
 mäns  : [n.] month {Latin 'mensis' via French 'mensuel'}
 
 === people ===
+matä  : mother {Latin 'mater'}
+paträ : father {Latin 'pater'}
+fratä : brother {Latin 'frater'}
+sorä  : sister {Latin 'soror'}
+fal   : girl {Latin 'filia'}
+-> falä : daughter
+poj   : boy {Finnish 'poika', Swedish 'pojke'}
+-> pojä : son
+
 klun : [n.] clown {French 'clown'}
+-> klunpäsk : [n.] clownfish {'klun' + 'pesk'}
 
 === misc ===
 dös     : [n.] god, deity {Portugese 'Deus'}
