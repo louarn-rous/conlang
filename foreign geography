@@ -1,31 +1,38 @@
+=== geography ===
+
+== continents ==
 Afrika (Afrikäs)   : Africa (African)
 Amerika (Amerikäs) : America (American)
 -> SüdAmerika (SüdAmerikäs)   : South America (South American)
 -> NordAmerika (NordAmerikäs) : North America (North American)
 Öropa (Öropäs) : Europe (European)
 
+== regions ==
 Skadinavia (Skadinaväs) : Scandinavia (Scandinavian)
-Istlant (Islantäs)      : Iceland (Icelandic)
-Noreg (Noregäs)         : Norway (Norwegian)
-Svärjä (Svärjäs)        : Sweden (Swedish)
-Tänmak (Tänmäs)         : Denmark (Danish) 
-Suomi (Suomäs)          : Finland (Finnish)
-Olant (Olantäs)         : Åland (Ålandic)
-Förjar (Förjaräs)       : Faroes (Faroese)
+Baltija (Baltijäs)      : Baltics (Baltic)
+Iberia (Iberiäs)        : Iberia (Iberian)
+Balkan (Balkanäs)       : Balkans (Balkan)
+Südoslavia (Südoslaväs) : Yugoslavia (Yugoslav)
 
-Baltija (Baltijäs) : Baltics (Baltic)
+== countries & territories ==
+Istlant (Islantäs) : Iceland (Icelandic)
+Noreg (Noregäs)    : Norway (Norwegian)
+Svärjä (Svärjäs)   : Sweden (Swedish)
+Tänmak (Tänmäs)    : Denmark (Danish) 
+Suomi (Suomäs)     : Finland (Finnish)
+Olant (Olantäs)    : Åland (Ålandic)
+Förjar (Förjaräs)  : Faroes (Faroese)
+
 Estia (Estiäs)     : Estonia (Estonian)
 Latvija (Latväs)   : Latvia (Latvian)
 Liätuva (Liätuväs) : Lithuania (Lithuanian)
 
-Iberia (Iberiäs)               : Iberia (Iberian)
 Espanja (Espanjäs)             : Spain (Spanish)
 Katalunia (Katalunäs)          : Catalonia (Catalonian)
 Euskalia (Euskaläs)            : Basque Country (Basque)
 Portugal (Portugäs)            : Portugal (Portugese)
 Žibraltar (Žibraltäs; Lanitäs) : Gibraltar (Gibraltarian)
 
-Balkan (Balkanäs)             : Balkans (Balkan)
 Slovänia (Slovänäs)           : Slovenia (Slovene, Slovenian)
 Hervatska (Hervatäs)          : Croatia (Croat, Croatian)
 Bosna e Hertsegovina (Bosnäs) : Bosnia and Herzegovina (Bosnian)
@@ -74,9 +81,6 @@ Kanada (Kanadäs) : Canada (Canadian)
 Kebäk (Kebäkäs)  : Quebec (Québécois)
 
 
-
-
-
 Libija (Libijäs)  : Libya (Libyan)
 Tunisia (Tunisäs) : Tunisia (Tunisian)
 
@@ -88,10 +92,11 @@ Urdun (Urdunäs)    : Jordan (Jordanian)
 
 Iran (Iranäs) : Iran (Iranian)
 
-
-
-
 Kamputšä (Kamputšäs) : Cambodia (Cambodian)
 VietNam (VietNamäs) : Vietnam (Vietnamese)
 
 Singapur (Singapuräs) : Singapore (Singaporean)
+
+=== ===
+
+===c===
