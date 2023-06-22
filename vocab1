@@ -198,7 +198,8 @@ kav      : [n.] cave {French 'cave'}
 -> kavör : [n.] one who explores caves {'kav' + '-ör'} 
 ravin    : [n.] ravine
 krater   : [n.] crater {French 'cratère'}
-
+lits     : [n.] shore {Latin 'litus' via French 'littoral'}
+fkaas    : [n.] cliff
 
 kristal : {French 'cristal'}
 -- [n.] crystal
@@ -420,11 +421,13 @@ skläv : [n.] slave
 -> sklävör : [n.] one who owns or trades slaves
 
 === substance ===
-släm  : [m.] slime, goo, sludge
-pelüš : [m.] fluff, plush
-tan   : [n.] fire {Breton}
+släm   : [m.] slime, goo, sludge {English 'slime'
+pelüš  : [m.] fluff, plush {French 'peluche', English 'plush'}
+siltše : [m.] flint {Italian 'selce' via Latin via French 'silex'}
+seträ  : [m.] ash(es)
+tan    : [n.] fire {Breton}
 -> atan : [v.] light on fire @@
-pul :
+pul : {Latin 'pulvis' via English 'pulverise' & French 'pulvériser'}
 -- [n.] powder, dust
 -- [v.] (adorn with) powder
 frus :
@@ -444,6 +447,7 @@ flam : {French 'flamme'}
 lüm :
 -- [n.] light
 -- [v.] cast light onto/throughout
+
 
 === form ===
 štok : [n.] stick, branch; handle, rod {German 'Stock'}
@@ -820,8 +824,11 @@ sut : [adj.] still, down, low, seated
 
 stese : [adj.] sacred, blessed @@
 
-prane : [adj.] weird, odd, strange
+ru : [adj.] raw, crude
 
+prane : [adj.] weird, odd, strange
+sur : [adj.] big {Estonian 'suur'}
+-> asur : [v.] [usu. trans] to increase, embiggen, grow
 tis : [adj.] small
 -> atis : [v.] to reduce, shrink
 
