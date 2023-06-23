@@ -84,16 +84,16 @@ Verbs are conjugated by taking the root and appending the ending as a suffix.
 
 ### Personal
 
-|     | Acc. | Dat. | Pos. |
-|:---:|:---: |:---: |:---: |
-| 1s  | Iž | Mö | Mön |
-| 1p  | No | No | Nos |
-| 2s  | Tö | Tö | Tön |
-| 2p  | Vo | Vo | Vos |
-| 3s  | Sö | Sö | Sön |
-| 3fs | Sa | Sa | San |
-| 3ms | So | So | Son |
-| 3p  | Zö | Zö | Zön |
+|     | Acc. | Dat. | Pos. Det. | Pos. N. |
+|:---:|:---: |:---: |:---: |:---:|
+| 1s  | Iž | Mö | Mön | Möj |
+| 1p  | No | No | Nos | Noj |
+| 2s  | Tö | Tö | Tön | Töj |
+| 2p  | Vo | Vo | Vos | Voj |
+| 3s  | Sö | Sö | Sön | Söj |
+| 3fs | Sa | Sa | San | Saj |
+| 3ms | So | So | Son | Soj |
+| 3p  | Zö | Zö | Zön | Zöj |
 
 A unique feature of Ižter is the possibility of combining a personal pronoun with a definite or indefinite determiner.
 
