@@ -179,6 +179,7 @@ mar      : [n.] sea {Breton 'mor', French 'mer'}
 osäan    : [n.] ocean {French 'océan'}
 koral    : [m.] coral {French 'corail', English 'coral'}
 perl     : [m.] pearl {French 'perle'}
+büj      : [n.] buoy
 
 === geological & mineral ===
 metal    : [m. unc.] metal {French 'métal'}
@@ -383,6 +384,7 @@ ide     : [n.] idea {French 'idée'}
 niväl   : [n.] level
 läš     : [n.] way, path, method
 tšo     : [n.] thing
+sünog   : [n.] edge, boundary, border
 
 nam
 -- [n.] name
@@ -798,10 +800,24 @@ regül : [v.] regulate
 
 
 === adjectives ===
-škort : [adj.] short
--> aškort : [v.] shorten
+sur : [adj.] big {Estonian 'suur'}
+-> asur : [v.] [usu. trans] to increase, embiggen, grow
+tis : [adj.] small
+-> atis : [v.] to reduce, shrink
 lon : [adj.] long
 -> alon : [v.] lengthen
+škort : [adj.] brief
+-> aškort : [v.] shorten
+när : [adj.] wide
+-> anär : [v.] widen
+
+goš : [adj.] tall
+
+sob : [adj.] thick
+-> asob : [v.] thicken
+pän : [adj.] thin
+-> apän : [v.] thin
+
 nov : [adj.] new
 jong : [adj.] young {German 'jung', Dutch}
 ou : [adj.] old {Afrikaans}
@@ -823,6 +839,11 @@ kras : {French 'crasse'}
 -> akras : [v.] to dirty, soil
 -- [n.] scum, dirt, grime
 
+bir : [adj.] near, close
+-> abir : [adj.] to bring closer; to approach
+
+
+
 sut : [adj.] still, down, low, seated
 -> asut : [v.] sit/lay down
 
@@ -831,10 +852,9 @@ stese : [adj.] sacred, blessed @@
 ru : [adj.] raw, crude
 
 prane : [adj.] weird, odd, strange
-sur : [adj.] big {Estonian 'suur'}
--> asur : [v.] [usu. trans] to increase, embiggen, grow
-tis : [adj.] small
--> atis : [v.] to reduce, shrink
+kozäv : [adj.] typical, normal
+-> akozäv : [v.] normalise
+
 
 frel : [adj.] weak, fragile
 -> afrel : [v.] to weaken
@@ -868,6 +888,8 @@ püli : [adj.] multiple, plural
 
 nüdit : [adj.] naked, nude
 -> anüdit : [v.] to strip of protection or clothing
+
+müsot : [adj.] silly
 
 === vulgar ===
 bata : [n.] imbecile, bastard
