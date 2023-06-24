@@ -192,6 +192,8 @@ subj (passive) verb obj (active)
 "Er kleb baesi mö" → The dog bit me
 "Er kleb baesi na mö" → The dog was bitten by me
 
+`2023-06-20` im going to bring back /ɛ/ as `Ää`, will put msg in \#ijter-noticeboard when im done sorting it out
 
+`2023-06-23` posessive noun form of personal pronouns: -öj
 
 
