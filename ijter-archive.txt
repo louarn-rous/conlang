@@ -161,6 +161,8 @@ im so stupid i couldve written these in text instead of spending ages adjusting 
 
 `2023-05-13` will probably move #conlang-archive to an offline doc
 
+`2023-05-15` i need to redo verb conjugation suffixes
+
 `2023-05-15` unrelated, might change /v/ to /ʋ/ ("roughly between **v**ortex and **w**ar " according to wikipedia)
 i dont think i should be afraid of messing around with phonology, even now
 yeah it sucks to idle on a single feature but thats not the same as making revisions
@@ -191,6 +193,11 @@ subj (passive) verb obj (active)
 "Iž baesi na en kleb" → I was bitten by a dog
 "Er kleb baesi mö" → The dog bit me
 "Er kleb baesi na mö" → The dog was bitten by me
+
+`2023-05-29`
+-a -at
+\-    -e
+-i  -it
 
 `2023-06-20` im going to bring back /ɛ/ as `Ää`, will put msg in \#ijter-noticeboard when im done sorting it out
 
