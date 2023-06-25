@@ -96,7 +96,9 @@ si  : [cnjc.] if, in the case/condition that, given/supposing/assuming that
 === other particles ===
 da : [ptcl.] interrogative, marks the preceding clause as a question
 
-na : [prep.] precedes the object of a sentence, marking it as the active agent @@
+na :
+-- [prep.] precedes the object of a sentence, marking it as the active agent @@
+-- succeeds the verb of a setence, marking the subject
 
 se : [prep.] precedes a verb, marking it as reflexive
 
