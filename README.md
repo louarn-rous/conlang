@@ -38,7 +38,7 @@ It utilises Subject-Verb-Object word order.
 ## Alphabet
 The Ižter language has two scripts/alphabet: one Latin and one Cyrillic (similar to Serbian)
 
-| IPA | English | Latin | Cyrillic | Name | Braille | IPA | English | Latin | Cyrillic | Name | Braille |
+| IPA | English | Lat. | Cyr. | Name | Braille | IPA | English | Lat. | Cyr. | Name | Braille |
 |:---:|:-------:|:-----:|:--------:|:---- |:-------:|:---:|:-------:|:-----:|:--------:|:---- |:-------:|
 | /a/ | 'h**a**t' (Cali, Canada) | Aa | Аа | a  | ⠁ | /n/ | '**n**ap'                 | Nn | Нн | än | ⠝ |
 | /ɛ/ | 'b**e**d'                | Ää | Ӓӓ | ä  | ⠣ | /o/ | 'y**aw**n' (South Africa) | Oo | Оо | o  | ⠕ |
