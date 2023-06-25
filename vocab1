@@ -264,7 +264,7 @@ räš
 seräb : {Latin 'cerebrum' via English 'cerebellum' & French 'cervelle'}
 -- [n.] brain
 -- [v.] [informal] to think of/find a solution to a problem
-süt
+süt : {French 'suant'}
 -- [v.] sweat
 -- [n.] sweat; residue
 
@@ -378,13 +378,14 @@ džin  : [m.] jean
 
 === concepts ===
 kültür  : [n.] culture {German 'Kultur', French 'culture'}
-värsion : [n.] version
-sistäm  : [n.] system
+värsion : [n.] version {French, English 'version'}
+sistäm  : [n.] system {French 'système', English 'system'}
 ide     : [n.] idea {French 'idée'}
-niväl   : [n.] level
+niväl   : [n.] level {English 'level', French 'niveau'}
 läš     : [n.] way, path, method
-tšo     : [n.] thing
+tšo     : [n.] thing {French 'chose'}
 sünog   : [n.] edge, boundary, border
+vine    : [n.] domain, realm {Croatian 'domovina'}
 
 nam
 -- [n.] name
@@ -407,7 +408,7 @@ frän :
 
 === fantasy ===
 maži    : [n.] magic {French 'magie'}
-goläm   : [n.] golem {English}
+goläm   : [n.] golem {English 'golem'}
 zambi   : [n.] zombie
 dragon  : [n.] dragon {English, French}
 posion  : [n.] potion {French, English 'potion'}
@@ -420,11 +421,11 @@ räi   : [n.] king {Portugese}
 koron : {Latin 'corona' via Italian 'corona' & French 'couronne'}
 -- [n.] crown
 -- [v.] crown
-skläv : [n.] slave
+skläv : [n.] slave {French 'esclave'}
 -> sklävör : [n.] one who owns or trades slaves
 
 === substance ===
-släm   : [m.] slime, goo, sludge {English 'slime'
+släm   : [m.] slime, goo, sludge {English 'slime'}
 pelüš  : [m.] fluff, plush {French 'peluche', English 'plush'}
 siltše : [m.] flint {Italian 'selce' via Latin via French 'silex'}
 seträ  : [m.] ash(es)
@@ -447,7 +448,7 @@ flam : {French 'flamme'}
 -- [n.] [figurative] strong passion
 -- [v.] to set ablaze, aflame @
 -- [v.] to deliberately encourage hostility or anger
-lüm :
+lüm : {Late Latin 'lūmināria' via French 'lumière'}
 -- [n.] light
 -- [v.] cast light onto/throughout
 
@@ -463,7 +464,7 @@ lozanž : {French 'losange'}
 === house ===
 kav   : [n.] basement {French 'cave'}
 somis : [n.] bed {'som' + 'mis'}
-käl   : [n.] key
+käl   : [n.] key {French 'clé', English 'key'}
 -> kältröbör : [n.] locksmith
 tür   : [n.] door, gate {German 'Tür'}
 tapir :
@@ -488,13 +489,13 @@ simänt : {French 'ciment', English 'cement'}
 -- [m.] cement
 
 === games ===
-bal  : [n.] ball
+bal  : [n.] ball {French 'balle'}
 doš  : [n.] die/dice
 ešäk : [n. unc.] chess
 
 === time ===
 nat   : [n.] day
-taj   : [n.] [archaic] day 
+taj   : [n.] [archaic] day {German 'tag'}
 nošt  : [n.] night {Russian 'ночь', German 'Nacht'}
 damer : [n.] dusk
 säkond : [n.] second
@@ -556,12 +557,12 @@ tös :
 -- [v.] [reflexive] to become, to turn into
 
 gan : [v.] can, able to
-müs : [v.] have to (do something)
+müs : [v.] have to (do something) {German 'Muß'}
 düs : [v.] should
 baž :
 -- [v.] need, require
 -- [n.] need, requirement
-vür :
+vür : {French 'vouloir'}
 -- [v.] want, wish
 -- [n.] want, wish
 
@@ -608,7 +609,7 @@ fam : {Latin 'fames' via French 'faim'}
 -- [v.] hunger
 -- [n.] hunger
 
-fatig :
+fatig : {French 'fatigue'}
 -- [n.] tiredness
 -- v. to tire, make weary
 -- v. [passive] to tire, become weary
@@ -704,12 +705,9 @@ mäl : {French 'mêler'}
 -- [v.] mix, combine, blend, tangle, fuse
 -- [n.] mix, combination, blend
 
-šam  : [v.] hide, conceal
-ovis : [v.] show, uncover, demonstrate, discover
-lüs  : [v.] open
-usät : [v.] close
 
-baes
+
+baes :
 -- [v.] bite
 -- [v.] [colloq.] kid, fool around
 
