@@ -40,7 +40,7 @@ The Ižter language has two scripts/alphabet: one Latin and one Cyrillic (simila
 
 | IPA | English | Latin | Cyrillic | Braille | IPA | English | Latin | Cyrillic | Braille |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| /a/ | 'h*a*t' (Cali, Canada)   | Aa | Аа | ⠁ | /n/ | '**n**ap'                 | Nn | Нн | ⠝ |
+| /a/ | 'h**a**t' (Cali, Canada)   | Aa | Аа | ⠁ | /n/ | '**n**ap'                 | Nn | Нн | ⠝ |
 | /ɛ/ | 'b**e**d'                | Ää | Ӓӓ | ⠣ | /o/ | 'y**aw**n' (South Africa) | Oo | Оо | ⠕ |
 | /t/ | '**t**op'                | Tt | Тт | ⠞ | /ø/ | 'b**ir**d' (Broad NZ)     | Öö | Ӧӧ | ⠪ |
 | /d/ | '**d**og'                | Dd | Дд | ⠙ | /l/ | '**l**ine'                | Ll | Лл | ⠇ |
