@@ -32,15 +32,12 @@ It utilises Subject-Verb-Object word order.
 | Open-mid  | /ɛ/     |      |
 | Open      | /a/     |      |
 
-| Group  | Diphtong |
-|:---:   |:---: |
-| //ou// | \[o̞ʊ] |
-| //ae// | [ɐe̞] |
-| //ai// | [aɪ] |
-| //au// | [äʊ] |
-| //ue// | [ʊɪ] |
-| //ui// | [ʊi] |
-| //üe// | [ɨɪ] |
+| Group  | Diphtong | Group  | Diphtong |
+|:------:|:-----:|:------:|:-----:|
+| //io// | \[iʊ] | //ui// | \[ʊi] |
+| //ae// | \[ɐe̞] | //ai// | \[aɪ] |
+| //au// | \[äʊ] | //ou// | \[o̞ʊ] |
+| //ue// | \[ʊɪ] | //üe// | \[ɨɪ] |
 
 ## Alphabet
 The Ižter language has two scripts/alphabet: one Latin and one Cyrillic (similar to Serbian)
