@@ -529,6 +529,8 @@ päst : {French 'peste', English 'pester'}
 -- [v.] spread plague amongst
 -- [n.] annoyance
 -- [v.] plague, pester, annoy
+patš : [n.] peace
+-> apatš : [v.] appease
 
 === jargon ===
 alfabät : [n.] [f:linguistics] alphabet
@@ -648,13 +650,16 @@ ged ##
 
 tüš : [v.] [intrans.] touch, reach, attain
 
+räs : leave, depart ####
+-> resina [n.] : departure
+
 las :
 -- [v.] leave, depart
-----> lasina : [n.] departure ##
+----> lasin : [n.] departure
 -- [v.] leave behind, let (go of)
 perd :
--- n. loss, waste #
--- v. lose
+-- [v.] lose
+----> perdin : [n.] loss
 -- v. waste
 
 serv : [v.] serve
@@ -694,8 +699,7 @@ dants {German 'tanz', English 'dance'}
 -- [v.] [intrans] dance
 -- [n.] dance
 
-räs : leave, depart ####
--> resina [n.] : departure
+
 
 
 bras : [v.] ferment, brew
@@ -703,6 +707,7 @@ bras : [v.] ferment, brew
 -- bras : [n.] concoction, mixture, brew
 mät  : [v.] set, change, assign, put
 kal  : [v.] fit, match, correspond
+-> kalin : [n.] match
 sked : [v.] split, divide
 mäl : {French 'mêler'}
 -- [v.] mix, combine, blend, tangle, fuse
@@ -712,6 +717,7 @@ mäl : {French 'mêler'}
 
 baes :
 -- [v.] bite
+-> baesin : [n.] bite @@
 -- [v.] [colloq.] kid, fool around
 
 konsol : [v.] console
@@ -720,21 +726,30 @@ töl : {French 'tuile'}
 -- [n.] tile, pane, plate, square, panel
 -- [v.] to cover with tiles ##
 
-päs :
--- [v.] feed, nourish
--- [n.] food
+
 
 bištir : [v.] bring
 živ    : [v.] persist, continue {Croatian 'živi'}
 studer : [v.] study {Latin 'studere' via English 'study'}
+-> studerin : [n.] study, research @@
 tegär  : [v.] meet, encounter, frequent
+-> tegärin : [n.] meeting; date @@
 
-grafit :
--- [v.] scribble, graffiti
--- [n.] scribble, grafitti
-sträd : {Frisian 'striid', Swedish 'strida'}
--- [v.] struggle
--- [n.] struggle
+tän :
+-- [v.] (measure) time
+-- [n.] time
+päs :
+-- [v.] feed, nourish
+-- [n.] food
+
+grafit : [v.] scribble; graffiti
+-> grafitin : [n.] scribble; grafitti
+
+
+sträd : [v.] struggle {Frisian 'striid', Swedish 'strida'}
+-> strädin : [n.] fight, struggle, war
+
+
 limit : {French 'limite', English}
 -- [v.] limit
 ----> limitör : [n.] device that limits
