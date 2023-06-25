@@ -45,7 +45,7 @@ gupil  : [n.] fox {Old/Middle French 'goupil'}
 kat    : [n.] cat {English, German 'Katze'}
 kärü   : [n.] dog {Estonian 'koer'}
 lapin  : [n.] rabbit {French}
-läo    : [n.] lion {Latin}
+leo    : [n.] lion {Latin}
 luv    : [n.] wolf {Latin 'lupus' via French 'louve'}
 mostik : [n.] mosquito {French 'moustique', English 'mosquito'}
 mus    : [n.] mouse {English 'mouse', French 'souris'}
@@ -179,8 +179,8 @@ sol {Latin 'sol' via French 'solaire'}
 === marine ===
 haj      : [n.] shark {Swedish}
 mar      : [n.] sea {Breton 'mor', French 'mer'}
-osäan    : [n.] ocean {French 'océan'}
-koral    : [m.] coral {French 'corail', English 'coral'}
+osean    : [n.] ocean {French 'océan'}
+koräl    : [m.] coral {French 'corail', English 'coral'}
 perl     : [m.] pearl {French 'perle'}
 büj      : [n.] buoy
 
@@ -202,7 +202,7 @@ magma    : [m. unc.] magma {Anc. Greek 'μάγμα' via French, English}
 kav      : [n.] cave {French 'cave'}
 -> kavör : [n.] one who explores caves {'kav' + '-ör'} 
 ravin    : [n.] ravine
-krater   : [n.] crater {French 'cratère'}
+kratär   : [n.] crater {French 'cratère'}
 lits     : [n.] shore {Latin 'litus' via French 'littoral'}
 fkaas    : [n.] cliff
 
