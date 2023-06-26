@@ -1,8 +1,8 @@
 === numbers ===
 nümer {French 'numéro'}
--- [n.] number
+-- [n.] number; number of, count
+----> nümeräs : [adj.] numerical
 -- [v.] [trans] to assign a number to
--- [n.] number of, count
 nöl {German 'Null', English 'null', French 'annuler'}
 -- [num.] 0 (zero)
 -- [adj.] none, null, nought
@@ -19,7 +19,7 @@ sän : [num.] 100 (hundred) {French 'cent'}
 mil : [num.] 1000 (thousand) {French 'mille'}
 
 === colours ===
-kolor
+kolor :
 -- [n.] colour, pigment
 -- [v.] colour
 blo   : [m.] blue {Swedish 'blå'}
@@ -38,15 +38,21 @@ rus   : [m.] reddish-brown {French 'rousse'}
 === animals ===
 bok    : [n.] goat {Afrikaans}
 bov    : [n.] cow {Late Latin 'bovinus'}
+-> boväs : [adj.] bovine
 ekus   : [n.] horse {Latin 'equus'}
+-> ekusäs : [adj.] equine
 az     : [n.] donkey {Breton 'azen'}
 kuz    : [n.] sheep {Turkish 'kuzu'}
 gupil  : [n.] fox {Old/Middle French 'goupil'}
+-> gupiläs : [adj.] vulpine
 kat    : [n.] cat {English, German 'Katze'}
+-> katäs : [adj.] feline
 kärü   : [n.] dog {Estonian 'koer'}
+-> kärüäs : [adj.] canine
 lapin  : [n.] rabbit {French}
 leo    : [n.] lion {Latin}
 luv    : [n.] wolf {Latin 'lupus' via French 'louve'}
+-> luväs : [adj.] lupine
 mostik : [n.] mosquito {French 'moustique', English 'mosquito'}
 mus    : [n.] mouse {English 'mouse', French 'souris'}
 -> mus : [n.] computer mouse
@@ -59,11 +65,12 @@ rat    : [n.] rat {English, Latin 'rattus' via French 'rat'}
 urs    : [n.] bear {Latin 'ursus'}
 žiraf  : [n.] giraffe {French 'giraffe'}
 korvas : [n.] crow, raven {Japanese '烏', Latin 'corvus' via English 'corvid' & French 'corbeau'}
-lüzd
+lüzd :
 -- [n.] worm
 -- [v.] squirm, wriggle, worm, crawl
 päsk   : [n.] fish {Breton}
 -> päsktröbör : [n.] fishmonger ##
+-> päskäs : [adj.] piscine
 
 === crops ===
 karot : [n.] carrot {French 'carrote'}
@@ -82,6 +89,7 @@ nüs   : [n.] nut {French 'noix', English 'nut'}
 frut : {French, English 'fruit'}
 -- [n.] fruit
 ----> fru'tröbör : [n.] fruitmonger ##
+----> frutäs : [adj.] fructal, fruital
 -- [n.] product, result of
 sukar : {Arabic 'سكر' via French 'sucre' & English 'sugar'}
 -- [n.] sugar
@@ -102,13 +110,13 @@ käbab : {Arabic 'كباب' via English 'kebab' & French 'kébab'}
 frit : {French 'frite'}
 -- [n.] fry
 -- [v.] fry
-
--- [adj.] fried
-----> afrit : [v.] to make fried?
+-- [adj.] fried @
+----> afrit : [v.] to make fried? @
 
 sup       : [n.] soup, stew {French 'soupe'}
 šokola    : [m.] chocolate {French 'chocolat', Russian 'шоколад'}
 akal      : [n.] alcohol {Arabic 'أَكْحَال' via English 'alcohol' & French 'alcool'}
+-> akaläs : [adj.] alcoholic
 vodka     : [n.] vodka {Russian 'водка' via French, English 'vodka'}
 tart      : [n.] tart {French 'tarte'}
 maskarpon : [n.] mascarpone {Italian 'mascarpone' via French & English}
@@ -120,7 +128,9 @@ tšädar    : [n.] Cheddar (cheese) {English 'Cheddar'}
 arb     : [n.] tree {French 'arbre'}
 busk    : [n.] bush {English 'bush', ? German 'Busch', ? Finnish 'puska'}
 foräs   : [n.] forest {English 'forest', French 'fôret'}
+-> foräsäs : [adj.] forestal
 härb    : [n.] grass, herb {French 'herbe', English 'herb'}
+-> härbäs : [adj.] herbal
 kaktüs  : [n.] cactus {French 'cactus'}
 lilak   : [n.] lilac {English 'lilac'}
 solflor : [n.] sunflower {'sol' + 'flor'}
@@ -131,6 +141,7 @@ burš    : [m.] birch {English 'birch', French 'bouleau}
 akašia  : [m.] acacia {English, French 'acacia'}
 flor : {Italian 'fiore', French 'fleur'}
 -- [n.] flower
+----> floräs : [adj.] floral
 -- [v.] [intrans] bloom, blossom, flower
 föl : {French 'feuille'}
 -- [n.] leaf
@@ -149,20 +160,21 @@ biom    : [n.] biome {French 'biome'}
 briz    : [n.] breeze {French 'brize', English 'breeze'}
 feld    : [n.] field {German 'Feld'}
 velt    : [n.] world {German 'Welt'}
+-> veltäs : [adj.] wordly; actual, material
 vänt    : [n.] wind {Latin 'ventus'}
-stürm {German 'Sturm', English 'storm'}
+stürm : {German 'Sturm', English 'storm'}
 -- [v.] rush, attack, storm
 -- [n.] storm
-glav {Breton}
+glav : {Breton}
 -- [v.] [intrans] (of a liquid) rain
 -- [n.] rain
-snež {English 'snow', French 'neige'}
+snež : {English 'snow', French 'neige'}
 -- [v.] [intrans] (of a powder or snow-like substance) snow 
 -- [n.] snow
-tšäl {Italian 'cielo'}
+tšäl : {Italian 'cielo'}
 -- [n.] sky
 -- [n.] ceiling ##
-kumul {Latin 'cumulus'}
+kumul : {Latin 'cumulus'}
 -- [n.] cloud
 -- [v.] [trans] cloud, obstruct, confuse
 lant : {German 'Land'}
@@ -171,15 +183,20 @@ lant : {German 'Land'}
 
 === space ===
 lün    : [n.] moon {Latin 'luna'}
+-> lünäs : [adj.] lunar
 planät : [n.] planet {French 'planète'}
+-> planätäs : [adj.] planetary
 sol {Latin 'sol' via French 'solaire'}
 -- [n.] sun
+----> soläs : [adj.] solar
 -- [v.] [trans] to expose to sunlight
 
 === marine ===
 haj      : [n.] shark {Swedish}
 mar      : [n.] sea {Breton 'mor', French 'mer'}
+-> maräs : [adj.] marine
 osean    : [n.] ocean {French 'océan'}
+-> oseanäs : [adj.] oceanic
 koräl    : [m.] coral {French 'corail', English 'coral'}
 perl     : [m.] pearl {French 'perle'}
 büj      : [n.] buoy
@@ -187,8 +204,10 @@ büj      : [n.] buoy
 === geological & mineral ===
 metal    : [m. unc.] metal {French 'métal'}
 -> metaltröbör : [n.] metalworker {'metal' + 'tröbör'}
+-> metaläs : [adj.] metallic
 bronz    : [m. unc.] bronze {English 'bronze'}
 fer      : [m. unc.] iron {French}
+-> feräs : [adj.] ferrous
 ardžänt  : [m. unc.] silver {Latin 'argentum' via French 'argent'}
 or       : [m. unc.] gold {French}
 granit   : [m. unc.] granite {French 'granit' via Russian 'гранит'}
@@ -210,16 +229,18 @@ kristal : {French 'cristal'}
 -- [n.] crystal
 -- v. crystallize
 
-min 
+min :
 -- [n.] mine, mineshaft
 -- [v.] mine (out)
 ----> minör : [n.] miner
-mont
+mont :
 -- [n.] mountain
 ----> ?? mountaineer
+----> montäs : [adj.] mountainous
 -- [v.] [trans] to tower over, to dwarf
 säl : {French}
 -- [n.] salt
+----> säläs : [adj.] saline
 -- [v.] [trans] salt
 tünäl : {French 'tunnel'}
 -- [n.] tunnel
@@ -232,24 +253,32 @@ ter : {French 'terre'}
 === körp · body ===
 pil    : [n.] hair {Latin 'pilus' via French 'épiler'}
 öl     : [n.] eye {French 'œil'}
+-> öläs : [adj.] ocular
 vän    : [n.] vein {French 'veine'}
 nas    : [n.] nose {Latin 'nasus' via English, French 'nasal'}
+-> nasäs : [adj.] nasal
 mož    : [n.] mouth
+-> možäs : [adj.] oral
 stom   : [n.] [archaic] mouth {Anc. Greek 'στόμα'}
 -> stomak : [n.] stomach {Anc. Greek 'στόμαχος'}
 dänt   : [n.] tooth {Latin 'dens' via French 'dentiste'/'dentaire', English 'dentist'/'dental'}
+-> däntäs : [adj.] dental
 leng   : [n.] tongue {French 'langue'}
 ost    : [n.] bone {Anc. Greek 'ὀστέον' via French 'ostéo-'}
+-> ostäs : [adj.] osteal
 skelät : [n.] skeleton {Anc. Greek 'σκελετός' via French 'squelette' & English 'skeleton'}
+-> skelätäs : [adj.] skeletal
 kol : {Latin 'collum' via French 'col' & English 'collar'}
 -- [n.] neck
 -- [n.] collar
 hart : {Afrikaans}
 -- [n.] heart
+----> hartäs : [adj.] cardiac
 -- [n.] core, centre, heart
 blüt : {German 'Blut'}
--- [v.] bleed
 -- [n.] blood
+----> blütäs : [adj.] sanguine
+-- [v.] bleed
 kap : {Latin 'caput' via English 'captain' & French 'décapiter'}
 -- [n.] head
 -- [v.] lead, direct
@@ -261,11 +290,12 @@ läp : {English 'lip', Latin 'labrum' via French 'lèvre'}
 man : {Latin 'manus' via French 'main' & English 'manual'}
 -- [n.] hand
 -- [v.] [trans] handle, control, manage
-räš
+räš :
 -- [n.] flesh, meat
 -- [v.] [trans] shape, give form to
 seräb : {Latin 'cerebrum' via English 'cerebellum' & French 'cervelle'}
 -- [n.] brain
+----> seräbäs : [adj.] cerebral
 -- [v.] [informal] to think of/find a solution to a problem
 süt : {French 'suant'}
 -- [v.] sweat
@@ -274,7 +304,7 @@ süt : {French 'suant'}
 === biology ===
 lön : {French 'laine'}
 -- [n.] wool
--- [adj.] woolen
+----> lönäs : [adj.] woolen ##
 mälk : {English 'milk', French 'lait'}
 -- [n.] milk
 -- [v.] [usu. of an animal] milk
@@ -285,6 +315,7 @@ sübas : [n.] wing (archaic)
 fung : {Italian 'funghi'}
 -- [n.] mushroom
 ----> [n.] [colloq.] penis
+----> fungäs : [adj.] fungal
 
 === technology ===
 disk  : [n.] disk, disc, record, CD, CD-ROM {French 'disque', English 'disc'/'disk'}
@@ -311,10 +342,10 @@ otomobil : [n.] [formal] car
 piston {English, French}
 -- [n.] piston
 -- [v.] to move in and out of or into, like a piston
-tram
+tram :
 -- [n.] tram
 -- [v.] [intrans] commute by tram
-trän
+trän :
 -- [n.] train
 -- [v.] [intrans] commute by train
 radio
@@ -325,7 +356,7 @@ radio
 fals  : [n.] sickle {Catalan 'falç'}
 brust : [n.] brush {Breton 'broust'}
 torš  : [n.] cloth {Breton 'torch'}
-tamor
+tamor :
 -- [n.] hammer
 -- [v.] to strike with a hammer
 flis : {Frisian 'fluitsje', French 'siffle(t)'}
@@ -335,6 +366,7 @@ flis : {Frisian 'fluitsje', French 'siffle(t)'}
 
 === music ===
 müzik    : [n.] music {German 'Musik'}
+-> müzik : [adj] musical
 saksofon : [n.] saxophone
 piano    : [n.] piano {Italian}
 not : note
@@ -343,19 +375,22 @@ not : note
 stat     : [n.] state, government {German 'Staat'}
 partit   : [n.] (political) party
 repüblik : [n.] republic
+-> repüblikäs : [adj.] republican
 partizan : [n.] partisan {Italian 'partigiane', French, English 'partisan'}
 soldat   : [n.] soldier {French 'soldat', German 'Soldat'}
 ženeral  : [n.] general 
 
 salar    : [n.] wage, salary
 -> salarör : [n.] salary-man, employee
+-> salaräs : [adj.] salarial
 
 polis
 -- [n.] police, law enforcement
 -- [v.] police
-politik
--- [n.] politics
--- [n.] set of (political) beliefs of a person or organization, ideology
+
+politik : [n.] politics; set of (political) beliefs of a person or organization, ideology
+-> politikäs : [adj.] politics
+
 ger ###
 -- n. war
 -- v. to be at war or go to war with
@@ -370,17 +405,20 @@ prizon : [n.] prison
 otel     : [n.] hotel {French 'hôtel'}
 katädral : [n.] cathedral {French 'catédrale'}
 dom      : [n.] house, home {Russian 'дома'}
+-> domäs : [adj.] domestic
 skol     : [n.] school
 -> skolör : [n.] student
+-> skoläs : [adj.] scholar
 
 === clothes ===
-šos   : [n.] shoe 
-šömit : [n.] shirt
-käp   : [n.] cape
+šos   : [n.] shoe {French 'chaussure'}
+šömit : [n.] shirt {French 'chemise'}
+käp   : [n.] cape {English 'cape'}
 džin  : [m.] jean
 
 === concepts ===
 kültür  : [n.] culture {German 'Kultur', French 'culture'}
+-> kültüräs : [adj.] cultural
 värsion : [n.] version {French, English 'version'}
 sistäm  : [n.] system {French 'système', English 'system'}
 ide     : [n.] idea {French 'idée'}
@@ -390,41 +428,48 @@ tšo     : [n.] thing {French 'chose'}
 sünog   : [n.] edge, boundary, border
 vine    : [n.] domain, realm {Croatian 'domovina'}
 
-nam
+nam :
 -- [n.] name
+----> namäs : [adj.] nominal
 -- [v.] to give/assign a name to
 
-prod
+prod :
 -- [n.] pride
 -- adj. proud
 -- v. pride @@
-heer
+heer :
 -- [n.] hatred
 -- [v.] hate
-enor {Breton}
+enor : {Breton}
 -- [v.] honor
 -- [n.] honor
 
 frän :
 -- [n.] mind
+----> fränäs : [adj.] mental
 -- [v.] be aware/conscious of @@
 
-rät : [n.] right
+rät : [n.] right {Swedish 'rättvisa'}
 -> rätäs : [adj.] just
 ----> rätäsein : [n.] justice
+-------> rätäseinäs : [adj.] judiciary
+-------> rätäseinör : [n.] judge, jurist
 
 === fantasy ===
 maži    : [n.] magic {French 'magie'}
 goläm   : [n.] golem {English 'golem'}
 zambi   : [n.] zombie
 dragon  : [n.] dragon {English, French}
+-> dragonäs : [adj.] draconic
 posion  : [n.] potion {French, English 'potion'}
 
 === historical ===
 armor : [n.] armor
 klad  : [n.] sword
 totäm : [n.] totem {French, English}
-räi   : [n.] king {Portugese}
+-> totämäs : [adj.] totemic
+räi   : [n.] king {Portugese 'rei'}
+-> räiäs : [adj.] royal
 koron : {Latin 'corona' via Italian 'corona' & French 'couronne'}
 -- [n.] crown
 -- [v.] crown
@@ -444,7 +489,7 @@ pul : {Latin 'pulvis' via English 'pulverise' & French 'pulvériser'}
 frus :
 -- [m.] froth, moss, foam
 -- [v.] foam, froth
-füm {French 'fumée'}
+füm : {French 'fumée'}
 -- [m.] smoke
 -- [v.] produce smoke
 -> fümör :
@@ -502,22 +547,29 @@ ešäk : [n. unc.] chess
 
 === time ===
 nat   : [n.] day
+-> natäs : [adj.] diurnal, daily
 taj   : [n.] [archaic] day {German 'tag'}
 nošt  : [n.] night {Russian 'ночь', German 'Nacht'}
+-> noštäs : [adj.] nocturnal, nightly
 damer : [n.] dusk
 säkond : [n.] second
 minüt : [n.] minute {French, English 'minute'}
 uur   : [n.] hour {German 'Uhr'}
 mäns  : [n.] month {Latin 'mensis' via French 'mensuel'}
+-> mänsäs : [adj.] mensual, monthly
 
 === people ===
-matä  : mother {Latin 'mater'}
-paträ : father {Latin 'pater'}
-fratä : brother {Latin 'frater'}
-sorä  : sister {Latin 'soror'}
-fal   : girl {Latin 'filia'}
+matä  : [n.] mother {Latin 'mater'}
+-> matääs : [v.] maternal
+paträ : [n.] father {Latin 'pater'}
+-> paträäs : [v.] paternal
+fratä : [n.] brother {Latin 'frater'}
+-> fratääs : [v.] fraternal, brotherly
+sorä  : [n.] sister {Latin 'soror'}
+-> sorääs : [v.] sisterly
+fal   : [n.] girl {Latin 'filia'}
 -> falä : daughter
-poj   : boy {Finnish 'poika', Swedish 'pojke'}
+poj   : [n.] boy {Finnish 'poika', Swedish 'pojke'}
 -> pojä : son
 
 klun : [n.] clown {French 'clown'}
@@ -525,6 +577,7 @@ klun : [n.] clown {French 'clown'}
 
 === misc ===
 dös     : [n.] god, deity {Portugese 'Deus'}
+-> dösäs : [adj.] divine
 kompost : [n.] compost {English, French 'compost'}
 post    : [n.] mail {English, French 'poste'}
 -> pos'tröbör : [n.] postman {'post' + 'tröbör'}
@@ -538,10 +591,13 @@ patš : [n.] peace
 
 === jargon ===
 alfabät : [n.] [f:linguistics] alphabet
+-> alfabätäs : [adj.] alphabetical
 kanton  : [n.] [f:vexillology] canton 
 atom     : [n.] atom
+-> atomäs : [adj.] atomic
 proton   : [n.] proton
 elektron : [n.] electron
+-> elektronäs : [adj.] electronic
 
 === verbs ===
 es  : [v.] be
@@ -575,11 +631,11 @@ vür : {French 'vouloir'}
 -- [v.] want, wish
 -- [n.] want, wish
 
-träš
+träš :
 -- [v.] [trans] throw
 -> trešör : [n.] one who throws
 -- [n.] throw
-trös
+trös :
 -- [v.] [trans] catch
 -> trösör : [n.] one who catches
 -- [n.] catch
@@ -809,6 +865,7 @@ löv : [v.] [intrans] stand, rise {French 'lever'}
 vis : [v.] see, perceive, view, look
 -> visina : [n.] view, perspective, observation
 -> visör : [n.] viewer, witness
+-> visäs : [n.] visual
 spir : [v.] breathe
 -> spirina : [n.] breath
 vitš : [v.] win
@@ -871,6 +928,7 @@ kras : {French 'crasse'}
 
 bir : [adj.] near, close
 -> abir : [adj.] to bring closer; to approach
+-> biräs : [adj.] proximal
 
 
 
@@ -878,6 +936,7 @@ sut : [adj.] still, down, low, seated
 -> asut : [v.] sit/lay down
 
 stese : [adj.] sacred, blessed @@
+-> stesäs
 
 ru : [adj.] raw, crude
 
