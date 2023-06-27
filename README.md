@@ -95,6 +95,7 @@ Verbs are conjugated by taking the root and appending the ending as a suffix.
 | 2s  | Tö | Tö | Tön | Töj |
 | 2p  | Vo | Vo | Vos | Voj |
 | 3s  | Sö | Sö | Sön | Söj |
+| 3sp | Su | Su | Sun | Suj |
 | 3fs | Sa | Sa | San | Saj |
 | 3ms | So | So | Son | Soj |
 | 3p  | Zö | Zö | Zön | Zöj |
