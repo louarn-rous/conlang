@@ -268,9 +268,8 @@ ost    : [n.] bone {Anc. Greek 'ὀστέον' via French 'ostéo-'}
 -> ostäs : [adj.] osteal
 skelät : [n.] skeleton {Anc. Greek 'σκελετός' via French 'squelette' & English 'skeleton'}
 -> skelätäs : [adj.] skeletal
-kol : {Latin 'collum' via French 'col' & English 'collar'}
--- [n.] neck
--- [n.] collar
+kol : [n.] neck {Latin 'collum' via French 'col' & English 'collar'}
+-> koliär : [n.] collar
 hart : {Afrikaans}
 -- [n.] heart
 ----> hartäs : [adj.] cardiac
