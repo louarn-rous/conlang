@@ -30,6 +30,10 @@ gešt : [prep.] against
 ob   : [prep.] on (top of)
 us   : [prep.] underneath
 
+sti : [prep.] as if, like so, similar to
+-> stit : [adv.] thus, in this way or manner
+-> -sti : [suf.] forms adjectives from nouns, having the sense of resembling or behaving like the suffixed word
+
 === pos. nouns ===
 ot : [n.] up, high, top (of)
 ös : [n.] down, low, bottom (of)
@@ -75,9 +79,6 @@ alter :
 -- [n.] other
 -- [adj.] other
 
-sti : [prep.] as if, like so, similar to
--> stit : [adv.] thus, in this way or manner
-
 === conjunctions ===
 e   : [cnjc.] and
 mit : [cnjc.] instrumentative ('with') {German}
@@ -104,10 +105,12 @@ se : [prep.] precedes a verb, marking it as reflexive
 
 === affixes ===
 -en   : [suf.] plural {German}
+-u    : [suf.] diminutive {Turkish 'kuzu'}
+-e    : [suf.] ordinal
 -ina  : [suf.] used to form nouns from verbs, indicating the action of what is denoted by the verb {Croatian 'batina'}
 --> -in : [suf.] used to form nouns from verbs, describing the result of an action
 -ör   : [suf.] used to form agent nouns from verbs ('-er')
--u    : [suf.] diminutive {Turkish 'kuzu'}
+
 -äs   : [suf.] used to form adjectives from nouns, with the meaning 'of or pertaining to' the suffixed word ('-ic')
 -ein : [suf.] used to form nouns, denoting the condition or state of the suffixed word ('-hood', '-dom', '-ness') {Archaic form: '-esin'}
 
