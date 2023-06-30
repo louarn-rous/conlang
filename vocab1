@@ -726,6 +726,7 @@ läd : {German 'leibt'}
 
 don : [v.] give, deal {French 'donner'}
 -> donina : [n.] donation
+
 ged ##
 -- v. get, gain, obtain
 -- v. take, steal
@@ -779,6 +780,7 @@ vän : [v.] [intrans.] come
 
 dants {German 'tanz', English 'dance'}
 -- [v.] [intrans] dance
+----> dantsör : [n.] dancer
 -- [n.] dance
 
 
@@ -836,17 +838,22 @@ sträd : [v.] struggle {Frisian 'striid', Swedish 'strida'}
 
 
 limit : {French 'limite', English}
--- [v.] limit
+-- [v.] [trans] limit
 ----> limitör : [n.] device that limits
+----> limitan : [adj.] limited
 -- [n.] limit
+
 list : {French 'liste', English}
 -- [v.] list
 -- [n.] list
+
 troš : {French 'trancher'}
--- [v.] slice, cut
+-- [v.] [trans] slice, cut
 ----> trošör : [n.] one that cuts
+----> trošan : [adj.] cut
 -- [n.] cut, incision
-tröb
+
+tröb : {German 'Arbeit', French 'travail', English 'labour'}
 -- [v.] work, labour
 ----> tröbör : [n.] worker
 -- [n.] work, labour
@@ -973,7 +980,10 @@ kozäv : [adj.] typical, normal
 
 
 frel : [adj.] weak, fragile {French 'frêle'}
--> afrel : [v.] to weaken
+-> afrel : [v.] weaken
+här : [adj.] strong
+-> ahär : [v.] strengthen
+
 fis : [adj.] definite, stable, certain
 -> afis : [v.] to stabilize, confirm
 
