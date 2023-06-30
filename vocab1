@@ -1,22 +1,35 @@
 === numbers ===
-nümer {French 'numéro'}
+nümer : {French 'numéro'}
 -- [n.] number; number of, count
 ----> nümeräs : [adj.] numerical
 -- [v.] [trans] to assign a number to
-nöl {German 'Null', English 'null', French 'annuler'}
+nöl : {German 'Null', English 'null', French 'annuler'}
 -- [num.] 0 (zero)
 -- [adj.] none, null, nought
 ---> anöl : [v.] cancel, make null
 ün : [num.] 1 (one) {French 'une'}
 -> ünit : [v.] unite, unify
+-> üne : [ord. num.] first
 to  : [num.] 2 (two)
+-> toe : [ord. num.] second
 tri : [num.] 3 (three) {Russian 'три', French 'trois'}
+-> trie : [ord. num.] third
 fän : [num.] 5 (five)
+-> fäne : [ord. num] fifth
+ses : [num.] 6 (six) {German 'sechs', French 'six'}
+-> sese : [ord. num] sixth
 sät : [num.] 7 (seven) {French 'sept'}
+-> säte : [ord. num] seventh
 oht : [num.] 8 (eight) {German 'acht'}
+-> ohte : [ord. num] eight
 nön : [num.] 9 (nine) {French 'neuf', English 'nine'}
+-> nöne : [ord. num] ninth
+des : [num.] 10 (ten) {French 'dix'}
+-> dese : [ord. num] tennth
 sän : [num.] 100 (hundred) {French 'cent'}
+-> sän : [ord. num] hundredth
 mil : [num.] 1000 (thousand) {French 'mille'}
+-> mil : [ord. num] thousandth
 
 === colours ===
 kolor :
@@ -218,17 +231,22 @@ emrod    : [m.] emerald {French 'émeraude', English 'emerald'}
 tärakota : [m.] terracotta {Italian 'terracotta'}
 magma    : [m. unc.] magma {Anc. Greek 'μάγμα' via French, English}
 
+kristal : {French 'cristal'}
+-- [n.] crystal
+-- v. crystallize
+
+säl : {French}
+-- [n.] salt
+----> säläs : [adj.] saline
+-- [v.] [trans] salt
+
+=== features ===
 kav      : [n.] cave {French 'cave'}
 -> kavör : [n.] one who explores caves {'kav' + '-ör'} 
 ravin    : [n.] ravine
 kratär   : [n.] crater {French 'cratère'}
 lits     : [n.] shore {Latin 'litus' via French 'littoral'}
 fkaas    : [n.] cliff
-
-kristal : {French 'cristal'}
--- [n.] crystal
--- v. crystallize
-
 min :
 -- [n.] mine, mineshaft
 -- [v.] mine (out)
@@ -238,20 +256,21 @@ mont :
 ----> ?? mountaineer
 ----> montäs : [adj.] mountainous
 -- [v.] [trans] to tower over, to dwarf
-säl : {French}
--- [n.] salt
-----> säläs : [adj.] saline
--- [v.] [trans] salt
+
 tünäl : {French 'tunnel'}
 -- [n.] tunnel
 -- [v.] (to make a) tunnel through
 ----> tünelör : [n.] one who tunnels {'tünel' + '-ör'}
 ter : {French 'terre'}
 -- [n.] earth, ground, dirt
+----> ater : [v.] (of aircraft) to land
 -- [v.] (of electrical equipment) connect to the ground
 -- [v.] (of aircraft) prevent from flying
+
+
 === körp · body ===
 pil    : [n.] hair {Latin 'pilus' via French 'épiler'}
+-> piläs : [adj.] pilar, crinal
 öl     : [n.] eye {French 'œil'}
 -> öläs : [adj.] ocular
 vän    : [n.] vein {French 'veine'}
@@ -288,6 +307,7 @@ läp : {English 'lip', Latin 'labrum' via French 'lèvre'}
 -- [v.] [informal] to kiss
 man : {Latin 'manus' via French 'main' & English 'manual'}
 -- [n.] hand
+----> manäs : [adj.] of or relating to the hand; manual
 -- [v.] [trans] handle, control, manage
 räš :
 -- [n.] flesh, meat
@@ -303,12 +323,13 @@ süt : {French 'suant'}
 === biology ===
 lön : {French 'laine'}
 -- [n.] wool
-----> lönäs : [adj.] woolen ##
+-- [adj.] woolen
 mälk : {English 'milk', French 'lait'}
 -- [n.] milk
 -- [v.] [usu. of an animal] milk
 -- [v.] exploit excessively
 ov   : [n.] egg {Latin 'ovum'}
+-> oväs : [adj.] of or pertaining to eggs; oval
 zbas : [n.] wing
 sübas : [n.] wing (archaic)
 fung : {Italian 'funghi'}
@@ -453,6 +474,7 @@ rät : [n.] right {Swedish 'rättvisa'}
 ----> rätäsein : [n.] justice
 -------> rätäseinäs : [adj.] judiciary
 -------> rätäseinör : [n.] judge, jurist
+----> arätäs : [v.] adjust, rectify; justify
 
 === fantasy ===
 maži    : [n.] magic {French 'magie'}
@@ -514,7 +536,6 @@ lozanž : {French 'losange'}
 
 === house ===
 kav   : [n.] basement {French 'cave'}
-somis : [n.] bed {'som' + 'mis'}
 käl   : [n.] key {French 'clé', English 'key'}
 -> kältröbör : [n.] locksmith
 tür   : [n.] door, gate {German 'Tür'}
@@ -641,6 +662,7 @@ trös :
 šam  : [v.] hide, conceal
 avis : [v.] show, uncover, demonstrate, discover
 lüs  : [v.] open
+-> lüsör : [n.] thing which opens; opener
 üsät : [v.] close
 tör  : [v.] pull
 prös : [v.] push
@@ -652,7 +674,7 @@ alt : [v.] stop, cease {German 'Halt'}
 manž : [v.] eat {Italian 'mangiare', French 'manger'}
 sül :
 -- [v.] drink
--> sülör : [n.] one who drinks (usu. alcohol)
+----> sülör : [n.] one who drinks (usu. alcohol)
 -- [n.] drink
 
 tänj : {French 'teindre'}
@@ -662,6 +684,7 @@ tänj : {French 'teindre'}
 som : {Latin 'somnus' via French 'sommeil'}
 -- [v.] [intrans] sleep
 -- [n.] sleep
+----> somis : [n.] bed {'som' + 'mis'}
 
 pas : [v.] pass, go by
 
@@ -745,6 +768,7 @@ plod
 
 kül : {French 'colle', English 'glue'}
 -- [v.] stick, adhere
+----> külat : 
 -- [n.] glue, adhesive
 
 salv : [v.] save
@@ -762,6 +786,7 @@ dants {German 'tanz', English 'dance'}
 bras : [v.] ferment, brew {French 'brasser'}
 -> brasör : [n.] machine or person who prepares mixtures
 -- bras : [n.] concoction, mixture, brew
+
 mät  : [v.] set, change, assign, put
 
 kal  : [v.] fit, match, correspond
@@ -772,9 +797,9 @@ mäl : {French 'mêler'}
 -- [v.] mix, combine, blend, tangle, fuse
 -- [n.] mix, combination, blend
 
-trem : [v.] shake, tremble, wobble
+trem : [v.] shake, tremble, wobble {French 'trembler', Croatian 'tresti'}
 
-baes :
+baes : {Unknown}
 -- [v.] bite
 -> baesin : [n.] bite @@
 -- [v.] [colloq.] kid, fool around
@@ -799,11 +824,11 @@ tän :
 -- [n.] time
 päs :
 -- [v.] feed, nourish
+----> päsin : [n.] meal; nourishment @@
 -- [n.] food
 
 grafit : [v.] scribble; graffiti
 -> grafitin : [n.] scribble; grafitti
-
 
 sträd : [v.] struggle {Frisian 'striid', Swedish 'strida'}
 -> strädin : [n.] fight, struggle, war
@@ -824,24 +849,26 @@ tröb
 -- [v.] work, labour
 ----> tröbör : [n.] worker
 -- [n.] work, labour
-štüt
+štüt :
 -- [v.] support
 -- [n.] support
-tortür
+tortür : {French & English 'torture'}
 -- [v.] torture
 ----> tortürör : [n.] torturer
 -- [n.] torture
-mord {German 'morden'}
+mord : {German 'morden'}
 -- [v.] kill, murder
 ----> mordör : [n.] killer, murderer
 -- [n.] murder
-šarž :
--- v. charge, load
--- n. charge
+
+šarž : ##
+-- [v.] charge, load
+-- [n]. charge
+
 fül : 
 -- [v.] flow
 -- [n.] flow
-fors :
+fors : {English & French 'force'}
 -- [v.] force
 -- [n.] force
 marš : {English 'march', French 'marcher'}
