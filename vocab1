@@ -710,7 +710,7 @@ tüš : [v.] [intrans.] touch, reach, attain
 
 räs : [v.] let, allow
 
-las :
+las : {French 'laisser'}
 -- [v.] leave, depart
 ----> lasin : [n.] departure @@
 -- [v.] leave behind, let (go of)
@@ -722,7 +722,7 @@ perd :
 serv : [v.] serve
 -> servör : [n.] waiter, servant; [computing] server
 
-pärmit : [v.] allow, permit
+pärmit : [v.] allow, permit {French 'permit'}
 -> adj.
 probit : [v.] prohibit, disallow
 -> adj.
@@ -759,7 +759,7 @@ dants {German 'tanz', English 'dance'}
 
 
 
-bras : [v.] ferment, brew
+bras : [v.] ferment, brew {French 'brasser'}
 -> brasör : [n.] machine or person who prepares mixtures
 -- bras : [n.] concoction, mixture, brew
 mät  : [v.] set, change, assign, put
@@ -841,7 +841,7 @@ mord {German 'morden'}
 fül : 
 -- [v.] flow
 -- [n.] flow
-fors
+fors :
 -- [v.] force
 -- [n.] force
 marš : {English 'march', French 'marcher'}
@@ -887,15 +887,15 @@ regül : [v.] regulate
 === adjectives ===
 sur : [adj.] big {Estonian 'suur'}
 -> asur : [v.] [usu. trans] to increase, embiggen, grow
-tis : [adj.] small
+tis : [adj.] small {Breton}
 -> atis : [v.] to reduce, shrink
-lon : [adj.] long
+lon : [adj.] long {French 'long'}
 -> alon : [v.] lengthen
 škort : [adj.] brief
 -> aškort : [v.] shorten
-när : [adj.] wide {Anc. Greek 'στενός'}
+när : [adj.] wide
 -> anär : [v.] widen, broaden
-sten : [adj.] narrow
+sten : [adj.] narrow {Anc. Greek 'στενός'}
 -> asten : [v.] constrict
 goš : [adj.] tall
 
@@ -904,16 +904,16 @@ sob : [adj.] thick
 pän : [adj.] thin
 -> apän : [v.] thin
 
-nov : [adj.] new
+nov : [adj.] new {Portugese 'novo'}
 jong : [adj.] young {German 'jung', Dutch}
 ou : [adj.] old {Afrikaans}
 lis : [adj.] smooth {French 'lisse'}
 -> alis : [v.] smooth
 plat : [adj.] flat {French 'aplatir'}
 -> aplat : [v.] flatten
-dar : [adj.] hard
+dar : [adj.] hard {French 'dur', English 'hard'}
 -> adar : [v.] harden
-mals : [adj.] soft, tender
+mals : [adj.] soft, tender {Dutch}
 -> amals : [v.] soften; tenderize
 gul : [adj.] wet
 
@@ -944,13 +944,13 @@ kozäv : [adj.] typical, normal
 -> akozäv : [v.] normalise
 
 
-frel : [adj.] weak, fragile
+frel : [adj.] weak, fragile {French 'frêle'}
 -> afrel : [v.] to weaken
 fis : [adj.] definite, stable, certain
 -> afis : [v.] to stabilize, confirm
 
-motš : [adj.] nice, pleasant
-yats : [adj.] great, grand, mighty
+motš : [adj.] nice, pleasant {'moce'}
+yats : [adj.] great, grand, mighty {Korean '에야차'}
 -> ayats : [v.] make great, improve, elevate
 -> iyats @@@
 
@@ -964,12 +964,12 @@ vid : [adj.] empty {French 'vide'}
 frid : [adj.] cold
 -> afrid [v.] cool, chill
 -- [n.] cold ##
-hoš : [adj.] hot
+hoš : [adj.] hot {French 'chaud', English 'hot'}
 -> ahoš [v.] heat (up)
 -- [n.] heat ##
 
 tün : [adj.] whole, complete, entire
-lös : [adj.] single, lone, only
+lös : [adj.] single, lone, only {French 'seul', English 'lone'}
 -> alös [v.] single out
 -> lösesin : [n.] loneliness
 püli : [adj.] multiple, plural
