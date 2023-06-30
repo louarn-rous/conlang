@@ -6,8 +6,8 @@
 (input-method t ijter-cyrillic)
 
 (description "Ijter cyrillic input method for qwerty layout.
-Author: afeg64/metalainism
-Key Summary: none
+Author: louarn-rous
+Key Summary: v1.2
 ")
 
 (title "Ijter Cyrillic")
@@ -56,8 +56,8 @@ Key Summary: none
   ("=" ?=)
   ("Q" ?Ӧ)
   ("q" ?ӧ)
-  ("W" ?Э)
-  ("w" ?э)
+  ("W" ?Ӓ)
+  ("w" ?ӓ) 
   ("E" ?Е)
   ("e" ?е)
   ("R" ?Р)
