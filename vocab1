@@ -136,55 +136,61 @@ frit : {French 'frite'}
 
 sup       : [n.] soup, stew {French 'soupe'}
 šokola    : [m.] chocolate {French 'chocolat', Russian 'шоколад'}
-akal      : [n.] alcohol {Arabic 'أَكْحَال' via English 'alcohol' & French 'alcool'}
--> akaläs : [adj.] alcoholic
-vodka     : [n.] vodka {Russian 'водка' via French, English 'vodka'}
 tart      : [n.] tart {French 'tarte'}
 maskarpon : [n.] mascarpone {Italian 'mascarpone' via French & English}
 makademia : [n.] macadamia
 formaž    : [n.] cheese {Italian 'formaggio' via French 'fromage'}
 tšädar    : [n.] Cheddar (cheese) {English 'Cheddar'}
+akal      : [n.] alcohol {Arabic 'أَكْحَال' via English 'alcohol' & French 'alcool'}
+-> akaläs : [adj.] alcoholic
+vodka     : [n.] vodka {Russian 'водка' via French, English 'vodka'}
+bier      : [n.] beer {French 'bière'}
 
 === plants & trees ===
 arb     : [n.] tree {French 'arbre'}
-busk    : [n.] bush {English 'bush', ? German 'Busch', ? Finnish 'puska'}
-vit     : [n.] vine
-foräs   : [n.] forest {English 'forest', French 'fôret'}
--> foräsäs : [adj.] forestal
-härb    : [n.] grass, herb {French 'herbe', English 'herb'}
--> härbäs : [adj.] herbal
-kaktüs  : [n.] cactus {French 'cactus'}
-lilak   : [n.] lilac {English 'lilac'}
--> lila : [adj.] purple {Estonian 'lilla'}
-solflor : [n.] sunflower {'sol' + 'flor'}
--> solflor : [n.] [colloq.] [figurative] person with little to no capacity for independent thought
-tülip   : [n.] tulip {French 'tulipe', English 'tulip'}
-bambu   : [m.] bamboo {French 'bambou'}
-burš    : [m.] birch {English 'birch', French 'bouleau}
-akašia  : [m.] acacia {English, French 'acacia'}
-flor : {Italian 'fiore', French 'fleur'}
--- [n.] flower
-----> floräs : [adj.] floral
--- [v.] [intrans] bloom, blossom, flower
-föl : {French 'feuille'}
--- [n.] leaf
--- [n.] feather
--- [n.] leaflet, strip of paper
 mäts : {Estonian}
 -- [n. unc.] wood
 ----> mätstrošör : [n.] lumberjack {'mets' + 'troš' + '-ör'}
 ----> mätströbör : [n.] woodworker {'mets' + 'tröbör'}
 -- [n.] forest, woods
+----> mätsäs : [adj.] forestal
+burš    : [m.] birch {English 'birch', French 'bouleau}
+akašia  : [m.] acacia {English, French 'acacia'}
+lilak   : [n.] lilac {English 'lilac'}
+-> lila : [adj.] purple {Estonian 'lilla'}
+föl : {French 'feuille'}
+-- [n.] leaf
+-- [n.] feather
+-- [n.] leaflet, strip of paper
+busk    : [n.] bush {English 'bush', ? German 'Busch', ? Finnish 'puska'}
+vit     : [n.] vine
+härb    : [n.] grass, herb {French 'herbe', English 'herb'}
+-> härbäs : [adj.] herbal
+bambu   : [m.] bamboo {French 'bambou'}
+kaktüs  : [n.] cactus {French 'cactus'}
+flor : {Italian 'fiore', French 'fleur'}
+-- [n.] flower
+----> floräs : [adj.] floral
+-- [v.] [intrans] bloom, blossom, flower
+tülip   : [n.] tulip {French 'tulipe', English 'tulip'}
+solflor : [n.] sunflower {'sol' + 'flor'}
+-> solflor : [n.] [colloq.] [figurative] person with little to no capacity for independent thought
 
 === natural phenomena ===
-miraž   : [n.] mirage {French 'mirage'}
-džangal : [n.] jungle {Hindi 'जंगल' via English 'jungle'}
-biom    : [n.] biome {French 'biome'}
-briz    : [n.] breeze {French 'brize', English 'breeze'}
+lant : {German 'Land'}
+-- [n.] land
+-- [v.] [intrans] make contact/arrive at land surface from air or sea
 feld    : [n.] field {German 'Feld'}
 velt    : [n.] world {German 'Welt'}
 -> veltäs : [adj.] wordly; actual, material
+tšäl : {Italian 'cielo'}
+-- [n.] sky
+-- [n.] ceiling ##
 vänt    : [n.] wind {Latin 'ventus'}
+briz    : [n.] breeze {French 'brize', English 'breeze'}
+kumul : {Latin 'cumulus'}
+-- [n.] cloud
+-- [v.] [trans] cloud, obstruct, confuse
 stürm : {German 'Sturm', English 'storm'}
 -- [v.] rush, attack, storm
 -- [n.] storm
@@ -194,15 +200,9 @@ glav : {Breton}
 snež : {English 'snow', French 'neige'}
 -- [v.] [intrans] (of a powder or snow-like substance) snow 
 -- [n.] snow
-tšäl : {Italian 'cielo'}
--- [n.] sky
--- [n.] ceiling ##
-kumul : {Latin 'cumulus'}
--- [n.] cloud
--- [v.] [trans] cloud, obstruct, confuse
-lant : {German 'Land'}
--- [n.] land
--- [v.] [intrans] make contact/arrive at land surface from air or sea
+biom    : [n.] biome {French 'biome'}
+džangal : [n.] jungle {Hindi 'जंगल' via English 'jungle'}
+miraž   : [n.] mirage {French 'mirage'}
 
 === space ===
 astär  : [n.] star
