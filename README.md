@@ -58,19 +58,6 @@ The Ižter language has two scripts/alphabet: one Latin and one Cyrillic (simila
 | /g/ | '**g**um'             | Gg | Гг | ge | ⠛ | /h/ | '**h**ome'              | Hh | Һһ | he | ⠓ |
 | /m/ | '**m**ay'             | Mm | Мм | äm | ⠍ | /j/ | '**y**es'               | Jj | Јј | je | ⠚ |
 
-the braille alphabet is inspired by French, English, Czech and Scandinavian braille.
-
-| Punc. | Br. | Punc. | Br. |
-|:-----:|:---:|:------|:---:|
-| .     | ⠲   | ,     | ⠂  |
-| :     | ⠒   | ;     | ⠆  |
-| !     | ⠖   | ?     | ⠢  |
-
-| Name     | Br. |
-| ---      |:---:|
-| Capital marker | ⠠ |
-| Number sign    | ⠼ |
-
 ## Verbs
 
 | Tense          | Example         | Ending |
@@ -106,3 +93,19 @@ A unique feature of Ižter is the possibility of combining a personal pronoun wi
 | --- | --- | --- |
 | mönen _colleague_ | a colleague of mine                | my-a(n) colleague |
 | söner _friends_   | those friends of theirs (singular) | their-the friends |
+
+## Braille
+
+
+the braille alphabet is inspired by French, English, Czech and Scandinavian braille.
+
+| Punc. | Br. | Punc. | Br. |
+|:-----:|:---:|:------|:---:|
+| .     | ⠲   | ,     | ⠂  |
+| :     | ⠒   | ;     | ⠆  |
+| !     | ⠖   | ?     | ⠢  |
+
+| Name     | Br. |
+| ---      |:---:|
+| Capital marker | ⠠ |
+| Number sign    | ⠼ |
