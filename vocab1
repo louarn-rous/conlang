@@ -148,7 +148,7 @@ tšädar    : [n.] Cheddar (cheese) {English 'Cheddar'}
 === plants & trees ===
 arb     : [n.] tree {French 'arbre'}
 busk    : [n.] bush {English 'bush', ? German 'Busch', ? Finnish 'puska'}
-vinj     : [n.] vine
+vit     : [n.] vine
 foräs   : [n.] forest {English 'forest', French 'fôret'}
 -> foräsäs : [adj.] forestal
 härb    : [n.] grass, herb {French 'herbe', English 'herb'}
@@ -220,6 +220,7 @@ sol {Latin 'sol' via French 'solaire'}
 haj      : [n.] shark {Swedish}
 mar      : [n.] sea {Breton 'mor', French 'mer'}
 -> maräs : [adj.] marine
+-> maru : [n.] lake
 osean    : [n.] ocean {French 'océan'}
 -> oseanäs : [adj.] oceanic
 koräl    : [m.] coral {French 'corail', English 'coral'}
@@ -348,6 +349,7 @@ fung : {Italian 'funghi'}
 -- [n.] mushroom
 ----> [n.] [colloq.] penis
 ----> fungäs : [adj.] fungal
+embrion : [n.] embryo {French 'embryon'}
 
 === technology ===
 disk  : [n.] disk, disc, record, CD, CD-ROM {French 'disque', English 'disc'/'disk'}
@@ -537,7 +539,7 @@ flam : {French 'flamme'}
 lüm : {Late Latin 'lūmināria' via French 'lumière'}
 -- [n.] light
 -- [v.] cast light onto/throughout
-
+är : air {French & English 'air'}
 
 === form ===
 štok : [n.] stick, branch; handle, rod {German 'Stock'}
@@ -546,6 +548,7 @@ bol  : [n.] bowl {French}
 lozanž : {French 'losange'}
 -- [n.] rhombus, lozange
 -- [n.] pill or tablet, esp. one shaped like a rhombus
+guip : [n.] drop {French 'goutte', English 'drop'}
 
 === house ===
 kav   : [n.] basement {French 'cave'}
@@ -567,7 +570,7 @@ mis :
 
 === building ===
 pilar : [n.] pillar; support, foundation
-zdal  : [n.] slab {French 'dalle'}
+dal  : [n.] slab {French 'dalle'}
 most  : [n.] bridge {Serbian 'мост'}
 simänt : {French 'ciment', English 'cement'}
 -- [v.] [trans] cement (in)
@@ -621,6 +624,7 @@ päst : {French 'peste', English 'pester'}
 -- [v.] plague, pester, annoy
 patš : [n.] peace
 -> apatš : [v.] appease
+sint : [n.] Saint
 
 === jargon ===
 alfabät : [n.] [f:linguistics] alphabet
@@ -636,6 +640,8 @@ elektron : [n.] electron
 es  : [v.] be
 ev  : [v.] have
 ten : [v.] hold {French 'tenir'}
+-> tensein : [n.] custody
+----> stattensein : [n.] state custody
 sen : [v.] know {Latin 'sciens'}
 ser :
 -- [v.] say, speak
@@ -728,6 +734,7 @@ mur : {French 'mourir'}
 -- [n.] dead (person)
 -- [v.] die, end
 
+siät : [v.] wait
 
 
 fil :
@@ -803,6 +810,10 @@ bras : [v.] ferment, brew {French 'brasser'}
 -- bras : [n.] concoction, mixture, brew
 
 mät  : [v.] set, change, assign, put
+-> mätkal : [v.] confirm
+-> mättös : [v.] modify
+----> mättösina : [n.] modification
+-> immät : [v.] insert
 
 kal  : [v.] fit, match, correspond
 -> kalin : [n.] match @@
@@ -923,6 +934,8 @@ lav : [v.] wash {French 'laver'}
 -> lavör : [n.] person or machine that washes
 särš : [v.] search, seek
 -> säršina : [n.] search
+-> imsärš : [v.] investigate
+----> imsäršina : [n.] investigation
 profit : [v.] profit
 -> profitina : [n.] profit
 -> profitör : [n.] profiteer
@@ -973,10 +986,11 @@ kras : {French 'crasse'}
 -- [n.] scum, dirt, grime
 
 bir : [adj.] near, close
--> abir : [adj.] to bring closer; to approach
+-> abir : [v.] to bring closer; to approach
 -> biräs : [adj.] proximal
-
-
+sal : [adj.] far, distant
+-> asal : [v.] to drive away, seclude
+-> saläs : [adj.] distal
 
 sut : [adj.] still, down, low, seated
 -> asut : [v.] sit/lay down
