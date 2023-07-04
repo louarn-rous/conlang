@@ -661,9 +661,6 @@ ser :
 -> serina : [n.] meaning
 ir  : [v.] go, move (oneself)
 
-tatlän :
--- [v.] doubt
--- [n.] doubt
 
 söt : [v.] create, make, build, assemble, bring to fruition
 
@@ -683,11 +680,11 @@ vür : {French 'vouloir'}
 träš :
 -- [v.] [trans] throw
 -> trešör : [n.] one who throws
--- [n.] throw
+-- [n.] throw @
 trös :
 -- [v.] [trans] catch
 -> trösör : [n.] one who catches
--- [n.] catch
+-- [n.] catch @
 
 šam  : [v.] hide, conceal
 avis : [v.] show, uncover, demonstrate, discover
@@ -700,6 +697,12 @@ präm : [v.] press
 
 alt : [v.] stop, cease {German 'Halt'}
 -> altör : [n.] device for stopping
+
+talöd : [v.] follow {Korean '따르다'}
+
+tatlän :
+-- [v.] doubt
+-- [n.] doubt
 
 manž : [v.] eat {Italian 'mangiare', French 'manger'}
 sül :
