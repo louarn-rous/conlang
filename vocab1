@@ -425,12 +425,14 @@ salar    : [n.] wage, salary
 -> salarör : [n.] salary-man, employee
 -> salaräs : [adj.] salarial
 
-polis
+polis :
 -- [n.] police, law enforcement
 -- [v.] police
 
 politik : [n.] politics; set of (political) beliefs of a person or organization, ideology
 -> politikäs : [adj.] politics
+
+departina : [n.] department
 
 ger ###
 -- n. war
@@ -469,6 +471,8 @@ läš     : [n.] way, path, method
 tšo     : [n.] thing {French 'chose'}
 sünog   : [n.] edge, boundary, border
 vine    : [n.] domain, realm {Croatian 'domovina'}
+liäs    : [n.] link
+→ aliäs : [v.] link @@ iliäs ?
 
 nam :
 -- [n.] name
