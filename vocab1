@@ -50,12 +50,15 @@ rus   : [m.] reddish-brown {French 'rousse'}
 
 === animals ===
 bok    : [n.] goat {Afrikaans}
+-> bokäs : [adj.] caprine
 bov    : [n.] cow {Late Latin 'bovinus'}
 -> boväs : [adj.] bovine
 ekus   : [n.] horse {Latin 'equus'}
 -> ekusäs : [adj.] equine
 az     : [n.] donkey {Breton 'azen'}
+-> : azäs : [adj.] asinine
 kuz    : [n.] sheep {Turkish 'kuzu'}
+-> : kuzäs : [adj.] ovine
 gupil  : [n.] fox {Old/Middle French 'goupil'}
 -> gupiläs : [adj.] vulpine
 kat    : [n.] cat {English, German 'Katze'}
@@ -63,7 +66,9 @@ kat    : [n.] cat {English, German 'Katze'}
 kärü   : [n.] dog {Estonian 'koer'}
 -> kärüäs : [adj.] canine
 lapin  : [n.] rabbit {French}
+-> lapinäs : [adj.] leporine
 leo    : [n.] lion {Latin}
+-> leonäs : [n.] leonine
 luv    : [n.] wolf {Latin 'lupus' via French 'louve'}
 -> luväs : [adj.] lupine
 mostik : [n.] mosquito {French 'moustique', English 'mosquito'}
@@ -71,6 +76,7 @@ mus    : [n.] mouse {English 'mouse', French 'souris'}
 -> mus : [n.] computer mouse
 
 oris   : [n.] bird
+-> orisäs : [adj.] avian
 otrüš  : [n.] ostrich {French 'otruche'}
 pol    : [n.] chicken {Spanish 'pollo'}
 korvas : [n.] crow, raven {Japanese '烏', Latin 'corvus' via English 'corvid' & French 'corbeau'}
@@ -81,6 +87,7 @@ pantär : [n.] panther {French 'panthère', Serbian 'пантери'}
 pors   : [n.] pig {Latin 'Porcus' via French 'porc'}
 rat    : [n.] rat {English, Latin 'rattus' via French 'rat'}
 urs    : [n.] bear {Latin 'ursus'}
+-> ursäs : [adj.] ursine
 žiraf  : [n.] giraffe {French 'giraffe'}
 mono   : [n.] monkey {Spanish}
 
