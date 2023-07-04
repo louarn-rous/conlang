@@ -44,8 +44,8 @@ The Ižter language has two scripts/alphabet: one Latin and one Cyrillic (simila
 
 | IPA | English | Lat. | Cyr. | Name | Br. | IPA | English | Lat. | Cyr. | Name | Br. |
 |:---:|:------- |:----:|:----:|:----:|:---:|:---:|:------- |:----:|:----:|:----:|:---:|
-| /a/ | 'h**a**t' (Cali, Canada) | Aa | Аа | a  | ⠁ | /n/ | '**n**ap'                 | Nn | Нн | än | ⠝ |
-| /ɛ/ | 'b**e**d'                | Ää | Ӓӓ | ä  | ⠣ | /o/ | 'y**aw**n' (South Africa) | Oo | Оо | o  | ⠕ |
+| /a/ | 'h**a**t' (Cali, Can) | Aa | Аа | a  | ⠁ | /n/ | '**n**ap'                 | Nn | Нн | än | ⠝ |
+| /ɛ/ | 'b**e**d'                | Ää | Ӓӓ | ä  | ⠣ | /o/ | 'y**aw**n' (SA) | Oo | Оо | o  | ⠕ |
 | /t/ | '**t**op'                | Tt | Тт | te | ⠞ | /ø/ | 'b**ir**d' (Broad NZ)     | Öö | Ӧӧ | ö  | ⠪ |
 | /d/ | '**d**og'                | Dd | Дд | de | ⠙ | /l/ | '**l**ine'                | Ll | Лл | äl | ⠇ |
 | /i/ | 's**ee**'                | Ii | Ии | i  | ⠊ | /ɾ/ | 'be**tt**er' (Aus, NAE)   | Rr | Рр | är | ⠗ |
