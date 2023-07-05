@@ -10,6 +10,8 @@ nöl : {German 'Null', English 'null', French 'annuler'}
 ün : [num.] 1 (one) {French 'une'}
 -> ünit : [v.] unite, unify
 -> üne : [ord. num.] first
+-> tün : [adj.] whole, complete, entire
+----> atün : [v.] complete, to make whole
 to  : [num.] 2 (two)
 -> toe : [ord. num.] second
 tri : [num.] 3 (three) {Russian 'три', French 'trois'}
@@ -914,7 +916,7 @@ päs :
 -- [n.] food
 
 grafit : [v.] scribble; graffiti
--> grafitin : [n.] scribble; grafitti
+-> grafitin : [n.] scribble; grafitti ##
 
 sträd : [v.] struggle {Frisian 'striid', Swedish 'strida'}
 -> strädin : [n.] fight, struggle, war
@@ -940,7 +942,7 @@ tröb : {German 'Arbeit', French 'travail', English 'labour'}
 -- [v.] work, labour
 ----> tröbör : [n.] worker
 -- [n.] work, labour
-štüt :
+štüt : ? {? German 'stützen'}
 -- [v.] support
 -- [n.] support
 tortür : {French & English 'torture'}
@@ -955,6 +957,12 @@ mord : {German 'morden'}
 šarž : ##
 -- [v.] charge, load
 -- [n]. charge
+
+sekur : [adj.] without care, secure {Latin 'securus'}
+-> sekurein : [n.] certainty, security, safety
+kur : {Latin 'cura' via 'securus' via German 'sicher'}
+-- [v.] care
+-- [n.] care, concern
 
 fül : 
 -- [v.] flow
@@ -984,15 +992,15 @@ vis : [v.] see, perceive, view, look
 -> visäs : [n.] visual
 spir : [v.] breathe
 -> spirina : [n.] breath
-vitš : [v.] win
+vitš : [v.] win {Italian 'vincere'}
 -> vitšina : [n.] victory
 -> vitšör : [n.] victor
-läg : [v.] select, choose, pick
+läg : [v.] select, choose, pick {? English 'select'}
 -> lägina : [n.] selection
 lav : [v.] wash {French 'laver'}
 -> lavina : [n.] washing
 -> lavör : [n.] person or machine that washes
-särš : [v.] search, seek
+särš : [v.] search, seek {French 'chercher', English 'search'}
 -> säršina : [n.] search
 -> imsärš : [v.] investigate
 ----> imsäršina : [n.] investigation
@@ -1003,7 +1011,6 @@ profit : [v.] profit
 regül : [v.] regulate
 -> regülina : [n.] regulation
 -> regülör : [n.] one that regulates
-
 
 === adjectives ===
 sur : [adj.] big {Estonian 'suur'}
@@ -1026,7 +1033,9 @@ pän : [adj.] thin
 -> apän : [v.] thin
 
 nov : [adj.] new {Portugese 'novo'}
+-> novein : [n.] novelty
 jong : [adj.] young {German 'jung', Dutch}
+-> jongein : [n.] youth
 ou : [adj.] old {Afrikaans}
 lis : [adj.] smooth {French 'lisse'}
 -> alis : [v.] smooth
@@ -1037,8 +1046,7 @@ dar : [adj.] hard {French 'dur', English 'hard'}
 mals : [adj.] soft, tender {Dutch}
 -> amals : [v.] soften; tenderize
 gul : [adj.] wet
-
-sek : [adj.] dry
+sek : [adj.] dry {French 'sec'}
 -> asek : [v.] dry
 nät : [adj.] clean {Breton 'naet'}
 kras : {French 'crasse'}
@@ -1067,14 +1075,15 @@ prane : [adj.] weird, odd, strange
 kozäv : [adj.] typical, normal
 -> akozäv : [v.] normalise
 
-
 fräl : [adj.] weak, fragile {French 'frêle'}
 -> afrel : [v.] weaken
+-> frälein : [n.] weakness
 här : [adj.] strong
 -> ahär : [v.] strengthen
 
-fis : [adj.] definite, stable, certain
+fis : [adj.] definite, stable, certain {French 'fixe'}
 -> afis : [v.] to stabilize, confirm
+-> fisein : [n.] stability
 
 motš : [adj.] nice, pleasant {'moce'}
 jats : [adj.] great, grand, mighty {Korean '에야차'}
@@ -1089,26 +1098,24 @@ vid : [adj.] empty {French 'vide'}
 -- [n.] void, emptiness ##
 
 frid : [adj.] cold
--> afrid [v.] cool, chill
+-> afrid : [v.] cool, chill
 -- [n.] cold ##
 hoš : [adj.] hot {French 'chaud', English 'hot'}
--> ahoš [v.] heat (up)
+-> ahoš : [v.] heat (up)
 -- [n.] heat ##
 
-tün : [adj.] whole, complete, entire
 lös : [adj.] single, lone, only {French 'seul', English 'lone'}
--> alös [v.] single out
--> lösesin : [n.] loneliness
+-> alös : [v.] single out
+-> lösein : [n.] loneliness
 püli : [adj.] multiple, plural
--> apüli [v.] : to make plural, to multiply; to duplicate
-
+-> apüli : [v.] to make plural, to multiply; to duplicate
+-> pülein : [n.] multiplicity
 nüdit : [adj.] naked, nude
 -> anüdit : [v.] to strip of protection or clothing
-
-müsot : [adj.] silly
-
+-> nüditein : [n.] nakedness
 hoäl : [adj.] lame, limp; boring
--> hoälesin : [n.] boredom
+-> hoälein : [n.] boredom
+müsot : [adj.] silly
 
 === vulgar ===
 bata   : [n.] imbecile, bastard
