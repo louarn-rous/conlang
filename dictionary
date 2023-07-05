@@ -9,13 +9,8 @@ až
 -- n. age
 -- v. age, grow older
 
-baner : n. banner
 
 bild : v. build
-
-bit
--- n. beet
--- n. [computing] binary digit
 
 bonüs : [m.] bonus
 
@@ -63,18 +58,16 @@ glas
 -- n. ice
 -- v. freeze
 
-invers
+invers :
 -- n. inverse
 -- v. inverse
 -- adj. inverse
 
-jot
+jun 
 -- v. jump
 -- n. jump
 
-kamarad
--- n. comrade, mate
--- n. (school) fellow student, classmate
+
 
 kaž
 -- n. cage
@@ -102,11 +95,6 @@ lemur : n. ghost, spirit of the dead;n. lemur (lemur catta) ###
 leng : n. language ?
 lek : n. lick ??
 
-liber
--- n. freedom
--- adj. free
--> aliber : [v.]
-
 lüd : v. play
 lüdo : n. game
 lüdör : n. player
@@ -121,10 +109,6 @@ mod
 -- [n.] style, fashion, way, manner
 -- [v.] [composite suffixial verb] to play the role of, be
 
-modif : [v.] modify, change, edit
-
-nekt : [v.] attach, bind
-
 not
 -- [n.] brief record, usually written
 -- [n.] score, mark or grade
@@ -137,9 +121,6 @@ plas
 popül
 -- n. people (collective)
 -- v. populate
-
-rož : [m.] rock, stone
-sten : [m.] stone, rock ###
 
 sesion : n. session
 
@@ -154,10 +135,9 @@ stasion
 
 tšans : n. chance, luck
 
-ver
--- [n.] glass
--- [adj.] made up of, or relating to, glass
--> aver : [v.] to turn into glass
+ver : {French 'ver'
+-- [m.] glass
+---> aver : [v.] to turn into glass
 -- [n.] a vessel, especially one made of glass or transparent plastic, from which one drinks
 
 vilaž : [n.] village
