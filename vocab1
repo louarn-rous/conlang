@@ -205,7 +205,6 @@ solflor : [n.] sunflower {'sol' + 'flor'}
 -> solflor : [n.] [colloq.] [figurative] person with little to no capacity for independent thought
 
 === natural phenomena ===
-
 velt    : [n.] world {German 'Welt'}
 -> veltäs : [adj.] wordly; actual, material
 tšäl : {Italian 'cielo'}
@@ -313,9 +312,12 @@ pil    : [n.] hair {Latin 'pilus' via French 'épiler'}
 -> piläs : [adj.] pilar, crinal
 öl     : [n.] eye {French 'œil'}
 -> öläs : [adj.] ocular
-vän    : [n.] vein {French 'veine'}
 nas    : [n.] nose {Latin 'nasus' via English, French 'nasal'}
 -> nasäs : [adj.] nasal
+ur     : [n.] ear {Latin 'auris' via 'ausculto' via Italian 'ascoltare'}
+-> uräs : [adj.] aural
+----> urod : [v.] hear
+-------> urodäs : [adj.] auditory
 mož    : [n.] mouth
 -> možäs : [adj.] oral
 stom   : [n.] [archaic] mouth {Anc. Greek 'στόμα'}
@@ -330,6 +332,7 @@ skelät : [n.] skeleton {Anc. Greek 'σκελετός' via French 'squelette' & 
 -> skelätäs : [adj.] skeletal
 kol : [n.] neck {Latin 'collum' via French 'col' & English 'collar'}
 -> koliär : [n.] collar
+vän  : [n.] vein {French 'veine'}
 hart : {Afrikaans}
 -- [n.] heart
 ----> hartäs : [adj.] cardiac
@@ -696,8 +699,10 @@ ser :
 -> serina : [n.] meaning
 ir  : [v.] go, move (oneself)
 
+od  : [v.] hear, feel, sense 
 
 söt : [v.] create, make, build, assemble, bring to fruition
+-> sötina : [n.] creation
 
 tös : [v.] to make into, turn the subject into
 --> setös : [v.] become ##
