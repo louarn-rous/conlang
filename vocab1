@@ -913,8 +913,14 @@ tegär  : [v.] meet, encounter, frequent
 -> tegärin : [n.] meeting; date @@
 
 tän :
--- [v.] (measure) time
 -- [n.] time
+----> tänäs : [adj.] temporal
+----> ultän : [n.] past {'ul' + 'tän'}
+----> ortän : [n.] future {'or' + 'tän'}
+----> itän  : [n.] present {'i' + 'tän'}
+-------> ita : [n.] now
+-- [v.] to measure time
+
 päs :
 -- [v.] feed, nourish
 ----> päsin : [n.] meal; nourishment @@
