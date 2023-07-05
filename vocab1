@@ -49,88 +49,112 @@ roz   : [m.] pink {French 'rose'}
 rus   : [m.] reddish-brown {French 'rousse'}
 
 === animals ===
-bok    : [n.] goat {Afrikaans}
--> bokäs : [adj.] caprine
 bov    : [n.] cow {Late Latin 'bovinus'}
 -> boväs : [adj.] bovine
+-> bovu  : [n.] calf
+pors   : [n.] pig {Latin 'Porcus' via French 'porc'}
+-> porsäs : [adj.] porcine
+-> porsu  : [adj.] piglet
+kuz    : [n.] sheep {Turkish 'kuzu'}
+-> kuzäs : [adj.] ovine
+-> kuzu  : [n.] lamb
+bok    : [n.] goat {Afrikaans}
+-> bokäs : [adj.] caprine
+-> boku  : [n.] kid
 ekus   : [n.] horse {Latin 'equus'}
 -> ekusäs : [adj.] equine
+-> ekusu  : [n.] foal
 az     : [n.] donkey {Breton 'azen'}
--> : azäs : [adj.] asinine
-kuz    : [n.] sheep {Turkish 'kuzu'}
--> : kuzäs : [adj.] ovine
+-> azäs : [adj.] asinine
+-> azu  : [adj.] foal (donkey)
+
 gupil  : [n.] fox {Old/Middle French 'goupil'}
 -> gupiläs : [adj.] vulpine
+-> gupilu : [n.] fox cub
 kat    : [n.] cat {English, German 'Katze'}
 -> katäs : [adj.] feline
+-> katu  : [n.] kitten
 kärü   : [n.] dog {Estonian 'koer'}
 -> kärüäs : [adj.] canine
-lapin  : [n.] rabbit {French}
--> lapinäs : [adj.] leporine
-leo    : [n.] lion {Latin}
--> leonäs : [n.] leonine
+-> kärunu : [n.] pup, puppy
 luv    : [n.] wolf {Latin 'lupus' via French 'louve'}
 -> luväs : [adj.] lupine
-mostik : [n.] mosquito {French 'moustique', English 'mosquito'}
+-> luvu  : [n.] wolf cub
+lapin  : [n.] rabbit {French}
+-> lapinäs : [adj.] leporine
+-> lapu    : [n.] kitten (rabbit)
 mus    : [n.] mouse {English 'mouse', French 'souris'}
--> mus : [n.] computer mouse
+-> mus  : [n.] computer mouse
+-> musu : [n.] pup (mouse)
+leo    : [n.] lion {Latin}
+-> leonäs : [n.] leonine
+-> leonu  : [n.] lion cub
+pantär : [n.] panther {French 'panthère', Serbian 'пантери'}
+-> pantäru : [n.] panther cub
+urs    : [n.] bear {Latin 'ursus'}
+-> ursäs : [adj.] ursine
+-> ursu  : [n.] bear cub
 
-oris   : [n.] bird
+mostik : [n.] mosquito {French 'moustique', English 'mosquito'}
+
+
+oris   : [n.] bird {Anc. Greek 'ὄρνις'}
 -> orisäs : [adj.] avian
 otrüš  : [n.] ostrich {French 'otruche'}
-pol    : [n.] chicken {Spanish 'pollo'}
+pol    : [n.] chicken; poultry {Spanish 'pollo'}
+gal    : [n.] rooster, hen {Latin 'gallus'}
+-> galäs : [adj.] gallinaceous
 korvas : [n.] crow, raven {Japanese '烏', Latin 'corvus' via English 'corvid' & French 'corbeau'}
 parok  : [n.] parrot, parrakeet {English 'parrot', French 'perroquet'}
 
-pantär : [n.] panther {French 'panthère', Serbian 'пантери'}
 
-pors   : [n.] pig {Latin 'Porcus' via French 'porc'}
+
+
 rat    : [n.] rat {English, Latin 'rattus' via French 'rat'}
-urs    : [n.] bear {Latin 'ursus'}
--> ursäs : [adj.] ursine
+
 žiraf  : [n.] giraffe {French 'giraffe'}
 mono   : [n.] monkey {Spanish}
+-> monäs : [adj.] simian
 
 lüzd :
 -- [n.] worm
 -- [v.] squirm, wriggle, worm, crawl
-päsk   : [n.] fish {Breton}
+päsk   : [n.] fish {Breton 'pesk'}
 -> päsktröbör : [n.] fishmonger ##
 -> päskäs : [adj.] piscine
+-> rodpäsk : [n.] goldfish {'rod' + 'päsk'}
 
-=== crops ===
+=== crops, food, drink ===
 karot : [n.] carrot {French 'carrote'}
-melon : [n.] melon {English}
 radis : [n.] radish {French}
-ris   : [n.] rice {French 'riz', English 'rice'}
-patat : [n.] potato {French 'patate'}
 biit  : [n.] beet {English 'beet'}
 -> rodbiit : [n.] beetroot {'rod' + 'biit'}
-kafe  : [n.] coffee {German 'Kaffee'}
-te    : [n.] tea {German 'Tee'}
+patat : [n.] potato {French 'patate'}
+ris   : [n.] rice {French 'riz', English 'rice'}
+melon : [n.] melon {English}
 tomat : [n.] tomato {French 'tomate'}
-banan : [n.] banana {French 'banane'}
 onion : [n.] onion {French 'oignon'}
 soj   : [n.] soy {Satsuma Jp. '醤油' via Dutch 'soja' via French 'soja' & English 'soy'}
 nüs   : [n.] nut {French 'noix', English 'nut'}
 -> nüskät : [n.] peanut {'nüs' + French 'cacahuète'}
+makademia : [n.] macadamia
 frut : {French, English 'fruit'}
 -- [n.] fruit
-----> fru'tröbör : [n.] fruitmonger ##
+----> fruttröbör : [n.] fruitmonger ##
 ----> frutäs : [adj.] fructal, fruital
 -- [n.] product, result of
+banan : [n.] banana {French 'banane'}
 sukar : {Arabic 'سكر' via French 'sucre' & English 'sugar'}
 -- [n.] sugar
 -- [adj.] sweet
 -----> asukar [v.] sweeten {'-a' + 'sukar'}
-
-=== food ===
 kräm : {French 'crème'}
 -- [n.] cream
 -- [v.] to fill or cover with cream
 käbab : {Arabic 'كباب' via English 'kebab' & French 'kébab'}
 -- [n.] kebab
--- [v.] [informal] to pierce with a sharp rod
+----> kebabsötör : [v.] kebab-maker
+-- [v.] [informal] [figurative] to pierce with a sharp rod
 žus : {French 'jus', English 'juice'}
 -- [n.] juice
 -- [v.] to make into juice
@@ -140,14 +164,15 @@ frit : {French 'frite'}
 -- [v.] fry
 -- [adj.] fried @
 ----> afrit : [v.] to make fried? @
-
 sup       : [n.] soup, stew {French 'soupe'}
 šokola    : [m.] chocolate {French 'chocolat', Russian 'шоколад'}
 tart      : [n.] tart {French 'tarte'}
-maskarpon : [n.] mascarpone {Italian 'mascarpone' via French & English}
-makademia : [n.] macadamia
 formaž    : [n.] cheese {Italian 'formaggio' via French 'fromage'}
+maskarpon : [n.] mascarpone {Italian 'mascarpone' via French & English}
 tšädar    : [n.] Cheddar (cheese) {English 'Cheddar'}
+te        : [n.] tea {German 'Tee'}
+kafe      : [n.] coffee {German 'Kaffee'}
+-> kafesötör : [n.] coffee machine
 akal      : [n.] alcohol {Arabic 'أَكْحَال' via English 'alcohol' & French 'alcool'}
 -> akaläs : [adj.] alcoholic
 vodka     : [n.] vodka {Russian 'водка' via French, English 'vodka'}
@@ -317,8 +342,10 @@ blüt : {German 'Blut'}
 -- [n.] blood
 ----> blütäs : [adj.] sanguine
 -- [v.] bleed
+----> ablüt : [v.] to make bleed
 kap : {Latin 'caput' via English 'captain' & French 'décapiter'}
 -- [n.] head
+----> kapäs : [adj.] cranial
 -- [v.] lead, direct
 ----> kapör : [n.] leader, director
 ----> kapiten : [n.] capitain
@@ -341,9 +368,7 @@ süt : {French 'suant'}
 -- [n.] sweat; residue
 
 === biology ===
-lön : {French 'laine'}
--- [n.] wool
--- [adj.] woolen
+lön : [m.] wool; woolen{French 'laine'}
 mälk : {English 'milk', French 'lait'}
 -- [n.] milk
 -- [v.] [usu. of an animal] milk
@@ -351,12 +376,11 @@ mälk : {English 'milk', French 'lait'}
 ov   : [n.] egg {Latin 'ovum'}
 -> oväs : [adj.] of or pertaining to eggs; oval
 zbas : [n.] wing
-sübas : [n.] wing (archaic)
 fung : {Italian 'funghi'}
 -- [n.] mushroom
 ----> [n.] [colloq.] penis
 ----> fungäs : [adj.] fungal
-embrion : [n.] embryo {French 'embryon'}
+
 
 === technology ===
 disk  : [n.] disk, disc, record, CD, CD-ROM {French 'disque', English 'disc'/'disk'}
@@ -472,7 +496,7 @@ tšo     : [n.] thing {French 'chose'}
 sünog   : [n.] edge, boundary, border
 vine    : [n.] domain, realm {Croatian 'domovina'}
 liäs    : [n.] link
-→ aliäs : [v.] link @@ iliäs ?
+→ aliäs : [v.] link, bind, connect @@ iliäs ?
 
 nam :
 -- [n.] name
@@ -482,7 +506,6 @@ nam :
 prod :
 -- [n.] pride
 -- adj. proud
--- v. pride @@
 heer :
 -- [n.] hatred
 -- [v.] hate
@@ -501,6 +524,12 @@ rät : [n.] right {Swedish 'rättvisa'}
 -------> rätäseinäs : [adj.] judiciary
 -------> rätäseinör : [n.] judge, jurist
 ----> arätäs : [v.] adjust, rectify; justify
+----> nerätäs : [adj.] unjust
+-------> nerätäsein : [n.] injustice
+
+leg : [n.] law {Latin 'lex'}
+-> legäs : [adj.] legal
+----> nelegäs : [adj.] illegal
 
 === fantasy ===
 maži    : [n.] magic {French 'magie'}
@@ -529,9 +558,10 @@ pelüš  : [m.] fluff, plush {French 'peluche', English 'plush'}
 siltše : [m.] flint {Italian 'selce' via Latin via French 'silex'}
 seträ  : [m.] ash(es)
 tan    : [n.] fire {Breton}
--> atan : [v.] light on fire @@
+-> atan : [v.] light on fire @@ itan
 pul : {Latin 'pulvis' via English 'pulverise' & French 'pulvériser'}
--- [n.] powder, dust
+-- [m.] powder, dust
+----> apul : [v.] to make into powder @@ ipul
 -- [v.] (adorn with) powder
 frus :
 -- [m.] froth, moss, foam
@@ -595,7 +625,6 @@ ešäk : [n. unc.] chess
 === time ===
 nat   : [n.] day
 -> natäs : [adj.] diurnal, daily
-taj   : [n.] [archaic] day {German 'tag'}
 nošt  : [n.] night {Russian 'ночь', German 'Nacht'}
 -> noštäs : [adj.] nocturnal, nightly
 damer : [n.] dusk
@@ -621,6 +650,8 @@ poj   : [n.] boy {Finnish 'poika', Swedish 'pojke'}
 
 klun : [n.] clown {French 'clown'}
 -> klunpäsk : [n.] clownfish {'klun' + 'pesk'}
+sint : [n.] Saint
+kamarad : [n.] comrade, mate; fellow student, classmate {French 'camarade', German 'Kamerad'}
 
 === misc ===
 dös     : [n.] god, deity {Portugese 'Deus'}
@@ -628,6 +659,7 @@ dös     : [n.] god, deity {Portugese 'Deus'}
 kompost : [n.] compost {English, French 'compost'}
 post    : [n.] mail {English, French 'poste'}
 -> pos'tröbör : [n.] postman {'post' + 'tröbör'}
+-> postäs : [adj.] postal
 päst : {French 'peste', English 'pester'}
 -- [n.] plague
 -- [v.] spread plague amongst
@@ -635,17 +667,24 @@ päst : {French 'peste', English 'pester'}
 -- [v.] plague, pester, annoy
 patš : [n.] peace
 -> apatš : [v.] appease
-sint : [n.] Saint
+banier : [n.] banner
+orde : [n.] order, arrangement, series {Latin 'ordo'}
 
 === jargon ===
-alfabät : [n.] [f:linguistics] alphabet
+alfabät : [n.] alphabet
 -> alfabätäs : [adj.] alphabetical
 kanton  : [n.] [f:vexillology] canton 
 atom     : [n.] atom
 -> atomäs : [adj.] atomic
-proton   : [n.] proton
 elektron : [n.] electron
 -> elektronäs : [adj.] electronic
+foton    : [n.] photon
+-> fotonäs : [adj.] photonic
+proton   : [n.] proton
+nötron   : [n.] neutron
+bit      : [n.] [f:computing] bit
+servör   : [n.] [f:computing] server
+embrion : [n.] [f:biology] embryo {French 'embryon'}
 
 === verbs ===
 es  : [v.] be
@@ -665,7 +704,7 @@ ir  : [v.] go, move (oneself)
 söt : [v.] create, make, build, assemble, bring to fruition
 
 tös : [v.] to make into, turn the subject into
---> setös : [v.] become
+--> setös : [v.] become ##
 
 gan : [v.] can, able to
 müs : [v.] have to (do something) {German 'Muß'}
@@ -699,6 +738,12 @@ alt : [v.] stop, cease {German 'Halt'}
 -> altör : [n.] device for stopping
 
 talöd : [v.] follow {Korean '따르다'}
+-> talödör : [n.] follower
+
+liber : [adj.] free {Latin}
+-> liberein : [n.] freedom
+-> aliber : [v.] free
+----> aliberör : [n.] liberator
 
 tatlän :
 -- [v.] doubt
@@ -710,12 +755,11 @@ sül :
 ----> sülör : [n.] one who drinks (usu. alcohol)
 -- [n.] drink
 
-tänj : {French 'teindre'}
--- [v.] stain
--- [n.] stain
+
 
 som : {Latin 'somnus' via French 'sommeil'}
 -- [v.] [intrans] sleep
+----> asom : [v.] [trans] knock out
 -- [n.] sleep
 ----> somis : [n.] bed {'som' + 'mis'}
 
@@ -723,9 +767,11 @@ pas : [v.] pass, go by
 
 sit :
 -- [v.] thirst
+----> asit : [v.] [trans] to make thirsty
 -- [n.] thirst
 fam : {Latin 'fames' via French 'faim'}
 -- [v.] hunger
+----> afam : [v.] [trans] to make hungry
 -- [n.] hunger
 
 fatig : {French 'fatigue'}
@@ -734,7 +780,9 @@ fatig : {French 'fatigue'}
 -- v. [passive] to tire, become weary
 -- adj, ??
 
-
+tänj : {French 'teindre'}
+-- [v.] stain
+-- [n.] stain
 
 nos :
 -- [v.] [trans] give birth to
@@ -778,7 +826,7 @@ perd :
 -- v. waste
 
 serv : [v.] serve
--> servör : [n.] waiter, servant; [computing] server
+-> servör : [n.] waiter, servant
 
 pärmit : [v.] allow, permit {French 'permit'}
 -> adj.
@@ -791,7 +839,7 @@ kräs : [v.] grow {Latin 'crescere' via Portugese 'crescer'}
 bran : {Swedish 'brann'}
 -- [v.] burn
 -- [n.] burn
-skän
+skän :
 -- [v.] climb, scale
 ----> skänör : [n.] one that climbs
 -- [n.] climb
@@ -811,7 +859,7 @@ salv : [v.] save
 
 vän : [v.] [intrans.] come
 
-dants {German 'tanz', English 'dance'}
+dants : {German 'tanz', English 'dance'}
 -- [v.] [intrans] dance
 ----> dantsör : [n.] dancer
 -- [n.] dance
@@ -832,9 +880,13 @@ mät  : [v.] set, change, assign, put
 kal  : [v.] fit, match, correspond
 -> kalin : [n.] match @@
 
-sked : [v.] split, divide
+sked :
+-- [v.] split, divide
+-- [n.] split ##
+
 mäl : {French 'mêler'}
 -- [v.] mix, combine, blend, tangle, fuse
+----> mälör : [n.] mixer, blender or other apparatus for blending
 -- [n.] mix, combination, blend
 
 trem : [v.] shake, tremble, wobble {French 'trembler', Croatian 'tresti'}
@@ -950,6 +1002,7 @@ särš : [v.] search, seek
 -> säršina : [n.] search
 -> imsärš : [v.] investigate
 ----> imsäršina : [n.] investigation
+----> imsäršör : [n.] investigator
 profit : [v.] profit
 -> profitina : [n.] profit
 -> profitör : [n.] profiteer
@@ -1005,6 +1058,8 @@ bir : [adj.] near, close
 sal : [adj.] far, distant
 -> asal : [v.] to drive away, seclude
 -> saläs : [adj.] distal
+
+ort : [adj.] straight, upright {Anc. Greek 'ὀρθός' via English 'Orthodentist'}
 
 sut : [adj.] still, down, low, seated
 -> asut : [v.] sit/lay down
@@ -1066,3 +1121,7 @@ bata   : [n.] imbecile, bastard
 iidžit : [n.] idiot 
 küs    : [intj.] fuck, damn, darn, shit
 smät   : [v.] to copulate with
+
+=== archaic ===
+taj   : [n.] [archaic] day {German 'tag'}
+sübas : [n.] wing [archaic]
