@@ -805,7 +805,7 @@ mur : {French 'mourir'}
 -- [v.] die, end
 
 siät : [v.] wait
-
+brit : [v.] break {Swedish 'bryta'}
 
 fil :
 -- [v.] like, appreciate
@@ -1092,6 +1092,8 @@ ort : [adj.] straight, upright {Anc. Greek 'ὀρθός' via English 'Orthodenti
 sut : [adj.] still, down, low, seated
 -> asut : [v.] sit/lay down
 
+rund : [adj.] round {Swedish}
+
 stese : [adj.] sacred, blessed @@
 -> stesäs
 
@@ -1100,6 +1102,8 @@ ru : [adj.] raw, crude
 prane : [adj.] weird, odd, strange
 kozäv : [adj.] typical, normal
 -> akozäv : [v.] normalise
+
+främt : [adj.] foreign {German 'fremd'}
 
 fräl : [adj.] weak, fragile {French 'frêle'}
 -> afrel : [v.] weaken
