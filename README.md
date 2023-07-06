@@ -60,14 +60,16 @@ The Ižter language has two scripts/alphabet: one Latin and one Cyrillic (simila
 
 ## Verbs
 
-| Tense          | Example         | Ending |
-|:---:           |:---             |:---:   |
-| Simple Past    | I did           | -i     |
-| Simple Present | I do            | -e     |
-| Simple Future  | I will do       | -a     |
-| Contd. Past    | I was doing     | -is    |
-| Contd. Present | I am doing      | -et    |
-| Contd. Future  | I will be doing | -as    |
+| Tense          | Example         | Ending | es (to be) |
+|:---:           |:---             |:---:   | :---:      |
+| Simple Past    | I did           | -i     | esi → is   |
+| Simple Present | I do            | -e     | ese → es   |
+| Simple Future  | I will do       | -a     | esa → as   |
+| Contd. Past    | I was doing     | -is    | esis → ist |
+| Contd. Present | I am doing      | -et    | eset → est |
+| Contd. Future  | I will be doing | -as    | esat → ast |
+
+
 
 Verbs are conjugated by taking the root and appending the ending as a suffix.
 
