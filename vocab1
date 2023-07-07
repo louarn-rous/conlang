@@ -446,6 +446,8 @@ politik : [n.] politics; set of (political) beliefs, ideology {German 'Politik'}
 repüblik : [n.] republic {French 'république', also via German 'Republik'}
 -> repüblikäs : [adj.] republican
 partizan : [n.] partisan {Italian 'partigiane', French, English 'partisan'}
+ministrina : [n.] ministry
+~> administrina : [n.] adiministration
 
 arme     : [n.] army {French 'armée', also via German 'Armee'}
 soldat   : [n.] soldier {French 'soldat', German 'Soldat'}
@@ -675,8 +677,12 @@ päst : {French 'peste', English 'pester'}
 -- [v.] plague, pester, annoy
 patš : [n.] peace {Latin 'pax'}
 -> apatš : [v.] appease
+-> patšein : [n.] peacetime
 banier : [n.] banner {French 'banière'}
 orde : [n.] order, arrangement, series {Latin 'ordo'}
+sienza : [n.] science {Italian 'scienza', French & English 'science'}
+-> sienzäs : [adj.] scientific
+genetika : [n.] genetics {Russian & Serbian 'генетика'}
 
 === jargon ===
 alfabät : [n.] alphabet {Anc. Greek 'ἀλφάβητος' via English & French 'alphabet'}
