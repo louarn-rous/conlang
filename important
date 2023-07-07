@@ -118,12 +118,13 @@ se : [prep.] precedes a verb, marking it as reflexive
 === affixes ===
 -en     : [suf.] plural {German}
 -(n)u   : [suf.] diminutive {Turkish 'kuzu'}
--e      : [suf.] added to cardinal numbers to form their corresponding ordinal
+-e      : [suf.] forms ordinal numbers
 -ina    : [suf.] used to form nouns from verbs, indicating the action of what is denoted by the verb {Croatian 'batina'} @
 -> -in : [suf.] used to form nouns from verbs, describing the result of an action @
--ör     : [suf.] used to form agent nouns from verbs ('-er')
+-ör     : [suf.] forms agent nouns from verbs ('-er')
 -äs     : [suf.] used to form adjectives from nouns, with the meaning 'of or pertaining to' the suffixed word ('-ic')
 -ein    : [suf.] used to form nouns, denoting the condition or state of the suffixed word ('-hood', '-dom', '-ness') {Archaic form: '-esin'}
+-fär : [suf.] used to form adjectives from verbs, indicating that the action can be performed {from 'fär'}
 
 -an : [suf.] used to form adjectives from verbs, meaning having undergone the suffixed verb (passive) ##
 
@@ -133,7 +134,9 @@ a- : [prf.]
 -- used to form verbs from adjectives, indicating the gain of the adjectivial property
 -- used to form verbs from verbs
 -- 
-ne- : [prf.] negatory
+
+ne- : [prf.] negatory; absent, lacking
+de- : [prf.] reversal or removal, lack of ('-dis', 'de-')
 
 === interjections ===
 halo : [intj.] greeting, call for response ('hello')
