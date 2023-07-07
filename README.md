@@ -44,19 +44,19 @@ The Ižter language has two scripts/alphabet: one Latin and one Cyrillic (simila
 
 | IPA | English | Lat. | Cyr. | Name | Br. | IPA | English | Lat. | Cyr. | Name | Br. |
 |:---:|:------- |:----:|:----:|:----:|:---:|:---:|:------- |:----:|:----:|:----:|:---:|
-| /a/ | 'h**a**t' (Cali, Can) | Aa | Аа | a  | ⠁ | /n/ | '**n**ap'               | Nn | Нн | än | ⠝ |
-| /ɛ/ | 'b**e**d'             | Ää | Ӓӓ | ä  | ⠣ | /o/ | 'y**aw**n' (SA)         | Oo | Оо | o  | ⠕ |
+| /a/ | 'h**a**t' (Cali, Can) | Aa | Аа | a  | ⠁ | /n/ | '**n**et'               | Nn | Нн | än | ⠝ |
+| /ɛ/ | 'y**e**s'             | Ää | Ӓӓ | ä  | ⠣ | /o/ | 'y**aw**n' (SA)         | Oo | Оо | o  | ⠕ |
 | /t/ | '**t**op'             | Tt | Тт | te | ⠞ | /ø/ | 'b**ir**d' (Broad NZ)   | Öö | Ӧӧ | ö  | ⠪ |
-| /d/ | '**d**og'             | Dd | Дд | de | ⠙ | /l/ | '**l**ine'              | Ll | Лл | äl | ⠇ |
-| /i/ | 's**ee**'             | Ii | Ии | i  | ⠊ | /ɾ/ | 'be**tt**er' (Aus, NAE) | Rr | Рр | är | ⠗ |
-| /e/ | 'm**a**y' (Gen. Am.)  | Ee | Ее | e  | ⠜ | /s/ | '**s**ing'              | Ss | Сс | äs | ⠎ |
-| /p/ | '**p**en'             | Pp | Пп | pe | ⠏ | /ʃ/ | '**sh**y'               | Šš | Шш | äš | ⠱ |
+| /d/ | '**d**og'             | Dd | Дд | de | ⠙ | /l/ | '**l**eg'               | Ll | Лл | äl | ⠇ |
+| /i/ | 'b**ee**'             | Ii | Ии | i  | ⠊ | /ɾ/ | 'be**tt**er' (Aus, NAE) | Rr | Рр | är | ⠗ |
+| /e/ | 'm**a**y' (Gen. Am.)  | Ee | Ее | e  | ⠜ | /s/ | '**s**sun'              | Ss | Сс | äs | ⠎ |
+| /p/ | '**p**en'             | Pp | Пп | pe | ⠏ | /ʃ/ | '**sh**oe'              | Šš | Шш | äš | ⠱ |
 | /b/ | '**b**all'            | Bb | Бб | be | ⠃ | /z/ | '**z**oo'               | Zz | Зз | ze | ⠵ |
-| /f/ | '**f**ind'            | Ff | Фф | äf | ⠋ | /ʒ/ | 'plea**s**ure'          | Žž | Жж | že | ⠮ |
+| /f/ | '**f**ish'            | Ff | Фф | äf | ⠋ | /ʒ/ | 'vi**si**on'            | Žž | Жж | že | ⠮ |
 | /v/ | '**v**ine'            | Vv | Вв | ve | ⠧ | /u/ | 'fr**u**it'             | Uu | Уу | u  | ⠥ |
-| /k/ | 's**k**y'             | Kk | Кк | ke | ⠅ | /y/ | '**ü**ber' (German)     | Üü | Ӱӱ | ü  | ⠽ |
-| /g/ | '**g**um'             | Gg | Гг | ge | ⠛ | /h/ | '**h**ome'              | Hh | Һһ | he | ⠓ |
-| /m/ | '**m**ay'             | Mm | Мм | äm | ⠍ | /j/ | '**y**es'               | Jj | Јј | je | ⠚ |
+| /k/ | '**k**ey'             | Kk | Кк | ke | ⠅ | /y/ | 'f**ew**' (Gen. SA)     | Üü | Ӱӱ | ü  | ⠽ |
+| /g/ | '**g**oat'            | Gg | Гг | ge | ⠛ | /h/ | '**h**ome'              | Hh | Һһ | he | ⠓ |
+| /m/ | '**m**ail'            | Mm | Мм | äm | ⠍ | /j/ | '**y**ak'               | Jj | Јј | je | ⠚ |
 
 ## Verbs
 
