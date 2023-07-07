@@ -750,10 +750,10 @@ alt : [v.] stop, cease {German 'Halt'}
 talöd : [v.] follow {Korean '따르다'}
 -> talödör : [n.] follower
 
-liber : [adj.] free {Latin}
--> liberein : [n.] freedom
--> aliber : [v.] free
-----> aliberör : [n.] liberator
+fäns : [v.] strike, thrust, hit {Latin 'fendo' + via 'defensa'}
+-> defäns : [v.] defend, guard, protect
+----> defänsin : [n.] defence
+----> defänsäs : [adj.] defensive
 
 tatlän :
 -- [v.] doubt
@@ -1088,6 +1088,11 @@ sal : [adj.] far, distant
 
 ukin : [adj.] cute
 -> ukinein : [n.] cuteness
+
+liber : [adj.] free {Latin}
+-> liberein : [n.] freedom
+-> aliber : [v.] free
+----> aliberör : [n.] liberator
 
 ort : [adj.] straight, upright {Anc. Greek 'ὀρθός' via English 'Orthodentist'}
 
