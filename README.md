@@ -49,7 +49,7 @@ The Ižter language has two scripts/alphabet: one Latin and one Cyrillic (simila
 | /t/ | '**t**op'             | Tt | Тт | te | ⠞ | /ø/ | 'b**ir**d' (Broad NZ)   | Öö | Ӧӧ | ö  | ⠪ |
 | /d/ | '**d**og'             | Dd | Дд | de | ⠙ | /l/ | '**l**eg'               | Ll | Лл | äl | ⠇ |
 | /i/ | 'b**ee**'             | Ii | Ии | i  | ⠊ | /ɾ/ | 'be**tt**er' (Aus, NAE) | Rr | Рр | är | ⠗ |
-| /e/ | 'm**a**y' (Gen. Am.)  | Ee | Ее | e  | ⠜ | /s/ | '**s**sun'              | Ss | Сс | äs | ⠎ |
+| /e/ | 'm**a**y' (Gen. Am.)  | Ee | Ее | e  | ⠜ | /s/ | '**s**un'              | Ss | Сс | äs | ⠎ |
 | /p/ | '**p**en'             | Pp | Пп | pe | ⠏ | /ʃ/ | '**sh**oe'              | Šš | Шш | äš | ⠱ |
 | /b/ | '**b**all'            | Bb | Бб | be | ⠃ | /z/ | '**z**oo'               | Zz | Зз | ze | ⠵ |
 | /f/ | '**f**ish'            | Ff | Фф | äf | ⠋ | /ʒ/ | 'vi**si**on'            | Žž | Жж | že | ⠮ |
