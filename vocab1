@@ -1106,6 +1106,9 @@ kras : {French 'crasse'}
 -- [adj.] dirty
 -> akras : [v.] to dirty, soil
 -- [n.] scum, dirt, grime
+klar : [adj.] clear; transparent; evident {Latin 'clarus' from English 'clarity', French 'clair'}
+-> aklar : [v.] to clear; to make clear, clarify
+-> klarein : [n.] clarity
 
 bir : [adj.] near, close
 -> abir : [v.] to bring closer; to approach
@@ -1127,7 +1130,21 @@ ort : [adj.] straight, upright {Anc. Greek 'ὀρθός' via English 'Orthodenti
 sut : [adj.] still, down, low, seated
 -> asut : [v.] sit/lay down
 
-rund : [adj.] round {Swedish}
+rund : {Swedish}
+-- [adj.] round
+----> arund : [v.] to make round; to inflate
+-- [n.] circle
+----> rundäs : [adj.] circular
+-- [v.] [f:mathematics] (of a number) to round
+
+san : [adj.] healthy, sound {Latin 'sanus' via English 'sanitary'}
+-> sanein : [n.] health, wellbeing
+----> saneinäs : [adj.] sanitary
+-> nesan : [adj.] unhealthy
+----> nesanein : [n.] illness, unwellness
+-> asan : [v.] cure, treat
+----> asanina : [n.] treatment, remedy
+-------> asaninäs : [adj.] therapeutic
 
 stese : [adj.] sacred, blessed @@
 -> stesäs
