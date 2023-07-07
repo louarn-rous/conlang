@@ -30,7 +30,9 @@ ust : [prep.] out (outside of, away from, not in)
 u    : [prep.] at, in, near, of
 gešt : [prep.] against
 ob   : [prep.] on (top of)
-us   : [prep.] underneath
+-> ob
+us   : [prep.] under(neath)
+-> us(e)- : [prf.] under-, sub-
 
 ant : [prep.] between, among {Latin 'inter' via English 'internal'}
 -> antäs : [adj.] internal, interior
@@ -115,13 +117,13 @@ se : [prep.] precedes a verb, marking it as reflexive
 
 === affixes ===
 -en     : [suf.] plural {German}
--u, -nu : [suf.] diminutive {Turkish 'kuzu'}
+-(n)u   : [suf.] diminutive {Turkish 'kuzu'}
 -e      : [suf.] added to cardinal numbers to form their corresponding ordinal
 -ina    : [suf.] used to form nouns from verbs, indicating the action of what is denoted by the verb {Croatian 'batina'} @
 -> -in : [suf.] used to form nouns from verbs, describing the result of an action @
 -ör     : [suf.] used to form agent nouns from verbs ('-er')
--äs   : [suf.] used to form adjectives from nouns, with the meaning 'of or pertaining to' the suffixed word ('-ic')
--ein : [suf.] used to form nouns, denoting the condition or state of the suffixed word ('-hood', '-dom', '-ness') {Archaic form: '-esin'}
+-äs     : [suf.] used to form adjectives from nouns, with the meaning 'of or pertaining to' the suffixed word ('-ic')
+-ein    : [suf.] used to form nouns, denoting the condition or state of the suffixed word ('-hood', '-dom', '-ness') {Archaic form: '-esin'}
 
 -an : [suf.] used to form adjectives from verbs, meaning having undergone the suffixed verb (passive) ##
 
