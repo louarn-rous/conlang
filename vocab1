@@ -335,10 +335,8 @@ skelät : [n.] skeleton {Anc. Greek 'σκελετός' via French 'squelette' & 
 kol : [n.] neck {Latin 'collum' via French 'col' & English 'collar'}
 -> koliär : [n.] collar
 vän  : [n.] vein {French 'veine'}
-hart : {Afrikaans}
--- [n.] heart
-----> hartäs : [adj.] cardiac
--- [n.] core, centre, heart
+hart : [n.] heart {Afrikaans}
+-> hartäs : [adj.] cardiac
 blüt : {German 'Blut'}
 -- [n.] blood
 ----> blütäs : [adj.] sanguine
@@ -536,6 +534,8 @@ leg : [n.] law {Latin 'lex'}
 komik : [n.] comedy {French 'comique'}
 -> komikäs : [adj.] comical
 -> komikör : [n.] comedian
+
+kärn : [n.] core, centre,
 
 === fantasy ===
 maži    : [n.] magic {French 'magie'}
@@ -1175,4 +1175,5 @@ smät   : [v.] to copulate with
 === archaic ===
 taj   : [n.] [archaic] day {German 'tag'}
 sübas : [n.] wing [archaic] {Japanese '翼'}
-zdal   : [n.] slab [archaic] {French 'dalle'}
+zdal  : [n.] slab [archaic] {French 'dalle'}
+hart  : [n.] core, centre [archaic] {Afrikaans}
