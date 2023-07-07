@@ -729,7 +729,19 @@ söt : [v.] create, make, build, assemble, bring to fruition
 tös : [v.] to make into, turn the subject into
 --> setös : [v.] become ##
 
-gan : [v.] can, able to
+
+
+fär : {Swedish '-bar', German 'fähig'}
+-- [adj.] able
+----> färein : [n.] ability
+----> nefär : [adj.] unable
+-------> nefärein : [n.] unability
+-------> anefär : [v.] to make unable, to immobilize
+----> defär : [adj.] disable(d)
+-------> defärein : [n.] disability
+-------> adefär : [v.] to make disabled, to cripple
+-- [v.] can, is able to
+
 müs : [v.] have to (do something) {German 'Muß'}
 düs : [v.] should {French 'devoir' + 'müs'}
 baž :
@@ -1176,7 +1188,8 @@ küs    : [intj.] fuck, damn, darn, shit
 smät   : [v.] to copulate with
 
 === archaic ===
-taj   : [n.] [archaic] day {German 'tag'}
+taj   : [n.] day [archaic] {German 'tag'}
 sübas : [n.] wing [archaic] {Japanese '翼'}
 zdal  : [n.] slab [archaic] {French 'dalle'}
 hart  : [n.] core, centre [archaic] {Afrikaans}
+gan   : [v.] can, able to [archaic] {? English 'can'}
