@@ -391,6 +391,7 @@ miok  : [n.] truck {French 'camion', English 'truck'}
 -> miokör : [n.] truck driver
 raj   : [n.] rail {French 'rail'}
 -> rajtröbör : [n.] rail-worker {'raj' + 'tröbör'}
+rotu : [n.] wheel
 
 drog : {English 'drug', French 'drogue'}
 -- [n.] medicinal substance
@@ -777,6 +778,12 @@ lüs  : [v.] open
 tör  : [v.] pull
 prös : [v.] push
 präm : [v.] press
+
+klöd : [v.] shut, fasten, secure; lock, close {Latin 'claudo'}
+
+plis : [v.] fold {French 'plisser', Latin 'plicare' via French 'plier'}
+
+rol : [v.] roll
 
 alt : [v.] stop, cease {German 'Halt'}
 -> altör : [n.] device for stopping
@@ -1193,6 +1200,9 @@ frid : [adj.] cold
 hoš : [adj.] hot {French 'chaud', English 'hot'}
 -> ahoš : [v.] heat (up)
 -- [n.] heat ##
+
+rosn : [adj.] warm
+
 
 lös : [adj.] single, lone, only {French 'seul', English 'lone'}
 -> alös : [v.] single out
