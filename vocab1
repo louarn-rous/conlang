@@ -482,6 +482,7 @@ otel     : [n.] hotel {French 'hôtel'}
 katädral : [n.] cathedral {French 'catédrale'}
 dom      : [n.] house, home {Russian 'дома'}
 -> domäs : [adj.] domestic
+haim     : [n.] home {German 'Heim'}
 skol     : [n.] school {English 'school', French 'école'. accidental cognate with Breton}
 -> skolör : [n.] student
 -> skoläs : [adj.] scholar
@@ -785,6 +786,9 @@ klöd : [v.] fasten, secure, lock; contain, surround {Latin 'claudo'}
 plis : [v.] fold {French 'plisser', Latin 'plicare' via French 'plier'}
 
 rol : [v.] roll
+
+falt : [v.] falter #
+-- [n.] fault
 
 alt : [v.] stop, cease {German 'Halt'}
 -> altör : [n.] device for stopping
