@@ -787,8 +787,8 @@ plis : [v.] fold {French 'plisser', Latin 'plicare' via French 'plier'}
 
 rol : [v.] roll
 
-falt : [v.] falter #
--- [n.] fault
+falt : [v.] falter {Portugese 'faltar'}
+-> faltin : [n.] fault
 
 alt : [v.] stop, cease {German 'Halt'}
 -> altör : [n.] device for stopping
