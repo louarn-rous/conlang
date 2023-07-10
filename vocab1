@@ -961,7 +961,7 @@ töl : {French 'tuile'}
 -- [n.] tile, pane, plate, square, panel
 -- [v.] to cover with tiles ##
 
-
+gil : [v.] help {Scottish Gaelic 'gille' via English 'gillie'}
 
 bištir : [v.] bring
 živ    : [v.] persist, continue {Croatian 'živi'}
@@ -1004,8 +1004,10 @@ list : {French 'liste', English}
 troš : {French 'trancher'}
 -- [v.] [trans] slice, cut
 ----> trošör : [n.] one that cuts
-----> trošan : [adj.] cut
+----> trošan : [adj.] cut ###
 -- [n.] cut, incision
+
+
 
 tröb : {German 'Arbeit', French 'travail', English 'labour'}
 -- [v.] work, labour
