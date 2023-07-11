@@ -60,7 +60,6 @@ The Ijter language has two scripts/alphabet: one Latin and one Cyrillic (similar
 | /m/ | '**m**ail'            | Mm | Мм | äm | /j/ | '**y**ak'               | Jj | Јј | je |
 
 
-
 ## Verbs
 
 | Tense          | Example         | Ending | es (to be) |
@@ -137,4 +136,4 @@ Ijter braille is inspired by the French, English, Czech and Scandinavian braille
 | m | --   | f | ..-. |
 | n | -.   | h | .... |
 
-Ijter morse takes the code for ž from Croatian Morse code.
+Ijter Morse is partly influenced by Croatian Morse code.
