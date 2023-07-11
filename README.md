@@ -44,7 +44,7 @@ It utilises Subject-Verb-Object word order.
 The Ijter language has two scripts/alphabet: one Latin and one Cyrillic (similar to Serbian)
 
 | IPA | English | Lat. | Cyr. | Name | IPA | English | Lat. | Cyr. | Name |
-|:---:|:------- |:----:|:----:|:-:|:---:|:---:|:------- |:----:|:----:|:-:|
+|:---:|:------- |:----:|:----:|:-   :|:---:|:---    :|:---- |:----:|:----:|
 | /a/ | 'h**a**t' (Cali, Can) | Aa | Аа | a  | /n/ | '**n**et'               | Nn | Нн | än |
 | /ɛ/ | 'y**e**s'             | Ää | Ӓӓ | ä  | /o/ | 'y**aw**n' (SA)         | Oo | Оо | o  |
 | /t/ | '**t**op'             | Tt | Тт | te | /ø/ | 'b**ir**d' (Broad NZ)   | Öö | Ӧӧ | ö  |
