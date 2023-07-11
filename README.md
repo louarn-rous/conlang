@@ -6,13 +6,13 @@ It utilises Subject-Verb-Object word order.
 
 | Consonants       | Labial  | Alveolar  | Post-Alveolar | Palatal | Velar | Glottal |
 |:---------------- |:-------:|:---------:|:---------:|:---:|:-------:|:---:|
-| Nasal            | /m/     | /n/       |           | /ɲ/ | /ŋ/     |     |
+| Nasal            | /m/     | /n/       |           | (ɲ) | (ŋ)     |     |
 | Plosive          | /p/ /b/ | /t/ /d/   |           |     | /k/ /ɡ/ |     |
 | Affricate        |         | /ts/ /dz/ | /tʃ/ /dʒ/ |     |         |     |
-| Fricative        | /f/ /v/ | /s/ /z/   | /ʃ/ /ʒ/   |     | /x/     | /h/ |
+| Fricative        | /f/ /v/ | /s/ /z/   | /ʃ/ /ʒ/   |     | (x)     | /h/ |
 | Approximant      |         |           |           | /j/ |         |     |
 | Tap/Flap         |         | /ɾ/       |           |     |         |     |
-| Lat. Approximant |         | /l/       |           | /ʎ/ |         |     |
+| Lat. Approximant |         | /l/       |           | (ʎ) |         |     |
 
 /ʝ/ is a frequent allophone of /j/.  
 /ɕ/ is a frequent allophone of /ʃ/.  
