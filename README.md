@@ -99,7 +99,6 @@ A unique feature of Ižter is the possibility of combining a personal pronoun wi
 
 ## Braille
 
-
 the braille alphabet is inspired by French, English, Czech and Scandinavian braille.
 
 | Punc. | Br. | Punc. | Br. |
@@ -112,3 +111,26 @@ the braille alphabet is inspired by French, English, Czech and Scandinavian brai
 | ---      |:---:|
 | Capital marker | ⠠ |
 | Number sign    | ⠼ |
+
+## Morse
+
+| 0 | 1 | 0 | 1 |
+|:-:|:---  |:-:|:---|
+| a | .-   | o | ---  |
+| ä | .-.- | ö | ---. |
+| b | -... | p | .--. |
+| d | -..  | r | .-.  |
+| e | .    | s | ...  |
+| v | ...- | š | ---- |
+| g | --.  | t | -    |
+| i | ..   | u | ..-  |
+| j | .--- | ü | ..-- |
+| k | -.-  | z | --.. |
+| l | .-.. | ž | --..- |
+| m | --   | f | ..-. |
+| n | -.   | h | .... |
+
+
+| f | ..-. |
+| h | .... |
+| 
