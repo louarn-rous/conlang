@@ -41,23 +41,23 @@ It utilises Subject-Verb-Object word order.
 | //ea// | \[e̞ɐ] |  |  |
 
 ## Alphabet
-The Ižter language has two scripts/alphabet: one Latin and one Cyrillic (similar to Serbian)
+The Ijter language has two scripts/alphabet: one Latin and one Cyrillic (similar to Serbian)
 
-| IPA | English | Lat. | Cyr. | Name | IPA | English | Lat. | Cyr. | Name | Br. |
-|:---:|:------- |:----:|:----:|:-:|:---:|:---:|:------- |:----:|:----:|:-:|:---:|
-| /a/ | 'h**a**t' (Cali, Can) | Aa | Аа | a  | /n/ | '**n**et'               | Nn | Нн | än |  |
-| /ɛ/ | 'y**e**s'             | Ää | Ӓӓ | ä  | /o/ | 'y**aw**n' (SA)         | Oo | Оо | o  |  |
-| /t/ | '**t**op'             | Tt | Тт | te | /ø/ | 'b**ir**d' (Broad NZ)   | Öö | Ӧӧ | ö  | ⠪ |
-| /d/ | '**d**og'             | Dd | Дд | de | /l/ | '**l**eg'               | Ll | Лл | äl |  |
-| /i/ | 'b**ee**'             | Ii | Ии | i  | /ɾ/ | 'be**tt**er' (Aus, NAE) | Rr | Рр | är |  |
-| /e/ | 'h**a**y'             | Ee | Ее | e  | ⠜ | /s/ | '**s**un'               | Ss | Сс | äs | ⠎ |
-| /p/ | '**p**en'             | Pp | Пп | pe | ⠏ | /ʃ/ | '**sh**oe'              | Šš | Шш | äš | ⠱ |
-| /b/ | '**b**all'            | Bb | Бб | be | /z/ | '**z**oo'               | Zz | Зз | ze | ⠵ |
-| /f/ | '**f**ish'            | Ff | Фф | äf | /ʒ/ | 'vi**si**on'            | Žž | Жж | že | ⠮ |
-| /v/ | '**v**ine'            | Vv | Вв | ve | /u/ | 'fr**u**it'             | Uu | Уу | u  | ⠥ |
-| /k/ | '**k**ey'             | Kk | Кк | ke | /y/ | 'f**ew**' (Gen. SA)     | Üü | Ӱӱ | ü  | ⠽ |
+| IPA | English | Lat. | Cyr. | Name | IPA | English | Lat. | Cyr. | Name |
+|:---:|:------- |:----:|:----:|:-:|:---:|:---:|:------- |:----:|:----:|:-:|
+| /a/ | 'h**a**t' (Cali, Can) | Aa | Аа | a  | /n/ | '**n**et'               | Nn | Нн | än |
+| /ɛ/ | 'y**e**s'             | Ää | Ӓӓ | ä  | /o/ | 'y**aw**n' (SA)         | Oo | Оо | o  |
+| /t/ | '**t**op'             | Tt | Тт | te | /ø/ | 'b**ir**d' (Broad NZ)   | Öö | Ӧӧ | ö  |
+| /d/ | '**d**og'             | Dd | Дд | de | /l/ | '**l**eg'               | Ll | Лл | äl |
+| /i/ | 'b**ee**'             | Ii | Ии | i  | /ɾ/ | 'be**tt**er' (Aus, NAE) | Rr | Рр | är |
+| /e/ | 'h**a**y'             | Ee | Ее | e  | /s/ | '**s**un'               | Ss | Сс | äs |
+| /p/ | '**p**en'             | Pp | Пп | pe | /ʃ/ | '**sh**oe'              | Šš | Шш | äš |
+| /b/ | '**b**all'            | Bb | Бб | be | /z/ | '**z**oo'               | Zz | Зз | ze |
+| /f/ | '**f**ish'            | Ff | Фф | äf | /ʒ/ | 'vi**si**on'            | Žž | Жж | že |
+| /v/ | '**v**ine'            | Vv | Вв | ve | /u/ | 'fr**u**it'             | Uu | Уу | u  |
+| /k/ | '**k**ey'             | Kk | Кк | ke | /y/ | 'f**ew**' (Gen. SA)     | Üü | Ӱӱ | ü  |
 | /g/ | '**g**oat'            | Gg | Гг | ge | /h/ | '**h**ome'              | Hh | Һһ | he |
-| /m/ | '**m**ail'            | Mm | Мм | äm | ⠍ | /j/ | '**y**ak'               | Jj | Јј | je |
+| /m/ | '**m**ail'            | Mm | Мм | äm | /j/ | '**y**ak'               | Jj | Јј | je |
 
 ## Verbs
 
@@ -69,8 +69,6 @@ The Ižter language has two scripts/alphabet: one Latin and one Cyrillic (simila
 | Contd. Past    | I was doing     | -is    | esis → ist |
 | Contd. Present | I am doing      | -et    | eset → est |
 | Contd. Future  | I will be doing | -as    | esat → ast |
-
-
 
 Verbs are conjugated by taking the root and appending the ending as a suffix.
 
@@ -90,7 +88,7 @@ Verbs are conjugated by taking the root and appending the ending as a suffix.
 | 3ms | So | So | Son | Soj |
 | 3p  | Zö | Zö | Zön | Zöj |
 
-A unique feature of Ižter is the possibility of combining a personal pronoun with a definite or indefinite determiner.
+A unique feature of Ijter is the possibility of combining a personal pronoun with a definite or indefinite determiner.
 
 | Phrase | English | Literal translation |
 | --- | --- | --- |
@@ -99,21 +97,14 @@ A unique feature of Ižter is the possibility of combining a personal pronoun wi
 
 ## Braille
 
-the braille alphabet is inspired by French, English, Czech and Scandinavian braille.
+Ijter braille is inspired by the French, English, Czech and Scandinavian braille alphabets.
 
-|1|2|3|4|5|6|7|8|9|0|
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 0 |
 | - | - | - | - | - | - | - | - | - | - |
-| a⠁ | b⠃ | - | d⠙ | - | f⠋ | g⠛ | h⠓ | i⠊ | j⠚ |
-| k⠅ | l⠇ | - | n⠝  | o⠕ |    |    | ⠗ |    | t⠞ |
-
-
-
-
-⠣ä
-
-⠧v
-
-g
+| a⠁ | b⠃ | -- | d⠙ | e⠑ | f⠋ | g⠛ | h⠓ | i⠊ | j⠚ |
+| k⠅ | l⠇ | m⠍ | n⠝ | o⠕ | p⠏ | -- | r⠗ | s⠎ | t⠞ |
+| u⠥ | v⠧ | -- | ü⠽ | z⠵ |     |    |    | ž⠮ |    |
+|    | ä⠣ |    |     | š⠱ |    |    |    | ö⠪ |    |
 
 | Punc. | Br. | Punc. | Br. |
 |:-----:|:---:|:------|:---:|
@@ -128,7 +119,7 @@ g
 
 ## Morse
 
-| 0 | 1 | 0 | 1 |
+| 0 | Code | 0 | Code |
 |:-:|:---  |:-:|:---|
 | a | .-   | o | ---  |
 | ä | .-.- | ö | ---. |
@@ -144,3 +135,4 @@ g
 | m | --   | f | ..-. |
 | n | -.   | h | .... |
 
+Ijter morse takes the code for ž from Croatian Morse code.
