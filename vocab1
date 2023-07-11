@@ -598,7 +598,9 @@ flam : {French 'flamme'}
 lüm : {Late Latin 'lūmināria' via French 'lumière'}
 -- [n.] light
 -- [v.] cast light onto/throughout
-är : air {French & English 'air'}
+är : [n.] air {French & English 'air'}
+säht : [m.] silk {Latin 'saeta' via French 'soie'}
+kotun : [m.] cotton
 
 === form ===
 štok : [n.] stick, branch; handle, rod {German 'Stock'}
@@ -788,6 +790,10 @@ klöd : [v.] fasten, secure, lock; contain, surround {Latin 'claudo'}
 plis : [v.] fold {French 'plisser', Latin 'plicare' via French 'plier'}
 
 rol : [v.] roll
+
+spär : {Latin 'spero' via French 'espérer'}
+-- [v.] hope
+-- [n.] hope
 
 falt : [v.] falter {Portugese 'faltar'}
 -> faltin : [n.] fault
