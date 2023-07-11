@@ -130,7 +130,3 @@ the braille alphabet is inspired by French, English, Czech and Scandinavian brai
 | m | --   | f | ..-. |
 | n | -.   | h | .... |
 
-
-| f | ..-. |
-| h | .... |
-| 
