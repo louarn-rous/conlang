@@ -47,6 +47,10 @@ for example, idk if 'god' should be 'Got' or 'Dös'/'Döš'
 
 `2023/03/10` since im very interested by concepts surrounding input, language and codes, i'm gonna see if i can come up with a sort of highly efficient keyboard-type thing which isnt in traditional layout/structure
 
+`13-03-2023` pissed cause (the above means that) 'us'/'we' is a homophone of 'no' and 'our' is a homophone of '9'
+homophones are natural, even with really common words, but i tend to avoid them as much as possible
+albeit idk if they would really conflict enough for this to be a problem
+
 `2023/03/17` what is better: 'got' (germanic, e.g: "god" in english, "gott" in german) or 'dös' (latin, e.g: "dieu" in french, "dio" in italian, "deus" in portugese)
 ...please give me feedback i need to make progress
 
@@ -65,6 +69,14 @@ o : rounded close-mid back vowel   - o
 ø : rounded close-mid front vowel   - ö
 u : rounded close back vowel          - u
 y : rounded close front vowel          - ü
+
+
+`19/03/2023`
+thinking about /ə/ again...
+theres too many foreign place names that i dont want to butcher
+im aiming to keep country names close to original
+i cant do /kəmri/ without having to choose between 'kem-ri' or 'came-ri' (or keum-ri)
+same with /nedərlant/
 
 `2023/03/20` __Shite Alphabet 1 - 20/03/2023__
 t · Ꞁt     d · Ԁԁ     p · Пп   b · Ƌƌ     f · Եե    v · Vv
@@ -136,6 +148,14 @@ i could allow combining indef/def det. with a personal det. to indicate that the
 honestly i have no goddamn clue if this even exists in any language, even any constructed one
 
 `2023/04/23` official localized english name of the language is 'ijter' btw, i'm not gonna do like turkey and force people to call it 'ižtér'
+
+`27-04-2023`
+i wanted to keep the alphabet to 26 letters for esoteric reasons but actually i realised that i dont care
+which is why im now considering adding 
+Cc Ћћ · /tʃ/
+Čč Ђђ · /dʒ/
+since those sounds are oft present
+cyrillic forms are from the serbian cyrillic alphabet so im slowly making my language more serbian :flag_rs: /j
 
 `2023/05/01` heres something, not perfect but it's a start
 sorry if theres a few reliant on specific dialects of english (and one on german), nonspecific english actually doesnt contain a lot of vowels that other languages/certain dialects do
@@ -209,6 +229,12 @@ subj (passive) verb obj (active)
 \-    -e
 -i  -it
 
+`15-06-2023`
+doubled consonants will, in most cases, be geminated or otherwise reduced (to a single consonant)
+wherein gemination is denoted by an apostrophe
+e.g: post (mail) + tröbör (worker) = postman
+= post-tröbör → pos'tröbör
+
 `2023-06-16`
 been thinking of re-introducing /ɛ/ (former `Èè`) for phonemic consistence, im also researching vowel harmony and there seems to be some importance in that as well
 after i get that sorted, i probably wont ever rework the vowels again, at least i hope not
@@ -217,4 +243,25 @@ after i get that sorted, i probably wont ever rework the vowels again, at least 
 
 `2023-06-23` posessive noun form of personal pronouns: -öj
 
+`24-06-2023` jüs : [adj.] good @@
 
+`30-06-2023` [reply:unknown] ok dont do this btw idk why i thought this was a good idea its dum
+
+`04-07-2023` diminutive is `-nu` when final syllable is open
+
+`10-07-2023` thinking of experimenting with collective nouns
+(for those not familiar: using German as an example, 'stein' is 'stone', and the 'ge-' suffix forms collective nouns, so 'gestein' is rock, which is innumerable? i think)
+as in not a single rock but 'rock' the substance
+actually no im not gonna do that
+
+`11-07-2023` a .- ä .-.- b -... d -.. e . f ..-. g --. h .... i .. k -.- l .-.. m -- n -. o --- ö ---. p .--. r .-. s ... š ---- t - u ..- ü ..-- v ...- z --.. ž --..-
+
+`11-07-2023` i pressed wrong key and now everything on github aligns right instead of left? help
+
+`11-07-2023`
+kg sz td nh bp mj rl ...
+abcdefghijklmnopqrstuvwxyz
+abvgdeëžzijklmnoprstufxcčš_\_\_\_ä\_\_
+2.25 c for every v : vccvccvccvcccvccvccvccvccc
+a td e pb o fv u mnh ä kg i sš ö zž ü lrj
+a11b22c3.23d4.5e5.6f6.?g7.4h8.?i9.11j
