@@ -43,8 +43,8 @@ It utilises Subject-Verb-Object word order.
 ## Alphabet
 The Ijter language has two scripts/alphabet: one Latin and one Cyrillic (similar to Serbian)
 
-| IPA | English | Lat. | Cyr. | Name | IPA | English | Lat. | Cyr. | Name |
-|:---:|:------- |:----:|:----:|:-   :|:---:|:---    :|:---- |:----:|:----:|
+| IPA | English               |Lat.|Cyr.|Name| IPA | English                 |Lat.|Cyr.|Name|
+|:---:|:---                   |:--:|:--:|:--:|:---:|:---                     |:--:|:--:|:--:|
 | /a/ | 'h**a**t' (Cali, Can) | Aa | Аа | a  | /n/ | '**n**et'               | Nn | Нн | än |
 | /ɛ/ | 'y**e**s'             | Ää | Ӓӓ | ä  | /o/ | 'y**aw**n' (SA)         | Oo | Оо | o  |
 | /t/ | '**t**op'             | Tt | Тт | te | /ø/ | 'b**ir**d' (Broad NZ)   | Öö | Ӧӧ | ö  |
@@ -58,6 +58,8 @@ The Ijter language has two scripts/alphabet: one Latin and one Cyrillic (similar
 | /k/ | '**k**ey'             | Kk | Кк | ke | /y/ | 'f**ew**' (Gen. SA)     | Üü | Ӱӱ | ü  |
 | /g/ | '**g**oat'            | Gg | Гг | ge | /h/ | '**h**ome'              | Hh | Һһ | he |
 | /m/ | '**m**ail'            | Mm | Мм | äm | /j/ | '**y**ak'               | Jj | Јј | je |
+
+
 
 ## Verbs
 
@@ -99,8 +101,8 @@ A unique feature of Ijter is the possibility of combining a personal pronoun wit
 
 Ijter braille is inspired by the French, English, Czech and Scandinavian braille alphabets.
 
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 0 |
-| - | - | - | - | - | - | - | - | - | - |
+| 1  | 2  | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 0 |
+| -  | -  | - | - | - | - | - | - | - | - |
 | a⠁ | b⠃ | -- | d⠙ | e⠑ | f⠋ | g⠛ | h⠓ | i⠊ | j⠚ |
 | k⠅ | l⠇ | m⠍ | n⠝ | o⠕ | p⠏ | -- | r⠗ | s⠎ | t⠞ |
 | u⠥ | v⠧ | -- | ü⠽ | z⠵ |     |    |    | ž⠮ |    |
