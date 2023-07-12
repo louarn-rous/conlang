@@ -516,7 +516,11 @@ sünog   : [n.] edge, boundary, border
 vine    : [n.] domain, realm {Croatian 'domovina'}
 
 liäs    : [n.] link {? French 'lier'}
-→ aliäs : [v.] link, bind, connect @@ iliäs ?
+-> iliäs : [v.] link, bind, connect @@ aliäs ?
+----> iliäsina : [n.] connection
+----> deililiäs : [n.] disconnect
+-------> deiliäsina : [n.] disconnection
+
 
 nam :
 -- [n.] name
@@ -655,7 +659,7 @@ bal  : [n.] ball {French 'balle'}
 doš  : [n.] die/dice
 ešäk : [n. unc.] chess {French 'échecs', English 'chess'}
 
-=== time ===
+=== time - tän ===
 nat   : [n.] day
 -> natäs : [adj.] diurnal, daily
 nošt  : [n.] night {Russian 'ночь', German 'Nacht'}
@@ -666,6 +670,14 @@ minüt : [n.] minute {French, English 'minute'}
 uur   : [n.] hour {German 'Uhr'}
 mäns  : [n.] month {Latin 'mensis' via French 'mensuel'}
 -> mänsäs : [adj.] mensual, monthly
+tän :
+-- [n.] time
+----> tänäs : [adj.] temporal
+----> ultän : [n.] past {'ul' + 'tän'}
+----> ortän : [n.] future {'or' + 'tän'}
+----> itän  : [n.] present {'i' + 'tän'}
+-------> ita : [n.] now
+-- [v.] to measure time
 
 === people ===
 matä  : [n.] mother {Latin 'mater'}
@@ -996,14 +1008,7 @@ studer : [v.] study {Latin 'studere' via English 'study'}
 tegär  : [v.] meet, encounter, frequent
 -> tegärin : [n.] meeting; date @@
 
-tän :
--- [n.] time
-----> tänäs : [adj.] temporal
-----> ultän : [n.] past {'ul' + 'tän'}
-----> ortän : [n.] future {'or' + 'tän'}
-----> itän  : [n.] present {'i' + 'tän'}
--------> ita : [n.] now
--- [v.] to measure time
+
 
 päs :
 -- [v.] feed, nourish
