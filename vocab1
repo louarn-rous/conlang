@@ -769,6 +769,9 @@ vür : {French 'vouloir'}
 -- [v.] want, wish
 -- [n.] want, wish
 
+sünt : [v.] demand {Finnish 'kysyntä'}
+-> süntin : [n.] demand
+
 träš :
 -- [v.] [trans] throw
 -> trešör : [n.] one who throws
@@ -1023,7 +1026,7 @@ tröb : {German 'Arbeit', French 'travail', English 'labour'}
 -- [v.] work, labour
 ----> tröbör : [n.] worker
 -- [n.] work, labour
-štüt : ? {? German 'stützen'}
+štüt : {? German 'stützen'}
 -- [v.] support
 -- [n.] support
 tortür : {French & English 'torture'}
@@ -1064,6 +1067,8 @@ rumä : {Japanese '夢', French 'rêve', English 'dream'}
 fal : {Swedish 'falla'}
 -- [v.] fall; drop, decrease
 -- [n.] fall; drop, decrease
+
+oblis : [v.] forget {Latin 'obliviscor' via French 'oublier'}
 
 löv : [v.] [intrans] stand, rise {French 'lever'}
 -> lövina : [n.] stand, rising outrage
