@@ -166,6 +166,8 @@ nö : {German}
 ja : {German, Dutch, Swedish}
 -- [intj.] affirmative; used to show agreement or acceptance ('yes')
 -- [ptcl.] marks preceding clause as interrogative, prompting affirmation ('isn't it'/'right?')
+sievat : [intj.] goodbye
+-> sie : [intj.] bye
 
 jos : {Japanese 'よし'}
 -- [intj.] confirmation, acknowledgement ('okay')
