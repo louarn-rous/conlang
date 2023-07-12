@@ -134,6 +134,8 @@ patat : [n.] potato {French 'patate'}
 ris   : [n.] rice {French 'riz', English 'rice'}
 melon : [n.] melon {English}
 tomat : [n.] tomato {French 'tomate'}
+sitre : [n.] citrus; lemon {Latin 'citrus' via English, French 'citron'}
+-> grönsitre : lime {'grön' + 'sitre'}
 onion : [n.] onion {French 'oignon'}
 soj   : [n.] soy {Satsuma Jp. '醤油' via Dutch 'soja' via French 'soja' & English 'soy'}
 nüs   : [n.] nut {French 'noix', English 'nut'}
@@ -232,6 +234,7 @@ snež : {English 'snow', French 'neige'}
 biom    : [n.] biome {French 'biome'}
 džangal : [n.] jungle {Hindi 'जंगल' via English 'jungle'}
 miraž   : [n.] mirage {French 'mirage'}
+räviir  : [n.] river {French 'rivière', Afrikaans 'rivier'} 
 
 === space ===
 astär  : [n.] star
@@ -270,6 +273,7 @@ kvardz   : [m. unc.] quartz {German 'Quarz' via French & English 'quartz'}
 diamant  : [m.] diamond {French, German 'Diamant'}
 emrod    : [m.] emerald {French 'émeraude', English 'emerald'}
 piät     : [m.] stone, rock {Italian 'pietra', Latin 'petram'}
+-> apiät : [v.] petrify
 tärakota : [m.] terracotta {Italian 'terracotta'}
 magma    : [m. unc.] magma {Anc. Greek 'μάγμα' via French, English}
 
@@ -484,6 +488,7 @@ otel     : [n.] hotel {French 'hôtel'}
 katädral : [n.] cathedral {French 'catédrale'}
 dom      : [n.] house, home {Russian 'дома'}
 -> domäs : [adj.] domestic
+----> adomäs : [v.] domesticate
 haim     : [n.] home {German 'Heim'}
 skol     : [n.] school {English 'school', French 'école'. accidental cognate with Breton}
 -> skolör : [n.] student
@@ -604,6 +609,10 @@ lüm : {Late Latin 'lūmināria' via French 'lumière'}
 är : [n.] air {French & English 'air'}
 säht : [m.] silk {Latin 'saeta' via French 'soie'}
 kotun : [m.] cotton
+glas : {French 'glace'}
+-- [n.] ice
+-- [adj.] frozen
+----> aglas : [v.] freeze
 
 === form ===
 štok : [n.] stick, branch; handle, rod {German 'Stock'}
@@ -749,6 +758,8 @@ tös : [v.] to make into, turn the subject into
 --> setös : [v.] become ##
 
 fe : [v.] do
+
+si : [v.] fare; be, feel
 
 fär : {Swedish '-bar', German 'fähig'}
 -- [adj.] able
@@ -1126,6 +1137,7 @@ müž : [adj.] light
 -> amüž : [v.] to lighten
 nov : [adj.] new {Portugese 'novo'}
 -> novein : [n.] novelty
+-> novänt : [n.] news {'nov' + 'vänt'} {+ Breton 'neventi'}
 jong : [adj.] young {German 'jung', Dutch}
 -> jongein : [n.] youth
 ou : [adj.] old {Afrikaans}
@@ -1160,6 +1172,9 @@ ukin : [adj.] cute
 -> ukinein : [n.] cuteness
 
 vat : [adj.] good {Breton}
+-> vater : [adj.] better
+----> avater : [v.] improve
+-> vatest : [adj.] best
 
 liber : [adj.] free {Latin}
 -> liberein : [n.] freedom
