@@ -120,6 +120,8 @@ nä    : [cnjc.] [causal] but, however
 štöda : [cnjc.] [causal] because, since
 rösni : [cnjc.] [causal] therefore, so, thus, hence, consequently
 
+ar : [cnjc.] as; than
+
 gän : [cjnc.] when, during the time that, at the time of the action of the following clause
 si  : [cnjc.] if, in the case/condition that, given/supposing/assuming that
 
@@ -146,6 +148,7 @@ sü : [ptcl.] existential, indicates 'there is/exists' concerning the object of 
 -äs     : [suf.] used to form adjectives from nouns, with the meaning 'of or pertaining to' the suffixed word ('-ic')
 -ein    : [suf.] used to form nouns, denoting the condition or state of the suffixed word ('-hood', '-dom', '-ness') {Archaic form: '-esin'}
 -fär : [suf.] used to form adjectives from verbs, indicating that the action can be performed {from 'fär'}
+-nuz : [suf.] abessive {from 'nuz'}
 
 -an : [suf.] used to form adjectives from verbs, meaning having undergone the suffixed verb (passive) ##
 
@@ -169,7 +172,7 @@ nö : {German}
 ja : {German, Dutch, Swedish}
 -- [intj.] affirmative; used to show agreement or acceptance ('yes')
 -- [ptcl.] marks preceding clause as interrogative, prompting affirmation ('isn't it'/'right?')
-sievat : [intj.] goodbye
+sievat : [intj.] goodbye ('sie' + 'vat')
 -> sie : [intj.] bye
 
 jos : {Japanese 'よし'}
