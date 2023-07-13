@@ -61,7 +61,7 @@ The Ijter language has two scripts/alphabet: one Latin and one Cyrillic (similar
 
 ## Verbs
 
-| Tense          | Ending | Passive |
+| Tense          | Active | Passive |
 |:---:           |:---:   | :---:   |
 | Simple Past    | -i     | -it     |
 | Simple Present | -e     | -et     |
@@ -113,8 +113,8 @@ Ijter braille is inspired by the French, English, Czech and Scandinavian braille
 | :     | ⠒   | ;     | ⠆  |
 | !     | ⠖   | ?     | ⠢  |
 
-| Name     | Br. |
-| ---      |:---:|
+| Name           |Br.|
+| ---            |:-:|
 | Capital marker | ⠠ |
 | Number sign    | ⠼ |
 
