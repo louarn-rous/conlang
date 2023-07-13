@@ -61,14 +61,15 @@ The Ijter language has two scripts/alphabet: one Latin and one Cyrillic (similar
 
 ## Verbs
 
-| Tense          | Example         | Ending | es (to be) |
-|:---:           |:---             |:---:   | :---:      |
-| Simple Past    | I did           | -i     | esi → is   |
-| Simple Present | I do            | -e     | ese → es   |
-| Simple Future  | I will do       | -a     | esa → as   |
-| Contd. Past    | I was doing     | -is    | esis → ist |
-| Contd. Present | I am doing      | -et    | eset → est |
-| Contd. Future  | I will be doing | -as    | esat → ast |
+| Tense          | Ending | Passive |
+|:---:           |:---:   | :---:   |
+| Simple Past    | -i     | -it     |
+| Simple Present | -e     | -et     |
+| Simple Future  | -a     | -at     |
+| Contd. Past    | -is    | -ist    |
+| Contd. Present | -es    | -est    |
+| Contd. Future  | -as    | -ast    |
+
 
 Verbs are conjugated by taking the root and appending the ending as a suffix.
 
@@ -76,22 +77,22 @@ Verbs are conjugated by taking the root and appending the ending as a suffix.
 
 ### Personal
 
-|     | Acc. | Dat. | Pos. Det. | Pos. N. |
-|:---:|:---: |:---: |:---: |:---:|
-| 1s  | Iž | Mö | Mön | Möj |
-| 1p  | No | No | Nos | Noj |
-| 2s  | Tö | Tö | Tön | Töj |
-| 2p  | Vo | Vo | Vos | Voj |
-| 3s  | Sö | Sö | Sön | Söj |
-| 3sp | Su | Su | Sun | Suj |
-| 3fs | Sa | Sa | San | Saj |
-| 3ms | So | So | Son | Soj |
-| 3p  | Zö | Zö | Zön | Zöj |
+|     | Acc. | Dat. | Det. | N.  |
+|:---:|:----:|:----:|:----:|:---:|
+| 1s  | Iž   | Mö   | Mön  | Möj |
+| 1p  | No   | No   | Nos  | Noj |
+| 2s  | Tö   | Tö   | Tön  | Töj |
+| 2p  | Vo   | Vo   | Vos  | Voj |
+| 3s  | Sö   | Sö   | Sön  | Söj |
+| 3sp | Su   | Su   | Sun  | Suj |
+| 3fs | Sa   | Sa   | San  | Saj |
+| 3ms | So   | So   | Son  | Soj |
+| 3p  | Zö   | Zö   | Zön  | Zöj |
 
 A unique feature of Ijter is the possibility of combining a personal pronoun with a definite or indefinite determiner.
 
-| Phrase | English | Literal translation |
-| --- | --- | --- |
+| Phrase            | English                            | Lit. translation  |
+| ---               | ---                                | ---               |
 | mönen _colleague_ | a colleague of mine                | my-a(n) colleague |
 | söner _friends_   | those friends of theirs (singular) | their-the friends |
 
