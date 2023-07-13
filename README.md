@@ -94,7 +94,7 @@ A unique feature of Ijter is the possibility of combining a personal pronoun wit
 | Phrase            | English                            | Lit. translation  |
 | ---               | ---                                | ---               |
 | mönen _colleague_ | a colleague of mine                | my-a(n) colleague |
-| söner _friends_   | those friends of theirs (singular) | their-the friends |
+| söner fränden     | those friends of theirs (singular) | their-the friends |
 
 ## Braille
 
