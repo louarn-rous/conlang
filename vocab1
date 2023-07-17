@@ -706,6 +706,8 @@ ešäk : [n. unc.] chess {French 'échecs', English 'chess'}
 nat   : [n.] day
 -> natäs : [adj.] diurnal, daily
 -> minnat : [n.] midday
+-> sätänat : [n.] week
+----> sätänatäs : [n.] weekly
 nošt  : [n.] night {Russian 'ночь', German 'Nacht'}
 -> noštäs : [adj.] nocturnal, nightly
 -> minnošt : [n.] midnight
@@ -717,6 +719,11 @@ uur   : [n.] hour {German 'Uhr'}
 -> mitäl uur : [n.] noon {'mitäl' + 'uur'}
 mäns  : [n.] month {Latin 'mensis' via French 'mensuel'}
 -> mänsäs : [adj.] mensual, monthly
+anu : [n.] year {French 'an'}
+-> anuäs : [adj.] annual
+-> desanu : [n.] decade
+-> sänanu : [n.] century
+-> milanu : [n.] millenium
 tän :
 -- [n.] time
 ----> tänäs : [adj.] temporal
