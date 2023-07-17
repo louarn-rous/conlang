@@ -108,6 +108,8 @@ blär   : [n.] badger {French 'blaireau'}
 -> bläräs : [adj.] meline
 -> bläru : [n.] badger cub
 -> stamblär : [n.] pangolin
+širm : [n.] lizard
+-> širmäs : [adj.] lacertilian
 
 mostik : [n.] mosquito {French 'moustique', English 'mosquito'}
 
@@ -409,6 +411,7 @@ zbas : [n.] wing {Japanese '翼'}
 fung : [n.] mushroom {Italian 'funghi'}
 -> [n.] [colloq.] penis
 -> fungäs : [adj.] fungal
+tust : [n.] tail
 
 === technology ===
 disk  : [n.] disk, disc, record, CD, CD-ROM {French 'disque', English 'disc'/'disk'}
@@ -702,13 +705,16 @@ ešäk : [n. unc.] chess {French 'échecs', English 'chess'}
 === time - tän ===
 nat   : [n.] day
 -> natäs : [adj.] diurnal, daily
+-> minnat : [n.] midday
 nošt  : [n.] night {Russian 'ночь', German 'Nacht'}
 -> noštäs : [adj.] nocturnal, nightly
+-> minnošt : [n.] midnight
 damer : [n.] dusk {German 'Dämmerlicht'}
 säkond : [n.] second {French 'seconde', English 'second'}
 minüt : [n.] minute {French, English 'minute'}
 uur   : [n.] hour {German 'Uhr'}
 -> uuräs : [adj.] hourly
+-> mitäl uur : [n.] noon {'mitäl' + 'uur'}
 mäns  : [n.] month {Latin 'mensis' via French 'mensuel'}
 -> mänsäs : [adj.] mensual, monthly
 tän :
@@ -742,7 +748,7 @@ klun : [n.] clown {French 'clown'}
 sint : [n.] Saint {Dutch}
 kamarad : [n.] comrade, mate; fellow student, classmate {French 'camarade', German 'Kamerad'}
 
-=== misc ===
+=== misc. ===
 dös     : [n.] god, deity {Portugese 'Deus'}
 -> dösäs : [adj.] divine
 kompost : [n.] compost {English, French 'compost'}
@@ -763,6 +769,8 @@ sienza : [n.] science {Italian 'scienza', French & English 'science'}
 -> sienzäs : [adj.] scientific
 genetika : [n.] genetics {Russian & Serbian 'генетика'}
 -> genetikäs : [adj.] genetic
+
+korb : [n.] basket
 
 === jargon ===
 alfabät : [n.] alphabet {Anc. Greek 'ἀλφάβητος' via English & French 'alphabet'}
@@ -1017,6 +1025,8 @@ kül : {French 'colle', English 'glue'}
 salv : [v.] save
 -> salvör : [n.] saviour
 -> salvina : [n.] salvation
+
+stöj : [v.] find
 
 vän : [v.] [intrans.] come
 
