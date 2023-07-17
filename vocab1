@@ -268,11 +268,13 @@ osean    : [n.] ocean {French 'océan'}
 koräl    : [m.] coral {French 'corail', English 'coral'}
 perl     : [m.] pearl {French 'perle'}
 haj      : [n.] shark {Swedish}
+-> hajäs : [adj.] selachian
 büj      : [n.] buoy
 
 === geological, mineral, geographic ===
 metal    : [m. unc.] metal {French 'métal'}
--> metaltröbör : [n.] metalworker {'metal' + 'tröbör'}
+-> metaltröb : [n.] metalwork {'metal' + 'tröb'}
+----> metaltröbör : [n.] metalworker
 -> metaläs : [adj.] metallic
 bronz    : [m. unc.] bronze {English 'bronze'}
 fer      : [m. unc.] iron {French}
@@ -338,6 +340,7 @@ ur     : [n.] ear {Latin 'auris' via 'ausculto' via Italian 'ascoltare'}
 -> uräs : [adj.] aural
 ----> urod : [v.] hear
 -------> urodäs : [adj.] auditory
+-------> urodfär : [adj.] audible
 mož    : [n.] mouth
 -> možäs : [adj.] oral
 stom   : [n.] [archaic] mouth {Anc. Greek 'στόμα'}
@@ -346,6 +349,8 @@ dänt   : [n.] tooth {Latin 'dens' via French 'dentiste'/'dentaire', English 'de
 -> däntäs : [adj.] dental
 leng   : [n.] tongue {French 'langue'}
 -> lengäs : [adj.] lingual
+-> lengina : [n.] language
+----> lenginäs : [adj.] linguistic
 ost    : [n.] bone {Anc. Greek 'ὀστέον' via French 'ostéo-'}
 -> ostäs : [adj.] osteal
 skelät : [n.] skeleton {Anc. Greek 'σκελετός' via French 'squelette' & English 'skeleton'}
@@ -353,6 +358,7 @@ skelät : [n.] skeleton {Anc. Greek 'σκελετός' via French 'squelette' & 
 kol : [n.] neck {Latin 'collum' via French 'col' & English 'collar'}
 -> koliär : [n.] collar
 vän  : [n.] vein {French 'veine'}
+-> vänäs : [adj.] venous
 hart : [n.] heart {Afrikaans}
 -> hartäs : [adj.] cardiac
 blüt : {German 'Blut'}
@@ -390,15 +396,15 @@ süt : {French 'suant'}
 lön : [m.] wool; woolen {French 'laine'}
 mälk : {English 'milk', French 'lait', German 'Milch'}
 -- [n.] milk
+----> mälkäs : [adj.] dairy
 -- [v.] [usu. of an animal] milk
 -- [v.] exploit excessively
 ov   : [n.] egg {Latin 'ovum'}
 -> oväs : [adj.] of or pertaining to eggs; oval
 zbas : [n.] wing {Japanese '翼'}
-fung : {Italian 'funghi'}
--- [n.] mushroom
-----> [n.] [colloq.] penis
-----> fungäs : [adj.] fungal
+fung : [n.] mushroom {Italian 'funghi'}
+-> [n.] [colloq.] penis
+-> fungäs : [adj.] fungal
 
 === technology ===
 disk  : [n.] disk, disc, record, CD, CD-ROM {French 'disque', English 'disc'/'disk'}
@@ -471,6 +477,7 @@ repüblik : [n.] republic {French 'république', also via German 'Republik'}
 partizan : [n.] partisan {Italian 'partigiane', French, English 'partisan'}
 ministrina : [n.] ministry
 ~> administrina : [n.] adiministration
+----> administrinäs : [adj.] administrative
 
 arme     : [n.] army {French 'armée', also via German 'Armee'}
 soldat   : [n.] soldier {French 'soldat', German 'Soldat'}
@@ -492,7 +499,7 @@ ger ###
 
 prizon : [n.] prison
 -> prizonör : [n.] prisoner
--- v. imprison ###
+-> imprizon : [v.] imprison {'im' + 'prizon'}
 
 === places ===
 otel     : [n.] hotel {French 'hôtel'}
@@ -531,26 +538,25 @@ sünog   : [n.] edge, boundary, border
 vine    : [n.] domain, realm {Croatian 'domovina'}
 
 liäs    : [n.] link {? French 'lier'}
--> iliäs : [v.] link, bind, connect @@ aliäs ?
-----> iliäsina : [n.] connection
-----> deililiäs : [n.] disconnect
--------> deiliäsina : [n.] disconnection
+-> aliäs : [v.] link, bind, connect
+----> aliäsina : [n.] connection
+-> deliäs : [n.] disconnect
+----> deiliäsina : [n.] disconnection
 -> liäsan : [adj.] linked ##
 ----> liäsanein : [n.] relation, togetherness, 
 
 pär : [n.] part, piece, share, component {Latin 'partem' via English & French 'part'}
--> apär : [v.] divide, seperate
+-> apär : [v.] divide, seperate, split
 ----> apärein : [n.] apartness, seperation, division; polarization
 ----> apäran : [adj.] apart ##
 
-nam :
--- [n.] name
-----> namäs : [adj.] nominal
--- [v.] to give/assign a name to ## anam
+nam : [n.] name 
+-> namäs : [adj.] nominal
+-> anam : [v.] to give/assign a name to
 frän :
 -- [n.] mind
 ----> fränäs : [adj.] mental
--- [v.] be aware/conscious of @@
+-- [v.] be aware/conscious of ###
 
 prod : {Latin 'prode' via cogn. with English 'proud'}
 -- [n.] pride ?
@@ -559,7 +565,8 @@ heer :
 -- [n.] hatred ?
 -- [v.] hate
 enor : {Breton}
--- [v.] honor ?
+-- [v.] honor
+----> enorfär : [adj.] honorable
 -- [n.] honor
 
 rät : [n.] right {Swedish 'rättvisa'}
@@ -581,8 +588,12 @@ komik : [n.] comedy {French 'comique'}
 kärn : [n.] core, centre
 -> kärnäs : [adj.] central
 
+son : [n.] {Latin 'sono' + via French 'son'}
+-> sonäs : [adj.] sonic
+
 === fantasy ===
 maži    : [n.] magic {French 'magie'}
+-> mažiäs : [adj.] magical
 goläm   : [n.] golem {English 'golem'}
 zambi   : [n.] zombie {Bantu via English 'zombie'}
 dragon  : [n.] dragon {English, French}
@@ -596,12 +607,13 @@ totäm : [n.] totem {French 'totème', English 'totem'}
 -> totämäs : [adj.] totemic
 räi   : [n.] king {Portugese 'rei'}
 -> räiäs : [adj.] royal
+-> räin : [n.] queen {+ French 'reine'}
 koron : {Latin 'corona' via Italian 'corona' & French 'couronne'}
 -- [n.] crown
 -- [v.] crown
 skläv : [n.] slave {French 'esclave'}
 -> sklävör : [n.] one who owns or trades slaves
--> sklävein : [n.] slavery
+-> sklävein : [n.] slavery, slavedom
 
 === substance ===
 släm   : [m.] slime, goo, sludge {English 'slime', PIE '*sley-'}
@@ -620,13 +632,13 @@ frus : {? English 'froth', ? French 'mousse'}
 füm : {French 'fumée'}
 -- [m.] smoke
 -- [v.] produce smoke
--> fümör :
------ [n.] smoker
------ [n.] appartus for smoking
+----> fümör :
+-------- [n.] smoker
+-------- [n.] appartus for smoking
 flam : {French 'flamme'}
 -- [n.] visible portion of gas undergoing combustion
+-- [v.] to set ablaze, aflame
 -- [n.] [figurative] strong passion
--- [v.] to set ablaze, aflame @
 -- [v.] to deliberately encourage hostility or anger
 lüm : {Late Latin 'lūmināria' via French 'lumière'}
 -- [n.] light
@@ -691,6 +703,7 @@ damer : [n.] dusk {German 'Dämmerlicht'}
 säkond : [n.] second {French 'seconde', English 'second'}
 minüt : [n.] minute {French, English 'minute'}
 uur   : [n.] hour {German 'Uhr'}
+-> uuräs : [adj.] hourly
 mäns  : [n.] month {Latin 'mensis' via French 'mensuel'}
 -> mänsäs : [adj.] mensual, monthly
 tän :
@@ -772,10 +785,12 @@ embrion : [n.] [f:biology] embryo {French 'embryon'}
 es  : [v.] be {German 'ist', French 'est', English 'is', Spanish}
 -> esein : [n.] existence
 ev  : [v.] have
+-> evein : [v.] possession
 ten : [v.] hold {French 'tenir'}
 -> tensein : [n.] custody
 ----> stattensein : [n.] state custody
 sen : [v.] know {Latin 'sciens'}
+-> senein : [n.] knowledge
 ser :
 -- [v.] say, speak
 ----> serör : [n.] one who speaks
@@ -784,7 +799,8 @@ ser :
 -> serin : [n.] expression, meaning
 ir  : [v.] go, move (oneself)
 
-od  : [v.] hear, feel, sense 
+od  : [v.] hear, feel, sense
+-> odäs : [adj.] sensory
 
 söt : [v.] create, make, build, assemble, bring to fruition
 -> sötina : [n.] creation
@@ -964,15 +980,17 @@ serv : [v.] serve
 -> servör : [n.] waiter, servant
 
 pärmit : [v.] allow, permit {French 'permit'}
--> adj.
+-> pärmitan : [adj.] permitted ##
+-> pärmitina : [n.] permission
 probit : [v.] prohibit, disallow
--> adj.
+-> probitan : [adj.] prohibited ##
+-> probitina : [n.] prohibition
 
 kräs : [v.] grow {Latin 'crescere' via Portugese 'crescer'}
 -> kräsör : [n.] one that grows
 -> dekräs : [v.] shrink, decrease
 ----> dekräsin : [n.] decrease
--> kräsin : [n.] increase
+-> kräsin : [n.] increase @
 
 bran : {Swedish 'brann'}
 -- [v.] burn
@@ -984,16 +1002,18 @@ skän :
 plod
 -- [v.] burst, blow
 ----> ustplod : [v.] explode
+-------> ustplodina : [n.] explosion
 ----> implod : [v.] implode
+-------> implodina : [n.] implosion
 -- [n.] burst, blow
 
 kül : {French 'colle', English 'glue'}
 -- [v.] stick, adhere
-----> külat : 
 -- [n.] glue, adhesive
 
 salv : [v.] save
 -> salvör : [n.] saviour
+-> salvina : [n.] salvation
 
 vän : [v.] [intrans.] come
 
@@ -1002,32 +1022,29 @@ dants : {German 'tanz', English 'dance'}
 ----> dantsör : [n.] dancer
 -- [n.] dance
 
-
-
-
-bras : [v.] ferment, brew {French 'brasser'}
+bras :
+-- [v.] ferment, brew {French 'brasser'}
 -> brasör : [n.] machine or person who prepares mixtures
--- bras : [n.] concoction, mixture, brew
+-- [n.] concoction, mixture, brew
 
 mät  : [v.] set, change, assign, put
 -> mätkal : [v.] confirm
+----> mätkalina : [n.] confirmation
 -> mättös : [v.] modify
 ----> mättösina : [n.] modification
 -> immät : [v.] insert
+----> immätina : [n.] insertion
 
 kal  : [v.] fit, match, correspond
 -> kalin : [n.] match @@
 
-sked :
--- [v.] split, divide
--- [n.] split ##
-
 mäl : {French 'mêler'}
 -- [v.] mix, combine, blend, tangle, fuse
 ----> mälör : [n.] mixer, blender or other apparatus for blending
--- [n.] mix, combination, blend
+-- [n.] mixture, combination, blend
 
 trem : [v.] shake, tremble, wobble {French 'trembler', Croatian 'tresti'}
+-> tremin : [n.] trembling
 
 baes : {Unknown}
 -- [v.] bite
@@ -1038,9 +1055,10 @@ konsol : [v.] console
 
 töl : {French 'tuile'}
 -- [n.] tile, pane, plate, square, panel
--- [v.] to cover with tiles ##
+-- [v.] to cover with tiles
 
 gil : [v.] help {Scottish Gaelic 'gille' via English 'gillie'}
+-> gilör : [n.] helper, aid
 
 bištir : [v.] bring
 živ    : [v.] persist, continue {Croatian 'živi'}
@@ -1054,16 +1072,16 @@ tegär  : [v.] meet, encounter, frequent
 
 päs :
 -- [v.] feed, nourish
-----> päsin : [n.] meal; nourishment @@
+----> päsin : [n.] meal; nourishment
 -- [n.] food
 
-grafit : [v.] scribble; graffiti
--> grafitin : [n.] scribble; grafitti ##
+grafit
+-- [v.] scribble; graffiti {Italian 'graffiti' via English & French'}
+-- [n.] scribble; grafitti
 
 sträd : [v.] struggle {Frisian 'striid', Swedish 'strida'}
 -> strädin : [n.] conflict, struggle, war
-----> strädinu : [n.] fight, squabble, dispute
-
+----> strädinu : [n.] fight, squabble, dispute, argument
 
 limit : {French 'limite', English}
 -- [v.] [trans] limit
@@ -1087,8 +1105,11 @@ tröb : {German 'Arbeit', French 'travail', English 'labour'}
 -- [v.] work, labour
 ----> tröbör : [n.] worker
 -- [n.] work, labour
+----> tröbnuz : [adj.] unemployed
+-------> tröbnuzör : [n.] unemployed person
 štüt : {? German 'stützen'}
 -- [v.] support
+----> štütör : [n.] supporter
 -- [n.] support
 tortür : {French & English 'torture'}
 -- [v.] torture
