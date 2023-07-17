@@ -645,6 +645,7 @@ tapir : {French 'tapis'}
 -- [v.] to cover with carpet
 mis : {? French 'nid'}
 -- [n.] home, nest
+----> sommis : [n.] bed {'som' + 'mis'}
 -- [v.] host
 ----> misör : [n.] host
 štog :
@@ -880,28 +881,22 @@ sül :
 
 
 
-som : {Latin 'somnus' via French 'sommeil'}
--- [v.] [intrans] sleep
-----> asom : [v.] [trans] knock out
--- [n.] sleep
-----> somis : [n.] bed {'som' + 'mis'}
+som : [v.] [intrans] sleep {Latin 'somnus' via French 'sommeil'} 
+-> somin : [n.] sleep
+-> asom : [v.] [trans] knock out
 
 pas : [v.] pass, go by
 
-sit :
--- [v.] thirst
-----> asit : [v.] [trans] to make thirsty
--- [n.] thirst
-fam : {Latin 'fames' via French 'faim'}
--- [v.] hunger
-----> afam : [v.] [trans] to make hungry
--- [n.] hunger
+fam : [v.] hunger {Latin 'fames' via French 'faim'} 
+-> famin : [n.] hunger
+-> afam : [v.] [trans] to make hungry
+sit : [v.] thirst {? French 'soif', ? English 'thirsty'}
+-> sitin : [n.] thirst
+-> asit : [v.] [trans] to make thirsty
+fatig : [v.] [intrans] to tire, become weary {French 'fatigue'}
+-> fatigein : [n.] tiredness
+-> afatig : [v.] [trans] to tire, make weary
 
-fatig : {French 'fatigue'}
--- [n.] tiredness
--- v. to tire, make weary
--- v. [passive] to tire, become weary
--- adj, ??
 
 tänj : {French 'teindre'}
 -- [v.] stain
