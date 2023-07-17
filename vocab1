@@ -76,7 +76,6 @@ ekus   : [n.] horse {Latin 'equus'}
 az     : [n.] donkey {Breton 'azen'}
 -> azäs : [adj.] asinine
 -> azu  : [adj.] foal (donkey)
-
 gupil  : [n.] fox {Old/Middle French 'goupil'}
 -> gupiläs : [adj.] vulpine
 -> gupilu : [n.] fox cub
@@ -110,6 +109,7 @@ mostik : [n.] mosquito {French 'moustique', English 'mosquito'}
 oris   : [n.] bird {Anc. Greek 'ὄρνις'}
 -> orisäs : [adj.] avian
 alar   : [n.] swan {Breton "alarc'h"}
+-> alaräs : [adj.] cygnine
 otrüš  : [n.] ostrich {French 'otruche'}
 pol    : [n.] chicken; poultry {Spanish 'pollo'}
 gal    : [n.] rooster, hen {Latin 'gallus'}
@@ -804,14 +804,12 @@ vür : {French 'vouloir'}
 sünt : [v.] demand {Finnish 'kysyntä'}
 -> süntin : [n.] demand
 
-träš :
--- [v.] [trans] throw
+träš : [v.] [trans] throw
 -> trešör : [n.] one who throws
--- [n.] throw @
-trös :
--- [v.] [trans] catch
+-> träšin : [n.] throw
+trös : [v.] [trans] catch
 -> trösör : [n.] one who catches
--- [n.] catch @
+-> trösin : [n.] catch
 
 šam  : [v.] hide, conceal
 avis : [v.] show, uncover, demonstrate, discover
@@ -838,8 +836,22 @@ falt : [v.] falter {Portugese 'faltar'}
 alt : [v.] stop, cease {German 'Halt'}
 -> altör : [n.] device for stopping
 
+vedir : [v.] lead, guide {Serbo-Croatian 'водити', Latin 'dirigo' via French 'diriger' & Spanish 'dirigir'}
+-> vedirör : [n.] guide, leader
+-> vedirina : [n.] guidance, leadership
+-> mevedir : [v.] mislead, misdirect
+----> mevedirör : [n.] crook, liar, dishonest person
+----> mevedirina : [n.] misdirection
 talöd : [v.] follow {Korean '따르다'}
 -> talödör : [n.] follower
+-> talödein : [n.] (act of) following
+räg : [v.] rule, govern {Latin 'rego'}
+-> rägör : [n.] ruler, governor
+-> rägein : [n.] governance
+läž : [v.] obey, serve, be loyal to {English 'liege' via 'allegiance'}
+-> läžein : [n.] loyalty, obedience, servitude, allegience
+-> deläž : [v.] disobey
+----> deläžein : [n.] disobedience
 
 fäns : [v.] strike, thrust, hit {Latin 'fendo' + via 'defensa'}
 -> defäns : [v.] defend, guard, protect
@@ -850,8 +862,8 @@ tatlän :
 -- [v.] doubt
 -- [n.] doubt
 
-läž : [v.] obey, serve, be loyal to {English 'liege' via 'allegiance'}
--> läžein : [n.] loyalty, obedience, servitude, allegience
+
+
 
 pläs : [v.] to please, favour {Latin 'placeo' via French 'plaire'}
 -> pläsein : [n.] pleasure
