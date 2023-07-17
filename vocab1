@@ -65,7 +65,7 @@ bov    : [n.] cow {Late Latin 'bovinus'}
 -> bovu  : [n.] calf
 pors   : [n.] pig {Latin 'Porcus' via French 'porc'}
 -> porsäs : [adj.] porcine
--> porsu  : [adj.] piglet
+-> porsu  : [n.] piglet
 kuz    : [n.] sheep {Turkish 'kuzu'}
 -> kuzäs : [adj.] ovine
 -> kuzu  : [n.] lamb
@@ -77,7 +77,7 @@ ekus   : [n.] horse {Latin 'equus'}
 -> ekusu  : [n.] foal
 az     : [n.] donkey {Breton 'azen'}
 -> azäs : [adj.] asinine
--> azu  : [adj.] foal (donkey)
+-> azu  : [n.] foal (donkey)
 gupil  : [n.] fox {Old/Middle French 'goupil'}
 -> gupiläs : [adj.] vulpine
 -> gupilu : [n.] fox cub
@@ -96,8 +96,9 @@ lapin  : [n.] rabbit {French}
 mus    : [n.] mouse {English 'mouse', French 'souris'}
 -> mus  : [n.] computer mouse
 -> musu : [n.] pup (mouse)
+-> musäs : [adj.] musine
 leo    : [n.] lion {Latin}
--> leonäs : [n.] leonine
+-> leonäs : [adj.] leonine
 -> leonu  : [n.] lion cub
 pantär : [n.] panther {French 'panthère', Serbian 'пантери'}
 -> pantäru : [n.] panther cub
@@ -124,6 +125,7 @@ mono   : [n.] monkey {Spanish}
 -> monäs : [adj.] simian
 lüzd :
 -- [n.] worm
+----> [adj.] vermicular
 -- [v.] squirm, wriggle, worm, crawl
 päsk   : [n.] fish {Breton 'pesk'}
 -> päsktröbör : [n.] fishmonger ##
@@ -157,7 +159,7 @@ banan : [n.] banana {French 'banane'}
 sukar : {Arabic 'سكر' via French 'sucre' & English 'sugar'}
 -- [n.] sugar
 -- [adj.] sweet
------> asukar [v.] sweeten {'-a' + 'sukar'}
+----> asukar [v.] sweeten {'-a' + 'sukar'}
 kräm : {French 'crème'}
 -- [n.] cream
 -- [v.] to fill or cover with cream
@@ -206,7 +208,7 @@ föl : {French 'feuille'}
 -- [n.] leaf
 -- [n.] feather
 -- [n.] leaflet, strip of paper
-busk    : [n.] bush {English 'bush', ? German 'Busch', ? Finnish 'puska'}
+buis    : [n.] bush {Dutch, Afrikaans}
 vit     : [n.] vine
 härb    : [n.] grass, herb {French 'herbe', English 'herb'}
 -> härbäs : [adj.] herbal
@@ -1313,3 +1315,5 @@ sübas : [n.] wing [archaic] {Japanese '翼'}
 zdal  : [n.] slab [archaic] {French 'dalle'}
 hart  : [n.] core, centre [archaic] {Afrikaans}
 gan   : [v.] can, able to [archaic] {? English 'can'}
+busk    : [n.] bush {English 'bush', ? German 'Busch', ? Finnish 'puska'}
+
