@@ -80,9 +80,9 @@ az     : [n.] donkey {Breton 'azen'}
 gupil  : [n.] fox {Old/Middle French 'goupil'}
 -> gupiläs : [adj.] vulpine
 -> gupilu : [n.] fox cub
-kat    : [n.] cat {English, German 'Katze'}
--> katäs : [adj.] feline
--> katu  : [n.] kitten
+kot    : [n.] cat {Polish, English 'cat', German 'Katze'}
+-> kotäs : [adj.] feline
+-> kotu  : [n.] kitten
 kärü   : [n.] dog {Estonian 'koer'}
 -> kärüäs : [adj.] canine
 -> kärunu : [n.] pup, puppy
@@ -825,7 +825,7 @@ ten : [v.] hold {French 'tenir'}
 sen : [v.] know {Latin 'sciens'}
 -> senein : [n.] knowledge
 ser :
--- [v.] say, speak
+-- [v.] say, speak, tell
 ----> serör : [n.] one who speaks
 -- [v.] signifies, represents, means
 -> serina : [n.] meaning
@@ -844,6 +844,8 @@ tös : [v.] to make into, turn the subject into
 fe : [v.] do
 
 piter : [v.] dig
+
+kos : [v.] hunt; seek
 
 rän : [v.] try
 -> ränin : [n.] attempt
@@ -1195,7 +1197,7 @@ oblis : [v.] forget {Latin 'obliviscor' via French 'oublier'}
 
 löv : [v.] [intrans] stand, rise {French 'lever'}
 -> lövina : [n.] stand, rising outrage
-vis : [v.] see, perceive, view, look
+vis : [v.] see, perceive, view, look, observe
 -> visina : [n.] view, perspective, observation
 -> visör : [n.] viewer, witness
 -> visäs : [n.] visual
