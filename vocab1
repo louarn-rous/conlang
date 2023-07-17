@@ -806,9 +806,12 @@ söt : [v.] create, make, build, assemble, bring to fruition
 -> sötina : [n.] creation
 
 tös : [v.] to make into, turn the subject into
---> setös : [v.] become ##
+--> stös : [v.] become
 
 fe : [v.] do
+
+rän : [v.] try
+-> ränin : [n.] attempt
 
 si : [v.] fare; be, feel
 
@@ -832,7 +835,6 @@ baž :
 vür : {French 'vouloir'}
 -- [v.] want, wish
 -- [n.] want, wish
-
 sünt : [v.] demand {Finnish 'kysyntä'}
 -> süntin : [n.] demand
 
@@ -844,23 +846,24 @@ trös : [v.] [trans] catch
 -> trösin : [n.] catch
 
 šam  : [v.] hide, conceal
+-> šamein : [n.] concealment
 avis : [v.] show, uncover, demonstrate, discover
+-> avisein : [n.] demonstration, discovery
 lüs  : [v.] open
 -> lüsör : [n.] thing which opens; opener
 üsät : [v.] close
 tör  : [v.] pull
-prös : [v.] push
-präm : [v.] press
+prös : [v.] [v.] push
+präm : [v.] [n.] press
 
 klöd : [v.] fasten, secure, lock; contain, surround {Latin 'claudo'}
 
-plis : [v.] fold {French 'plisser', Latin 'plicare' via French 'plier'}
+plis : [v.] [n.] fold {French 'plisser', Latin 'plicare' via French 'plier'}
 
 rol : [v.] roll
 
-spär : {Latin 'spero' via French 'espérer'}
--- [v.] hope
--- [n.] hope
+spär : [v.] [n.] hope {Latin 'spero' via French 'espérer'}
+tatlän : [v.] [n.] doubt
 
 falt : [v.] falter {Portugese 'faltar'}
 -> faltin : [n.] fault
@@ -890,9 +893,7 @@ fäns : [v.] strike, thrust, hit {Latin 'fendo' + via 'defensa'}
 ----> defänsin : [n.] defence
 ----> defänsäs : [adj.] defensive
 
-tatlän :
--- [v.] doubt
--- [n.] doubt
+
 
 
 
@@ -909,8 +910,6 @@ sül :
 -- [v.] drink
 ----> sülör : [n.] one who drinks (usu. alcohol)
 -- [n.] drink
-
-
 
 som : [v.] [intrans] sleep {Latin 'somnus' via French 'sommeil'} 
 -> somin : [n.] sleep
@@ -992,9 +991,8 @@ kräs : [v.] grow {Latin 'crescere' via Portugese 'crescer'}
 ----> dekräsin : [n.] decrease
 -> kräsin : [n.] increase @
 
-bran : {Swedish 'brann'}
--- [v.] burn
--- [n.] burn
+bran : [v.] [n.] burn {Swedish 'brann'}
+
 skän :
 -- [v.] climb, scale
 ----> skänör : [n.] one that climbs
@@ -1124,8 +1122,8 @@ mord : {German 'morden'}
 -- [v.] charge, load
 -- [n]. charge
 
-sekur : [adj.] without care, secure {Latin 'securus'}
--> sekurein : [n.] certainty, security, safety
+
+
 kur : {Latin 'cura' via 'securus' via German 'sicher'}
 -- [v.] care
 -- [n.] care, concern
@@ -1286,8 +1284,12 @@ stese : [adj.] sacred, blessed {Russian 'святой'}
 
 ru : [adj.] raw, crude
 
+sekur : [adj.] without care, secure {Latin 'securus'}
+-> sekurein : [n.] certainty, security, safety
+-> asekur : [v.] secure
+
 uär : [adj.] wild
--> uär : [n.] uärein
+-> uärein : [n.] wildness
 prane : [adj.] weird, odd, strange
 -> epran : [v.] alienate, estrange
 -> pranesein : [n.] weirdness
