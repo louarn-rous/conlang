@@ -76,7 +76,7 @@ ekus   : [n.] horse {Latin 'equus'}
 -> ekusu  : [n.] foal
 az     : [n.] donkey {Breton 'azen'}
 -> azäs : [adj.] asinine
--> azu  : [n.] foal (donkey)
+-> azu  : [n.] donkey foal
 gupil  : [n.] fox {Old/Middle French 'goupil'}
 -> gupiläs : [adj.] vulpine
 -> gupilu : [n.] fox cub
@@ -94,7 +94,7 @@ lapin  : [n.] rabbit {French}
 -> lapu    : [n.] kitten (rabbit)
 mus    : [n.] mouse {English 'mouse', French 'souris'}
 -> mus  : [n.] computer mouse
--> musu : [n.] pup (mouse)
+-> musu : [n.] mouse pup
 -> musäs : [adj.] musine
 leo    : [n.] lion {Latin}
 -> leonäs : [adj.] leonine
@@ -104,6 +104,10 @@ pantär : [n.] panther {French 'panthère', Serbian 'пантери'}
 urs    : [n.] bear {Latin 'ursus'}
 -> ursäs : [adj.] ursine
 -> ursu  : [n.] bear cub
+blär   : [n.] badger {French 'blaireau'}
+-> bläräs : [adj.] meline
+-> bläru : [n.] badger cub
+-> stamblär : [n.] pangolin
 
 mostik : [n.] mosquito {French 'moustique', English 'mosquito'}
 
@@ -603,6 +607,7 @@ posion  : [n.] potion {French, English 'potion'}
 === historical ===
 armur : [n.] armor {French 'armure' via English}
 klad  : [n.] sword {Proto-Celtic '*kladiwos' via French 'glaive'}
+stam  : [n.] shield
 totäm : [n.] totem {French 'totème', English 'totem'}
 -> totämäs : [adj.] totemic
 räi   : [n.] king {Portugese 'rei'}
