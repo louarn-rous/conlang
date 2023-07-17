@@ -518,12 +518,16 @@ kültür  : [n.] culture {German 'Kultur', French 'culture'}
 -> kültüräs : [adj.] cultural
 värsion : [n.] version {French, English 'version'}
 sistäm  : [n.] system {French 'système', English 'system'}
+-> sistämäs : [adj.] systemic
 ide     : [n.] idea {French 'idée'}
 
 niväl   : [n.] level {English 'level', French 'niveau'}
+strat   : [n.] layer {Latin 'stratum' via English}
+-> stratein : [n.] layeredness
 läš     : [n.] way, path, method
 toš     : [n.] thing {French 'chose'}
 sünog   : [n.] edge, boundary, border
+-> sünogein : [n.] state of being on the edge, of being borderline; hesitancy
 vine    : [n.] domain, realm {Croatian 'domovina'}
 
 liäs    : [n.] link {? French 'lier'}
@@ -531,7 +535,13 @@ liäs    : [n.] link {? French 'lier'}
 ----> iliäsina : [n.] connection
 ----> deililiäs : [n.] disconnect
 -------> deiliäsina : [n.] disconnection
+-> liäsan : [adj.] linked ##
+----> liäsanein : [n.] relation, togetherness, 
 
+pär : [n.] part, piece, share, component {Latin 'partem' via English & French 'part'}
+-> apär : [v.] divide, seperate
+----> apärein : [n.] apartness, seperation, division; polarization
+----> apäran : [adj.] apart ##
 
 nam :
 -- [n.] name
@@ -638,6 +648,7 @@ lozanž : {French 'losange'}
 -- [n.] pill or tablet, esp. one shaped like a rhombus
 guip : [n.] drop {French 'goutte', English 'drop'}
 rad  : [n.] ray {Latin 'radius' via English 'radio'}
+-> erad : [v.] irradiate
 
 === house ===
 kav   : [n.] basement {French 'cave'}
@@ -1206,9 +1217,12 @@ klar : [adj.] clear; transparent; evident {Latin 'clarus' from English 'clarity'
 bir : [adj.] near, close
 -> abir : [v.] to bring closer; to approach
 -> biräs : [adj.] proximal
+-> birein : [n.] proximity
+
 sal : [adj.] far, distant
 -> asal : [v.] to drive away, seclude
 -> saläs : [adj.] distal
+-> salein : [n.] remoteness
 
 ukin : [adj.] cute
 -> ukinein : [n.] cuteness
@@ -1217,11 +1231,13 @@ vat : [adj.] good {Breton}
 -> vater : [adj.] better
 ----> avater : [v.] improve
 -> vatest : [adj.] best
+-> vatein : [n.] goodness, good
 
 liber : [adj.] free {Latin}
 -> liberein : [n.] freedom
--> aliber : [v.] free
+-> aliber : [v.] free, liberate
 ----> aliberör : [n.] liberator
+----> aliberein : [n.] liberation
 
 ort : [adj.] straight, upright {Anc. Greek 'ὀρθός' via English 'Orthodentist'}
 
@@ -1244,16 +1260,19 @@ san : [adj.] healthy, sound {Latin 'sanus' via English 'sanitary'}
 ----> asanina : [n.] treatment, remedy
 -------> asaninäs : [adj.] therapeutic
 
-stese : [adj.] sacred, blessed @@
--> stesäs
+stese : [adj.] sacred, blessed {Russian 'святой'}
+-> stesein : [n.] sanctity
 
 ru : [adj.] raw, crude
 
 uär : [adj.] wild
-
+-> uär : [n.] uärein
 prane : [adj.] weird, odd, strange
+-> epran : [v.] alienate, estrange
+-> pranesein : [n.] weirdness
 kozäv : [adj.] typical, normal
 -> akozäv : [v.] normalise
+-> kozävein : [n.] normalcy
 
 främt : [adj.] foreign {German 'fremd'}
 
@@ -1268,6 +1287,7 @@ fis : [adj.] definite, stable, certain {French 'fixe'}
 -> fisein : [n.] stability
 
 motše : [adj.] nice, pleasant {'moce'}
+
 jats : [adj.] great, grand, mighty {Korean '에야차'}
 -> ajats : [v.] make great, improve, elevate
 -> ijats @@@
@@ -1277,6 +1297,7 @@ ful : [adj.] full
 
 vid : [adj.] empty {French 'vide'}
 -> avid : [v.] empty
+-> videin : [n.] emptiness
 -- [n.] void, emptiness ##
 
 frid : [adj.] cold
@@ -1301,6 +1322,7 @@ nüdit : [adj.] naked, nude
 hoäl : [adj.] lame, limp; boring
 -> hoälein : [n.] boredom
 müsot : [adj.] silly
+-> müsot : [n.] silliness
 
 === vulgar ===
 bata   : [n.] imbecile, bastard
@@ -1315,5 +1337,5 @@ sübas : [n.] wing [archaic] {Japanese '翼'}
 zdal  : [n.] slab [archaic] {French 'dalle'}
 hart  : [n.] core, centre [archaic] {Afrikaans}
 gan   : [v.] can, able to [archaic] {? English 'can'}
-busk    : [n.] bush {English 'bush', ? German 'Busch', ? Finnish 'puska'}
+busk  : [n.] bush {English 'bush', ? German 'Busch', ? Finnish 'puska'}
 
