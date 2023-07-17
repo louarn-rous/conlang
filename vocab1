@@ -208,7 +208,7 @@ föl : {French 'feuille'}
 -- [n.] feather
 -- [n.] leaflet, strip of paper
 buis    : [n.] bush {Dutch, Afrikaans}
-vit     : [n.] vine
+vit     : [n.] vine {Latin 'vitis'}
 härb    : [n.] grass, herb {French 'herbe', English 'herb'}
 -> härbäs : [adj.] herbal
 bambu   : [m.] bamboo {French 'bambou'}
@@ -253,10 +253,9 @@ lün    : [n.] moon {Latin 'luna'}
 -> lünäs : [adj.] lunar
 planät : [n.] planet {French 'planète'}
 -> planätäs : [adj.] planetary
-sol {Latin 'sol' via French 'solaire'}
--- [n.] sun
-----> soläs : [adj.] solar
--- [v.] [trans] to expose to sunlight
+sol : [n.] sun {Latin 'sol' via French 'solaire'}
+-> soläs : [adj.] solar
+-> asol : [v.] [trans] to expose to sunlight
 
 === marine ===
 mar      : [n.] sea {Breton 'mor', French 'mer'}
@@ -289,15 +288,15 @@ piät     : [m.] stone, rock {Italian 'pietra', Latin 'petram'}
 tärakota : [m.] terracotta {Italian 'terracotta'}
 magma    : [m. unc.] magma {Anc. Greek 'μάγμα' via French, English}
 
-lant : {German 'Land'}
--- [n.] land
--- [v.] [intrans] make contact/arrive at land surface from air or sea
+lant : [n.] land {German 'Land'}
+-> alant : [v.] [intrans] make contact/arrive at land surface from air or sea
 ter : {French 'terre'}
 -- [n.] earth, ground, dirt
 ----> ater : [v.] (of aircraft) to land @
 -- [v.] (of electrical equipment) connect to the ground
 -- [v.] (of aircraft) prevent from flying
 feld    : [n.] field {German 'Feld'}
+-> risfeld : [n.] rice field
 
 kristal : {French 'cristal'}
 -- [n.] crystal
@@ -311,6 +310,7 @@ kav      : [n.] cave {French 'cave'}
 ravin    : [n.] ravine
 kratär   : [n.] crater {French 'cratère'}
 lits     : [n.] shore {Latin 'litus' via French 'littoral'}
+-> alits : [adj.] ashore
 faas     : [n.] cliff
 mont :
 -- [n.] mountain
@@ -331,6 +331,7 @@ tünäl : {French 'tunnel'}
 === körp · body ===
 pil    : [n.] hair {Latin 'pilus' via French 'épiler'}
 -> piläs : [adj.] pilar, crinal
+-> depil  : [v.] epilate
 öl     : [n.] eye {French 'œil'}
 -> öläs : [adj.] ocular
 nas    : [n.] nose {Latin 'nasus' via English, French 'nasal'}
