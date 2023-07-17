@@ -12,8 +12,6 @@ až
 
 bild : v. build
 
-bonüs : [m.] bonus
-
 brik
 -- n. brick, ingot, brick-shaped item
 -- v. [computing] (of a dev) to become non-functional
@@ -54,10 +52,6 @@ furn
 -- n. oven, furnace
 -- v. to bake
 
-glas
--- n. ice
--- v. freeze
-
 invers :
 -- n. inverse
 -- v. inverse
@@ -66,8 +60,6 @@ invers :
 jun 
 -- v. jump
 -- n. jump
-
-
 
 kaž
 -- n. cage
@@ -92,7 +84,6 @@ küb
 
 lemur : n. ghost, spirit of the dead;n. lemur (lemur catta) ###
 
-leng : n. language ?
 lek : n. lick ??
 
 lüd : v. play
