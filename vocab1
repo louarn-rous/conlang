@@ -535,6 +535,7 @@ bot   : [n.] boot {French 'botte'}
 šömit : [n.] shirt {French 'chemise'}
 käp   : [n.] cape {English 'cape'}
 džin  : [m.] jean {English 'jeans' via German 'Jeans'}
+poka  : [n.] pocket, pouch {Frankish}
 
 === concepts ===
 kültür  : [n.] culture {German 'Kultur', French 'culture'}
@@ -997,9 +998,7 @@ don : [v.] give, deal {French 'donner'}
 
 met : [v.] send {Latin 'mitto'}
 
-ged ##
--- v. get, gain, obtain
--- v. take, steal
+prom : [v.] get, gain, obtain; take, steal
 
 tüš : [v.] [intrans.] touch, reach, attain
 
