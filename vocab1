@@ -2,6 +2,7 @@
 nümer : [n.] number; number of, count {French 'numéro'}
 -> anümer [v.] [trans] to assign a number to
 -> nümeräs : [adj.] numerical
+----> nümeräsät : [adv.] numerically
 nöl : {German 'Null', English 'null', French 'annuler'}
 -- [num.] 0 (zero)
 -- [adj.] none, null, nought
@@ -10,17 +11,23 @@ nöl : {German 'Null', English 'null', French 'annuler'}
 -> ünit : [v.] unite, unify
 ----> ünitein : [v.] unity 
 -> üne : [ord. num.] first
+----> ünät : [adv.] firstly
 -> tün : [adj.] whole, complete, entire
 ----> tünein : [n.] wholeness
 ----> atün : [v.] complete, to make whole
+----> tünät : [adv.] wholly
 -> ünäs : [adj.] primary
+----> ünäsät : [adv.] primarily
 -> ünein : [n.] oneness
 to  : [num.] 2 (two)
 -> toe : [ord. num.] second
+----> toäs : [adv.] secondly
 -> toäs : [adj.] secondary
+----> toäsät : [adv.] secondarily
 -> tosein : [n.] duality
 tri : [num.] 3 (three) {Russian 'три', French 'trois'}
 -> trie : [ord. num.] third
+----> triät : [adv.] thirdly
 -> triäs : [adj.] tertiary
 kuat : [num.] 4 (four) {French 'quatre', Italian 'quattro'}
 -> kuate : [ord. num.] fourth
@@ -222,6 +229,7 @@ kaktüs  : [n.] cactus {French 'cactus'}
 flor : {Italian 'fiore', French 'fleur'}
 -- [n.] flower
 ----> floräs : [adj.] floral
+-------> floräsät : [adv.] florally
 -- [v.] [intrans] bloom, blossom, flower
 tülip   : [n.] tulip {French 'tulipe', English 'tulip'}
 solflor : [n.] sunflower {'sol' + 'flor'}
@@ -230,6 +238,7 @@ solflor : [n.] sunflower {'sol' + 'flor'}
 === natural phenomena ===
 velt    : [n.] world {German 'Welt'}
 -> veltäs : [adj.] wordly; actual, material
+----> veltäsät : [adv.] actually; materially
 tšäl : {Italian 'cielo'}
 -- [n.] sky
 -- [n.] ceiling ##
@@ -255,6 +264,7 @@ räviir  : [n.] river {French 'rivière', Afrikaans 'rivier'}
 === space ===
 astär  : [n.] star
 -> astäräs : [adj.] astral
+----> astäräsät : [adv.] astrally
 lün    : [n.] moon {Latin 'luna'}
 -> lünäs : [adj.] lunar
 planät : [n.] planet {French 'planète'}
@@ -306,9 +316,8 @@ ter : {French 'terre'}
 feld    : [n.] field {German 'Feld'}
 -> risfeld : [n.] rice field
 
-kristal : {French 'cristal'}
--- [n.] crystal
--- v. crystallize
+kristal : [n.] crystal {French 'cristal'}
+-> akristal : [v.] crystallize
 
 säl : [n.] salt {French}
 -> säläs : [adj.] saline
@@ -344,21 +353,27 @@ pil    : [n.] hair {Latin 'pilus' via French 'épiler'}
 -> öläs : [adj.] ocular
 nas    : [n.] nose {Latin 'nasus' via English, French 'nasal'}
 -> nasäs : [adj.] nasal
+----> nasäsät : [adv.] nasally
 ur     : [n.] ear {Latin 'auris' via 'ausculto' via Italian 'ascoltare'}
 -> uräs : [adj.] aural
 ----> urod : [v.] hear
 -------> urodäs : [adj.] auditory
 -------> urodfär : [adj.] audible
+----------> urodfärät : [adv.] audibly
+----> uräsät : [adv.] aurally
 mož    : [n.] mouth
 -> možäs : [adj.] oral
+----> možäsät : [adv.] orally
 stom   : [n.] [archaic] mouth {Anc. Greek 'στόμα'}
 -> stomak : [n.] stomach {Anc. Greek 'στόμαχος'}
 dänt   : [n.] tooth {Latin 'dens' via French 'dentiste'/'dentaire', English 'dentist'/'dental'}
 -> däntäs : [adj.] dental
+----> däntäsät : [adv.] dentally
 leng   : [n.] tongue {French 'langue'}
 -> lengäs : [adj.] lingual
 -> lengina : [n.] language
 ----> lenginäs : [adj.] linguistic
+-------> lenginäsät : [adv.] linguistically
 ost    : [n.] bone {Anc. Greek 'ὀστέον' via French 'ostéo-'}
 -> ostäs : [adj.] osteal
 skelät : [n.] skeleton {Anc. Greek 'σκελετός' via French 'squelette' & English 'skeleton'}
@@ -372,29 +387,35 @@ hart : [n.] heart {Afrikaans}
 blüt : {German 'Blut'}
 -- [n.] blood
 ----> blütäs : [adj.] sanguine
+-------> blütäsät : [adv.] sanguinely
 -- [v.] bleed
 ----> ablüt : [v.] to make bleed
 kap : {Latin 'caput' via English 'captain' & French 'décapiter'}
 -- [n.] head
 ----> kapäs : [adj.] cranial
+-------> kapäs : [adv.] cranially
 -- [v.] lead, direct
 ----> kapör : [n.] leader, director
 ----> kapiten : [n.] capitain
 läp : {English 'lip', Latin 'labrum' via French 'lèvre'}
 -- [n.] lip
 ----> läpäs : [adj.] labial
+-------> läpäsät : [adv.] labially
 -- [v.] [informal] to kiss
 man : {Latin 'manus' via French 'main' & English 'manual'}
 -- [n.] hand
 ----> manäs : [adj.] of or relating to the hand; manual
+-------> manäsät : [adv.] manually
 -- [v.] [trans] handle, control, manage
 räš :
 -- [n.] flesh, meat
 ----> räšäs : [adj.] carnal
+-------> räšäsät
 -- [v.] [trans] shape, give form to
 seräb : {Latin 'cerebrum' via English 'cerebellum' & French 'cervelle'}
 -- [n.] brain
 ----> seräbäs : [adj.] cerebral
+-------> seräbäsät : [adv.] cerebrally
 -- [v.] [informal] to think of/find a solution to a problem
 süt : {French 'suant'}
 -- [v.] sweat
@@ -415,6 +436,7 @@ zbas : [n.] wing {Japanese '翼'}
 fung : [n.] mushroom {Italian 'funghi'}
 -> [n.] [colloq.] penis
 -> fungäs : [adj.] fungal
+----> fungäsät : [adv.] fungally
 tust : [n.] tail
 
 === technology ===
@@ -470,8 +492,9 @@ flis : {Frisian 'fluitsje', French 'siffle(t)'}
 ----> flisör : [n.] whistle (device)
 
 === music ===
-müzik    : [n.] music {German 'Musik'}
+müzik    : [n.] music {German 'Musik', French 'musique'}
 -> müzikäs : [adj] musical
+----> müzikäsät : [adv.] musically
 saksofon : [n.] saxophone {French 'saxophone' also via English}
 piano    : [n.] piano {Italian}
 not : note
@@ -479,20 +502,25 @@ not : note
 === society, politics, government ===
 nasion   : [n.] nation; body of people
 -> nasionäs : [adj.] national
+----> nasionäsät : [adv.] nationally
 stat     : [n.] state, government {German 'Staat'}
 partit   : [n.] (political) party {French 'parti'}
 politik : [n.] politics; set of (political) beliefs, ideology {German 'Politik'}
 -> politikäs : [adj.] political
+----> politikäsät : [adv.] politically
 popul : [n.] the people (collective) {Latin 'populus'}
 -> populäs : [adj.] popular
+----> populäsät : [adv.] popularly
 publik : [n.] crowd, people (collective) {Latin 'publicus' via French & English 'public'}
 -> publik : [adj.] public; concerning the public
+----> publikät : [adv.] publicly
 repüblik : [n.] republic {French 'république', also via German 'Republik'}
 -> repüblikäs : [adj.] republican
 partizan : [n.] partisan {Italian 'partigiane', French, English 'partisan'}
 ministrina : [n.] ministry
 ~> administrina : [n.] adiministration
 ----> administrinäs : [adj.] administrative
+-------> administrinäsät : [adv.] administratively
 
 arme     : [n.] army {French 'armée', also via German 'Armee'}
 soldat   : [n.] soldier {French 'soldat', German 'Soldat'}
@@ -522,10 +550,12 @@ katädral : [n.] cathedral {French 'catédrale'}
 dom      : [n.] house, home {Russian 'дома'}
 -> domäs : [adj.] domestic
 ----> adomäs : [v.] domesticate
+----> domäsät : [adv.] domestically
 haim     : [n.] home {German 'Heim'}
 skol     : [n.] school {English 'school', French 'école'. accidental cognate with Breton}
 -> skolör : [n.] student
 -> skoläs : [adj.] scholar
+----> skoläsät : [adv.] scholarly
 drom     : [n.] port {Russian 'космодром'}
 
 === clothes ===
@@ -540,9 +570,11 @@ poka  : [n.] pocket, pouch {Frankish}
 === concepts ===
 kültür  : [n.] culture {German 'Kultur', French 'culture'}
 -> kültüräs : [adj.] cultural
+----> kültüräsät : [adv.] culturally
 värsion : [n.] version {French, English 'version'}
 sistäm  : [n.] system {French 'système', English 'system'}
 -> sistämäs : [adj.] systemic
+----> sistämäsät : [adv.] systemically
 ide     : [n.] idea {French 'idée'}
 
 niväl   : [n.] level {English 'level', French 'niveau'}
@@ -572,31 +604,38 @@ pär : [n.] part, piece, share, component {Latin 'partem' via English & French '
 
 nam : [n.] name 
 -> namäs : [adj.] nominal
+----> namäsät : [adv.] nominally
 -> anam : [v.] to give/assign a name to
 frän :
 -- [n.] mind
 ----> fränäs : [adj.] mental
+-------> fränäsät : [adv.] mentally
 -- [v.] be aware/conscious of ###
 
 prod : {Latin 'prode' via cogn. with English 'proud'}
 -- [n.] pride ?
 -- [adj.] proud
+----> prodät : [adv.] proudly
 heer :
 -- [n.] hatred ?
 -- [v.] hate
 enor : {Breton}
 -- [v.] honor
 ----> enorfär : [adj.] honorable
+-------> enorfärät : [adv.] honorably
 -- [n.] honor
 
 rät : [n.] right {Swedish 'rättvisa'}
 -> rätäs : [adj.] just
 ----> rätäsein : [n.] justice
--------> rätäseinäs : [adj.] judiciary
+-------> rätäseinäs : [adj.] judiciary; judicial
 -------> rätäseinör : [n.] judge, jurist
 ----> arätäs : [v.] adjust, rectify; justify
 ----> nerätäs : [adj.] unjust
 -------> nerätäsein : [n.] injustice
+-------> nerätäsät : [adv.] unjustly
+----> rätäsät : [adv.] justly
+
 leg : [n.] law {Latin 'lex'}
 -> legäs : [adj.] legal
 ----> nelegäs : [adj.] illegal
@@ -1131,7 +1170,7 @@ sträd : [v.] struggle {Frisian 'striid', Swedish 'strida'}
 limit : {French 'limite', English}
 -- [v.] [trans] limit
 ----> limitör : [n.] device that limits
-----> limitan : [adj.] limited
+----> limitan : [adj.] limited ##
 -- [n.] limit
 
 list : {French 'liste', English}
@@ -1206,7 +1245,9 @@ vis : [v.] see, perceive, view, look, observe
 -> navisfär : [adj.] visible
 ----> neavisfär : [adj.] invisible
 -------> neavisfärein : [n.] invisibility
+-------> neavisfärät : [adv.] invisibly
 ----> navisfärein : [n.] visibility
+----> navisät : [adv.] visibly
 spir : [v.] breathe
 -> spirina : [n.] breath
 vitš : [v.] win {Italian 'vincere'}
@@ -1230,18 +1271,22 @@ regül : [v.] regulate
 -> regülör : [n.] one that regulates
 
 === adjectives ===
-sur : [adj.] big {Estonian 'suur'}
+sur : [adj.] big, large {Estonian 'suur'}
 -> asur : [v.] [usu. trans] to increase, embiggen, grow
+-> surät : [adv.] largely
 tis : [adj.] small {Breton}
 -> atis : [v.] to reduce, shrink
 lon : [adj.] long {French 'long'}
 -> alon : [v.] lengthen
 šüt : [adj.] brief, short
 -> ašüt : [v.] shorten
-när : [adj.] wide
+-> šütät : [adv.] briefly, shortly
+när : [adj.] wide, broad
 -> anär : [v.] widen, broaden
+-> närät : [adv.] widely, broadly
 sten : [adj.] narrow {Anc. Greek 'στενός'}
 -> asten : [v.] constrict
+-> stenät : [adv.] narrowly
 goš : [adj.] tall
 -> agoš : [v.] to grow (vertically)
 ruš : [adj.] short
@@ -1252,22 +1297,27 @@ pän : [adj.] thin
 -> apän : [v.] thin
 bur : [adj.] heavy
 -> abur : [v.] to make heavy
+-> burät : [adv.] heavily
 müž : [adj.] light
 -> amüž : [v.] to lighten
+-> müžät : [adv.] lightly
 nov : [adj.] new {Portugese 'novo'}
 -> novein : [n.] novelty
 -> novänt : [n.] news {'nov' + 'vänt'} {+ Breton 'neventi'}
+-> novät : [adv.] newly
 jong : [adj.] young {German 'jung', Dutch}
 -> jongein : [n.] youth
 ou : [adj.] old {Afrikaans}
 lis : [adj.] smooth {French 'lisse'}
 -> alis : [v.] smooth
+-> lisät : [adv.] smoothly
 plat : [adj.] flat {French 'aplatir'}
 -> aplat : [v.] flatten
 dar : [adj.] hard {French 'dur', English 'hard'}
 -> adar : [v.] harden
 mals : [adj.] soft, tender {Dutch}
 -> amals : [v.] soften; tenderize
+-> malsät : [adv.] softly
 gul : [adj.] wet
 -> agul : [v.] wet
 sek : [adj.] dry {French 'sec'}
@@ -1281,19 +1331,23 @@ kras : {French 'crasse'}
 klar : [adj.] clear; transparent; evident {Latin 'clarus' from English 'clarity', French 'clair'}
 -> aklar : [v.] to clear; to make clear, clarify
 -> klarein : [n.] clarity
+-> klarät : [adv.] clearly
 
 bir : [adj.] near, close
 -> abir : [v.] to bring closer; to approach
 -> biräs : [adj.] proximal
 -> birein : [n.] proximity
+-> birät : [adv.] closely; nearly, almost
 
 sal : [adj.] far, distant
 -> asal : [v.] to drive away, seclude
 -> saläs : [adj.] distal
 -> salein : [n.] remoteness
+-> salät : [adv.] distantly
 
 ukin : [adj.] cute
 -> ukinein : [n.] cuteness
+-> ukinät : [adv.] cutely
 
 vat : [adj.] good {Breton}
 -> vater : [adj.] better
@@ -1306,6 +1360,7 @@ liber : [adj.] free {Latin}
 -> aliber : [v.] free, liberate
 ----> aliberör : [n.] liberator
 ----> aliberein : [n.] liberation
+-> liberät : [adv.] freely
 
 ort : [adj.] straight, upright {Anc. Greek 'ὀρθός' via English 'Orthodentist'}
 
@@ -1328,38 +1383,47 @@ san : [adj.] healthy, sound {Latin 'sanus' via English 'sanitary'}
 -> asan : [v.] cure, treat
 ----> asanina : [n.] treatment, remedy
 -------> asaninäs : [adj.] therapeutic
+-> sanät : [adv.] healthily
 
 stese : [adj.] sacred, blessed {Russian 'святой'}
 -> stesein : [n.] sanctity
 
-ru : [adj.] raw, crude
+ru : [adj.] raw, crude; bare
 
 sekur : [adj.] without care, secure {Latin 'securus'}
 -> sekurein : [n.] certainty, security, safety
 -> asekur : [v.] secure
+-> sekurät : [adv.] securely
 
 uär : [adj.] wild
 -> uärein : [n.] wildness
+-> uärät : [adv.] wildly
 prane : [adj.] weird, odd, strange
 -> epran : [v.] alienate, estrange
 -> pranesein : [n.] weirdness
+-> pranät : [adv.] weirdly, oddly, strangely
 kozäv : [adj.] typical, normal
 -> akozäv : [v.] normalise
 -> kozävein : [n.] normalcy
+-> kozävät : [adv.] normally
 
 främt : [adj.] foreign {German 'fremd'}
 
 fräl : [adj.] weak, fragile {French 'frêle'}
--> afrel : [v.] weaken
+-> afräl : [v.] weaken
 -> frälein : [n.] weakness
+-> frälät : [adv.] weakly
 här : [adj.] strong
 -> ahär : [v.] strengthen
+-> härät : [adv.] strongly
 
 fis : [adj.] definite, stable, certain {French 'fixe'}
 -> afis : [v.] to stabilize, confirm
 -> fisein : [n.] stability
+-> fisät : [adv.] certainly, definitely
 
 motše : [adj.] nice, pleasant {'moce'}
+-> motšät : [adv.] nicely, pleasantly
 
 jats : [adj.] great, grand, mighty {Korean '에야차'}
 -> ajats : [v.] make great, improve, elevate
@@ -1367,6 +1431,7 @@ jats : [adj.] great, grand, mighty {Korean '에야차'}
 
 ful : [adj.] full
 -> aful : [v.] fill
+-> fulät : [adv.] fully
 
 vid : [adj.] empty {French 'vide'}
 -> avid : [v.] empty
