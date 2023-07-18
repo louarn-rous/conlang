@@ -629,6 +629,7 @@ rät : [n.] right {Swedish 'rättvisa'}
 -> rätäs : [adj.] just
 ----> rätäsein : [n.] justice
 -------> rätäseinäs : [adj.] judiciary; judicial
+----------> rätäseinäsät : [adv.] judicially
 -------> rätäseinör : [n.] judge, jurist
 ----> arätäs : [v.] adjust, rectify; justify
 ----> nerätäs : [adj.] unjust
@@ -639,13 +640,17 @@ rät : [n.] right {Swedish 'rättvisa'}
 leg : [n.] law {Latin 'lex'}
 -> legäs : [adj.] legal
 ----> nelegäs : [adj.] illegal
+-------> nelegäsät : [adv.] illegally
+----> legäsät : [adv.] legally
 
 komik : [n.] comedy {French 'comique'}
 -> komikäs : [adj.] comical
+----> komikäsät : [adv.] comically
 -> komikör : [n.] comedian
 
 kärn : [n.] core, centre
 -> kärnäs : [adj.] central
+----> kärnäsät : [adv.] centrally
 
 son : [n.] {Latin 'sono' + via French 'son'}
 -> sonäs : [adj.] sonic
@@ -653,10 +658,12 @@ son : [n.] {Latin 'sono' + via French 'son'}
 === fantasy ===
 maži    : [n.] magic {French 'magie'}
 -> mažiäs : [adj.] magical
+----> mažiäsät : [adv.] magically
 goläm   : [n.] golem {English 'golem'}
 zambi   : [n.] zombie {Bantu via English 'zombie'}
 dragon  : [n.] dragon {English, French}
 -> dragonäs : [adj.] draconic
+----> dragonäsät : [adv.] draconically
 posion  : [n.] potion {French, English 'potion'}
 
 === historical ===
@@ -667,6 +674,7 @@ totäm : [n.] totem {French 'totème', English 'totem'}
 -> totämäs : [adj.] totemic
 räi   : [n.] king {Portugese 'rei'}
 -> räiäs : [adj.] royal
+----> räiäsät : [adv.] royally
 -> räin : [n.] queen {+ French 'reine'}
 koron : {Latin 'corona' via Italian 'corona' & French 'couronne'}
 -- [n.] crown
@@ -737,6 +745,7 @@ tapir : {French 'tapis'}
 mis : {? French 'nid'}
 -- [n.] home, nest
 ----> sommis : [n.] bed {'som' + 'mis'}
+----> misät : [adj.] homely
 -- [v.] host
 ----> misör : [n.] host
 štog :
@@ -761,11 +770,13 @@ ešäk : [n. unc.] chess {French 'échecs', English 'chess'}
 === time - tän ===
 nat   : [n.] day
 -> natäs : [adj.] diurnal, daily
+----> natäsät : [adv.] diurnally
 -> minnat : [n.] midday
 -> sätänat : [n.] week
 ----> sätänatäs : [n.] weekly
 nošt  : [n.] night {Russian 'ночь', German 'Nacht'}
 -> noštäs : [adj.] nocturnal, nightly
+----> noštäsät : [adv.] nocturnally
 -> minnošt : [n.] midnight
 damer : [n.] dusk {German 'Dämmerlicht'}
 säkond : [n.] second {French 'seconde', English 'second'}
@@ -777,12 +788,14 @@ mäns  : [n.] month {Latin 'mensis' via French 'mensuel'}
 -> mänsäs : [adj.] mensual, monthly
 anu : [n.] year {French 'an'}
 -> anuäs : [adj.] annual
+----> anuäsät : [adv.] annually
 -> desanu : [n.] decade
 -> sänanu : [n.] century
 -> milanu : [n.] millenium
 tän :
 -- [n.] time
 ----> tänäs : [adj.] temporal
+-------> tänäsät : [adv.] temporally
 ----> ultän : [n.] past {'ul' + 'tän'}
 ----> ortän : [n.] future {'or' + 'tän'}
 ----> itän  : [n.] present {'i' + 'tän'}
@@ -791,33 +804,50 @@ tän :
 
 === people ===
 matä  : [n.] mother {Latin 'mater'}
--> matääs : [v.] maternal
+-> matääs : [adj.] maternal
+----> matääsät : [adv.] maternally
+-> matäät : [adj.] motherly
 paträ : [n.] father {Latin 'pater'}
--> paträäs : [v.] paternal
+-> paträäs : [adj.] paternal
+----> paträäsät : [adv.] paternally
+-> paträät : [adj.] fatherly
 fratä : [n.] brother {Latin 'frater'}
--> fratääs : [v.] fraternal, brotherly
+-> fratääs : [adj.] fraternal
+----> fratääsät : [adv.] fraternally
+-> fratäät : [adj.] brotherly
 sorä  : [n.] sister {Latin 'soror'}
--> sorääs : [v.] sisterly
+-> sorääs : [adj.] sororal
+----> sorääs : [adv.] sororally
+-> soräät : [adj.] sisterly
 fal   : [n.] girl {Latin 'filia'}
--> falä : daughter
+-> falä : [n.] daughter
+-> falät : [adj.] girly
+----> falätät : [adv.] girlishly
 poj   : [n.] boy {Swedish 'pojke', Finnish 'poika'}
--> pojä : son
+-> pojä : [n.] son
+-> pojät : [adj.] boyish
+----> pojätät : [adv.] boyishly
 
 fränd : [n.] friend {English 'friend', German 'Freund'}
 -> frändein : [n.] friendship
+-> frändät : [adj.] friendly
+----> frändätät : [adv.] friendlily
 
 klun : [n.] clown {French 'clown'}
 -> klunpäsk : [n.] clownfish {'klun' + 'pesk'}
 sint : [n.] Saint {Dutch}
+-> sintät : [adj.] saintly
 kamarad : [n.] comrade, mate; fellow student, classmate {French 'camarade', German 'Kamerad'}
 
 === misc. ===
 dös     : [n.] god, deity {Portugese 'Deus'}
 -> dösäs : [adj.] divine
+----> dösäsät : [adv.] divinely
 kompost : [n.] compost {English, French 'compost'}
 post    : [n.] mail {English, French 'poste'}
 -> posttröbör : [n.] postman {'post' + 'tröbör'}
 -> postäs : [adj.] postal
+----> postäsät : [adv.] postally
 päst : {French 'peste', English 'pester'}
 -- [n.] plague
 -- [v.] spread plague amongst
@@ -830,19 +860,23 @@ banier : [n.] banner {French 'banière'}
 orde : [n.] order, arrangement, series {Latin 'ordo'}
 sienza : [n.] science {Italian 'scienza', French & English 'science'}
 -> sienzäs : [adj.] scientific
+----> sienzäsät : [adv.] scientifically
 genetika : [n.] genetics {Russian & Serbian 'генетика'}
 -> genetikäs : [adj.] genetic
+----> genetikäsät : [adv.] genetically
 
 korb : [n.] basket
 
 === jargon ===
 alfabät : [n.] alphabet {Anc. Greek 'ἀλφάβητος' via English & French 'alphabet'}
 -> alfabätäs : [adj.] alphabetical
+----> alfabätäsät : [adv.] alphabetically
 kanton  : [n.] [f:vexillology] canton {English 'canton'}
 atom     : [n.] atom
 -> atomäs : [adj.] atomic
 elektron : [n.] electron
 -> elektronäs : [adj.] electronic
+----> elektronäsät : [adv.] electronically
 foton    : [n.] photon
 -> fotonäs : [adj.] photonic
 proton   : [n.] proton
@@ -974,6 +1008,7 @@ fäns : [v.] strike, thrust, hit {Latin 'fendo' + via 'defensa'}
 -> defäns : [v.] defend, guard, protect
 ----> defänsin : [n.] defence
 ----> defänsäs : [adj.] defensive
+-------> defänsäsät : [adv.] defensively
 
 ausk : [v.] [dated] listen, hear; heed, accept, obey {archaic 'aur' + archaic 'klen'}
 -> ausk : [v.] overheard; eavesdrop
