@@ -108,6 +108,8 @@ alte :
 -- [n.] other
 -- [adj.] other
 
+aru : [adv.] yet, still; thus far
+
 mäs : [adj.] constant, unmoving, permanent
 -> mäst : [adv.] ever; always
 ----> nemäst : [adv.] never
@@ -162,13 +164,14 @@ sü : [ptcl.] existential, indicates 'there is/exists' concerning the object of 
 -nuz : [suf.] abessive {from 'nuz'} ('-less')
 -a : [suf.] used to mark a place
 
--an : [suf.] used to form adjectives from verbs, meaning having undergone the suffixed verb (passive) ##
+-an : [suf.] used to form adjectives from verbs, meaning having undergone the suffixed verb (passive) ###
 
 -ät :
+-- [suf.] used to form adverbs from verbs and nouns
+-- [suf.] used to form adjectives from nouns, meaning resembling the suffixed word (esp. in behaviour)
 -- [suf.] used to form adjectives from verbs, meaning 'inclined to' ###
--- [suf.] used to form adjectives from nouns, meaning resembling or behaving in a manner similar to the suffixed word
 
-a- : [prf.]
+a- : [prf.]yx
 -- used to form verbs from adjectives, indicating the gain of the adjectivial property
 -- used to form verbs from verbs, indicating the action of making an object do an action
 -- used to form verbs from nouns, meaning to make into or create the prefixed noun
