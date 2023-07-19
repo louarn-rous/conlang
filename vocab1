@@ -170,7 +170,9 @@ frut : {French, English 'fruit'}
 banan : [n.] banana {French 'banane'}
 sukar : {Arabic 'سكر' via French 'sucre' & English 'sugar'}
 -- [n.] sugar
+----> sukaräs : [adj.] saccharine
 -- [adj.] sweet
+----> sukarät : [adv.] sweetly
 ----> asukar [v.] sweeten {'-a' + 'sukar'}
 kräm : {French 'crème'}
 -- [n.] cream
@@ -183,11 +185,8 @@ käbab : {Arabic 'كباب' via English 'kebab' & French 'kébab'}
 -- [n.] juice
 -- [v.] to make into juice
 -----> žusör : [n.] machine that makes juice
-frit : {French 'frite'}
--- [n.] fry
--- [v.] fry
--- [adj.] fried @
-----> afrit : [v.] to make fried? @
+frit : [n.] [v.] fry {French 'frite'}
+-> afrit : [v.] to make fried? @
 sup       : [n.] soup, stew {French 'soupe'}
 šokola    : [m.] chocolate {French 'chocolat', Russian 'шоколад'}
 tart      : [n.] tart {French 'tarte'}
@@ -243,6 +242,7 @@ tšäl : {Italian 'cielo'}
 -- [n.] sky
 -- [n.] ceiling ##
 vänt    : [n.] wind {Latin 'ventus'}
+-> väntäs : [adj.] aeolian
 briz    : [n.] breeze {French 'brize', English 'breeze'}
 kumul : {Latin 'cumulus'}
 -- [n.] cloud
@@ -290,6 +290,7 @@ metal    : [m. unc.] metal {French 'métal'}
 -> metaltröb : [n.] metalwork {'metal' + 'tröb'}
 ----> metaltröbör : [n.] metalworker
 -> metaläs : [adj.] metallic
+----> metaläsät : [adv.] metallically
 bronz    : [m. unc.] bronze {English 'bronze'}
 fer      : [m. unc.] iron {French}
 -> feräs : [adj.] ferrous
@@ -333,6 +334,7 @@ mont :
 -- [n.] mountain
 ----> ?? mountaineer @@
 ----> montäs : [adj.] mountainous
+-------> montäsät : [adv.] mountainously
 -- [v.] [trans] to tower over, to dwarf
 min : {French 'mine'}
 -- [n.] mine, mineshaft
@@ -351,6 +353,7 @@ pil    : [n.] hair {Latin 'pilus' via French 'épiler'}
 -> depil  : [v.] epilate
 öl     : [n.] eye {French 'œil'}
 -> öläs : [adj.] ocular
+----> öläsät : [adv.] ocularly
 nas    : [n.] nose {Latin 'nasus' via English, French 'nasal'}
 -> nasäs : [adj.] nasal
 ----> nasäsät : [adv.] nasally
@@ -358,6 +361,7 @@ ur     : [n.] ear {Latin 'auris' via 'ausculto' via Italian 'ascoltare'}
 -> uräs : [adj.] aural
 ----> urod : [v.] hear
 -------> urodäs : [adj.] auditory
+----------> urodäsät : [adv.] auditorily
 -------> urodfär : [adj.] audible
 ----------> urodfärät : [adv.] audibly
 ----> uräsät : [adv.] aurally
@@ -371,6 +375,7 @@ dänt   : [n.] tooth {Latin 'dens' via French 'dentiste'/'dentaire', English 'de
 ----> däntäsät : [adv.] dentally
 leng   : [n.] tongue {French 'langue'}
 -> lengäs : [adj.] lingual
+----> lengäsät : [adv.] lingually
 -> lengina : [n.] language
 ----> lenginäs : [adj.] linguistic
 -------> lenginäsät : [adv.] linguistically
@@ -378,12 +383,17 @@ ost    : [n.] bone {Anc. Greek 'ὀστέον' via French 'ostéo-'}
 -> ostäs : [adj.] osteal
 skelät : [n.] skeleton {Anc. Greek 'σκελετός' via French 'squelette' & English 'skeleton'}
 -> skelätäs : [adj.] skeletal
+----> skelätäsät : [adv.] skeletally
 kol : [n.] neck {Latin 'collum' via French 'col' & English 'collar'}
 -> koliär : [n.] collar
+-> koläs : [adj.] cervical (neck)
+----> koläsät : [adv.] cervically (neck)
 vän  : [n.] vein {French 'veine'}
 -> vänäs : [adj.] venous
+----> vänäsät : [adv.] venously
 hart : [n.] heart {Afrikaans}
 -> hartäs : [adj.] cardiac
+----> hartäsät : [adv.] cordially
 blüt : {German 'Blut'}
 -- [n.] blood
 ----> blütäs : [adj.] sanguine
@@ -410,7 +420,7 @@ man : {Latin 'manus' via French 'main' & English 'manual'}
 räš :
 -- [n.] flesh, meat
 ----> räšäs : [adj.] carnal
--------> räšäsät
+-------> räšäsät : [adv.] carnally
 -- [v.] [trans] shape, give form to
 seräb : {Latin 'cerebrum' via English 'cerebellum' & French 'cervelle'}
 -- [n.] brain
