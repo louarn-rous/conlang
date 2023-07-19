@@ -223,6 +223,7 @@ buis    : [n.] bush {Dutch, Afrikaans}
 vit     : [n.] vine {Latin 'vitis'}
 härb    : [n.] grass, herb {French 'herbe', English 'herb'}
 -> härbäs : [adj.] herbal
+----> härbäsät : [adv.] herbally
 bambu   : [m.] bamboo {French 'bambou'}
 kaktüs  : [n.] cactus {French 'cactus'}
 flor : {Italian 'fiore', French 'fleur'}
@@ -238,9 +239,9 @@ solflor : [n.] sunflower {'sol' + 'flor'}
 velt    : [n.] world {German 'Welt'}
 -> veltäs : [adj.] wordly; actual, material
 ----> veltäsät : [adv.] actually; materially
-tšäl : {Italian 'cielo'}
--- [n.] sky
--- [n.] ceiling ##
+säls : [n.] sky {Italian 'cielo', French & English 'celestial'}
+-> selsäs : [adj.] celestial
+----> selsäsät : [adv.] celestially
 vänt    : [n.] wind {Latin 'ventus'}
 -> väntäs : [adj.] aeolian
 briz    : [n.] breeze {French 'brize', English 'breeze'}
@@ -930,14 +931,18 @@ od  : [v.] hear, feel, sense
 söt : [v.] create, make, build, assemble, bring to fruition
 -> sötina : [n.] creation
 
-tös : [v.] to make into, turn the subject into
---> stös : [v.] become
+tös : [v.] to make into, turn the subject into ##
+-> stös : [v.] become ##
 
 fe : [v.] do
 
 piter : [v.] dig
+-> piterin : [n.] dig
 
 kos : [v.] hunt; seek
+-> kosör : [n.] hunter
+
+värt : [v.] turn {Latin 'verto' via English '-ward'}
 
 rän : [v.] try
 -> ränin : [n.] attempt
