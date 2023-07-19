@@ -786,6 +786,7 @@ uur   : [n.] hour {German 'Uhr'}
 -> mitäl uur : [n.] noon {'mitäl' + 'uur'}
 mäns  : [n.] month {Latin 'mensis' via French 'mensuel'}
 -> mänsäs : [adj.] mensual, monthly
+----> mänsäsät : [adv.] mensually
 anu : [n.] year {French 'an'}
 -> anuäs : [adj.] annual
 ----> anuäsät : [adv.] annually
@@ -874,6 +875,7 @@ alfabät : [n.] alphabet {Anc. Greek 'ἀλφάβητος' via English & French 
 kanton  : [n.] [f:vexillology] canton {English 'canton'}
 atom     : [n.] atom
 -> atomäs : [adj.] atomic
+----> atomäsät : [adv.] atomically
 elektron : [n.] electron
 -> elektronäs : [adj.] electronic
 ----> elektronäsät : [adv.] electronically
@@ -894,6 +896,8 @@ embrion : [n.] [f:biology] embryo {French 'embryon'}
 === verbs ===
 es  : [v.] be {German 'ist', French 'est', English 'is', Spanish}
 -> esein : [n.] existence
+----> eseinäs : [adj.] existential
+-------> eseinäsät : [adv.] existentially
 ev  : [v.] have
 -> evein : [v.] possession
 ten : [v.] hold {French 'tenir'}
@@ -911,6 +915,7 @@ ir  : [v.] go, move (oneself)
 
 od  : [v.] hear, feel, sense
 -> odäs : [adj.] sensory
+----> odäsät : [adv.] sensorially
 
 söt : [v.] create, make, build, assemble, bring to fruition
 -> sötina : [n.] creation
@@ -999,6 +1004,8 @@ räg : [v.] rule, govern {Latin 'rego'}
 -> rägeina : [n.] governance
 läž : [v.] obey, serve, be loyal to {English 'liege' via 'allegiance'}
 -> läžein : [n.] loyalty, obedience, servitude, allegience
+----> läžeinät : [adj.] loyal
+-------> läžeinätät : [adv.] loyally
 -> deläž : [v.] disobey
 ----> deläžein : [n.] (state of) disobedience
 pläg : [v.] to pledge, promise, vow, swear (oath) {English 'pledge' + Latin 'plebio'}
@@ -1017,7 +1024,9 @@ ausk : [v.] [dated] listen, hear; heed, accept, obey {archaic 'aur' + archaic 'k
 
 pläs : [v.] to please, favour {Latin 'placeo' via French 'plaire'}
 -> pläsein : [n.] pleasure
+----> pläseinfär : [adj.] pleasurable
 -> pläsin : [n.] favour
+----> pläsinfär : [adj.] favourable
 
 
 
@@ -1029,6 +1038,7 @@ sül :
 
 som : [v.] [intrans] sleep {Latin 'somnus' via French 'sommeil'} 
 -> somin : [n.] sleep
+----> sominät : [adj.] sleepy
 -> asom : [v.] [trans] knock out
 
 pas : [v.] pass, go by
@@ -1036,13 +1046,15 @@ pas : [v.] pass, go by
 fam : [v.] hunger {Latin 'fames' via French 'faim'} 
 -> famin : [n.] hunger
 -> afam : [v.] [trans] to make hungry
+### hungry -> hungrily
 sit : [v.] thirst {? French 'soif', ? English 'thirsty'}
 -> sitin : [n.] thirst
 -> asit : [v.] [trans] to make thirsty
+### thirsty -> thirstily
 fatig : [v.] [intrans] to tire, become weary {French 'fatigue'}
 -> fatigein : [n.] tiredness
 -> afatig : [v.] [trans] to tire, make weary
-
+### tired -> wearily
 
 tänj : [v.] [n.] stain {French 'teindre'}
 
@@ -1051,10 +1063,11 @@ klin : [v.] [n.] incline, bend {Latin 'clino' via English 'incline' & French 'in
 
 nos :
 -- [v.] [trans] give birth to
--- [v.] [intrans] [passive] be born
+-- [v.] [intrans] [passive] be born @@
 viv :
 -- [v.] live
 -- [n.] life
+----> vivät : [adj.] lively
 -- [adj.] alive
 mur : {French 'mourir'}
 -- [n.] death, end
@@ -1066,9 +1079,8 @@ brit : [v.] break {Swedish 'bryta'}
 
 fil :
 -- [v.] like, appreciate
-läd : {German 'leibt'}
--- [v.] love
--- [n.] love
+
+läd : [v.] [n.] love {German 'leibt'}
 
 don : [v.] give, deal {French 'donner'}
 -> donina : [n.] donation
@@ -1129,6 +1141,7 @@ salv : [v.] save
 -> salvina : [n.] salvation
 
 stöj : [v.] find
+-> stöjina : [n.] discovery, finding
 
 vän : [v.] [intrans.] come
 
@@ -1166,8 +1179,7 @@ spen : [v.] spy {French 'espion'}
 -> spenina : [n.] espionage
 
 baes : {Unknown}
--- [v.] bite
--> baesin : [n.] bite @@
+-- [v.] [n.] bite
 -- [v.] [colloq.] kid, fool around
 
 konsol : [v.] console
@@ -1176,12 +1188,13 @@ töl : {French 'tuile'}
 -- [n.] tile, pane, plate, square, panel
 -- [v.] to cover with tiles
 
-gil : [v.] help {Scottish Gaelic 'gille' via English 'gillie'}
+gil : [v.] [n.] help {Scottish Gaelic 'gille' via English 'gillie'}
 -> gilör : [n.] helper, aid
 
 bištir : [v.] bring
 živ    : [v.] persist, continue {Croatian 'živi'}
 -> aživ : [v.] to preserve, uphold, perpetuate
+-> živein : [n.] persistence, continuation
 studer : [v.] study {Latin 'studere' via English 'study'}
 -> studerin : [n.] study, research @@
 tegär  : [v.] meet, encounter, frequent
@@ -1258,13 +1271,18 @@ fors : {English & French 'force'}
 marš : {English 'march', French 'marcher'}
 -- [v.] march
 -- [n.] march
+
 güst :
 -- [v.] taste
 ----> güstör : [n.] one that tastes
 -- [n.] taste
+----> güstäs : [adj.] gustatory
+
 rumä : {Japanese '夢', French 'rêve', English 'dream'}
 -- [v.] dream
 -- [n.] dream
+----> rumäät : [adj.] dreamy
+-------> rumäätät : [adv.] dreamily
 fal : {Swedish 'falla'}
 -- [v.] fall; drop, decrease
 -- [n.] fall; drop, decrease
@@ -1311,8 +1329,10 @@ sur : [adj.] big, large {Estonian 'suur'}
 -> surät : [adv.] largely
 tis : [adj.] small {Breton}
 -> atis : [v.] to reduce, shrink
+-> tisät : [adv.] negligibly
 lon : [adj.] long {French 'long'}
 -> alon : [v.] lengthen
+-> lonät : [adv.] lengthily
 šüt : [adj.] brief, short
 -> ašüt : [v.] shorten
 -> šütät : [adv.] briefly, shortly
@@ -1328,8 +1348,10 @@ ruš : [adj.] short
 -> aruš : [v.] to shorten (vertically)
 sob : [adj.] thick
 -> asob : [v.] thicken
+-> sobät : [adv.] thickly
 pän : [adj.] thin
 -> apän : [v.] thin
+-> pänät : [adv.] thinly
 bur : [adj.] heavy
 -> abur : [v.] to make heavy
 -> burät : [adv.] heavily
@@ -1355,13 +1377,17 @@ mals : [adj.] soft, tender {Dutch}
 -> malsät : [adv.] softly
 gul : [adj.] wet
 -> agul : [v.] wet
+-> gulät : [adv.] wetly
 sek : [adj.] dry {French 'sec'}
 -> asek : [v.] dry
+-> sekät : [adv.] dryly
 nät : [adj.] clean {Breton 'naet'}
 -> anät : [v.] clean
+-> nätät : [adv.] cleanly
 kras : {French 'crasse'}
 -- [adj.] dirty
 ----> akras : [v.] to dirty, soil
+----> krasät : [adv.] dirtily
 -- [n.] scum, dirt, grime
 klar : [adj.] clear; transparent; evident {Latin 'clarus' from English 'clarity', French 'clair'}
 -> aklar : [v.] to clear; to make clear, clarify
@@ -1371,12 +1397,14 @@ klar : [adj.] clear; transparent; evident {Latin 'clarus' from English 'clarity'
 bir : [adj.] near, close
 -> abir : [v.] to bring closer; to approach
 -> biräs : [adj.] proximal
+----> biräsät : [adv.] proximally 
 -> birein : [n.] proximity
 -> birät : [adv.] closely; nearly, almost
 
-sal : [adj.] far, distant
+sal : [adj.] far, distant; remote
 -> asal : [v.] to drive away, seclude
 -> saläs : [adj.] distal
+----> saläsät : [adv.] distally; remotely
 -> salein : [n.] remoteness
 -> salät : [adv.] distantly
 
@@ -1384,7 +1412,7 @@ ukin : [adj.] cute
 -> ukinein : [n.] cuteness
 -> ukinät : [adv.] cutely
 
-vat : [adj.] good {Breton}
+vat : [adj.] good, well {Breton}
 -> vater : [adj.] better
 ----> avater : [v.] improve
 -> vatest : [adj.] best
@@ -1398,6 +1426,7 @@ liber : [adj.] free {Latin}
 -> liberät : [adv.] freely
 
 ort : [adj.] straight, upright {Anc. Greek 'ὀρθός' via English 'Orthodentist'}
+-> ortät : [adv.] straightly
 
 sut : [adj.] still, down, low, seated
 -> asut : [v.] sit/lay down
@@ -1408,22 +1437,28 @@ rund : {Swedish}
 ----> arund : [v.] to make round; to inflate
 -- [n.] circle
 ----> rundäs : [adj.] circular
+-------> rundäsät : [adv.] circularly
 -- [v.] [f:mathematics] (of a number) to round
 
 san : [adj.] healthy, sound {Latin 'sanus' via English 'sanitary'}
 -> sanein : [n.] health, wellbeing
 ----> saneinäs : [adj.] sanitary
+-------> saneinäsät : [adv.] sanitarily
 -> nesan : [adj.] unhealthy
 ----> nesanein : [n.] illness, unwellness
+----> nesanät : [adv.] unhealthily
 -> asan : [v.] cure, treat
 ----> asanina : [n.] treatment, remedy
 -------> asaninäs : [adj.] therapeutic
+----------> asaninäsät : [adv.] therapeutically
 -> sanät : [adv.] healthily
 
 stese : [adj.] sacred, blessed {Russian 'святой'}
 -> stesein : [n.] sanctity
+-> stesät : [adv.] sacredly
 
 ru : [adj.] raw, crude; bare
+-> ruät : [adv.] crudely; barely
 
 sekur : [adj.] without care, secure {Latin 'securus'}
 -> sekurein : [n.] certainty, security, safety
@@ -1471,16 +1506,20 @@ ful : [adj.] full
 vid : [adj.] empty {French 'vide'}
 -> avid : [v.] empty
 -> videin : [n.] emptiness
+-> vidät : [adj.] emptily
 -- [n.] void, emptiness ##
 
 frid : [adj.] cold
 -> afrid : [v.] cool, chill
+-> fridät : [adv.] coldly
 -- [n.] cold ##
 hoš : [adj.] hot {French 'chaud', English 'hot'}
 -> ahoš : [v.] heat (up)
+-> hošät : [adv.] hotly
 -- [n.] heat ##
 
 rosn : [adj.] warm
+-> rosnät : [adv.] warmly
 
 
 lös : [adj.] single, lone, only {French 'seul', English 'lone'}
@@ -1489,18 +1528,24 @@ lös : [adj.] single, lone, only {French 'seul', English 'lone'}
 püli : [adj.] multiple, plural
 -> apüli : [v.] to make plural, to multiply; to duplicate
 -> pülein : [n.] multiplicity
+-> püliät : [adv.] plurally
 nüdit : [adj.] naked, nude
 -> anüdit : [v.] to strip of protection or clothing
 -> nüditein : [n.] nakedness
+-> nüdität : [adv.] nakedly, nudely
 hoäl : [adj.] lame, limp; boring
 -> hoälein : [n.] boredom
+-> hoälät : [adv.] lamely, limply
 müsot : [adj.] silly
 -> müsot : [n.] silliness
 
 === vulgar ===
 bata   : [n.] imbecile, bastard
 lidit  : [n.] idiot
--> lidität : [adj.] idiotic, stupid, dumb
+-> lidität : [adj.] stupid, dumb
+----> liditätät : [adv.] stupidly
+-> liditäs : [adj.] idiotic
+----> liditäsät : [adv.] idiotically
 küs    : [intj.] fuck, damn, darn, shit
 smät   : [v.] to copulate with
 
