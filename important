@@ -49,6 +49,7 @@ us   : [prep.] under(neath)
 
 ant : [prep.] between, among {Latin 'inter' via English 'internal'}
 -> antäs : [adj.] internal, interior
+----> antäsät : [adv.] internally
 -> antira : [n.] interior
 -> ant(e)- : [suf.] between
 
@@ -63,26 +64,38 @@ ot : [n.] up, high, top (of)
 ös : [n.] down, low, bottom (of)
 
 let  : [n.] left
-räšt : [n.] right
-fas  : [n.] front
-dos  : [n.] back
+-> letest : [adj.] leftmost
+räšt : [n.] right {German 'Rechts'}
+-> räštest : [adj.] rightmost
+fas  : [n.] front {French 'face'}
+dos  : [n.] back {French}
 
 mitäl :
 -- [n.] middle, centre
 -- [adj.] middle, central
+----> mitälät : [adv.] centrally
 -> mit- : [prf.] ('mid-')
 nord :
 -- [n.] north
 -- [adj.] northern
+----> nordät : [adv.] northernly
+----> nordest : [adj.] northmost
+-> nordäs : [adj.] nordic
 äst :
 -- [n.] east
 -- [adj.] eastern
+----> ästät : [adv.] easternly
+----> ästest : [adj.] eastmost
 süd :
 -- [n.] south
 -- [adj.] southern
+----> südät : [adv.] southernly
+----> südest : [adj.] southernmost
 väst :
 -- [n.] west
 -- [adj.] western
+----> västät : [adv.] westernly
+----> västest : [adj.] westmost
 
 === adverbs ===
 mer  : [adv.] comparative ('more')
@@ -94,14 +107,19 @@ jus  : [adv.] just, only, simply, merely
 
 ül : [adj.] (the) previous, anticedent 
 -> üla : [adj.] before
+----> ülaät : [adv.] previously
 -> ülna : [adj.] first, primordial
+----> ülnaät : [adv.] primordially, firstly
 or : [adj.] (the) next, subsequent
 -> ora : [adj.] after
+----> oraät : [adv.] subsequently
 -> orna : [adj.] last, final
+----> ornaät : [adv.] finally, lastly
 -> ore : [cnjc.] then
 i  : [adj.] (the) current, present
 -> inat : [n.] today
 ----> ina : [n.] now
+
 
 alte :
 -- [det.] other
@@ -127,6 +145,7 @@ uz  : [cnjc.] comitative ('with') {Croatian}
 
 mo    : [cnjc.] also, both, as well, again
 -> omo : [adj.] same, common
+----> omoät : [adv.] samely, commonly
 nä    : [cnjc.] [causal] but, however
 -> sežnä : [cnjc.] [causal] nevertheless, still, despite (preceding clause)
 -> näst : [cnjc.] [causal] despite (of)
@@ -171,7 +190,7 @@ sü : [ptcl.] existential, indicates 'there is/exists' concerning the object of 
 -- [suf.] used to form adjectives from nouns, meaning resembling the suffixed word (esp. in behaviour)
 -- [suf.] used to form adjectives from verbs, meaning 'inclined to' ###
 
-a- : [prf.]yx
+a- : [prf.]
 -- used to form verbs from adjectives, indicating the gain of the adjectivial property
 -- used to form verbs from verbs, indicating the action of making an object do an action
 -- used to form verbs from nouns, meaning to make into or create the prefixed noun
@@ -196,15 +215,18 @@ jos : {Japanese 'よし'}
 -- [intj.] confirmation, acknowledgement ('okay')
 -- [adj.] ready, done
 ----> ajos [v.] : make ready; prepare
+----> josät : [adv.] readily
 
 tagräm :
 -- [intj.] sorry
 -- [v.] apologise
 ----> tagrämina : [n.] apology
 -- [adj.] apologetic
+----> tagrämät : [adv.] apologetically
 
 === misc ===
 
 stin : {Serbian 'истина'}
 -- [adj.] true
+----> stinät : [adv.] truly 
 -- [n.] truth
