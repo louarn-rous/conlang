@@ -37,6 +37,11 @@ ust : [prep.] out (outside of, away from, not in)
 -> ustira : [n.] exit, output
 -> usklöd : [v.] exclude
 
+####
+-> ustäs? : [adj.] external
+----> ustäsät? : [adv.] externally
+-> ???   : [n.] exterior
+
 a    : [prep.] at
 u    : [prep.] at, in, near, by
 gešt : [prep.] against
@@ -61,7 +66,9 @@ sti : [prep.] as if, like so, similar to
 
 === pos. nouns ===
 ot : [n.] up, high, top (of)
+-> otät : [adj.] highly
 ös : [n.] down, low, bottom (of)
+-> ösät : [adj.] lowly
 
 let  : [n.] left
 -> letest : [adj.] leftmost
@@ -119,7 +126,7 @@ or : [adj.] (the) next, subsequent
 i  : [adj.] (the) current, present
 -> inat : [n.] today
 ----> ina : [n.] now
-
+-> iät : [adv.] currently
 
 alte :
 -- [det.] other
@@ -134,6 +141,7 @@ mäs : [adj.] constant, unmoving, permanent
 ----> dömast : [adv.] forever
 -------> dömastein : [n.] eternity
 -> mäsein : [n.] permanence, immutability
+-> mäsäs : [adv.] constantly
 
 === conjunctions ===
 ur : [cnjc.] or
