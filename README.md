@@ -61,13 +61,12 @@ The Ijter language has two scripts/alphabet: one Latin and one Cyrillic (similar
 
 ## Verbs
 
-| Tense          | Active | Passive |
-| ..             | Simple | Contd.  |
-|:---:           |:---:   | :---:   |
-| Past    | -i     | -it     |
-| Present | -e     | -et     |
-| Future  | -a     | -at     |
-
+| Voice   | Active | Active | Passive | Passive |
+| :---:   |:-----: | :----: | :----:  | :----:  |
+| Tense   | Simple | Contd. | Simple  | Contd.  |
+| Past    | -i     | -is    | -it     | -ist    |
+| Present | -e     | -es    | -et     | -est    |
+| Future  | -a     | -as    | -at     | -ast    |
 
 Verbs are conjugated by taking the root and appending the ending as a suffix.
 
