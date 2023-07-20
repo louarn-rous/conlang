@@ -222,8 +222,12 @@ sievat : [intj.] farewell, goodbye ('sie' + 'vat')
 jos : {Japanese 'よし'}
 -- [intj.] confirmation, acknowledgement ('okay')
 -- [adj.] ready, done
-----> ajos [v.] : make ready; prepare
+----> ajos : [v.] make ready; prepare
 ----> josät : [adv.] readily
+----> nejos : [adj.] unprepared
+-------> nejosät : [adv.] unpreparedly
+-------> nejosein : [n.] unpreparedness
+----> josein : [n.] preparedness, readiness
 
 tagräm :
 -- [intj.] sorry
