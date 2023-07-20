@@ -756,7 +756,7 @@ tapir : {French 'tapis'}
 mis : {? French 'nid'}
 -- [n.] home, nest
 ----> sommis : [n.] bed {'som' + 'mis'}
-----> misät : [adj.] homely
+----> misät : [adj.] cozy; homely
 -- [v.] host
 ----> misör : [n.] host
 štog :
@@ -870,6 +870,9 @@ patš : [n.] peace {Latin 'pax'}
 -> patšein : [n.] peacetime
 banier : [n.] banner {French 'banière'}
 orde : [n.] order, arrangement, series {Latin 'ordo'}
+-> ordeät : [adj.] orderly
+-> desorde : [n.] disorder, disarray
+----> desordeät : [adj.] disorderly
 sienza : [n.] science {Italian 'scienza', French & English 'science'}
 -> sienzäs : [adj.] scientific
 ----> sienzäsät : [adv.] scientifically
@@ -974,8 +977,8 @@ fär : {Swedish '-bar', German 'fähig'}
 ----> afär : [v.] enable
 -- [v.] can, is able to
 
-müs : [v.] have to (do something) {German 'Muß'}
--> müsin : [n.] requirement
+müs : [v.] must, have to (do something) {German 'Muß'}
+-> müsin : [n.] duty; requirement
 düs : [v.] should {French 'devoir' + 'müs'}
 -> düsin : [n.] obligation
 baž : [v.] need, require 
@@ -1481,11 +1484,13 @@ san : [adj.] healthy, sound {Latin 'sanus' via English 'sanitary'}
 ----------> asaninäsät : [adv.] therapeutically
 -> sanät : [adv.] healthily
 
-stese : [adj.] sacred, blessed {Russian 'святой'}
+stes : [adj.] sacred, blessed {Russian 'святой'}
+-> astes : [v.] bless
 -> stesein : [n.] sanctity
 -> stesät : [adv.] sacredly
 
 ru : [adj.] raw, crude; bare
+-> aru : [v.] to lay bare
 -> ruät : [adv.] crudely; barely
 
 sekur : [adj.] without care, secure {Latin 'securus'}
@@ -1506,6 +1511,7 @@ kozäv : [adj.] typical, normal
 -> kozävät : [adv.] normally
 
 främt : [adj.] foreign {German 'fremd'}
+-> främtein : [n.] foreignness
 
 fräl : [adj.] weak, fragile {French 'frêle'}
 -> afräl : [v.] weaken
@@ -1513,6 +1519,7 @@ fräl : [adj.] weak, fragile {French 'frêle'}
 -> frälät : [adv.] weakly
 här : [adj.] strong
 -> ahär : [v.] strengthen
+-> härein : [n.] strength
 -> härät : [adv.] strongly
 
 fis : [adj.] definite, stable, certain {French 'fixe'}
@@ -1521,6 +1528,7 @@ fis : [adj.] definite, stable, certain {French 'fixe'}
 -> fisät : [adv.] certainly, definitely
 
 motše : [adj.] nice, pleasant {'moce'}
+-> motšein : [n.] niceness, pleasantness
 -> motšät : [adv.] nicely, pleasantly
 
 jats : [adj.] great, grand, mighty {Korean '에야차'}
@@ -1529,13 +1537,12 @@ jats : [adj.] great, grand, mighty {Korean '에야차'}
 
 ful : [adj.] full
 -> aful : [v.] fill
+-> fulein : [n.] fullness, fill
 -> fulät : [adv.] fully
-
 vid : [adj.] empty {French 'vide'}
 -> avid : [v.] empty
--> videin : [n.] emptiness
+-> videin : [n.] emptiness, void
 -> vidät : [adj.] emptily
--- [n.] void, emptiness ##
 
 frid : [adj.] cold
 -> afrid : [v.] cool, chill
@@ -1547,21 +1554,24 @@ hoš : [adj.] hot {French 'chaud', English 'hot'}
 -- [n.] heat ##
 
 rosn : [adj.] warm
+-> arosn : [v.] warm, heat up, reheat
+-> rosnein : [n.] warmth, warmness
 -> rosnät : [adv.] warmly
-
-
 lös : [adj.] single, lone, only {French 'seul', English 'lone'}
+-> lös : [cnjc.] only
 -> alös : [v.] single out
 -> lösein : [n.] loneliness
+-> lösät : [adv.] lonelily; singularly
 püli : [adj.] multiple, plural
 -> apüli : [v.] to make plural, to multiply; to duplicate
--> pülein : [n.] multiplicity
+-> pülein : [n.] multiplicity, plurality
 -> püliät : [adv.] plurally
 nüdit : [adj.] naked, nude
 -> anüdit : [v.] to strip of protection or clothing
 -> nüditein : [n.] nakedness
 -> nüdität : [adv.] nakedly, nudely
 hoäl : [adj.] lame, limp; boring
+-> ahoäl : [v.] bore
 -> hoälein : [n.] boredom
 -> hoälät : [adv.] lamely, limply
 müsot : [adj.] silly
