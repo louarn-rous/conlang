@@ -846,6 +846,11 @@ poj   : [n.] boy {Swedish 'pojke', Finnish 'poika'}
 -> pojät : [adj.] boyish
 ----> pojätät : [adv.] boyishly
 
+kin : [n.] child {German 'kinder', English}
+-> kinä : [n.] kid
+-> kinät : [adj.] childish
+----> kinätät : [adv.] childishly
+
 fränd : [n.] friend {English 'friend', German 'Freund'}
 -> frändein : [n.] friendship
 -> frändät : [adj.] friendly
