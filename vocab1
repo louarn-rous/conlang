@@ -857,6 +857,10 @@ sint : [n.] Saint {Dutch}
 -> sintät : [adj.] saintly
 kamarad : [n.] comrade, mate; fellow student, classmate {French 'camarade', German 'Kamerad'}
 
+sots : [n.] fellow, acquantiance
+-> sotsäs : [adj.] social
+----> sotsäsät : [adv.] socially
+
 === misc. ===
 dös     : [n.] god, deity {Portugese 'Deus'}
 -> dösäs : [adj.] divine
@@ -954,6 +958,12 @@ tös : [v.] to make into, turn the subject into ##
 -> stös : [v.] become ##
 
 fe : [v.] do
+
+nim : [v.] walk
+-> anim : [v.] to make move; animate, bring to life
+----> animäs : [adj.] animal
+-------> animäsät : [adv.] animally
+----> animät : [n.] animal
 
 piter : [v.] dig
 -> piterin : [n.] dig
@@ -1235,6 +1245,8 @@ mät  : [v.] set, change, assign, put
 ----> mättösina : [n.] modification
 -> immät : [v.] insert
 ----> immätina : [n.] insertion
+-> demät : [v.] revoke, withdraw
+----> demätina : [n.] revocation, withdrawal
 
 kal  : [v.] fit, match, correspond
 -> kalin : [n.] match @@
