@@ -914,20 +914,28 @@ ev  : [v.] have
 ten : [v.] hold {French 'tenir'}
 -> tensein : [n.] custody
 ----> stattensein : [n.] state custody
+----> atensein : [v.] arrest
+-> aten : [v.] to make hold; give
 sen : [v.] know {Latin 'sciens'}
 -> senein : [n.] knowledge
+-> asen : [v.] teach
+----> asenin : [n.] lesson
+----> asenina : [n.] teaching
+-------> asesinäs : [adj.] pedagogical
+----------> asesinäsät : [adv.] pedagogically
+----> asenör : [v.] teacher
 ser :
 -- [v.] say, speak, tell
 ----> serör : [n.] one who speaks
 -- [v.] signifies, represents, means
--> serina : [n.] meaning
+----> serina : [n.] meaning
 -> serin : [n.] expression, meaning
 ir  : [v.] go, move (oneself)
 
 od  : [v.] hear, feel, sense
 -> odäs : [adj.] sensory
 ----> odäsät : [adv.] sensorially
-
+-> odör : [n.] sensor
 söt : [v.] create, make, build, assemble, bring to fruition
 -> sötina : [n.] creation
 
@@ -938,9 +946,12 @@ fe : [v.] do
 
 piter : [v.] dig
 -> piterin : [n.] dig
+-> piterör : [n.] digger
 
 kos : [v.] hunt; seek
+-> kosin : [n.] hunt, search
 -> kosör : [n.] hunter
+
 
 värt : [v.] turn {Latin 'verto' via English '-ward'}
 
@@ -962,13 +973,13 @@ fär : {Swedish '-bar', German 'fähig'}
 -- [v.] can, is able to
 
 müs : [v.] have to (do something) {German 'Muß'}
+-> müsin : [n.] requirement
 düs : [v.] should {French 'devoir' + 'müs'}
-baž :
--- [v.] need, require
--- [n.] need, requirement
-vür : {French 'vouloir'}
--- [v.] want, wish
--- [n.] want, wish
+-> düsin : [n.] obligation
+baž : [v.] need, require 
+-> bažin : [n.] need, requirement
+vür : [v.] want, wish {French 'vouloir'}
+-> vürin : [n.] want, wish
 sünt : [v.] demand {Finnish 'kysyntä'}
 -> süntin : [n.] demand
 
