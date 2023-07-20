@@ -670,12 +670,7 @@ form : [n.] form {Latin 'forma'}
 -> formäs : [adj.] formal
 ----> formäsät : [adv.] formally
 
-lärt : [adj.] conscious, aware; alert
--> alärt : [v.] alert, warn
-----> alärtin : [n.] alert, warning, caution
--------> ülaalärtin : [n.] precaution, foreword, warning
--> lärtät : [adv.] consciously
--> lärtein : [n.] consciousness, awareness; alertness
+
 
 === fantasy ===
 maži    : [n.] magic {French 'magie'}
@@ -968,6 +963,19 @@ kos : [v.] hunt; seek
 -> kosin : [n.] hunt, search
 -> kosör : [n.] hunter
 
+säd : [v.] happen, occur {Latin 'cado'}
+-> imsäd : [v.] take place; meet, intersect
+----> imsädina : [n.] incident
+-------> imsädinaäs : [adj.] incidental
+----------> imsädinaäsät : [adv.] incidentally
+----> imsädein : [n.] incidence
+----> uzimsäd : [v.] to coincide
+-------> uzimsädina : [n.] (a) coincidence
+----------> uzimsädinaäs : [adj.] coincidental
+-------------> uzimsädinaäsät : [adv.] coincidentally
+-------> uzimsädein : [n.] coincidence
+-> sädina : [n.] happening, event
+-> sädein : [n.] occurence
 
 värt : [v.] turn {Latin 'verto' via English '-ward'}
 
@@ -1016,12 +1024,19 @@ lüs  : [v.] open
 tör  : [v.] pull
 prös : [v.] [v.] push
 präm : [v.] [n.] press
+-> prämin : [n.] pressure; stress
 
 klöd : [v.] fasten, secure, lock; contain, surround {Latin 'claudo'}
 
 plis : [v.] [n.] fold {French 'plisser', Latin 'plicare' via French 'plier'}
 
 rol : [v.] roll
+
+heg : [v.] [reflexive] choke
+-> aheg : [v.] [trans] suffocate
+----> ahegät : [adj.] anxious, distressed, troubled
+-------> ahegätät : [adv.] anxiously
+-------> ahegätein : [n.] anxiety, distress
 
 spär : [v.] [n.] hope {Latin 'spero' via French 'espérer'}
 tatlän : [v.] [n.] doubt
@@ -1459,7 +1474,8 @@ vat : [adj.] good, well {Breton}
 -> vater : [adj.] better
 ----> avater : [v.] improve
 -> vatest : [adj.] best
--> vatein : [n.] goodness, good
+-> vatein : [n.] goodness, good; wellness
+----> nevatein : [n.] illness, distress
 
 liber : [adj.] free {Latin}
 -> liberein : [n.] freedom
@@ -1546,6 +1562,14 @@ motše : [adj.] nice, pleasant {'moce'}
 jats : [adj.] great, grand, mighty {Korean '에야차'}
 -> ajats : [v.] make great, improve, elevate
 -> ijats @@@
+
+lärt : [adj.] conscious, aware; alert
+-> alärt : [v.] alert, warn
+----> alärtin : [n.] alert, warning, caution
+-------> ülaalärtin : [n.] [dated] precaution, foreword, warning
+----------> üllärtin : [n.] precaution, foreword, warning
+-> lärtät : [adv.] consciously
+-> lärtein : [n.] consciousness, awareness; alertness
 
 ful : [adj.] full
 -> aful : [v.] fill
