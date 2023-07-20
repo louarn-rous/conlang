@@ -61,14 +61,14 @@ The Ijter language has two scripts/alphabet: one Latin and one Cyrillic (similar
 
 ## Verbs
 
+Conjugation functions by appending an ending to the stem of the verb.
+
 | Voice   | Active | Active | Passive | Passive |
 | :---:   |:-----: | :----: | :----:  | :----:  |
 | Tense   | Simple | Contd. | Simple  | Contd.  |
 | Past    | -i     | -is    | -it     | -ist    |
 | Present | -e     | -es    | -et     | -est    |
 | Future  | -a     | -as    | -at     | -ast    |
-
-Verbs are conjugated by taking the root and appending the ending as a suffix.
 
 ## Pronouns
 
