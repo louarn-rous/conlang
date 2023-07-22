@@ -449,6 +449,10 @@ fung : [n.] mushroom {Italian 'funghi'}
 -> fungäs : [adj.] fungal
 ----> fungäsät : [adv.] fungally
 tust : [n.] tail
+embrion : [n.] embryo {French 'embryon'}
+-> embrionäs : [adj.] embryonic
+kälul : [n.] cell {Latin 'cellula' via French 'cellule'}
+-> käluläs : [adj.] cellular
 
 === technology ===
 disk  : [n.] disk, disc, record, CD, CD-ROM {French 'disque', English 'disc'/'disk'}
@@ -931,8 +935,7 @@ nukleus  : [n.] nucleus
 
 bit      : [n.] [f:computing] bit
 servör   : [n.] [f:computing] server
-embrion : [n.] [f:biology] embryo {French 'embryon'}
--> embrionäs : [adj.] embryonic
+
 
 === verbs ===
 es  : [v.] be {German 'ist', French 'est', English 'is', Spanish}
