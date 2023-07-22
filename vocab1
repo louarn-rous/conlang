@@ -92,7 +92,7 @@ kot    : [n.] cat {Polish, English 'cat', German 'Katze'}
 -> kotu  : [n.] kitten
 kärü   : [n.] dog {Estonian 'koer'}
 -> kärüäs : [adj.] canine
--> kärunu : [n.] pup, puppy
+-> kärünu : [n.] pup, puppy
 luv    : [n.] wolf {Latin 'lupus' via French 'louve'}
 -> luväs : [adj.] lupine
 -> luvu  : [n.] wolf cub
@@ -927,6 +927,7 @@ nötron   : [n.] neutron
 -> nötronäs : [adj.] neutronic
 nukleus  : [n.] nucleus
 -> nukleas : [adj.] nuclear
+ülagarda : [n.] [f:marxism] vanguard {'üla' + 'garda'}
 
 bit      : [n.] [f:computing] bit
 servör   : [n.] [f:computing] server
