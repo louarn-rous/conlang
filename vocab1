@@ -494,6 +494,11 @@ radio : {English, French}
 -- [n.] radio reciever or transmitter
 -- [v.] communicate with by radio
 
+telefon : [n.] [v.] telephone
+-> telefonina : [n.] telephone call
+-> telefonäs : [adj.] telephonic
+----> telefonäsät : [adv.] telephonically
+
 === tools ===
 fals  : [n.] sickle {Catalan 'falç'}
 brust : [n.] brush {Breton 'broust'}
