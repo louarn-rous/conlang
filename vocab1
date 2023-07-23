@@ -833,36 +833,6 @@ tän :
 -- [v.] to measure time
 
 === people ===
-matä  : [n.] mother {Latin 'mater'}
--> matääs : [adj.] maternal
-----> matääsät : [adv.] maternally
--> matäät : [adj.] motherly
-paträ : [n.] father {Latin 'pater'}
--> paträäs : [adj.] paternal
-----> paträäsät : [adv.] paternally
--> paträät : [adj.] fatherly
-fratä : [n.] brother {Latin 'frater'}
--> fratääs : [adj.] fraternal
-----> fratääsät : [adv.] fraternally
--> fratäät : [adj.] brotherly
-sorä  : [n.] sister {Latin 'soror'}
--> sorääs : [adj.] sororal
-----> sorääs : [adv.] sororally
--> soräät : [adj.] sisterly
-fal   : [n.] girl {Latin 'filia'}
--> falä : [n.] daughter
--> falät : [adj.] girly
-----> falätät : [adv.] girlishly
-poj   : [n.] boy {Swedish 'pojke', Finnish 'poika'}
--> pojä : [n.] son
--> pojät : [adj.] boyish
-----> pojätät : [adv.] boyishly
-
-kin : [n.] child {German 'kinder', English}
--> kinä : [n.] kid
--> kinät : [adj.] childish
-----> kinätät : [adv.] childishly
-
 jor : [n.] man
 -> jorät : [adj.] manly, masculine
 ----> jorätät : [adv.] masculinely
@@ -871,6 +841,35 @@ sar : [n.] woman
 -> sarät : [adj.] womanly, feminine
 ----> sarätät : [adv.] femininely
 ----> sarätein : [n.] womanhood, femininity
+daam : [n.] lady {Estonian, French 'dame', German 'Dame'}
+paträ : [n.] father {Latin 'pater'}
+-> paträäs : [adj.] paternal
+----> paträäsät : [adv.] paternally
+-> paträät : [adj.] fatherly
+matä  : [n.] mother {Latin 'mater'}
+-> matääs : [adj.] maternal
+----> matääsät : [adv.] maternally
+-> matäät : [adj.] motherly
+fratä : [n.] brother {Latin 'frater'}
+-> fratääs : [adj.] fraternal
+----> fratääsät : [adv.] fraternally
+-> fratäät : [adj.] brotherly
+sorä  : [n.] sister {Latin 'soror'}
+-> sorääs : [adj.] sororal
+----> sorääs : [adv.] sororally
+-> soräät : [adj.] sisterly
+kin : [n.] child {German 'kinder', English}
+-> kinä : [n.] kid
+-> kinät : [adj.] childish
+----> kinätät : [adv.] childishly
+poj   : [n.] boy {Swedish 'pojke', Finnish 'poika'}
+-> pojä : [n.] son
+-> pojät : [adj.] boyish
+----> pojätät : [adv.] boyishly
+fal   : [n.] girl {Latin 'filia'}
+-> falä : [n.] daughter
+-> falät : [adj.] girly
+----> falätät : [adv.] girlishly
 
 fränd : [n.] friend {English 'friend', German 'Freund'}
 -> frändein : [n.] friendship
