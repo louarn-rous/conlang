@@ -117,6 +117,8 @@ blär   : [n.] badger {French 'blaireau'}
 -> stamblär : [n.] pangolin
 širm : [n.] lizard
 -> širmäs : [adj.] lacertilian
+lemur : [n.] ring-tailed lemur (lemur catta)
+-> lemuräs : [adj.] lemurine, lemurian
 
 mostik : [n.] mosquito {French 'moustique', English 'mosquito'}
 
@@ -803,6 +805,12 @@ simänt : {French 'ciment', English 'cement'}
 bal  : [n.] ball {French 'balle'}
 doš  : [n.] die/dice
 ešäk : [n. unc.] chess {French 'échecs', English 'chess'}
+žugo : [n.] game
+lüd  : [v.] play
+-> lüdo : [dated] [n.] game
+-> lüdör : [n.] player
+----> pülilüdör : [f:video games] [n.] [adj.] multiplayer (mode)
+----> löslüdör : [f:video games] [n.] [adj.] singeplayer (mode)
 
 === time - tän ===
 nat   : [n.] day
@@ -928,6 +936,8 @@ genetika : [n.] genetics {Russian & Serbian 'генетика'}
 ----> genetikäsät : [adv.] genetically
 korb : [n.] basket
 not : [n.] brief record, usually written; score, mark or grade; [f:music] note
+mod : [n.] style, fashion, way, manner {French 'mode'}
+-> -mod : [v.] [suf.] to play the role of, be
 
 === jargon ===
 alfabät : [n.] alphabet {Anc. Greek 'ἀλφάβητος' via English & French 'alphabet'}
@@ -1212,6 +1222,7 @@ viv :
 mur : {French 'mourir'}
 -- [n.] death, end
 -- [n.] dead (person)
+----> limur : [n.] ghost; spirit of the dead
 -- [v.] die, end
 
 siät : [v.] wait
@@ -1728,6 +1739,7 @@ püli : [adj.] multiple, plural
 -> apüli : [v.] to make plural, to multiply; to duplicate
 -> pülein : [n.] multiplicity, plurality
 -> püliät : [adv.] plurally
+-> püli- : [suf.] multi-, plura-, poly-
 nüdit : [adj.] naked, nude
 -> anüdit : [v.] to strip of protection or clothing
 -> nüditein : [n.] nakedness
