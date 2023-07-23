@@ -517,7 +517,6 @@ müzik    : [n.] music {German 'Musik', French 'musique'}
 ----> müzikäsät : [adv.] musically
 saksofon : [n.] saxophone {French 'saxophone' also via English}
 piano    : [n.] piano {Italian}
-not : note
 
 === society, politics, government ===
 nasion   : [n.] nation; body of people
@@ -673,8 +672,13 @@ kärn : [n.] core, centre
 -> kärnäs : [adj.] central
 ----> kärnäsät : [adv.] centrally
 
-son : [n.] {Latin 'sono' + via French 'son'}
+son : [n.] sound {Latin 'sono' + via French 'son'}
 -> sonäs : [adj.] sonic
+----> sonäsät : [adv.] sonically
+-> neson : [n.] silence
+----> nesonät : [adj.] silent
+-------> nesonätät : [adv.] silently
+-------> anesonät : [v.] muffle, dull, hush
 
 form : [n.] form {Latin 'forma'}
 -> formäs : [adj.] formal
@@ -744,10 +748,14 @@ lüm : {Late Latin 'lūmināria' via French 'lumière'}
 säht : [m.] silk {Latin 'saeta' via French 'soie'}
 kotun : [m.] cotton
 glas : {French 'glace'}
--- [n.] ice
+-- [n.] ice 
 -- [adj.] frozen
 ----> aglas : [v.] freeze
 uäs : water
+vir : {French 'ver'}
+-- [m.] glass
+---> aver : [v.] to turn into glass
+-- [n.] a vessel, especially one made of glass or transparent plastic, from which one drinks
 
 === form ===
 štok : [n.] stick, branch; handle, rod {German 'Stock'}
@@ -875,6 +883,7 @@ fränd : [n.] friend {English 'friend', German 'Freund'}
 -> frändein : [n.] friendship
 -> frändät : [adj.] friendly
 ----> frändätät : [adv.] friendlily
+----> afrändät : [v.] befriend
 
 klun : [n.] clown {French 'clown'}
 -> klunpäsk : [n.] clownfish {'klun' + 'pesk'}
@@ -890,7 +899,9 @@ sots : [n.] fellow, acquantiance
 dös     : [n.] god, deity {Portugese 'Deus'}
 -> dösäs : [adj.] divine
 ----> dösäsät : [adv.] divinely
-kompost : [n.] compost {English, French 'compost'}
+----> dösäsein : [n.] divinity; state of being divine
+kompost : [v.] compost {English, French 'compost'}
+-> kompostör : [n.] compost
 post    : [n.] mail {English, French 'poste'}
 -> posttröbör : [n.] postman {'post' + 'tröbör'}
 -> postäs : [adj.] postal
@@ -902,6 +913,7 @@ päst : {French 'peste', English 'pester'}
 -- [v.] plague, pester, annoy
 patš : [n.] peace {Latin 'pax'}
 -> apatš : [v.] appease
+----> apatšina : [n.] appeasement
 -> patšein : [n.] peacetime
 banier : [n.] banner {French 'banière'}
 orde : [n.] order, arrangement, series {Latin 'ordo'}
@@ -914,8 +926,8 @@ sienza : [n.] science {Italian 'scienza', French & English 'science'}
 genetika : [n.] genetics {Russian & Serbian 'генетика'}
 -> genetikäs : [adj.] genetic
 ----> genetikäsät : [adv.] genetically
-
 korb : [n.] basket
+not : [n.] brief record, usually written; score, mark or grade; [f:music] note
 
 === jargon ===
 alfabät : [n.] alphabet {Anc. Greek 'ἀλφάβητος' via English & French 'alphabet'}
@@ -1023,6 +1035,7 @@ si : [v.] fare; be, feel
 
 štät : [v.] damage {Serbian 'штете'}
 -> štätin : [n.] damage; cost, expense
+-> štätfär : [adj.] damageable
 
 pend : [v.] weigh; hang
 -> pendein : [n.] pension
@@ -1033,7 +1046,7 @@ fär : {Swedish '-bar', German 'fähig'}
 -- [adj.] able
 ----> färein : [n.] ability
 ----> nefär : [adj.] unable
--------> nefärein : [n.] unability
+-------> nefärein : [n.] inability
 -------> anefär : [v.] to make unable, to immobilize
 ----> defär : [adj.] disable(d)
 -------> defärein : [n.] disability
@@ -1079,6 +1092,10 @@ plis : [v.] [n.] fold {French 'plisser', Latin 'plicare' via French 'plier'}
 
 rol : [v.] roll
 
+süs : [v.] suck, slurp {French 'suçer'}
+
+frot : [v.] rub {French 'frotter'}
+
 heg : [v.] [reflexive] choke
 -> aheg : [v.] [trans] suffocate
 ----> ahegät : [adj.] anxious, distressed, troubled
@@ -1097,9 +1114,11 @@ maris : [v.] remember, recall
 -> marisfär : [adj.] memorable
 ----> marisfärät : [adv.] memorably
 
-
 falt : [v.] falter {Portugese 'faltar'}
 -> faltin : [n.] fault
+----> faltinät : [adj.] faulty
+-> faltafär : [adj.] fallible
+----> faltafärät : [adv.] fallibly
 
 alt : [v.] stop, cease {German 'Halt'}
 -> altör : [n.] device for stopping
@@ -1115,7 +1134,8 @@ talöd : [v.] follow {Korean '따르다'}
 -> talödein : [n.] (state of) following
 räg : [v.] rule, govern {Latin 'rego'}
 -> rägör : [n.] ruler, governor
--> rägeina : [n.] governance
+-> rägein : [n.] governance
+-> rägina : [n.] government
 läž : [v.] obey, serve, be loyal to {English 'liege' via 'allegiance'}
 -> läžein : [n.] loyalty, obedience, servitude, allegience
 ----> läžeinät : [adj.] loyal
@@ -1146,39 +1166,44 @@ plän : [v.] to mourn, pity; to bewail, lament for
 -> plänina : [n.] complaint
 
 manž : [v.] eat {Italian 'mangiare', French 'manger'}
-sül :
--- [v.] drink
-----> sülör : [n.] one who drinks (usu. alcohol)
--- [n.] drink
+sül : [v.] [n.] drink
+-> sülör : [n.] one who drinks (usu. alcohol)
+
 
 som : [v.] [intrans] sleep {Latin 'somnus' via French 'sommeil'} 
 -> somin : [n.] sleep
 ----> sominät : [adj.] sleepy
+-------> sominätät : [adv.] sleepily
 -> asom : [v.] [trans] knock out
+-> somäs : [adj.] somnial
 
 pas : [v.] pass, go by
 
 fam : [v.] hunger {Latin 'fames' via French 'faim'} 
 -> famin : [n.] hunger
 -> afam : [v.] [trans] to make hungry
-### hungry -> hungrily
+-> famät : [adj.] hunger
+----> famätät : [adv.] hungrily
 sit : [v.] thirst {? French 'soif', ? English 'thirsty'}
 -> sitin : [n.] thirst
 -> asit : [v.] [trans] to make thirsty
-### thirsty -> thirstily
+-> sität : [adj.] thirsty
+----> sitätät : [adv.] thirstily
 fatig : [v.] [intrans] to tire, become weary {French 'fatigue'}
 -> fatigein : [n.] tiredness
 -> afatig : [v.] [trans] to tire, make weary
-### tired -> wearily
+-> fatigit : [adj.] tired
+----> fatigität : [adv.] wearily
 
 tänj : [v.] [n.] stain {French 'teindre'}
 
 klin : [v.] [n.] incline, bend {Latin 'clino' via English 'incline' & French 'incliner'}
 
 
-nos :
--- [v.] [trans] give birth to
--- [v.] [intrans] [passive] be born @@
+nos : [v.] [trans] give birth to; [intrans] [passive] be born {FILL}
+-> nosina : [n.] birth
+ 
+
 viv :
 -- [v.] live
 -- [n.] life
@@ -1190,9 +1215,11 @@ mur : {French 'mourir'}
 -- [v.] die, end
 
 siät : [v.] wait
+-> siätina : [n.] wait, waiting
+
 brit : [v.] break {Swedish 'bryta'}
 
-fil :
+fil : ##
 -- [v.] like, appreciate
 
 läd : [v.] [n.] love {German 'leibt'}
@@ -1443,8 +1470,15 @@ vis : [v.] see, perceive, view, look, observe
 ----> obvisör : [n.] supervisor, overseer
 ----> obvisein : [n.] supervision
 ----> obvisäs : [adj.] supervisory
+-> imvis : [v.] examine, inspect
+----> imvisina : [n.] examination, inspection
+----> imvisör : [n.] examiner, inspector
 spir : [v.] breathe
 -> spirina : [n.] breath
+-> aspir : [v.] to suck up, vacuum
+----> aspirör : [n.] vacuum cleaner
+-> imspir : [v.] inspire
+----> inspirina : [n.] inspiration
 vitš : [v.] win {Italian 'vincere'}
 -> vitšina : [n.] victory
 -> vitšör : [n.] victor
@@ -1469,34 +1503,40 @@ regül : [v.] regulate
 sur : [adj.] big, large {Estonian 'suur'}
 -> asur : [v.] [usu. trans] to increase, embiggen, grow
 -> surät : [adv.] largely
+-> surein : [n.] size
 tis : [adj.] small {Breton}
 -> atis : [v.] to reduce, shrink
 -> tisät : [adv.] negligibly
 lon : [adj.] long {French 'long'}
 -> alon : [v.] lengthen
 -> lonät : [adv.] lengthily
+-> lonein : [n.] length
 šüt : [adj.] brief, short
 -> ašüt : [v.] shorten
 -> šütät : [adv.] briefly, shortly
 när : [adj.] wide, broad
 -> anär : [v.] widen, broaden
 -> närät : [adv.] widely, broadly
+-> närein : [n.] width
 sten : [adj.] narrow {Anc. Greek 'στενός'}
 -> asten : [v.] constrict
 -> stenät : [adv.] narrowly
 goš : [adj.] tall
 -> agoš : [v.] to grow (vertically)
+-> gošein : [n.] height
 ruš : [adj.] short
 -> aruš : [v.] to shorten (vertically)
 sob : [adj.] thick
 -> asob : [v.] thicken
 -> sobät : [adv.] thickly
+-> sobein : [n.] thickness
 pän : [adj.] thin
 -> apän : [v.] thin
 -> pänät : [adv.] thinly
 bur : [adj.] heavy
 -> abur : [v.] to make heavy
 -> burät : [adv.] heavily
+-> burein : [n.] weight
 müž : [adj.] light
 -> amüž : [v.] to lighten
 -> müžät : [adv.] lightly
