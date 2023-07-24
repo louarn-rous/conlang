@@ -132,9 +132,12 @@ pol    : [n.] chicken; poultry {Spanish 'pollo'}
 gal    : [n.] rooster, hen {Latin 'gallus'}
 -> galäs : [adj.] gallinaceous
 korvas : [n.] crow, raven {Japanese '烏', Latin 'corvus' via English 'corvid' & French 'corbeau'}
+-> korväs : [adj.] corvine
 parok  : [n.] parrot, parrakeet {English 'parrot', French 'perroquet'}
+-> parokäs : [adj.] psittacine
 rat    : [n.] rat {English, Latin 'rattus' via French 'rat'}
 žiraf  : [n.] giraffe {French 'giraffe'}
+-> žirafäs : [adj.] giraffine
 mono   : [n.] monkey {Spanish}
 -> monäs : [adj.] simian
 lüzd :
@@ -142,7 +145,7 @@ lüzd :
 ----> [adj.] vermicular
 -- [v.] squirm, wriggle, worm, crawl
 päsk   : [n.] fish {Breton 'pesk'}
--> päsktröbör : [n.] fishmonger ##
+-> päsktemätör : [n.] fishmonger
 -> päskäs : [adj.] piscine
 -> rodpäsk : [n.] goldfish {'rod' + 'päsk'}
 
@@ -175,7 +178,7 @@ sukar : {Arabic 'سكر' via French 'sucre' & English 'sugar'}
 ----> sukaräs : [adj.] saccharine
 -- [adj.] sweet
 ----> sukarät : [adv.] sweetly
-----> asukar [v.] sweeten {'-a' + 'sukar'}
+----> asukar : [v.] sweeten {'-a' + 'sukar'}
 kräm : {French 'crème'}
 -- [n.] cream
 -- [v.] to fill or cover with cream
@@ -187,8 +190,7 @@ käbab : {Arabic 'كباب' via English 'kebab' & French 'kébab'}
 -- [n.] juice
 -- [v.] to make into juice
 -----> žusör : [n.] machine that makes juice
-frit : [n.] [v.] fry {French 'frite'}
--> afrit : [v.] to make fried? @
+frit      : [n.] [v.] fry {French 'frite'}
 sup       : [n.] soup, stew {French 'soupe'}
 šokola    : [m.] chocolate {French 'chocolat', Russian 'шоколад'}
 tart      : [n.] tart {French 'tarte'}
@@ -220,7 +222,7 @@ lilak   : [n.] lilac {English 'lilac'}
 föl : {French 'feuille'}
 -- [n.] leaf
 -- [n.] feather
--- [n.] leaflet, strip of paper
+-> fölu : [n.] leaflet, strip of paper
 buis    : [n.] bush {Dutch, Afrikaans}
 vit     : [n.] vine {Latin 'vitis'}
 härb    : [n.] grass, herb {French 'herbe', English 'herb'}
@@ -232,6 +234,7 @@ flor : {Italian 'fiore', French 'fleur'}
 -- [n.] flower
 ----> floräs : [adj.] floral
 -------> floräsät : [adv.] florally
+----> flortemätör : [n.] florist 
 -- [v.] [intrans] bloom, blossom, flower
 tülip   : [n.] tulip {French 'tulipe', English 'tulip'}
 solflor : [n.] sunflower {'sol' + 'flor'}
