@@ -266,6 +266,7 @@ biom    : [n.] biome {French 'biome'}
 džangal : [n.] jungle {Hindi 'जंगल' via English 'jungle'}
 miraž   : [n.] mirage {French 'mirage'}
 räviir  : [n.] river {French 'rivière', Afrikaans 'rivier'} 
+-> räviiräs : [adj.] riverine
 
 === space ===
 astär  : [n.] star
@@ -273,6 +274,7 @@ astär  : [n.] star
 ----> astäräsät : [adv.] astrally
 lün    : [n.] moon {Latin 'luna'}
 -> lünäs : [adj.] lunar
+----> lünäsein : [n.] lunacy, insanity
 planät : [n.] planet {French 'planète'}
 -> planätäs : [adj.] planetary
 sol : [n.] sun {Latin 'sol' via French 'solaire'}
@@ -310,14 +312,15 @@ piät     : [m.] stone, rock {Italian 'pietra', Latin 'petram'}
 -> apiät : [v.] petrify
 tärakota : [m.] terracotta {Italian 'terracotta'}
 magma    : [m. unc.] magma {Anc. Greek 'μάγμα' via French, English}
-
 piäs    : [m.] sand {Croatian 'pijesak'}
 
-lant : [n.] land {German 'Land'}
+lant : [n.] land, domain {German 'Land'}
 -> alant : [v.] [intrans] make contact/arrive at land surface from air or sea
 ter : {French 'terre'}
 -- [n.] earth, ground, dirt
 ----> ater : [v.] (of aircraft) to land @
+----> teräs : [adj.] earthly
+-------> teräsät : [adv.] earthily
 -- [v.] (of electrical equipment) connect to the ground
 -- [v.] (of aircraft) prevent from flying
 feld    : [n.] field {German 'Feld'}
@@ -325,11 +328,13 @@ feld    : [n.] field {German 'Feld'}
 
 kristal : [n.] crystal {French 'cristal'}
 -> akristal : [v.] crystallize
+----> akristalina : [n.] crystallization
+-> kristaläs : [adj.] crystalline
 
 säl : [n.] salt {French}
 -> säläs : [adj.] saline
 -> asäl : [v.] [trans] salt
-kav      : [n.] cave {French 'cave'}
+kav      : [n.] cave, basement {French 'cave'}
 -> kavör : [n.] one who explores caves {'kav' + '-ör'} 
 ravin    : [n.] ravine
 kratär   : [n.] crater {French 'cratère'}
@@ -338,7 +343,7 @@ lits     : [n.] shore {Latin 'litus' via French 'littoral'}
 faas     : [n.] cliff
 mont :
 -- [n.] mountain
-----> ?? mountaineer @@
+----> montirör : [n.] mountaineer {'mont' + 'ir' + '-ör'}
 ----> montäs : [adj.] mountainous
 -------> montäsät : [adv.] mountainously
 -- [v.] [trans] to tower over, to dwarf
@@ -348,15 +353,17 @@ min : {French 'mine'}
 ----> minör : [n.] miner
 -- [n.] mine (explosive device)
 -- [v.] [trans] to lay mines
+----> demin : [v.] demine
 tünäl : {French 'tunnel'}
 -- [n.] tunnel
 -- [v.] (to make a) tunnel through
-----> tünelör : [n.] one who tunnels {'tünel' + '-ör'}
+----> tünelör : [n.] one who tunnels
 
 === körp · body ===
 pil    : [n.] hair {Latin 'pilus' via French 'épiler'}
 -> piläs : [adj.] pilar, crinal
 -> depil  : [v.] epilate
+----> depilör : [n.] epilator
 öl     : [n.] eye {French 'œil'}
 -> öläs : [adj.] ocular
 ----> öläsät : [adv.] ocularly
@@ -387,6 +394,7 @@ leng   : [n.] tongue {French 'langue'}
 -------> lenginäsät : [adv.] linguistically
 ost    : [n.] bone {Anc. Greek 'ὀστέον' via French 'ostéo-'}
 -> ostäs : [adj.] osteal
+-> ostät : [adj.] bony
 skelät : [n.] skeleton {Anc. Greek 'σκελετός' via French 'squelette' & English 'skeleton'}
 -> skelätäs : [adj.] skeletal
 ----> skelätäsät : [adv.] skeletally
@@ -410,6 +418,8 @@ kap : {Latin 'caput' via English 'captain' & French 'décapiter'}
 -- [n.] head
 ----> kapäs : [adj.] cranial
 -------> kapäs : [adv.] cranially
+----> dekap : [v.] behead, decapitate
+-------> dekapina : [n.] beheading, decapitation
 -- [v.] lead, direct
 ----> kapör : [n.] leader, director
 ----> kapiten : [n.] capitain
