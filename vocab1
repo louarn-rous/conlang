@@ -949,7 +949,27 @@ not : [n.] brief record, usually written; score, mark or grade; [f:music] note
 mod : [n.] style, fashion, way, manner {French 'mode'}
 -> -mod : [v.] [suf.] to play the role of, be
 
-
+lite : [n.] letter {Latin 'littera'}
+-> aliter : [v.] spell; alliterate
+----> aliterina : [n.] spelling; alliteration
+letä : [n.] letter, text, book {Latin 'littera'}
+-> let : [v.] read
+----> letina : [n.] reading
+----> letfär : [adj.] literate
+-------> letfärein : [n.] literacy
+-------> letnefär : [adj.] illiterate
+----------> letnefärein : [n.] illiteracy
+-> letefär : [adj.] legible
+----> letefärein : [n.] legibility
+----> letefärät : [adv.] legibly
+----> letenefär : [adj.] illegible
+-------> letenefärein : [n.] illegibility
+-------> letenefärät : [adv.] illegibly
+-> letäina : [n.] literature
+----> letäinäs : [adj.] literary
+-> letätemäta : [n.] bookshop, bookstore
+-> letäna : [n.] library
+---> letänai : [n.] librarian
 
 === fields ===
 sienza : [n.] science {Italian 'scienza', French & English 'science'}
@@ -1053,6 +1073,8 @@ piter : [v.] dig
 kos : [v.] hunt; seek
 -> kosin : [n.] hunt, search
 -> kosör : [n.] hunter
+
+
 
 säd : [v.] happen, occur {Latin 'cado'}
 -> imsäd : [v.] take place; meet, intersect
