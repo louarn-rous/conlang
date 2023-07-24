@@ -930,25 +930,40 @@ orde : [n.] order, arrangement, series {Latin 'ordo'}
 -> ordeät : [adj.] orderly
 -> desorde : [n.] disorder, disarray
 ----> desordeät : [adj.] disorderly
-sienza : [n.] science {Italian 'scienza', French & English 'science'}
--> sienzäs : [adj.] scientific
-----> sienzäsät : [adv.] scientifically
-genetika : [n.] genetics {Russian & Serbian 'генетика'}
--> genetikäs : [adj.] genetic
-----> genetikäsät : [adv.] genetically
+
 korb : [n.] basket
 not : [n.] brief record, usually written; score, mark or grade; [f:music] note
 mod : [n.] style, fashion, way, manner {French 'mode'}
 -> -mod : [v.] [suf.] to play the role of, be
 
-=== jargon ===
-alfabät : [n.] alphabet {Anc. Greek 'ἀλφάβητος' via English & French 'alphabet'}
--> alfabätäs : [adj.] alphabetical
-----> alfabätäsät : [adv.] alphabetically
-kanton  : [n.] [f:vexillology] canton {English 'canton'}
+
+
+=== fields ===
+sienza : [n.] science {Italian 'scienza', French & English 'science'}
+-> sienzäs : [adj.] scientific
+----> sienzäsät : [adv.] scientifically
+matämatik : [n.] mathematics (maths)
+-> matämatikäs : [adj.] mathematic, mathematical
+----> matämatikäsät : [adv.] mathematically
+fiziik : [n.] physics
+-> fiziikäs : [adj.] physical
+----> fiziikäsät : [adv.] physically
+-> astärfiziik : [n.] astrophysics
+----> astärfiziikäs : [adj.] astrophysical
+-------> astärfiziikäsät : [adv.] astrophysically
+biologik : [n.] biology
+-> biologikäs : [adj.] biological
+----> biologikäsät : [adv.] biologically
+genetik : [n.] genetics {Russian & Serbian 'генетика'}
+-> genetikäs : [adj.] genetic
+----> genetikäsät : [adv.] genetically
+
+=== physics ===
 atom     : [n.] atom
 -> atomäs : [adj.] atomic
 ----> atomäsät : [adv.] atomically
+----> usatomäs : [adj.] subatomic (sub-atomic)
+-------> usatomäsät : [adv.] subatomically
 elektron : [n.] electron
 -> elektronäs : [adj.] electronic
 ----> elektronäsät : [adv.] electronically
@@ -959,12 +974,16 @@ proton   : [n.] proton
 nötron   : [n.] neutron
 -> nötronäs : [adj.] neutronic
 nukleus  : [n.] nucleus
--> nukleas : [adj.] nuclear
-ülagarda : [n.] [f:marxism] vanguard {'üla' + 'garda'}
+-> nukleas : [adj.] nuclear, nucleic
 
+=== jargon ===
+alfabät : [n.] alphabet {Anc. Greek 'ἀλφάβητος' via English & French 'alphabet'}
+-> alfabätäs : [adj.] alphabetical
+----> alfabätäsät : [adv.] alphabetically
+kanton  : [n.] [f:vexillology] canton {English 'canton'}
+ülagarda : [n.] [f:marxism] vanguard {'üla' + 'garda'}
 bit      : [n.] [f:computing] bit
 servör   : [n.] [f:computing] server
-
 
 === verbs ===
 es  : [v.] be {German 'ist', French 'est', English 'is', Spanish}
