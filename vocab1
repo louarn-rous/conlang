@@ -166,7 +166,7 @@ nüs   : [n.] nut {French 'noix', English 'nut'}
 makademia : [n.] macadamia
 frut : {French, English 'fruit'}
 -- [n.] fruit
-----> fruttröbör : [n.] fruitmonger ##
+----> fruttemätör : [n.] fruitmonger
 ----> frutäs : [adj.] fructal, fruital
 -- [n.] product, result of
 banan : [n.] banana {French 'banane'}
@@ -602,6 +602,8 @@ ide     : [n.] idea {French 'idée'}
 niväl   : [n.] level {English 'level', French 'niveau'}
 strat   : [n.] layer {Latin 'stratum' via English}
 -> stratein : [n.] layeredness
+stras   : [n.] road; street {Latin 'strata' via Italian 'strada' & German 'Straße'}
+-> strasu : [n.] alleyway, lane
 läš     : [n.] way, path, method
 toš     : [n.] thing {French 'chose'}
 sünog   : [n.] edge, boundary, border
@@ -1037,6 +1039,13 @@ säd : [v.] happen, occur {Latin 'cado'}
 ----> asädina : [n.] provocation, cause
 
 värt : [v.] turn {Latin 'verto' via English '-ward'}
+-> värtina : [n.] turn
+-> devärt : [v.] divert, redirect; deflect, reflect
+----> devärtina : [n.] diversion, redirection; deflection, reflection
+-> mevärt : [v.] degenerate, degrade, decline
+----> mevärtina : [n.] degeneration, degradation, decline
+-> revärt : [v.] return; undo
+----> revärtina : [n.] return; undoing
 
 rän : [v.] try
 -> ränin : [n.] attempt
@@ -1229,6 +1238,8 @@ siät : [v.] wait
 -> siätina : [n.] wait, waiting
 
 brit : [v.] break {Swedish 'bryta'}
+-> britin : [n.] fissure, fissuring
+-> britina : [n.] breaking, destruction
 
 fil : ##
 -- [v.] like, appreciate
@@ -1239,15 +1250,16 @@ don : [v.] give, deal {French 'donner'}
 -> donina : [n.] donation
 -> adon : [v.] buy, purchase
 ----> adonör : [n.] buyer
-----> adonina : [n.] buy
-
-met : [v.] send {Latin 'mitto'}
-
+----> adonina : [n.] purchase
 prom : [v.] get, gain, obtain; take, steal
 -> promin : [n.] gain
 -> aprom : [v.] sell
 ----> apromör : [n.] seller
-----> apromina : [n.] sell
+----> apromina : [n.] sale
+
+met : [v.] send {Latin 'mitto'}
+-> metör : [n.] sender
+-> metina : [n.] send
 
 tüš : [v.] [intrans.] touch, reach, attain
 
@@ -1338,6 +1350,13 @@ mät  : [v.] set, change, assign, put {Latin 'mitto' via French 'mettre'}
 ----> demätina : [n.] revocation, withdrawal
 -> usmät : [v.] place under; submit, yield
 ----> usmätina : [n.] submission
+-> antemät : [v.] exchange, trade, swap
+----> antemätin(a) : [n.] exchange, trade, deal
+----> antemäta : [n.] [archaic] shop, hall, plaza, hub
+----> temät : [v.] sell, deal in, trade, supply
+-------> temäta : [n.] shop, store
+-------> temätör : [n.] trader, seller, supplier; merchant, shopkeeper
+-------> temätin(a) : [n.] purchase, sale, deal
 
 kal  : [v.] fit, match, correspond
 -> kalin : [n.] match @@
