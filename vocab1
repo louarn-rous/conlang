@@ -885,6 +885,8 @@ spät : [adj.] late {German}
 -> spätnat : [n.] evening {+ 'nat'}
 
 === people ===
+den : [n.] human {Breton}
+-> denäs : [adj.] human
 jor : [n.] man
 -> jorät : [adj.] manly, masculine
 ----> jorätät : [adv.] masculinely
@@ -1040,9 +1042,9 @@ servör   : [n.] [f:computing] server
 
 === verbs ===
 es  : [v.] be {German 'ist', French 'est', English 'is', Spanish}
--> esein : [n.] existence
-----> eseinäs : [adj.] existential
--------> eseinäsät : [adv.] existentially
+-> esin : [n.] existence
+----> esinäs : [adj.] existential
+-------> esinäsät : [adv.] existentially
 ev  : [v.] have
 -> evein : [v.] possession
 ten : [v.] hold {French 'tenir'}
