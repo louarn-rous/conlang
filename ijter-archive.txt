@@ -137,6 +137,13 @@ these are bad descriptions, feel free to suggest better wording/improvement
 \## end transcription ]]
 if i have the time to, although its certainly not a priority, i'll do this for most/all vocab
 
+`05-04-2023`
+prefix to demonstrate verb is reflexive
+- to throw → to be thrown
+- to birth → to be born
+similarly:
+- to smell ≠ to smell of
+
 `2023/04/20` got a really stupid idea last night
 i could allow combining indef/def det. with a personal det. to indicate that the subject is simultaneously either (def/indef) and belonging to a person
 'ér *friend*' → 'the *friend*'
@@ -178,6 +185,15 @@ Ll Лл     __l__ime                           Hh Һһ __h__ome
 im so stupid i couldve written these in text instead of spending ages adjusting it for the longer lines
 
 `2023-05-01` i had decided to use 'éd' for 'eat' but it feels too weird and too identical to the CV-structure e-syllable verbs i tend to have, which are meant for important things like 'to be' or 'to have'   /   something more latin like 'manž' (italian 'mangiare', french 'manger') might be more natural
+
+`02-05-2023`
+had an epiphany on the bus
+```because =!= despite
+therefore =!= nevertheless```i dont know how to describe it but theyre like a sort of grid
+A because B == B therefore A
+A despite B == B nevertheless A
+before i was trying to brainstorm all the words like these and i wasnt finding any pattern to it and i wondered if i could ever know for sure id covered everything
+now i know that for these 4 and their synonyms, theres a symetry
 
 `2023-05-13` will probably move #conlang-archive to an offline doc
 
@@ -245,6 +261,8 @@ after i get that sorted, i probably wont ever rework the vowels again, at least 
 
 `24-06-2023` jüs : [adj.] good @@
 
+`25-06-2023` suffix forming adj from noun with the sense of continuous undergoing as object
+
 `30-06-2023` [reply:unknown] ok dont do this btw idk why i thought this was a good idea its dum
 
 `04-07-2023` diminutive is `-nu` when final syllable is open
@@ -265,3 +283,20 @@ abvgdeëžzijklmnoprstufxcčš_\_\_\_ä\_\_
 2.25 c for every v : vccvccvccvcccvccvccvccvccc
 a td e pb o fv u mnh ä kg i sš ö zž ü lrj
 a11b22c3.23d4.5e5.6f6.?g7.4h8.?i9.11j
+
+`23-07-2023`
+· book
+-> bookshop/bookstore
+-> library
+---> librarian
+-> literature
+---> literary
+-> literate
+---> illiterate
+-> legible
+---> illegible
+(legi- and liter- are certainly different roots but im grouping them cause their meaning are related somewhat)
+funny, comes from Latin 'lego' which i used to derive 'läg' (select, choose)
+…and 'libr-' comes from 'liber', which the romans decided was a great idea to use to signify both 'book' and 'free'
+and which i already used to derive the latter.
+that means 'littera' (letter) is the only remaining option. i can't not also use it for 'letter' so ill have to find a way to derive 'book' from it as well. should be interesting
