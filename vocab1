@@ -841,13 +841,15 @@ lüd  : [v.] play
 nat   : [n.] day
 -> natäs : [adj.] diurnal, daily
 ----> natäsät : [adv.] diurnally
--> minnat : [n.] midday
--> sätänat : [n.] week
+-> mitälnat : [n.] afternoon {'mitäl' +}
+-> minat : [n.] midday {'mi(t)-' +}
+-> sätänat : [n.] week {'sät' +}
 ----> sätänatäs : [n.] weekly
 nošt  : [n.] night {Russian 'ночь', German 'Nacht'}
 -> noštäs : [adj.] nocturnal, nightly
 ----> noštäsät : [adv.] nocturnally
--> minnošt : [n.] midnight
+-> mitenošt : [n.] time of night past midnight {'mitäl' +}
+-> minošt : [n.] midnight {'mi(t)-' +}
 damer : [n.] dusk {German 'Dämmerlicht'}
 säkond : [n.] second {French 'seconde', English 'second'}
 minüt : [n.] minute {French, English 'minute'}
@@ -872,6 +874,12 @@ tän :
 ----> itän  : [n.] present {'i' + 'tän'}
 -------> ita : [n.] now
 -- [v.] to measure time
+var : [adj.] early {Estonian 'vara'}
+-> varäs : [adv.] early
+-> varnat : [n.] morning {+ 'nat'}
+spät : [adj.] late {German}
+-> spätäs : [adv.] late
+-> spätnat : [n.] evening {+ 'nat'}
 
 === people ===
 jor : [n.] man
@@ -1067,7 +1075,13 @@ söt : [v.] create, make, build, assemble, bring to fruition
 tös : [v.] to make into, turn the subject into ##
 -> stös : [v.] become ##
 
-fe : [v.] do
+ret : [v.] do {Breton}
+
+stag : [v.] start, commence {Breton}
+-> stagin : [n.] start
+
+dast : [v.] amass, assemble; pick, gather {Breton 'dastum'}
+-> dastina : [n.] gathering, assembly; harvest
 
 nim : [v.] walk
 -> anim : [v.] to make move; animate, bring to life
@@ -1144,9 +1158,10 @@ baž : [v.] need, require
 -> bažin : [n.] need, requirement
 vür : [v.] want, wish {French 'vouloir'}
 -> vürin : [n.] want, wish
-sünt : [v.] demand {Finnish 'kysyntä'}
--> süntin : [n.] demand
+sünt : [v.] demand, order {Finnish 'kysyntä'}
+-> süntin : [n.] demand, order
 tuž : [v.] would
+ret : [v.]
 
 träš : [v.] [trans] throw
 -> trešör : [n.] one who throws
