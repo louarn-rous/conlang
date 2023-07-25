@@ -204,8 +204,10 @@ akal      : [n.] alcohol {Arabic 'أَكْحَال' via English 'alcohol' & Fren
 -> akaläs : [adj.] alcoholic
 vodka     : [n.] vodka {Russian 'водка' via French, English 'vodka'}
 bier      : [n.] beer {French 'bière'}
+šister    : [n.] cider {Breton 'chistr'}
 glutän    : [n.] gluten
 jogurt    : [n.] yogurt
+läi       : [n.] yeast; leavening agent (Estonian 'leib', French 'levure')
 
 === plants & trees ===
 arb     : [n.] tree {French 'arbre'}
@@ -557,6 +559,7 @@ ministrina : [n.] ministry
 ----> administrinäs : [adj.] administrative
 -------> administrinäsät : [adv.] administratively
 
+ratne    : [n.] war {Serbo-Croatian 'рат'}
 arme     : [n.] army {French 'armée', also via German 'Armee'}
 soldat   : [n.] soldier {French 'soldat', German 'Soldat'}
 general  : [n.] general {Serbian 'генерал', French 'général'}
@@ -571,10 +574,6 @@ polis : {French 'police'}
 -- [v.] police
 
 departina : [n.] department
-
-ger ###
--- n. war
--- v. to be at war or go to war with
 
 prizon : [n.] prison
 -> prizonör : [n.] prisoner
@@ -633,7 +632,7 @@ liäs    : [n.] link {? French 'lier'}
 ----> liäsanein : [n.] relation, togetherness, 
 
 par : [n.] side
--> apar : [adv.] aside
+-> apar : [adv.] aside, besides
 
 pär : [n.] part, piece, share, component {Latin 'partem' via English & French 'part'}
 -> apär : [v.] divide, seperate, split
@@ -651,17 +650,23 @@ frän :
 -- [v.] be aware/conscious of ###
 
 prod : {Latin 'prode' via cogn. with English 'proud'}
--- [n.] pride ?
+-- [n.] pride
+----> prodver : [adj.] prideworthy
 -- [adj.] proud
 ----> prodät : [adv.] proudly
-heer :
--- [n.] hatred ?
--- [v.] hate
-enor : {Breton}
--- [v.] honor
-----> enorfär : [adj.] honorable
--------> enorfärät : [adv.] honorably
--- [n.] honor
+heer : [n.] [v.] hate
+-> heerin : [n.] hatred
+-> heerfär : [adj.] detestable
+----> heerfärät : [adv.] detestably
+-> heerver : [adj.] hateworthy
+enor : [n.] [v.] honor {Breton}
+-> enorfär : [adj.] honorable
+----> enorfärät : [adv.] honorably
+
+köz : [n.] [v.] regret {Breton 'keuz'}
+-> közfär : [adj.] regrettable
+----> közfärät : [adv.] regrettably
+
 
 rät : [n.] right {Swedish 'rättvisa'}
 -> rätäs : [adj.] just
@@ -680,6 +685,8 @@ leg : [n.] law {Latin 'lex'}
 ----> nelegäs : [adj.] illegal
 -------> nelegäsät : [adv.] illegally
 ----> legäsät : [adv.] legally
+-> legnuz : [adj.] lawless
+----> legnuzät : [adv.] lawlessly
 
 komik : [n.] comedy {French 'comique'}
 -> komikäs : [adj.] comical
@@ -772,7 +779,7 @@ glas : {French 'glace'}
 uäs : water
 vir : {French 'ver'}
 -- [m.] glass
----> aver : [v.] to turn into glass
+---> avir : [v.] to turn into glass
 -- [n.] a vessel, especially one made of glass or transparent plastic, from which one drinks
 
 === form ===
@@ -948,7 +955,6 @@ orde : [n.] order, arrangement, series {Latin 'ordo'}
 korb : [n.] basket
 not : [n.] brief record, usually written; score, mark or grade; [f:music] note
 mod : [n.] style, fashion, way, manner {French 'mode'}
--> -mod : [v.] [suf.] to play the role of, be
 
 lite : [n.] letter {Latin 'littera'}
 -> aliter : [v.] spell; alliterate
@@ -1170,6 +1176,16 @@ süs : [v.] suck, slurp {French 'suçer'}
 
 frot : [v.] rub {French 'frotter'}
 
+ver :  {Latin 'valor' via Italian 'valore' & French 'valeur', Swedish 'värde', Estonian 'väärt', German 'Wert'}
+-- [adj.] worth; deserving of
+-- [n.] worth, value, merit
+----> aver : [v.] evaluate
+----> vernuz : [adj.] worthless
+-------> vernuzät : [adv.] worthlessly
+-> verät : [adj.] worthy
+----> verätät : [adv.] worthily
+----> neverät : [adj.] unworthy
+
 heg : [v.] [reflexive] choke
 -> aheg : [v.] [trans] suffocate
 ----> ahegät : [adj.] anxious, distressed, troubled
@@ -1177,11 +1193,14 @@ heg : [v.] [reflexive] choke
 -------> ahegätein : [n.] anxiety, distress
 
 spär : [v.] [n.] hope {Latin 'spero' via French 'espérer'}
+
 tatlän : [v.] [n.] doubt
+-> tatlänver : [adj.] doubtsome, doubtful
 
 fräj : [v.] fear {French 'effrayer', English 'fear'}
 -> afräj : [v.] scare, spook
 -> fräjein : [n.] fear
+----> fräjeinver : [adj.] fearful, fearsome
 
 maris : [v.] remember, recall
 -> marisein : [n.] rememberance
@@ -1216,6 +1235,8 @@ läž : [v.] obey, serve, be loyal to {English 'liege' via 'allegiance'}
 -------> läžeinätät : [adv.] loyally
 -> deläž : [v.] disobey
 ----> deläžein : [n.] (state of) disobedience
+serv : [v.] serve
+-> servör : [n.] waiter, servant
 pläg : [v.] to pledge, promise, vow, swear (oath) {English 'pledge' + Latin 'plebio'}
 -> plägin : [n.] pledge, promise, vow, oath
 
@@ -1224,6 +1245,7 @@ fäns : [v.] strike, thrust, hit {Latin 'fendo' + via 'defensa'}
 ----> defänsin : [n.] defence
 ----> defänsäs : [adj.] defensive
 -------> defänsäsät : [adv.] defensively
+-> fänsör : [n.] [f:sports] striker
 
 ausk : [v.] [dated] listen, hear; heed, accept, obey {archaic 'aur' + archaic 'klen'}
 -> ausk : [v.] overheard; eavesdrop
@@ -1238,11 +1260,14 @@ pläs : [v.] to please, favour {Latin 'placeo' via French 'plaire'}
 
 plän : [v.] to mourn, pity; to bewail, lament for
 -> plänina : [n.] complaint
+-> plänfär : [adj.] pitiable
 
 manž : [v.] eat {Italian 'mangiare', French 'manger'}
-sül : [v.] [n.] drink
--> sülör : [n.] one who drinks (usu. alcohol)
+-> manžfär : [adj.] edible, comestible
 
+sül : [n.] drink
+-> sülör : [n.] one who drinks (usu. alcohol)
+-> sülin : [n.] drink
 
 som : [v.] [intrans] sleep {Latin 'somnus' via French 'sommeil'} 
 -> somin : [n.] sleep
@@ -1268,26 +1293,30 @@ fatig : [v.] [intrans] to tire, become weary {French 'fatigue'}
 -> afatig : [v.] [trans] to tire, make weary
 -> fatigit : [adj.] tired
 ----> fatigität : [adv.] wearily
+-> fatigver : [adj.] tiresome
+-> fatignuz : [adj.] tireless
+----> fatignuzät : [adv.] tirelessly
+----> fatignuzein : [n.] tirelessness
 
 tänj : [v.] [n.] stain {French 'teindre'}
 
 klin : [v.] [n.] incline, bend {Latin 'clino' via English 'incline' & French 'incliner'}
 
-
-nos : [v.] [trans] give birth to; [intrans] [passive] be born {FILL}
+nos : [v.] [trans] give birth to; [intrans] [passive] be born {Latin 'nascor' via French 'naissance', French 'noces'}
 -> nosina : [n.] birth
  
-
-viv :
+leb : {German 'Leben'}
 -- [v.] live
 -- [n.] life
-----> vivät : [adj.] lively
+----> lebät : [adj.] lively
 -- [adj.] alive
+----> releb : [v.] to revive
 mur : {French 'mourir'}
 -- [n.] death, end
 -- [n.] dead (person)
 ----> limur : [n.] ghost; spirit of the dead
 -- [v.] die, end
+----> murfär : [adj.] mortal
 
 siät : [v.] wait
 -> siätina : [n.] wait, waiting
@@ -1295,11 +1324,16 @@ siät : [v.] wait
 brit : [v.] break {Swedish 'bryta'}
 -> britin : [n.] fissure, fissuring
 -> britina : [n.] breaking, destruction
+-> britfär : [adj.] breakable
+----> britnefär : [adj.] unbreakable
 
 fil : ##
 -- [v.] like, appreciate
 
-läd : [v.] [n.] love {German 'leibt'}
+liäd : [v.] [n.] love {German 'leibe'}
+-> liädör : [n.] lover; romantic partner
+-> liädver : [adj.] loveable
+----> liädverät : [adv.] loveably
 
 don : [v.] give, deal {French 'donner'}
 -> donina : [n.] donation
@@ -1334,15 +1368,14 @@ räs : [v.] let, allow
 
 las : {French 'laisser'}
 -- [v.] leave, depart
-----> lasin : [n.] departure @@
+----> lasina : [n.] departure
 -- [v.] leave behind, let (go of)
 perd :
 -- [v.] lose
-----> perdin : [n.] loss @@
--- v. waste
+----> perdin : [n.] loss
+-- [v.] waste
 
-serv : [v.] serve
--> servör : [n.] waiter, servant
+
 
 pärmit : [v.] allow, permit {French 'permit'}
 -> pärmitan : [adj.] permitted ##
@@ -1804,7 +1837,7 @@ rosn : [adj.] warm
 -> arosn : [v.] warm, heat up, reheat
 -> rosnein : [n.] warmth, warmness
 -> rosnät : [adv.] warmly
-lös : [adj.] single, lone, only {French 'seul', English 'lone'}
+lös : [adj.] single, only; alone {French 'seul', English 'lone'}
 -> lös : [cnjc.] only
 -> alös : [v.] single out
 -> lösein : [n.] loneliness
@@ -1813,7 +1846,7 @@ püli : [adj.] multiple, plural
 -> apüli : [v.] to make plural, to multiply; to duplicate
 -> pülein : [n.] multiplicity, plurality
 -> püliät : [adv.] plurally
--> püli- : [suf.] multi-, plura-, poly-
+
 nüdit : [adj.] naked, nude
 -> anüdit : [v.] to strip of protection or clothing
 -> nüditein : [n.] nakedness
@@ -1837,12 +1870,13 @@ smät   : [v.] to copulate with
 šiäs   : [v.] [n.] shit, crap
 
 === archaic ===
-taj   : [n.] day [archaic] {German 'tag'}
-sübas : [n.] wing [archaic] {Japanese '翼'}
-aur   : [n.] ear [archaic] {Latin 'auris'}
-klen  : [n.] bend, incline [archaic] {Latin 'clino'}
-zdal  : [n.] slab [archaic] {French 'dalle'}
-hart  : [n.] core, centre [archaic] {Afrikaans}
-gan   : [v.] can, able to [archaic] {? English 'can'}
-busk  : [n.] bush {English 'bush', ? German 'Busch', ? Finnish 'puska'}
+taj   : [n.] [archaic] day {German 'tag'}
+sübas : [n.] [archaic] wing {Japanese '翼'}
+aur   : [n.] [archaic] ear {Latin 'auris'}
+klen  : [n.] [archaic] bend, incline {Latin 'clino'}
+zdal  : [n.] [archaic] slab {French 'dalle'}
+hart  : [n.] [archaic] core, centre {Afrikaans}
+gan   : [v.] [archaic] can, able to {? English 'can'}
+busk  : [n.] [archaic] bush {English 'bush', ? German 'Busch', ? Finnish 'puska'}
+viv   : [n.] [archaic] life [v.] live [adj.] alive {Spanish 'vida', French 'vivre'}
 
