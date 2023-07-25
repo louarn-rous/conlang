@@ -395,6 +395,7 @@ leng   : [n.] tongue {French 'langue'}
 -> lengina : [n.] language
 ----> lenginäs : [adj.] linguistic
 -------> lenginäsät : [adv.] linguistically
+-> [v.] [colloq.] lick
 ost    : [n.] bone {Anc. Greek 'ὀστέον' via French 'ostéo-'}
 -> ostäs : [adj.] osteal
 -> ostät : [adj.] bony
@@ -623,6 +624,7 @@ läš     : [n.] way, path, method
 toš     : [n.] thing {French 'chose'}
 sünog   : [n.] edge, boundary, border
 -> sünogein : [n.] state of being on the edge, of being borderline; hesitancy
+-> sünognuz : [adj.] boundless
 vine    : [n.] domain, realm {Croatian 'domovina'}
 
 liäs    : [n.] link {? French 'lier'}
@@ -713,8 +715,6 @@ form : [n.] form {Latin 'forma'}
 -> formäs : [adj.] formal
 ----> formäsät : [adv.] formally
 
-
-
 === fantasy ===
 maži    : [n.] magic {French 'magie'}
 -> mažiäs : [adj.] magical
@@ -738,12 +738,13 @@ räi   : [n.] king {Portugese 'rei'}
 -> räin : [n.] queen {+ French 'reine'}
 ----> räinu : [n.] princess
 -> räu : [n.] prince
-koron : {Latin 'corona' via Italian 'corona' & French 'couronne'}
--- [n.] crown
--- [v.] crown
+koron : [n.] crown {Latin 'corona' via Italian 'corona' & French 'couronne'}
+-> akoron : [v.] crown
 skläv : [n.] slave {French 'esclave'}
 -> sklävör : [n.] one who owns or trades slaves
 -> sklävein : [n.] slavery, slavedom
+-> askläv : [v.] enslave
+----> asklävina : [n.] enslavement
 
 === substance ===
 släm   : [m.] slime, goo, sludge {English 'slime', PIE '*sley-'}
