@@ -27,6 +27,8 @@ if i got rid of /œ/ in favour of /ə/ i would probably also get rid of /ø/ (al
 
 `2023/02/31` [...] da - it's [...] (asserting statement)
 
+`05-03-2023` although im tempted to also make '-ér' and '-ést' suffixes for adj.s since as i said in #project-discussion, too much modularism is ugg
+
 `2023/03/06` ok so back to alphabet for once
 many languages use ö for /ø/, a lot of them (Asturian in Iberia, Chenchen, Estonian, German and some of its dialects, Lombard, Luxembourgish, Sater Frisian among others)
 its nice to have ø represent itself but of course thats not a rule ive ever considered, otherwise /e/ wouldnt be é
@@ -38,6 +40,14 @@ the `o ö` pair would also go nicely with `é è`
 
 `2023/03/07` in a couple cases im conflicted between roman and latin roots
 for example, idk if 'god' should be 'Got' or 'Dös'/'Döš'
+
+07-03-2023
+```draft
+
+fil - filo
+ord - ordo
+fob - fobo
+lyd - lydo```
 
 `2023/03/10` what if i used `ü` instead of`y`? it would allow me to forego the use of `y` entirely (because broken keyboard + `y` looks completely different to `u` even though they are 'twinned' in my alphabet due to vague phonetic proximity\) plus multiple languages use it to represent /y/ while `u` represents... /u/
 
