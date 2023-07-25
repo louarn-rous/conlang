@@ -110,8 +110,8 @@ väst :
 ----> västest : [adj.] westmost
 
 === adverbs ===
-mer  : [adv.] comparative ('more')
-mest : [adv.] superlative ('most')
+mer  : [adv.] comparative ('more') {Dutch 'meer'}
+mest : [adv.] superlative ('most') {Dutch 'meest'}
 ler  : [adv.] diminutive comparative ('less')
 lest : [adv.] diminutive superlative ('least')
 te   : [adv.] too, too much, too many
@@ -192,21 +192,24 @@ sü : [ptcl.] existential, indicates 'there is/exists' concerning the object of 
 -e      : [suf.] forms ordinal numbers
 -ina    : [suf.] used to form nouns from verbs, indicating the action of what is denoted by the verb {Croatian 'batina'} @
 -> -in  : [suf.] used to form nouns from verbs, describing the result of an action @
--ör     : [suf.] forms agent nouns from verbs ('-er')
+-ör     : [suf.] forms agent nouns from verbs ('-er') 
 -äs     : [suf.] used to form adjectives from nouns, with the meaning 'of or pertaining to' the suffixed word ('-ic')
 -(s)ein : [suf.] used to form nouns, denoting the condition or state of the suffixed word ('-hood', '-dom', '-ness') {Archaic form: '-esin'}
--fär    : [suf.] used to form adjectives from verbs, indicating that the action can be performed {from 'fär'} ('-able')
--nuz    : [suf.] abessive {from 'nuz'} ('-less')
+-fär    : [suf.] used to form adjectives from verbs, indicating that the action can be performed ('-able') {see 'fär'}
+-nuz    : [suf.] abessive ('-less') {see 'nuz'}
+-ver    : [suf.] used to form adjectives from nouns, meaning deserving or worthy of the suffixed word ('-worthy', '-some') {see 'ver'}
 -a      : [suf.] used to mark a place
 
 -(n)(en)i : [suf.] used to form nouns, indicating someone who is from a place
-
--an : [suf.] used to form adjectives from verbs, meaning having undergone the suffixed verb (passive) ###
 
 -ät :
 -- [suf.] used to form adverbs from verbs and nouns
 -- [suf.] used to form adjectives from nouns, meaning resembling the suffixed word (esp. in behaviour)
 -- [suf.] used to form adjectives from verbs, meaning 'inclined to' ###
+
+-an : [suf.] used to form adjectives from verbs, meaning having undergone the suffixed verb (passive) ###
+
+-mod : [suf.] [v.] used to form verbs from nouns, with the sence of playing the role of, or being the suffixed word {see 'mod'}
 
 a- : [prf.]
 -- used to form verbs from adjectives, indicating the gain of the adjectivial property
@@ -217,6 +220,9 @@ ne(s)- : [prf.] negatory; absent, lacking
 de(s)- : [prf.] reversal or removal, lack of ('-dis', 'de-')
 me(s)- : [prf.] badly or wrongly {French 'mal-', English 'mis-'}
 re(s)- : [prf.] again; anew {French & English 're-'} 
+
+püli- : [prf.] multi-, plura-, poly- {see 'püli'}
+lös-  : [prf.] mono-, uni- {see 'lös'}
 
 === interjections ===
 halo : [intj.] greeting, call for response ('hello')
