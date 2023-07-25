@@ -560,6 +560,8 @@ ministrina : [n.] ministry
 -------> administrinäsät : [adv.] administratively
 
 ratne    : [n.] war {Serbo-Croatian 'рат'}
+----> ratnemätör : [n.] warmonger
+----> ratnemätina : [n.] warmongering
 arme     : [n.] army {French 'armée', also via German 'Armee'}
 soldat   : [n.] soldier {French 'soldat', German 'Soldat'}
 general  : [n.] general {Serbian 'генерал', French 'général'}
@@ -1075,6 +1077,9 @@ söt : [v.] create, make, build, assemble, bring to fruition
 tös : [v.] to make into, turn the subject into ##
 -> stös : [v.] become ##
 
+utej : [v.] use
+-> utejin : [n.] use, purpose
+
 ret : [v.] do {Breton}
 
 stag : [v.] start, commence {Breton}
@@ -1460,7 +1465,7 @@ mät  : [v.] set, change, assign, put {Latin 'mitto' via French 'mettre'}
 ----> antemäta : [n.] [archaic] shop, hall, plaza, hub
 ----> temät : [v.] sell, deal in, trade, supply
 -------> temäta : [n.] shop, store
--------> temätör : [n.] trader, seller, supplier; merchant, shopkeeper
+-------> temätör : [n.] trader, seller, supplier; merchant, shopkeeper; dealer
 -------> temätin(a) : [n.] purchase, sale, deal
 
 kal  : [v.] fit, match, correspond
@@ -1630,6 +1635,8 @@ särš : [v.] search, seek {French 'chercher', English 'search'}
 profit : [v.] profit
 -> profitina : [n.] profit
 -> profitör : [n.] profiteer
+----> ratneprofitör : [n.] war profiteer
+----> ratneprofitina : [n.] war profiteering
 regül : [v.] regulate
 -> regülina : [n.] regulation
 -> regülör : [n.] one that regulates
@@ -1712,6 +1719,14 @@ klar : [adj.] clear; transparent; evident {Latin 'clarus' from English 'clarity'
 -> aklar : [v.] to clear; to make clear, clarify
 -> klarein : [n.] clarity
 -> klarät : [adv.] clearly
+rön : [adj.] dull, blunt
+-> arön : [v.] blunt, dull
+-> rönein : [n.] dullness, bluntness
+-> rönät : [adv.] dully, bluntly
+sir : [adj.] sharp, acute
+-> asir : [v.] sharpen
+-> sirein : [n.] sharpness
+-> sirät : [adv.] sharply
 
 bir : [adj.] near, close
 -> abir : [v.] to bring closer; to approach
