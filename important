@@ -15,10 +15,12 @@ is : [det.] proximal demonstrative ('this')
 -> tena : [det.] when {'tän' +}
 -> aža  : [det.] where; wherein {'-a' +}
 -> meža : [det.] how many, how much {'me' +}
+-> žavär : [det.] to/in what direction, towards where {+ '-vär'}
 
 netä : [det.] any, either
 -> tošnetä : [det.] whatever, anything {'toš' + 'netä')
 -> nölletä : [det.] neither
+-> netäa : [adv.] anywhere
 
 === prepositions ===
 dö  : [prep.] ablative and genitive particle ('from', 'of', authorship)
@@ -57,9 +59,11 @@ gešt : [prep.] against
 ob   : [prep.] on (top of)
 -> ob(e)- : [prf.] over-, super-
 -> štob : [prep.] above, over
+-> obpar : [n.] overside, top, surface
 us   : [prep.] under(neath)
 -> us(e)- : [prf.] under-, sub-
 -> surma : [prep.] below, under
+-> uspar : [n.] underside
 
 ant : [prep.] between, among {Latin 'inter' via English 'internal'}
 -> antäs : [adj.] internal, interior
@@ -67,6 +71,8 @@ ant : [prep.] between, among {Latin 'inter' via English 'internal'}
 -> antira : [n.] interior
 -> ant(e)- : [suf.] between
 -> antuz : [cnjc.] in between, with
+-> antvär : [adj.] towards between
+----> antvär : [adv.] towards between
 
 tra(s) : [prep.] across, through {Breton 'tra'}
 
@@ -91,11 +97,14 @@ räšt : [n.] right {German 'Rechts'}
 -> räštest : [adj.] rightmost
 -> räštvär : [adj.] rightwards
 ----> räštvärät : [adv.] rightwards
-fas  : [n.] front {French 'face'}
-
+drän  : [n.] front {French 'face'}
+-> dränvär : [adj.] frontwards
+----> dränvärt : [adv.] frontwards
+-> dränpar : [n.] frontside
 täg  : [n.] back
--> tägvär : [adj.] backward
-----> tägvärät : [adv.] backward
+-> tägvär : [adj.] backwards
+----> tägvärät : [adv.] backwards
+-> tägpar : [n.] backside
 
 mitäl :
 -- [n.] middle, centre
@@ -104,24 +113,33 @@ mitäl :
 -> mi(t)- : [prf.] ('mid-')
 -> mität : [adj.] mild
 ----> mitätät : [adv.] mildly
+
 nord :
 -- [n.] north
+----> nordvär : [adj.] northwards
+-------> nordvärt : [adv.] northwards
 -- [adj.] northern
 ----> nordät : [adv.] northernly
 ----> nordest : [adj.] northmost
 -> nordäs : [adj.] nordic
 äst :
 -- [n.] east
+----> ästvär : [adj.] eastwards
+-------> ästvärt : [adv.] eastwards
 -- [adj.] eastern
 ----> ästät : [adv.] easternly
 ----> ästest : [adj.] eastmost
 süd :
 -- [n.] south
+----> südvär : [adj.] southwards
+-------> südvärt : [adv.] southwards
 -- [adj.] southern
 ----> südät : [adv.] southernly
 ----> südest : [adj.] southernmost
 väst :
 -- [n.] west
+----> västvär : [adj.] westwards
+-------> västvärt : [adv.] westwards
 -- [adj.] western
 ----> västät : [adv.] westernly
 ----> västest : [adj.] westmost
