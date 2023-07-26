@@ -2,7 +2,7 @@
 nümer : [n.] number; number of, count {French 'numéro'}
 -> anümer [v.] [trans] to assign a number to
 -> nümeräs : [adj.] numerical
-----> nümeräsät : [adv.] numerically
+----> nümeräst : [adv.] numerically
 nöl : {German 'Null', English 'null', French 'annuler'}
 -- [num.] 0 (zero)
 -- [adj.] none, null, nought
@@ -17,13 +17,13 @@ nöl : {German 'Null', English 'null', French 'annuler'}
 ----> atün : [v.] complete, to make whole
 ----> tünät : [adv.] wholly
 -> ünäs : [adj.] primary
-----> ünäsät : [adv.] primarily
+----> ünäst : [adv.] primarily
 -> ünein : [n.] oneness
 to  : [num.] 2 (two)
 -> toe : [ord. num.] second
 ----> toäs : [adv.] secondly
 -> toäs : [adj.] secondary
-----> toäsät : [adv.] secondarily
+----> toäst : [adv.] secondarily
 -> tosein : [n.] duality
 tri : [num.] 3 (three) {Russian 'три', French 'trois'}
 -> trie : [ord. num.] third
@@ -234,13 +234,13 @@ buis    : [n.] bush {Dutch, Afrikaans}
 vit     : [n.] vine {Latin 'vitis'}
 härb    : [n.] grass, herb {French 'herbe', English 'herb'}
 -> härbäs : [adj.] herbal
-----> härbäsät : [adv.] herbally
+----> härbäst : [adv.] herbally
 bambu   : [m.] bamboo {French 'bambou'}
 kaktüs  : [n.] cactus {French 'cactus'}
 flor : {Italian 'fiore', French 'fleur'}
 -- [n.] flower
 ----> floräs : [adj.] floral
--------> floräsät : [adv.] florally
+-------> floräst : [adv.] florally
 ----> flortemätör : [n.] florist 
 -- [v.] [intrans] bloom, blossom, flower
 tülip   : [n.] tulip {French 'tulipe', English 'tulip'}
@@ -250,10 +250,10 @@ solflor : [n.] sunflower {'sol' + 'flor'}
 === natural phenomena ===
 velt    : [n.] world {German 'Welt'}
 -> veltäs : [adj.] wordly; actual, material
-----> veltäsät : [adv.] actually; materially
+----> veltäst : [adv.] actually; materially
 säls : [n.] sky {Italian 'cielo', French & English 'celestial'}
 -> selsäs : [adj.] celestial
-----> selsäsät : [adv.] celestially
+----> selsäst : [adv.] celestially
 vänt    : [n.] wind {Latin 'ventus'}
 -> väntäs : [adj.] aeolian
 briz    : [n.] breeze {French 'brize', English 'breeze'}
@@ -278,7 +278,7 @@ räviir  : [n.] river {French 'rivière', Afrikaans 'rivier'}
 === space ===
 astär  : [n.] star
 -> astäräs : [adj.] astral
-----> astäräsät : [adv.] astrally
+----> astäräst : [adv.] astrally
 lün    : [n.] moon {Latin 'luna'}
 -> lünäs : [adj.] lunar
 ----> lünäsein : [n.] lunacy, insanity
@@ -305,7 +305,7 @@ metal    : [m. unc.] metal {French 'métal'}
 -> metaltröb : [n.] metalwork {'metal' + 'tröb'}
 ----> metaltröbör : [n.] metalworker
 -> metaläs : [adj.] metallic
-----> metaläsät : [adv.] metallically
+----> metaläst : [adv.] metallically
 bronz    : [m. unc.] bronze {English 'bronze'}
 fer      : [m. unc.] iron {French}
 -> feräs : [adj.] ferrous
@@ -328,7 +328,7 @@ ter : {French 'terre'}
 -- [n.] earth, ground, dirt
 ----> ater : [v.] (of aircraft) to land @
 ----> teräs : [adj.] earthly
--------> teräsät : [adv.] earthily
+-------> teräst : [adv.] earthily
 -- [v.] (of electrical equipment) connect to the ground
 -- [v.] (of aircraft) prevent from flying
 feld    : [n.] field {German 'Feld'}
@@ -353,7 +353,7 @@ mont :
 -- [n.] mountain
 ----> montirör : [n.] mountaineer {'mont' + 'ir' + '-ör'}
 ----> montäs : [adj.] mountainous
--------> montäsät : [adv.] mountainously
+-------> montäst : [adv.] mountainously
 -- [v.] [trans] to tower over, to dwarf
 min : {French 'mine'}
 -- [n.] mine, mineshaft
@@ -374,53 +374,53 @@ pil    : [n.] hair {Latin 'pilus' via French 'épiler'}
 ----> depilör : [n.] epilator
 öl     : [n.] eye {French 'œil'}
 -> öläs : [adj.] ocular
-----> öläsät : [adv.] ocularly
+----> öläst : [adv.] ocularly
 nas    : [n.] nose {Latin 'nasus' via English, French 'nasal'}
 -> nasäs : [adj.] nasal
-----> nasäsät : [adv.] nasally
+----> nasäst : [adv.] nasally
 ur     : [n.] ear {Latin 'auris' via 'ausculto' via Italian 'ascoltare'}
 -> uräs : [adj.] aural
 ----> urod : [v.] hear
 -------> urodäs : [adj.] auditory
-----------> urodäsät : [adv.] auditorily
+----------> urodäst : [adv.] auditorily
 -------> urodfär : [adj.] audible
 ----------> urodfärät : [adv.] audibly
-----> uräsät : [adv.] aurally
+----> uräst : [adv.] aurally
 mož    : [n.] mouth
 -> možäs : [adj.] oral
-----> možäsät : [adv.] orally
+----> možäst : [adv.] orally
 stom   : [n.] [archaic] mouth {Anc. Greek 'στόμα'}
 -> stomak : [n.] stomach {Anc. Greek 'στόμαχος'}
 dänt   : [n.] tooth {Latin 'dens' via French 'dentiste'/'dentaire', English 'dentist'/'dental'}
 -> däntäs : [adj.] dental
-----> däntäsät : [adv.] dentally
+----> däntäst : [adv.] dentally
 leng   : [n.] tongue {French 'langue'}
 -> lengäs : [adj.] lingual
-----> lengäsät : [adv.] lingually
+----> lengäst : [adv.] lingually
 -> lengina : [n.] language
 ----> lenginäs : [adj.] linguistic
--------> lenginäsät : [adv.] linguistically
+-------> lenginäst : [adv.] linguistically
 -> [v.] [colloq.] lick
 ost    : [n.] bone {Anc. Greek 'ὀστέον' via French 'ostéo-'}
 -> ostäs : [adj.] osteal
 -> ostät : [adj.] bony
 skelät : [n.] skeleton {Anc. Greek 'σκελετός' via French 'squelette' & English 'skeleton'}
 -> skelätäs : [adj.] skeletal
-----> skelätäsät : [adv.] skeletally
+----> skelätäst : [adv.] skeletally
 kol : [n.] neck {Latin 'collum' via French 'col' & English 'collar'}
 -> koliär : [n.] collar
 -> koläs : [adj.] cervical (neck)
-----> koläsät : [adv.] cervically (neck)
+----> koläst : [adv.] cervically (neck)
 vän  : [n.] vein {French 'veine'}
 -> vänäs : [adj.] venous
-----> vänäsät : [adv.] venously
+----> vänäst : [adv.] venously
 hart : [n.] heart {Afrikaans}
 -> hartäs : [adj.] cardiac
-----> hartäsät : [adv.] cordially
+----> hartäst : [adv.] cordially
 blüt : {German 'Blut'}
 -- [n.] blood
 ----> blütäs : [adj.] sanguine
--------> blütäsät : [adv.] sanguinely
+-------> blütäst : [adv.] sanguinely
 -- [v.] bleed
 ----> ablüt : [v.] to make bleed
 kap : {Latin 'caput' via English 'captain' & French 'décapiter'}
@@ -435,22 +435,22 @@ kap : {Latin 'caput' via English 'captain' & French 'décapiter'}
 läp : {English 'lip', Latin 'labrum' via French 'lèvre'}
 -- [n.] lip
 ----> läpäs : [adj.] labial
--------> läpäsät : [adv.] labially
+-------> läpäst : [adv.] labially
 -- [v.] [informal] to kiss
 man : {Latin 'manus' via French 'main' & English 'manual'}
 -- [n.] hand
 ----> manäs : [adj.] of or relating to the hand; manual
--------> manäsät : [adv.] manually
+-------> manäst : [adv.] manually
 -- [v.] [trans] handle, control, manage
 räš :
 -- [n.] flesh, meat
 ----> räšäs : [adj.] carnal
--------> räšäsät : [adv.] carnally
+-------> räšäst : [adv.] carnally
 -- [v.] [trans] shape, give form to
 seräb : {Latin 'cerebrum' via English 'cerebellum' & French 'cervelle'}
 -- [n.] brain
 ----> seräbäs : [adj.] cerebral
--------> seräbäsät : [adv.] cerebrally
+-------> seräbäst : [adv.] cerebrally
 -- [v.] [informal] to think of/find a solution to a problem
 süt : {French 'suant'}
 -- [v.] sweat
@@ -471,7 +471,7 @@ zbas : [n.] wing {Japanese '翼'}
 fung : [n.] mushroom {Italian 'funghi'}
 -> [n.] [colloq.] penis
 -> fungäs : [adj.] fungal
-----> fungäsät : [adv.] fungally
+----> fungäst : [adv.] fungally
 tust : [n.] tail
 embrion : [n.] embryo {French 'embryon'}
 -> embrionäs : [adj.] embryonic
@@ -521,7 +521,7 @@ radio : {English, French}
 telefon : [n.] [v.] telephone
 -> telefonina : [n.] telephone call
 -> telefonäs : [adj.] telephonic
-----> telefonäsät : [adv.] telephonically
+----> telefonäst : [adv.] telephonically
 
 === tools ===
 fals  : [n.] sickle {Catalan 'falç'}
@@ -538,22 +538,22 @@ flis : {Frisian 'fluitsje', French 'siffle(t)'}
 === music ===
 müzik    : [n.] music {German 'Musik', French 'musique'}
 -> müzikäs : [adj] musical
-----> müzikäsät : [adv.] musically
+----> müzikäst : [adv.] musically
 saksofon : [n.] saxophone {French 'saxophone' also via English}
 piano    : [n.] piano {Italian}
 
 === society, politics, government ===
 nasion   : [n.] nation; body of people
 -> nasionäs : [adj.] national
-----> nasionäsät : [adv.] nationally
+----> nasionäst : [adv.] nationally
 stat     : [n.] state, government {German 'Staat'}
 partit   : [n.] (political) party {French 'parti'}
 politik : [n.] politics; set of (political) beliefs, ideology {German 'Politik'}
 -> politikäs : [adj.] political
-----> politikäsät : [adv.] politically
+----> politikäst : [adv.] politically
 popul : [n.] the people (collective) {Latin 'populus'}
 -> populäs : [adj.] popular
-----> populäsät : [adv.] popularly
+----> populäst : [adv.] popularly
 publik : [n.] crowd, people (collective) {Latin 'publicus' via French & English 'public'}
 -> publik : [adj.] public; concerning the public
 ----> publikät : [adv.] publicly
@@ -563,7 +563,7 @@ partizan : [n.] partisan {Italian 'partigiane', French, English 'partisan'}
 ministrina : [n.] ministry
 ~> administrina : [n.] adiministration
 ----> administrinäs : [adj.] administrative
--------> administrinäsät : [adv.] administratively
+-------> administrinäst : [adv.] administratively
 
 ratne    : [n.] war {Serbo-Croatian 'рат'}
 ----> ratnemätör : [n.] warmonger
@@ -593,12 +593,12 @@ katädral : [n.] cathedral {French 'catédrale'}
 dom      : [n.] house, home {Russian 'дома'}
 -> domäs : [adj.] domestic
 ----> adomäs : [v.] domesticate
-----> domäsät : [adv.] domestically
+----> domäst : [adv.] domestically
 haim     : [n.] home {German 'Heim'}
 skol     : [n.] school {English 'school', French 'école'. accidental cognate with Breton}
 -> skolör : [n.] student
 -> skoläs : [adj.] scholar
-----> skoläsät : [adv.] scholarly
+----> skoläst : [adv.] scholarly
 drom     : [n.] port {Russian 'космодром'}
 
 === clothes ===
@@ -613,11 +613,11 @@ poka  : [n.] pocket, pouch {Frankish}
 === concepts ===
 kültür  : [n.] culture {German 'Kultur', French 'culture'}
 -> kültüräs : [adj.] cultural
-----> kültüräsät : [adv.] culturally
+----> kültüräst : [adv.] culturally
 värsion : [n.] version {French, English 'version'}
 sistäm  : [n.] system {French 'système', English 'system'}
 -> sistämäs : [adj.] systemic
-----> sistämäsät : [adv.] systemically
+----> sistämäst : [adv.] systemically
 ide     : [n.] idea {French 'idée'}
 
 niväl   : [n.] level {English 'level', French 'niveau'}
@@ -637,8 +637,7 @@ liäs    : [n.] link {? French 'lier'}
 ----> aliäsina : [n.] connection
 -> deliäs : [n.] disconnect
 ----> deiliäsina : [n.] disconnection
--> liäsan : [adj.] linked ##
-----> liäsanein : [n.] relation, togetherness, 
+-> liäsein : [n.] relation, togetherness
 
 par : [n.] side
 -> apar : [adv.] aside, besides
@@ -652,12 +651,12 @@ gove : [n.] voice; spirit
 
 nam : [n.] name 
 -> namäs : [adj.] nominal
-----> namäsät : [adv.] nominally
+----> namäst : [adv.] nominally
 -> anam : [v.] to give/assign a name to
 frän :
 -- [n.] mind
 ----> fränäs : [adj.] mental
--------> fränäsät : [adv.] mentally
+-------> fränäst : [adv.] mentally
 -- [v.] be aware/conscious of ###
 
 prod : {Latin 'prode' via cogn. with English 'proud'}
@@ -686,34 +685,34 @@ rät : [n.] right {Swedish 'rättvisa'}
 -> rätäs : [adj.] just
 ----> rätäsein : [n.] justice
 -------> rätäseinäs : [adj.] judiciary; judicial
-----------> rätäseinäsät : [adv.] judicially
+----------> rätäseinäst : [adv.] judicially
 -------> rätäseinör : [n.] judge, jurist
 ----> arätäs : [v.] adjust, rectify; justify
 ----> nerätäs : [adj.] unjust
 -------> nerätäsein : [n.] injustice
--------> nerätäsät : [adv.] unjustly
-----> rätäsät : [adv.] justly
+-------> nerätäst : [adv.] unjustly
+----> rätäst : [adv.] justly
 
 leg : [n.] law {Latin 'lex'}
 -> legäs : [adj.] legal
 ----> nelegäs : [adj.] illegal
--------> nelegäsät : [adv.] illegally
-----> legäsät : [adv.] legally
+-------> nelegäst : [adv.] illegally
+----> legäst : [adv.] legally
 -> legnuz : [adj.] lawless
 ----> legnuzät : [adv.] lawlessly
 
 komik : [n.] comedy {French 'comique'}
 -> komikäs : [adj.] comical
-----> komikäsät : [adv.] comically
+----> komikäst : [adv.] comically
 -> komikör : [n.] comedian
 
 kärn : [n.] core, centre
 -> kärnäs : [adj.] central
-----> kärnäsät : [adv.] centrally
+----> kärnäst : [adv.] centrally
 
 son : [n.] sound {Latin 'sono' + via French 'son'}
 -> sonäs : [adj.] sonic
-----> sonäsät : [adv.] sonically
+----> sonäst : [adv.] sonically
 -> neson : [n.] silence
 ----> nesonät : [adj.] silent
 -------> nesonätät : [adv.] silently
@@ -721,17 +720,17 @@ son : [n.] sound {Latin 'sono' + via French 'son'}
 
 form : [n.] form {Latin 'forma'}
 -> formäs : [adj.] formal
-----> formäsät : [adv.] formally
+----> formäst : [adv.] formally
 
 === fantasy ===
 maži    : [n.] magic {French 'magie'}
 -> mažiäs : [adj.] magical
-----> mažiäsät : [adv.] magically
+----> mažiäst : [adv.] magically
 goläm   : [n.] golem {English 'golem'}
 zambi   : [n.] zombie {Bantu via English 'zombie'}
 dragon  : [n.] dragon {English, French}
 -> dragonäs : [adj.] draconic
-----> dragonäsät : [adv.] draconically
+----> dragonäst : [adv.] draconically
 posion  : [n.] potion {French, English 'potion'}
 
 === historical ===
@@ -742,7 +741,7 @@ totäm : [n.] totem {French 'totème', English 'totem'}
 -> totämäs : [adj.] totemic
 räi   : [n.] king {Portugese 'rei'}
 -> räiäs : [adj.] royal
-----> räiäsät : [adv.] royally
+----> räiäst : [adv.] royally
 -> räin : [n.] queen {+ French 'reine'}
 ----> räinu : [n.] princess
 -> räu : [n.] prince
@@ -851,14 +850,14 @@ lüd  : [v.] play
 === time - tän ===
 nat   : [n.] day
 -> natäs : [adj.] diurnal, daily
-----> natäsät : [adv.] diurnally
+----> natäst : [adv.] diurnally
 -> mitälnat : [n.] afternoon {'mitäl' +}
 -> minat : [n.] midday {'mi(t)-' +}
 -> sätänat : [n.] week {'sät' +}
 ----> sätänatäs : [n.] weekly
 nošt  : [n.] night {Russian 'ночь', German 'Nacht'}
 -> noštäs : [adj.] nocturnal, nightly
-----> noštäsät : [adv.] nocturnally
+----> noštäst : [adv.] nocturnally
 -> mitenošt : [n.] time of night past midnight {'mitäl' +}
 -> minošt : [n.] midnight {'mi(t)-' +}
 damer : [n.] dusk {German 'Dämmerlicht'}
@@ -869,17 +868,17 @@ uur   : [n.] hour {German 'Uhr'}
 -> mitäl uur : [n.] noon {'mitäl' + 'uur'}
 mäns  : [n.] month {Latin 'mensis' via French 'mensuel'}
 -> mänsäs : [adj.] mensual, monthly
-----> mänsäsät : [adv.] mensually
+----> mänsäst : [adv.] mensually
 anu : [n.] year {French 'an'}
 -> anuäs : [adj.] annual
-----> anuäsät : [adv.] annually
+----> anuäst : [adv.] annually
 -> desanu : [n.] decade
 -> sänanu : [n.] century
 -> milanu : [n.] millenium
 tän :
 -- [n.] time
 ----> tänäs : [adj.] temporal
--------> tänäsät : [adv.] temporally
+-------> tänäst : [adv.] temporally
 ----> ultän : [n.] past {'ul' + 'tän'}
 ----> ortän : [n.] future {'or' + 'tän'}
 ----> itän  : [n.] present {'i' + 'tän'}
@@ -906,15 +905,15 @@ sar : [n.] woman
 daam : [n.] lady {Estonian, French 'dame', German 'Dame'}
 paträ : [n.] father {Latin 'pater'}
 -> paträäs : [adj.] paternal
-----> paträäsät : [adv.] paternally
+----> paträäst : [adv.] paternally
 -> paträät : [adj.] fatherly
 matä  : [n.] mother {Latin 'mater'}
 -> matääs : [adj.] maternal
-----> matääsät : [adv.] maternally
+----> matääst : [adv.] maternally
 -> matäät : [adj.] motherly
 fratä : [n.] brother {Latin 'frater'}
 -> fratääs : [adj.] fraternal
-----> fratääsät : [adv.] fraternally
+----> fratääst : [adv.] fraternally
 -> fratäät : [adj.] brotherly
 sorä  : [n.] sister {Latin 'soror'}
 -> sorääs : [adj.] sororal
@@ -947,19 +946,19 @@ kamarad : [n.] comrade, mate; fellow student, classmate {French 'camarade', Germ
 
 sots : [n.] fellow, acquantiance
 -> sotsäs : [adj.] social
-----> sotsäsät : [adv.] socially
+----> sotsäst : [adv.] socially
 
 === misc. ===
 dös     : [n.] god, deity {Portugese 'Deus'}
 -> dösäs : [adj.] divine
-----> dösäsät : [adv.] divinely
+----> dösäst : [adv.] divinely
 ----> dösäsein : [n.] divinity; state of being divine
 kompost : [v.] compost {English, French 'compost'}
 -> kompostör : [n.] compost
 post    : [n.] mail {English, French 'poste'}
 -> posttröbör : [n.] postman {'post' + 'tröbör'}
 -> postäs : [adj.] postal
-----> postäsät : [adv.] postally
+----> postäst : [adv.] postally
 päst : {French 'peste', English 'pester'}
 -- [n.] plague
 -- [v.] spread plague amongst
@@ -1004,32 +1003,32 @@ letä : [n.] letter, text, book {Latin 'littera'}
 === fields ===
 sienza : [n.] science {Italian 'scienza', French & English 'science'}
 -> sienzäs : [adj.] scientific
-----> sienzäsät : [adv.] scientifically
+----> sienzäst : [adv.] scientifically
 matämatik : [n.] mathematics (maths)
 -> matämatikäs : [adj.] mathematic, mathematical
-----> matämatikäsät : [adv.] mathematically
+----> matämatikäst : [adv.] mathematically
 fiziik : [n.] physics
 -> fiziikäs : [adj.] physical
-----> fiziikäsät : [adv.] physically
+----> fiziikäst : [adv.] physically
 -> astärfiziik : [n.] astrophysics
 ----> astärfiziikäs : [adj.] astrophysical
--------> astärfiziikäsät : [adv.] astrophysically
+-------> astärfiziikäst : [adv.] astrophysically
 biologik : [n.] biology
 -> biologikäs : [adj.] biological
-----> biologikäsät : [adv.] biologically
+----> biologikäst : [adv.] biologically
 genetik : [n.] genetics {Russian & Serbian 'генетика'}
 -> genetikäs : [adj.] genetic
-----> genetikäsät : [adv.] genetically
+----> genetikäst : [adv.] genetically
 
 === physics ===
 atom     : [n.] atom
 -> atomäs : [adj.] atomic
-----> atomäsät : [adv.] atomically
+----> atomäst : [adv.] atomically
 ----> usatomäs : [adj.] subatomic (sub-atomic)
--------> usatomäsät : [adv.] subatomically
+-------> usatomäst : [adv.] subatomically
 elektron : [n.] electron
 -> elektronäs : [adj.] electronic
-----> elektronäsät : [adv.] electronically
+----> elektronäst : [adv.] electronically
 foton    : [n.] photon
 -> fotonäs : [adj.] photonic
 proton   : [n.] proton
@@ -1042,7 +1041,7 @@ nukleus  : [n.] nucleus
 === jargon ===
 alfabät : [n.] alphabet {Anc. Greek 'ἀλφάβητος' via English & French 'alphabet'}
 -> alfabätäs : [adj.] alphabetical
-----> alfabätäsät : [adv.] alphabetically
+----> alfabätäst : [adv.] alphabetically
 kanton  : [n.] [f:vexillology] canton {English 'canton'}
 ülagarda : [n.] [f:marxism] vanguard {'üla' + 'garda'}
 bit      : [n.] [f:computing] bit
@@ -1052,7 +1051,7 @@ servör   : [n.] [f:computing] server
 es  : [v.] be {German 'ist', French 'est', English 'is', Spanish}
 -> esin : [n.] existence
 ----> esinäs : [adj.] existential
--------> esinäsät : [adv.] existentially
+-------> esinäst : [adv.] existentially
 ev  : [v.] have
 -> evein : [v.] possession
 ten : [v.] hold {French 'tenir'}
@@ -1066,7 +1065,7 @@ sen : [v.] know {Latin 'sciens'}
 ----> asenin : [n.] lesson
 ----> asenina : [n.] teaching
 -------> asesinäs : [adj.] pedagogical
-----------> asesinäsät : [adv.] pedagogically
+----------> asesinäst : [adv.] pedagogically
 ----> asenör : [v.] teacher
 ser :
 -- [v.] say, speak, tell, talk
@@ -1080,7 +1079,7 @@ ir  : [v.] go, move (oneself)
 
 od  : [v.] hear, feel, sense
 -> odäs : [adj.] sensory
-----> odäsät : [adv.] sensorially
+----> odäst : [adv.] sensorially
 -> odör : [n.] sensor
 söt : [v.] create, make, build, assemble, bring to fruition
 -> sötina : [n.] creation
@@ -1106,7 +1105,7 @@ dast : [v.] amass, assemble; pick, gather {Breton 'dastum'}
 nim : [v.] walk
 -> anim : [v.] to make move; animate, bring to life
 ----> animäs : [adj.] animal
--------> animäsät : [adv.] animally
+-------> animäst : [adv.] animally
 ----> animät : [n.] animal
 
 piter : [v.] dig
@@ -1123,12 +1122,12 @@ säd : [v.] happen, occur {Latin 'cado'}
 -> imsäd : [v.] take place; meet, intersect
 ----> imsädina : [n.] incident
 -------> imsädinaäs : [adj.] incidental
-----------> imsädinaäsät : [adv.] incidentally
+----------> imsädinaäst : [adv.] incidentally
 ----> imsädein : [n.] incidence
 ----> uzimsäd : [v.] to coincide
 -------> uzimsädina : [n.] (a) coincidence
 ----------> uzimsädinaäs : [adj.] coincidental
--------------> uzimsädinaäsät : [adv.] coincidentally
+-------------> uzimsädinaäst : [adv.] coincidentally
 -------> uzimsädein : [n.] coincidence
 -> sädina : [n.] happening, event
 -> sädein : [n.] occurence
@@ -1280,7 +1279,7 @@ fäns : [v.] strike, thrust, hit {Latin 'fendo' + via 'defensa'}
 -> defäns : [v.] defend, guard, protect
 ----> defänsin : [n.] defence
 ----> defänsäs : [adj.] defensive
--------> defänsäsät : [adv.] defensively
+-------> defänsäst : [adv.] defensively
 -> fänsör : [n.] [f:sports] striker
 
 ausk : [v.] [dated] listen, hear; heed, accept, obey {archaic 'aur' + archaic 'klen'}
@@ -1745,14 +1744,14 @@ sir : [adj.] sharp, acute
 bir : [adj.] near, close
 -> abir : [v.] to bring closer; to approach
 -> biräs : [adj.] proximal
-----> biräsät : [adv.] proximally 
+----> biräst : [adv.] proximally 
 -> birein : [n.] proximity
 -> birät : [adv.] closely; nearly, almost
 
 sal : [adj.] far, distant; remote
 -> asal : [v.] to drive away, seclude
 -> saläs : [adj.] distal
-----> saläsät : [adv.] distally; remotely
+----> saläst : [adv.] distally; remotely
 -> salein : [n.] remoteness
 -> salät : [adv.] distantly
 
@@ -1787,20 +1786,20 @@ rund : {Swedish}
 ----> arund : [v.] to make round; to inflate
 -- [n.] circle
 ----> rundäs : [adj.] circular
--------> rundäsät : [adv.] circularly
+-------> rundäst : [adv.] circularly
 -- [v.] [f:mathematics] (of a number) to round
 
 san : [adj.] healthy, sound {Latin 'sanus' via English 'sanitary'}
 -> sanein : [n.] health, wellbeing
 ----> saneinäs : [adj.] sanitary
--------> saneinäsät : [adv.] sanitarily
+-------> saneinäst : [adv.] sanitarily
 -> nesan : [adj.] unhealthy
 ----> nesanein : [n.] illness, unwellness
 ----> nesanät : [adv.] unhealthily
 -> asan : [v.] cure, treat
 ----> asanina : [n.] treatment, remedy
 -------> asaninäs : [adj.] therapeutic
-----------> asaninäsät : [adv.] therapeutically
+----------> asaninäst : [adv.] therapeutically
 -> sanät : [adv.] healthily
 
 stes : [adj.] sacred, blessed {Russian 'святой'}
@@ -1911,7 +1910,7 @@ lidit  : [n.] idiot
 -> lidität : [adj.] stupid, dumb
 ----> liditätät : [adv.] stupidly
 -> liditäs : [adj.] idiotic
-----> liditäsät : [adv.] idiotically
+----> liditäst : [adv.] idiotically
 küs    : [intj.] fuck, damn, darn, shit
 smät   : [v.] to copulate with
 šiäs   : [v.] [n.] shit, crap
