@@ -21,10 +21,12 @@ netä : [det.] any, either
 -> nölletä : [det.] neither
 
 === prepositions ===
-dö  : [prep.] ablative and genitive particle ('from', 'of', authorship) ### alt: dé
+dö  : [prep.] ablative and genitive particle ('from', 'of', authorship)
 öd  : [prep.] allative particle ('to', 'for')
 -> öduz : [adv.] together
 -> öde : [prep.] benefactive particle ('for', 'in favour/support/the objective of', 'so that')
+-> ödvär : [adj.] towards
+----> ödvärät : [adv.] towards
 tej : [prep.] instrumentative ('with') {see 'utej'}
 
 sär : [prep.] in the form(at) of
@@ -35,10 +37,14 @@ im : [prep.] in (contained by, within the bounds of, part of, into)
 -> imir : [v.] enter
 -> imira : [n.] entry, input
 -> imklöd : [v.] include
+-> imvär : [adj.] inwards
+----> imvärät : [adj.] inwards
 ust : [prep.] out (outside of, away from, not in)
 -> ustir : [v.] exit
 -> ustira : [n.] exit, output
 -> usklöd : [v.] exclude
+-> ustvär : [adj.] outwards
+----> ustvärät : [adv.] outwards
 
 ####
 -> ustäs? : [adj.] external
@@ -71,15 +77,25 @@ sti : [prep.] as if, like so, similar to
 === pos. nouns ===
 ot : [n.] up, high, top (of)
 -> otät : [adj.] highly
+-> otvär : [adj.] upwards
+----> otvärät : [adv.] upwards
 ös : [n.] down, low, bottom (of)
 -> ösät : [adj.] lowly
-
+-> ösvär : [adj.] downwards
+----> ösvärät : [adv.] downwards
 let  : [n.] left
 -> letest : [adj.] leftmost
+-> letvär : [adj.] leftwards
+----> letvärät : [adv.] leftwards
 räšt : [n.] right {German 'Rechts'}
 -> räštest : [adj.] rightmost
+-> räštvär : [adj.] rightwards
+----> räštvärät : [adv.] rightwards
 fas  : [n.] front {French 'face'}
-dos  : [n.] back {French}
+
+täg  : [n.] back
+-> tägvär : [adj.] backward
+----> tägvärät : [adv.] backward
 
 mitäl :
 -- [n.] middle, centre
@@ -231,6 +247,9 @@ re(s)- : [prf.] again; anew {French & English 're-'}
 
 püli- : [prf.] multi-, plura-, poly- {see 'püli'}
 lös-  : [prf.] mono-, uni- {see 'lös'}
+
+-äst : [suf.] equiv. to -äs and -ät
+-värt : [suf.] equiv. to -vär and -ät
 
 === interjections ===
 halo : [intj.] greeting, call for response ('hello')
