@@ -645,7 +645,6 @@ par : [n.] side
 pär : [n.] part, piece, share, component {Latin 'partem' via English & French 'part'}
 -> apär : [v.] divide, seperate, split
 ----> apärein : [n.] apartness, seperation, division; polarization
-----> apäran : [adj.] apart ##
 
 gove : [n.] voice; spirit
 
@@ -759,7 +758,7 @@ pelüš  : [m.] fluff, plush {French 'peluche', English 'plush'}
 siltše : [m.] flint {Italian 'selce' via Latin via French 'silex'}
 seträ  : [m.] ash(es)
 tan    : [n.] fire {Breton}
--> atan : [v.] light on fire @@ itan
+-> atan : [v.] set fire to, light on fire
 pul : {Latin 'pulvis' via English 'pulverise' & French 'pulvériser'}
 -- [m.] powder, dust
 ----> apul : [v.] to make into powder @@ ipul
@@ -1410,13 +1409,9 @@ perd :
 ----> perdin : [n.] loss
 -- [v.] waste
 
-
-
 pärmit : [v.] allow, permit {French 'permit'}
--> pärmitan : [adj.] permitted ##
 -> pärmitina : [n.] permission
 probit : [v.] prohibit, disallow
--> probitan : [adj.] prohibited ##
 -> probitina : [n.] prohibition
 
 kräs : [v.] grow {Latin 'crescere' via Portugese 'crescer'}
@@ -1533,11 +1528,9 @@ sträd : [v.] struggle {Frisian 'striid', Swedish 'strida'}
 -> strädin : [n.] conflict, struggle, war
 ----> strädinu : [n.] fight, squabble, dispute, argument
 
-limit : {French 'limite', English}
--- [v.] [trans] limit
-----> limitör : [n.] device that limits
-----> limitan : [adj.] limited ##
--- [n.] limit
+limit : [v.] [trans] limit {French 'limite', English}
+-> limitör : [n.] device that limits
+-> limitin : [n.] limit
 
 list : {French 'liste', English}
 -- [v.] list
@@ -1546,7 +1539,6 @@ list : {French 'liste', English}
 troš : {French 'trancher'}
 -- [v.] [trans] slice, cut
 ----> trošör : [n.] one that cuts
-----> trošan : [adj.] cut ###
 -- [n.] cut, incision
 
 
