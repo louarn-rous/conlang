@@ -28,7 +28,7 @@ dö  : [prep.] ablative and genitive particle ('from', 'of', authorship)
 -> öduz : [adv.] together  
 -> öde : [prep.] benefactive particle ('for', 'in favour/support/the objective of', 'so that')  
 -> ödvär : [adj.] towards  
-----> ödvärät : [adv.] towards
+----> ödvärät : [adv.] towards  
 tej : [prep.] instrumentative ('with') {see 'utej'}
 
 sär : [prep.] in the form(at) of  
