@@ -147,20 +147,20 @@ lüzd :
 päsk   : [n.] fish {Breton 'pesk'}
 -> päsktemätör : [n.] fishmonger
 -> päskäs : [adj.] piscine
--> rodpäsk : [n.] goldfish {'rod' + 'päsk'}
+-> rodpäsk : [n.] goldfish {'rod' + }
 
 === crops, food, drink ===
 karot : [n.] carrot {French 'carrote'}
 radis : [n.] radish {French}
 biit  : [n.] beet {English 'beet'}
--> rodbiit : [n.] beetroot {'rod' + 'biit'}
+-> rodbiit : [n.] beetroot {'rod' + }
 patat : [n.] potato {French 'patate'}
 mili  : [n.] corn {Afrikaans 'mielie'}
 ris   : [n.] rice {French 'riz', English 'rice'}
 melon : [n.] melon {English}
 tomat : [n.] tomato {French 'tomate'}
 sitre : [n.] citrus; lemon {Latin 'citrus' via English, French 'citron'}
--> grönsitre : lime {'grön' + 'sitre'}
+-> grönsitre : lime {'grön' + }
 limonat : [n.] lemonade {Italian 'limonata'}
 onion : [n.] onion {French 'oignon'}
 soj   : [n.] soy {Satsuma Jp. '醤油' via Dutch 'soja' via French 'soja' & English 'soy'}
@@ -244,8 +244,6 @@ flor : {Italian 'fiore', French 'fleur'}
 ----> flortemätör : [n.] florist 
 -- [v.] [intrans] bloom, blossom, flower
 tülip   : [n.] tulip {French 'tulipe', English 'tulip'}
-solflor : [n.] sunflower {'sol' + 'flor'}
--> solflor : [n.] [colloq.] [figurative] person with little to no capacity for independent thought
 
 === natural phenomena ===
 velt    : [n.] world {German 'Welt'}
@@ -287,7 +285,8 @@ planät : [n.] planet {French 'planète'}
 sol : [n.] sun {Latin 'sol' via French 'solaire'}
 -> soläs : [adj.] solar
 -> asol : [v.] [trans] to expose to sunlight
-
+-> solflor : [n.] sunflower {'sol' + 'flor'}
+----> solflor : [n.] [colloq.] [figurative] person with little to no capacity for independent thought
 === marine ===
 mar      : [n.] sea {Breton 'mor', French 'mer'}
 -> maräs : [adj.] marine
@@ -796,6 +795,7 @@ uäs : water
 vir : {French 'ver'}
 -- [m.] glass
 ---> avir : [v.] to turn into glass
+---> virtöl : [n.] window, window pane, glass pane {+ 'töl'}
 -- [n.] a vessel, especially one made of glass or transparent plastic, from which one drinks
 
 === form ===
@@ -871,7 +871,7 @@ säkond : [n.] second {French 'seconde', English 'second'}
 minüt : [n.] minute {French, English 'minute'}
 uur   : [n.] hour {German 'Uhr'}
 -> uuräs : [adj.] hourly
--> mitäl uur : [n.] noon {'mitäl' + 'uur'}
+-> mitäl uur : [n.] noon {'mitäl' + }
 mäns  : [n.] month {Latin 'mensis' via French 'mensuel'}
 -> mänsäs : [adj.] mensual, monthly
 ----> mänsäst : [adv.] mensually
@@ -885,9 +885,9 @@ tän : {French 'temps', Italian 'tempo', English 'time'}
 -- [n.] time
 ----> tänäs : [adj.] temporal
 -------> tänäst : [adv.] temporally
-----> ultän : [n.] past {'ul' + 'tän'}
-----> ortän : [n.] future {'or' + 'tän'}
-----> itän  : [n.] present {'i' + 'tän'}
+----> ultän : [n.] past {'ul' + }
+----> ortän : [n.] future {'or' + }
+----> itän  : [n.] present {'i' + }
 -------> ita : [n.] now
 -- [v.] to measure time
 var : [adj.] early {Estonian 'vara'}
@@ -945,7 +945,7 @@ fränd : [n.] friend {English 'friend', German 'Freund'}
 ----> afrändät : [v.] befriend
 
 klun : [n.] clown {French 'clown'}
--> klunpäsk : [n.] clownfish {'klun' + 'pesk'}
+-> klunpäsk : [n.] clownfish { + 'pesk'}
 sint : [n.] Saint {Dutch}
 -> sintät : [adj.] saintly
 kamarad : [n.] comrade, mate; fellow student, classmate {French 'camarade', German 'Kamerad'}
@@ -962,7 +962,7 @@ dös     : [n.] god, deity {Portugese 'Deus'}
 kompost : [v.] compost {English, French 'compost'}
 -> kompostör : [n.] compost
 post    : [n.] mail {English, French 'poste'}
--> posttröbör : [n.] postman {'post' + 'tröbör'}
+-> posttröbör : [n.] postman { + 'tröbör'}
 -> postäs : [adj.] postal
 ----> postäst : [adv.] postally
 päst : {French 'peste', English 'pester'}
@@ -1696,7 +1696,7 @@ müž : [adj.] light
 -> müžät : [adv.] lightly
 nov : [adj.] new {Portugese 'novo'}
 -> novein : [n.] novelty
--> novänt : [n.] news {'nov' + 'vänt'} {+ Breton 'neventi'}
+-> novänt : [n.] news { + 'vänt'} {+ Breton 'neventi'}
 -> novät : [adv.] newly
 -> reanov : [v.] update, renovate, renew
 ----> reanovin : [n.] update, renewal
