@@ -74,17 +74,16 @@ Conjugation functions by appending an ending to the stem of the verb.
 
 ### Personal
 
-|     | Acc. | Dat. | Det. | N.  |
-|:---:|:----:|:----:|:----:|:---:|
-| 1s  | Iž   | Mö   | Mön  | Möj |
-| 1p  | No   | No   | Nos  | Noj |
-| 2s  | Tö   | Tö   | Tön  | Töj |
-| 2p  | Vo   | Vo   | Vos  | Voj |
-| 3s  | Sö   | Sö   | Sön  | Söj |
-| 3sp | Su   | Su   | Sun  | Suj |
-| 3fs | Sa   | Sa   | San  | Saj |
-| 3ms | So   | So   | Son  | Soj |
-| 3p  | Zö   | Zö   | Zön  | Zöj |
+|     | Acc. | Dat. | Det. |
+|:---:|:----:|:----:|:----:|
+| 1s  | Iž   | Mö   | Mön  |
+| 1p  | No   | No   | Nos  |
+| 2s  | Tö   | Tö   | Tön  |
+| 2p  | Vo   | Vo   | Vos  |
+| 3s  | Sö   | Sö   | Sön  |
+| 3fs | Sa   | Sa   | San  |
+| 3ms | So   | So   | Son  |
+| 3p  | Zö   | Zö   | Zön  |
 
 A unique feature of Ijter is the possibility of combining a personal pronoun with a definite or indefinite determiner.
 
@@ -118,7 +117,7 @@ Ijter braille is inspired by the French, English, Czech and Scandinavian braille
 ## Morse
 
 | 0 | Code | 0 | Code |
-|:-:|:---  |:-:|:---|
+|:-:|:---  |:-:|:---  |
 | a | .-   | o | ---  |
 | ä | .-.- | ö | ---. |
 | b | -... | p | .--. |
@@ -129,7 +128,7 @@ Ijter braille is inspired by the French, English, Czech and Scandinavian braille
 | i | ..   | u | ..-  |
 | j | .--- | ü | ..-- |
 | k | -.-  | z | --.. |
-| l | .-.. | ž | --..- |
+| l | .-.. | ž | --..-|
 | m | --   | f | ..-. |
 | n | -.   | h | .... |
 
