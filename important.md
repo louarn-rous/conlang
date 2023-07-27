@@ -55,7 +55,7 @@ ust : [prep.] out (outside of, away from, not in) {French 'ouste'}
 -> ???   : [n.] exterior @@
 
 a    : [prep.] at {French 'à'}  
-u    : [prep.] at, in, near, by {Russian 'у'} 
+u    : [prep.] at, in, near, by {Russian 'у'}  
 gešt : [prep.] against {German 'gegen', English 'against'}  
 ob   : [prep.] on (top of) {German 'ober', ? 'ob'}  
 -> ob(e)- : [prf.] over-, super-  
@@ -268,7 +268,7 @@ lös-  : [prf.] mono-, uni- {see 'lös'}
 ## interjections  
 
 halo : [intj.] greeting, call for response ('hello') {German 'Hallo'}  
-häj  : [intj.] exclamation, protest or reprimand, expression of surprise; informal greeting ('hey')
+häj  : [intj.] exclamation, protest or reprimand, expression of surprise; informal greeting ('hey')  
 nö : [intj.] negative; used to show disagreement or disbelief ('no') {German}  
 ja : {German, Dutch, Swedish}  
 -- [intj.] affirmative; used to show agreement or acceptance ('yes')  
