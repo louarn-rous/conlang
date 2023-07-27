@@ -1,4 +1,4 @@
-=== determinants  
+## determinants  
 er : [det.] definite ('the')
 -> d'er [cntrc.] of the
 en : [det.] indefinite ('a'/'an')
@@ -22,12 +22,12 @@ netä : [det.] any, either
 -> nölletä : [det.] neither
 -> netäa : [adv.] anywhere
 
-=== prepositions ===
-dö  : [prep.] ablative and genitive particle ('from', 'of', authorship)
-öd  : [prep.] allative particle ('to', 'for')
--> öduz : [adv.] together
--> öde : [prep.] benefactive particle ('for', 'in favour/support/the objective of', 'so that')
--> ödvär : [adj.] towards
+## prepositions  
+dö  : [prep.] ablative and genitive particle ('from', 'of', authorship)  
+öd  : [prep.] allative particle ('to', 'for')  
+-> öduz : [adv.] together  
+-> öde : [prep.] benefactive particle ('for', 'in favour/support/the objective of', 'so that')  
+-> ödvär : [adj.] towards  
 ----> ödvärät : [adv.] towards
 tej : [prep.] instrumentative ('with') {see 'utej'}
 
@@ -48,10 +48,9 @@ ust : [prep.] out (outside of, away from, not in)
 -> ustvär : [adj.] outwards
 ----> ustvärät : [adv.] outwards
 
-####
--> ustäs? : [adj.] external
-----> ustäsät? : [adv.] externally
--> ???   : [n.] exterior
+-> ustäs? : [adj.] external @@
+----> ustäsät? : [adv.] externally @@
+-> ???   : [n.] exterior @@
 
 a    : [prep.] at
 u    : [prep.] at, in, near, by
@@ -80,19 +79,19 @@ sti : [prep.] as if, like so, similar to
 -> stit : [adv.] thus, in this way or manner
 -> -sti : [suf.] forms adjectives from nouns, having the sense of resembling or behaving like the suffixed word
 
-=== pos. nouns ===
-ot : [n.] up, high, top (of)
--> otät : [adj.] highly
--> otvär : [adj.] upwards
-----> otvärät : [adv.] upwards
-ös : [n.] down, low, bottom (of)
--> ösät : [adj.] lowly
--> ösvär : [adj.] downwards
-----> ösvärät : [adv.] downwards
-let  : [n.] left
--> letest : [adj.] leftmost
--> letvär : [adj.] leftwards
-----> letvärät : [adv.] leftwards
+## pos. nouns  
+ot : [n.] up, high, top (of)  
+-> otät : [adj.] highly  
+-> otvär : [adj.] upwards  
+----> otvärät : [adv.] upwards  
+ös : [n.] down, low, bottom (of)  
+-> ösät : [adj.] lowly  
+-> ösvär : [adj.] downwards  
+----> ösvärät : [adv.] downwards  
+let  : [n.] left  
+-> letest : [adj.] leftmost  
+-> letvär : [adj.] leftwards  
+----> letvärät : [adv.] leftwards  
 räšt : [n.] right {German 'Rechts'}
 -> räštest : [adj.] rightmost
 -> räštvär : [adj.] rightwards
@@ -144,7 +143,7 @@ väst :
 ----> västät : [adv.] westernly
 ----> västest : [adj.] westmost
 
-=== adverbs ===
+## adverbs  
 me   : [adv.] [det.] much, many
 mer  : [adv.] comparative ('more') {Dutch 'meer'}
 mest : [adv.] superlative ('most') {Dutch 'meest'}
@@ -191,7 +190,7 @@ mäs : [adj.] constant, unmoving, permanent
 -> mäsein : [n.] permanence, immutability
 -> mäsäs : [adv.] constantly
 
-=== conjunctions ===
+## conjunctions  
 ur : [cnjc.] or
 -> nur : [cnjc.] nor; neither
 e   : [cnjc.] and
@@ -213,7 +212,7 @@ ar : [cnjc.] as; than
 gän : [cjnc.] when, during the time that, at the time of the action of the following clause
 si  : [cnjc.] if, in the case/condition that, given/supposing/assuming that
 
-=== other particles ===
+## other particles  
 da : [ptcl.] interrogative, marks the preceding clause as a question
 sü : [ptcl.] existential, indicates 'there is/exists' concerning the object of the nominative-only clause it succeeds 
 
@@ -223,7 +222,7 @@ na : [archaic]
 -- [prep.] succeeds the subject of a sentence, marking it as the passive agent
 -- [prep.] precedes the object of a sentence, marking it as the active agent
 
-=== affixes ===
+## affixes  
 -en     : [suf.] plural {German}
 -(n)u   : [suf.] diminutive {Turkish 'kuzu'}
 -ina    : [suf.] forms nouns from verbs, indicating the action of what is denoted by the verb {Croatian 'batina'}
