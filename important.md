@@ -37,7 +37,7 @@ sär : [prep.] in the form(at) of
 isän : [prep.] ablative (about, concerning)  
 urund : [prep.] circumlative {from 'u' + 'rund'}
 
-im : [prep.] in (contained by, within the bounds of, part of, into) {German} 
+im : [prep.] in (contained by, within the bounds of, part of, into) {German}  
 -> imir : [v.] enter  
 -> imira : [n.] entry, input  
 -> imklöd : [v.] include  
