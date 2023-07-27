@@ -1,4 +1,4 @@
-=== determinants ===
+=== determinants  
 er : [det.] definite ('the')
 -> d'er [cntrc.] of the
 en : [det.] indefinite ('a'/'an')
