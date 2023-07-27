@@ -1,16 +1,16 @@
 ## determinants  
 
-er : [det.] definite ('the')  
+er : [det.] definite ('the') {Breton 'ar'}  
 -> d'er [cntrc.] of the  
-en : [det.] indefinite ('a'/'an')  
+en : [det.] indefinite ('a'/'an') {English 'an', French 'un(e)'}  
 -> d'en [cntrc.] of a/an/some
 
-is : [det.] proximal demonstrative ('this')  
+is : [det.] proximal demonstrative ('this') {French 'ici'}  
 -> isa : [n.] proximal locative ('here')  
 üs : [det.] distal demonstrative ('that')  
 -> üsa : [n.] distal locative ('there')
 
-ža : [det.] interrogative ('what', 'which')  
+ža : [det.] interrogative ('what', 'which') {Croatian 'za'}  
 -> ödža : [det.] why {'öd' +}  
 -> läža : [det.] how {'läš' +}  
 -> tena : [det.] when {'tän' +}  
@@ -25,7 +25,7 @@ netä : [det.] any, either
 
 ## prepositions  
 
-dö  : [prep.] ablative and genitive particle ('from', 'of', authorship)  
+dö  : [prep.] ablative and genitive particle ('from', 'of', authorship) {French 'de'}  
 öd  : [prep.] allative particle ('to', 'for')  
 -> öduz : [adv.] together  
 -> öde : [prep.] benefactive particle ('for', 'in favour/support/the objective of', 'so that')  
@@ -37,13 +37,13 @@ sär : [prep.] in the form(at) of
 isän : [prep.] ablative (about, concerning)  
 urund : [prep.] circumlative {from 'u' + 'rund'}
 
-im : [prep.] in (contained by, within the bounds of, part of, into)  
+im : [prep.] in (contained by, within the bounds of, part of, into) {German} 
 -> imir : [v.] enter  
 -> imira : [n.] entry, input  
 -> imklöd : [v.] include  
 -> imvär : [adj.] inwards  
 ----> imvärät : [adj.] inwards  
-ust : [prep.] out (outside of, away from, not in)  
+ust : [prep.] out (outside of, away from, not in) {French 'ouste'}  
 -> ustir : [v.] exit  
 -> ustira : [n.] exit, output  
 -> usklöd : [v.] exclude  
@@ -54,19 +54,19 @@ ust : [prep.] out (outside of, away from, not in)
 ----> ustäsät? : [adv.] externally @@  
 -> ???   : [n.] exterior @@
 
-a    : [prep.] at  
-u    : [prep.] at, in, near, by  
+a    : [prep.] at {French 'à'}  
+u    : [prep.] at, in, near, by {Russian 'у'} 
 gešt : [prep.] against {German 'gegen', English 'against'}  
-ob   : [prep.] on (top of)  
+ob   : [prep.] on (top of) {German 'ober', ? 'ob'}  
 -> ob(e)- : [prf.] over-, super-  
 -> štob : [prep.] above, over  
 -> obpar : [n.] overside, top, surface  
-us   : [prep.] under(neath)  
+us   : [prep.] under(neath)  {French 'sous', German 'unter'}  
 -> us(e)- : [prf.] under-, sub-  
 -> surma : [prep.] below, under  
 -> uspar : [n.] underside
 
-ant : [prep.] between, among {Latin 'inter' via English 'internal'}  
+ant : [prep.] between, among {Latin 'inter' via English 'internal', ? French 'entre'}  
 -> antäs : [adj.] internal, interior  
 ----> antäsät : [adv.] internally  
 -> antira : [n.] interior  
@@ -83,7 +83,7 @@ sti : [prep.] as if, like so, similar to
 
 ## pos. nouns  
 
-ot : [n.] up, high, top (of)  
+ot : [n.] up, high, top (of) {French 'haut(e)'}  
 -> otät : [adj.] highly  
 -> otvär : [adj.] upwards  
 ----> otvärät : [adv.] upwards  
@@ -91,7 +91,7 @@ ot : [n.] up, high, top (of)
 -> ösät : [adj.] lowly  
 -> ösvär : [adj.] downwards  
 ----> ösvärät : [adv.] downwards  
-let  : [n.] left  
+let  : [n.] left {German 'links', English 'left'}  
 -> letest : [adj.] leftmost  
 -> letvär : [adj.] leftwards  
 ----> letvärät : [adv.] leftwards  
@@ -103,12 +103,12 @@ drän  : [n.] front {French 'face'}
 -> dränvär : [adj.] frontwards  
 ----> dränvärt : [adv.] frontwards  
 -> dränpar : [n.] frontside  
-täg  : [n.] back  
+täg  : [n.] back {Original}  
 -> tägvär : [adj.] backwards  
 ----> tägvärät : [adv.] backwards  
 -> tägpar : [n.] backside
 
-mitäl :  
+mitäl : {German 'mittel', English 'middle'}  
 -- [n.] middle, centre  
 -- [adj.] middle, central  
 ----> mitälät : [adv.] centrally  
@@ -116,7 +116,7 @@ mitäl :
 -> mität : [adj.] mild  
 ----> mitätät : [adv.] mildly
 
-nord :  
+nord : {French & German, English 'north'}  
 -- [n.] north  
 ----> nordvär : [adj.] northwards  
 -------> nordvärt : [adv.] northwards  
@@ -124,27 +124,27 @@ nord :
 ----> nordät : [adv.] northernly  
 ----> nordest : [adj.] northmost  
 -> nordäs : [adj.] nordic  
-äst :  
+äst : {French 'est'}  
 -- [n.] east  
 ----> ästvär : [adj.] eastwards  
 -------> ästvärt : [adv.] eastwards  
 -- [adj.] eastern  
 ----> ästät : [adv.] easternly  
 ----> ästest : [adj.] eastmost  
-süd :  
+süd : {French 'sud'}  
 -- [n.] south  
 ----> südvär : [adj.] southwards  
 -------> südvärt : [adv.] southwards  
 -- [adj.] southern  
 ----> südät : [adv.] southernly  
 ----> südest : [adj.] southernmost  
-väst :  
+uäst : {French 'ouest', English 'west'}  
 -- [n.] west  
-----> västvär : [adj.] westwards  
--------> västvärt : [adv.] westwards  
+----> uästvär : [adj.] westwards  
+-------> uästvärt : [adv.] westwards  
 -- [adj.] western  
-----> västät : [adv.] westernly  
-----> västest : [adj.] westmost
+----> uästät : [adv.] westernly  
+----> uästest : [adj.] westmost
 
 ## adverbs  
 
@@ -152,19 +152,18 @@ me   : [adv.] [det.] much, many
 mer  : [adv.] comparative ('more') {Dutch 'meer'}  
 mest : [adv.] superlative ('most') {Dutch 'meest'}  
 ler  : [adv.] diminutive comparative ('less')  
-lest : [adv.] diminutive superlative ('least')  
-te   : [adv.] too, too much, too many  
-jus  : [adv.] just, only, simply, merely
+lest : [adv.] diminutive superlative ('least') {English 'least'}  
+te   : [adv.] too, too much, too many {English 'too', French 'trop'}  
+jus  : [adv.] just, only, simply, merely {French 'juste'}
 
-ül : [adj.] (the) previous, anticedent  
+ül : [adj.] (the) previous, anticedent {Original}  
 -> üla : [adj.] before  
 ----> ülaät : [adv.] previously  
 -> ülna : [adj.] first, primordial  
 ----> ülnaät : [adv.] primordially, firstly  
 -> ül(a)- : [prf.] preceding ('pre-')  
--> ödül : [prep.] [cnjc.] until
-
-or : [adj.] (the) next, subsequent  
+-> ödül : [prep.] [cnjc.] until  
+or : [adj.] (the) next, subsequent {Original}  
 -> ora : [adj.] after  
 ----> oraät : [adv.] subsequently  
 -> orna : [adj.] last, final  
@@ -173,18 +172,17 @@ or : [adj.] (the) next, subsequent
 -> ore : [cnjc.] then  
 -> döor : [prep.] [cnjc.] since
 
-i  : [adj.] (the) current, present  
+i  : [adj.] (the) current, present {Japanese '今'}   
 -> inat : [n.] today  
 ----> ina : [n.] now  
 -> iät : [adv.] currently  
 -> isät : [adv.] instead {'i' + 'sät'}
 
-alte :  
--- [det.] [n.] [adj.]other  
+alte : [det.] [n.] [adj.] other  
 
 aru : [adv.] yet, still; thus far
 
-mäs : [adj.] constant, unmoving, permanent  
+mäs : [adj.] constant, unmoving, permanent {German '-mals'}  
 -> mäst : [adv.] ever; always  
 ----> nemäst : [adv.] never  
 ----> dömast : [adv.] forever  
@@ -194,25 +192,25 @@ mäs : [adj.] constant, unmoving, permanent
 
 ## conjunctions  
 
-ur : [cnjc.] or  
+ur : [cnjc.] or {French 'ou', English 'or'}  
 -> nur : [cnjc.] nor; neither  
-e   : [cnjc.] and  
+e   : [cnjc.] and  {Italian, French 'e'}  
 uz  : [cnjc.] comitative ('with') {Croatian}  
 -> nuz : [cnjc.] abessive ('without')
 
 mo    : [cnjc.] also, both, as well, again  
 -> omo : [adj.] same, common  
 ----> omoät : [adv.] samely, commonly  
-nä    : [cnjc.] [causal] but, however  
+nä    : [cnjc.] [causal] but, however {French 'mais'}  
 -> sežnä : [cnjc.] [causal] nevertheless, still, despite (preceding clause)  
 -> näst : [cnjc.] [causal] despite (of)  
-štöda : [cnjc.] [causal] because, since  
-rösni : [cnjc.] [causal] therefore, so, thus, hence, consequently
+štöda : [cnjc.] [causal] because, since {Original}  
+rösni : [cnjc.] [causal] therefore, so, thus, hence, consequently {Original}
 
 ar : [cnjc.] as; than
 
 gän : [cjnc.] when, during the time that, at the time of the action of the following clause  
-si  : [cnjc.] if, in the case/condition that, given/supposing/assuming that
+si  : [cnjc.] if, in the case/condition that, given/supposing/assuming that {French}
 
 ## other particles  
 
@@ -251,7 +249,7 @@ na : [archaic]
 
 -mod : [suf.] [v.] used to form verbs from nouns, with the sence of playing the role of, or being the suffixed word {see 'mod'}
 
-a- : [prf.]  
+a- : [prf.] {French}   
 -- used to form verbs from adjectives, indicating the gain of the adjectivial property  
 -- used to form verbs from verbs, indicating the action of making an object do an action  
 -- used to form verbs from nouns, meaning to make into or create the prefixed noun
@@ -269,7 +267,7 @@ lös-  : [prf.] mono-, uni- {see 'lös'}
 
 ## interjections  
 
-halo : [intj.] greeting, call for response ('hello')  
+halo : [intj.] greeting, call for response ('hello') {German 'Hallo'}  
 häj  : [intj.] exclamation, protest or reprimand, expression of surprise; informal greeting ('hey')
 nö : [intj.] negative; used to show disagreement or disbelief ('no') {German}  
 ja : {German, Dutch, Swedish}  
@@ -289,7 +287,7 @@ jos : {Japanese 'よし'}
 -------> nejosein : [n.] unpreparedness  
 ----> josein : [n.] preparedness, readiness
 
-tagräm :  
+tagräm : {Original}  
 -- [intj.] sorry  
 -- [v.] apologise  
 ----> tagrämina : [n.] apology  
