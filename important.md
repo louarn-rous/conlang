@@ -1,25 +1,25 @@
 ## determinants  
-er : [det.] definite ('the')
--> d'er [cntrc.] of the
-en : [det.] indefinite ('a'/'an')
+er : [det.] definite ('the')  
+-> d'er [cntrc.] of the  
+en : [det.] indefinite ('a'/'an')  
 -> d'en [cntrc.] of a/an/some
 
-is : [det.] proximal demonstrative ('this')
--> isa : [n.] proximal locative ('here')
-üs : [det.] distal demonstrative ('that')
+is : [det.] proximal demonstrative ('this')  
+-> isa : [n.] proximal locative ('here')  
+üs : [det.] distal demonstrative ('that')  
 -> üsa : [n.] distal locative ('there')
 
-ža : [det.] interrogative ('what', 'which')
--> ödža : [det.] why {'öd' +}
--> läža : [det.] how {'läš' +}
--> tena : [det.] when {'tän' +}
--> aža  : [det.] where; wherein {'-a' +}
--> meža : [det.] how many, how much {'me' +}
+ža : [det.] interrogative ('what', 'which')  
+-> ödža : [det.] why {'öd' +}  
+-> läža : [det.] how {'läš' +}  
+-> tena : [det.] when {'tän' +}  
+-> aža  : [det.] where; wherein {'-a' +}  
+-> meža : [det.] how many, how much {'me' +}  
 -> žavär : [det.] to/in what direction, towards where {+ '-vär'}
 
-netä : [det.] any, either
--> tošnetä : [det.] whatever, anything {'toš' + 'netä')
--> nölletä : [det.] neither
+netä : [det.] any, either  
+-> tošnetä : [det.] whatever, anything {'toš' + 'netä')  
+-> nölletä : [det.] neither  
 -> netäa : [adv.] anywhere
 
 ## prepositions  
@@ -31,52 +31,52 @@ dö  : [prep.] ablative and genitive particle ('from', 'of', authorship)
 ----> ödvärät : [adv.] towards
 tej : [prep.] instrumentative ('with') {see 'utej'}
 
-sär : [prep.] in the form(at) of
-isän : [prep.] ablative (about, concerning)
+sär : [prep.] in the form(at) of  
+isän : [prep.] ablative (about, concerning)  
 urund : [prep.] circumlative {from 'u' + 'rund'}
 
-im : [prep.] in (contained by, within the bounds of, part of, into)
--> imir : [v.] enter
--> imira : [n.] entry, input
--> imklöd : [v.] include
--> imvär : [adj.] inwards
-----> imvärät : [adj.] inwards
-ust : [prep.] out (outside of, away from, not in)
--> ustir : [v.] exit
--> ustira : [n.] exit, output
--> usklöd : [v.] exclude
--> ustvär : [adj.] outwards
+im : [prep.] in (contained by, within the bounds of, part of, into)  
+-> imir : [v.] enter  
+-> imira : [n.] entry, input  
+-> imklöd : [v.] include  
+-> imvär : [adj.] inwards  
+----> imvärät : [adj.] inwards  
+ust : [prep.] out (outside of, away from, not in)  
+-> ustir : [v.] exit  
+-> ustira : [n.] exit, output  
+-> usklöd : [v.] exclude  
+-> ustvär : [adj.] outwards  
 ----> ustvärät : [adv.] outwards
 
--> ustäs? : [adj.] external @@
-----> ustäsät? : [adv.] externally @@
+-> ustäs? : [adj.] external @@  
+----> ustäsät? : [adv.] externally @@  
 -> ???   : [n.] exterior @@
 
-a    : [prep.] at
-u    : [prep.] at, in, near, by
-gešt : [prep.] against
-ob   : [prep.] on (top of)
--> ob(e)- : [prf.] over-, super-
--> štob : [prep.] above, over
--> obpar : [n.] overside, top, surface
-us   : [prep.] under(neath)
--> us(e)- : [prf.] under-, sub-
--> surma : [prep.] below, under
+a    : [prep.] at  
+u    : [prep.] at, in, near, by  
+gešt : [prep.] against {German 'gegen', English 'against'}  
+ob   : [prep.] on (top of)  
+-> ob(e)- : [prf.] over-, super-  
+-> štob : [prep.] above, over  
+-> obpar : [n.] overside, top, surface  
+us   : [prep.] under(neath)  
+-> us(e)- : [prf.] under-, sub-  
+-> surma : [prep.] below, under  
 -> uspar : [n.] underside
 
-ant : [prep.] between, among {Latin 'inter' via English 'internal'}
--> antäs : [adj.] internal, interior
-----> antäsät : [adv.] internally
--> antira : [n.] interior
--> ant(e)- : [suf.] between
--> antuz : [cnjc.] in between, with
--> antvär : [adj.] towards between
+ant : [prep.] between, among {Latin 'inter' via English 'internal'}  
+-> antäs : [adj.] internal, interior  
+----> antäsät : [adv.] internally  
+-> antira : [n.] interior  
+-> ant(e)- : [suf.] between  
+-> antuz : [cnjc.] in between, with  
+-> antvär : [adj.] towards between  
 ----> antvär : [adv.] towards between
 
 tra(s) : [prep.] across, through {Breton 'tra'}
 
-sti : [prep.] as if, like so, similar to
--> stit : [adv.] thus, in this way or manner
+sti : [prep.] as if, like so, similar to  
+-> stit : [adv.] thus, in this way or manner  
 -> -sti : [suf.] forms adjectives from nouns, having the sense of resembling or behaving like the suffixed word
 
 ## pos. nouns  
