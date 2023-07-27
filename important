@@ -215,29 +215,26 @@ si  : [cnjc.] if, in the case/condition that, given/supposing/assuming that
 
 === other particles ===
 da : [ptcl.] interrogative, marks the preceding clause as a question
-
-na : ##
--- [prep.] precedes the object of a sentence, marking it as the active agent @@
--- succeeds the verb of a sentence, marking the subject ##
-
-na : [prep.] succeeds the subject of a sentence, marking it as the passive agent
-
-se : [prep.] precedes a verb, marking it as reflexive
-
 sü : [ptcl.] existential, indicates 'there is/exists' concerning the object of the nominative-only clause it succeeds 
+
+se : [prn.] reflexive pronoun {French 'se'}
+
+na : [archaic]
+-- [prep.] succeeds the subject of a sentence, marking it as the passive agent
+-- [prep.] precedes the object of a sentence, marking it as the active agent
 
 === affixes ===
 -en     : [suf.] plural {German}
 -(n)u   : [suf.] diminutive {Turkish 'kuzu'}
--e      : [suf.] forms ordinal numbers
--ina    : [suf.] used to form nouns from verbs, indicating the action of what is denoted by the verb {Croatian 'batina'} @
--> -in  : [suf.] used to form nouns from verbs, describing the result of an action @
+-ina    : [suf.] forms nouns from verbs, indicating the action of what is denoted by the verb {Croatian 'batina'}
+-> -in  : [suf.] forms nouns from verbs, describing the result of an action
 -ör     : [suf.] forms agent nouns from verbs ('-er') 
--äs     : [suf.] used to form adjectives from nouns, with the meaning 'of or pertaining to' the suffixed word ('-ic')
--(s)ein : [suf.] used to form nouns, denoting the condition or state of the suffixed word ('-hood', '-dom', '-ness') {Archaic form: '-esin'}
--fär    : [suf.] used to form adjectives from verbs, indicating that the action can be performed ('-able') {see 'fär'}
--nuz    : [suf.] abessive ('-less') {see 'nuz'}
--ver    : [suf.] used to form adjectives from nouns, meaning deserving or worthy of the suffixed word ('-worthy', '-some') {see 'ver'}
+-äs     : [suf.] forms adjectives from nouns, with the meaning 'of or pertaining to' the suffixed word ('-ic')
+-(s)ein : [suf.] forms nouns from adjectives, denoting the condition or state of the suffixed word ('-hood', '-dom', '-ness') {Archaic form: '-esin'}
+-fär    : [suf.] forms adjectives from verbs, indicating that the action can be performed ('-able') {see 'fär'}
+-nuz    : [suf.] forms abessive adjectives from nouns ('-less') {see 'nuz'}
+-ver    : [suf.] forms adjectives from nouns, meaning deserving or worthy of the suffixed word ('-worthy', '-some') {see 'ver'}
+-e      : [suf.] forms ordinal numbers
 -a      : [suf.] used to mark a place
 
 -vär : [suf.] in the direction of ('-wards') {see 'värt'}
