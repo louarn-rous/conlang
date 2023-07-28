@@ -255,6 +255,7 @@ a- : [prf.] {French}
 -- used to form verbs from verbs, indicating the action of making an object do an action  
 -- used to form verbs from nouns, meaning to make into or create the prefixed noun
 
+ge- : [prf.] collective noun suffix {German}  
 ne(s)- : [prf.] negatory; absent, lacking  
 de(s)- : [prf.] reversal or removal, lack of ('-dis', 'de-')  
 me(s)- : [prf.] badly or wrongly {French 'mal-', English 'mis-'}  
