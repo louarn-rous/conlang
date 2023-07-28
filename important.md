@@ -237,6 +237,7 @@ na : [archaic]
 -ver    : [suf.] forms adjectives from nouns, meaning deserving or worthy of the suffixed word ('-worthy', '-some') {see 'ver'}  
 -e      : [suf.] forms ordinal numbers  
 -a      : [suf.] used to mark a place
+-(t)roke : [suf.] used to indicate a place with a purpose relating to the suffixed word ('-place')
 
 -vär : [suf.] in the direction of ('-wards') {see 'värt'}
 
