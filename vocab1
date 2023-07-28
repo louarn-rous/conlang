@@ -66,9 +66,9 @@ roz   : [m.] pink {French 'rose'}
 rus   : [m.] reddish-brown {French 'rousse'}
 
 === animals ===
-bov    : [n.] cow {Late Latin 'bovinus'}
--> boväs : [adj.] bovine
--> bovu  : [n.] calf
+brin : [n.] cow {Breton 'brini'}
+-> brinäs : [adj.] bovine
+-> brinu  : [n.] calf
 pors   : [n.] pig {Latin 'Porcus' via French 'porc'}
 -> porsäs : [adj.] porcine
 -> porsu  : [n.] piglet
@@ -128,7 +128,8 @@ oris   : [n.] bird {Anc. Greek 'ὄρνις'}
 alar   : [n.] swan {Breton "alarc'h"}
 -> alaräs : [adj.] cygnine
 otrüš  : [n.] ostrich {French 'otruche'}
-pol    : [n.] chicken; poultry {Spanish 'pollo'}
+pol    : [n.] chicken {Spanish 'pollo'}\
+-> gepol : [n.] poultry
 gal    : [n.] rooster, hen {Latin 'gallus'}
 -> galäs : [adj.] gallinaceous
 korvas : [n.] crow, raven {Japanese '烏', Latin 'corvus' via English 'corvid' & French 'corbeau'}
@@ -213,6 +214,7 @@ bär : [n.] berry {French 'baie', English 'berry'}
 -> blobär : [n.] blueberry
 -> rozbär : [n.] raspberry
 -> rodbär : [n.] cranberry
+brot      : [n.] bread {German}
 
 === plants & trees ===
 arb     : [n.] tree {French 'arbre'}
@@ -315,8 +317,9 @@ granit   : [m. unc.] granite {French 'granit' via Russian 'гранит'}
 kvardz   : [m. unc.] quartz {German 'Quarz' via French & English 'quartz'}
 diamant  : [m.] diamond {French, German 'Diamant'}
 emrod    : [m.] emerald {French 'émeraude', English 'emerald'}
-piät     : [m.] stone, rock {Italian 'pietra', Latin 'petram'}
+piät     : [m.] stone {Italian 'pietra', Latin 'petram'}
 -> apiät : [v.] petrify
+-> gepiät : [n.] [collective] rock
 tärakota : [m.] terracotta {Italian 'terracotta'}
 magma    : [m. unc.] magma {Anc. Greek 'μάγμα' via French, English}
 piäs    : [m.] sand {Croatian 'pijesak'}
@@ -1980,4 +1983,7 @@ hart  : [n.] [archaic] core, centre {Afrikaans}
 gan   : [v.] [archaic] can, able to {? English 'can'}
 busk  : [n.] [archaic] bush {English 'bush', ? German 'Busch', ? Finnish 'puska'}
 viv   : [n.] [archaic] life [v.] live [adj.] alive {Spanish 'vida', French 'vivre'}
+bov    : [n.] [archaic] cow {Late Latin 'bovinus'}
+-> boväs : [adj.] [archaic] bovine
+-> bovu  : [n.] [archaic] calf
 
