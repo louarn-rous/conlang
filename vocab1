@@ -244,6 +244,7 @@ flor : {Italian 'fiore', French 'fleur'}
 ----> flortemätör : [n.] florist 
 -- [v.] [intrans] bloom, blossom, flower
 tülip   : [n.] tulip {French 'tulipe', English 'tulip'}
+säd     : [n.] grain; seed {Swedish}
 
 === natural phenomena ===
 velt    : [n.] world {German 'Welt'}
@@ -456,6 +457,8 @@ süt : {French 'suant'}
 -- [n.] sweat; residue
 fus : [n.] foot {German 'Fuß'}
 -> fusäs : [adj.] pedal
+kint : [n.] cheek {Swedish}
+-> kintäs : [adj.] buccal
 
 === biology ===
 lön : [m.] wool; woolen {French 'laine'}
@@ -1058,13 +1061,16 @@ es  : [v.] be {German 'ist', French 'est', English 'is', Spanish}
 -> esin : [n.] existence
 ----> esinäs : [adj.] existential
 -------> esinäst : [adv.] existentially
+
 ev  : [v.] have {English 'have', French 'avoir'}
 -> evein : [v.] possession
+
 ten : [v.] hold {French 'tenir'}
 -> tensein : [n.] custody
 ----> stattensein : [n.] state custody
 ----> atensein : [v.] arrest
 -> aten : [v.] to make hold; give
+
 sen : [v.] know {Latin 'sciens'}
 -> senein : [n.] knowledge
 -> asen : [v.] teach
@@ -1073,6 +1079,7 @@ sen : [v.] know {Latin 'sciens'}
 -------> asesinäs : [adj.] pedagogical
 ----------> asesinäst : [adv.] pedagogically
 ----> asenör : [v.] teacher
+
 ser : {French 'dire', English 'say', German 'sprechen'}
 -- [v.] say, speak, tell, talk
 ----> serör : [n.] one who speaks
@@ -1081,12 +1088,23 @@ ser : {French 'dire', English 'say', German 'sprechen'}
 -------> serinafär : [adj.] meaningful ###
 ----------> serinafärät : [adv.] meaningfully ###
 -> serin : [n.] expression, meaning
+
+klam : [v.] cry out, exclaim; shout, yell; call (out) {Latin 'clamo'}
+-> reklam : [v.] demand; repossess
+----> reklamina : [n.] repossession
+----> reklamein : [n.] (state of) repossession
+-> deklam : [v.] renounce, disavow, reject, disown
+----> deklamina : [n.] disavowal, rejection
+----> deklamein : [n.] (state of) renounciation
+
 ir  : [v.] go, move (oneself)
+-> irina : [n.] movement
 
 od  : [v.] hear, feel, sense
 -> odäs : [adj.] sensory
 ----> odäst : [adv.] sensorially
 -> odör : [n.] sensor
+
 söt : [v.] create, make, build, assemble, bring to fruition {Original}
 -> sötina : [n.] creation
 
@@ -1124,21 +1142,21 @@ kos : [v.] hunt; seek
 
 
 
-säd : [v.] happen, occur {Latin 'cado'}
--> imsäd : [v.] take place; meet, intersect
-----> imsädina : [n.] incident
--------> imsädinaäs : [adj.] incidental
-----------> imsädinaäst : [adv.] incidentally
-----> imsädein : [n.] incidence
-----> uzimsäd : [v.] to coincide
--------> uzimsädina : [n.] (a) coincidence
-----------> uzimsädinaäs : [adj.] coincidental
--------------> uzimsädinaäst : [adv.] coincidentally
--------> uzimsädein : [n.] coincidence
--> sädina : [n.] happening, event
--> sädein : [n.] occurence
--> asäd : [v.] cause, provoke
-----> asädina : [n.] provocation, cause
+sad : [v.] happen, occur {Latin 'cado'}
+-> imsad : [v.] take place; meet, intersect
+----> imsadina : [n.] incident
+-------> imsadinaäs : [adj.] incidental
+----------> imsadinaäst : [adv.] incidentally
+----> imsadein : [n.] incidence
+----> uzimsad : [v.] to coincide
+-------> uzimsadina : [n.] (a) coincidence
+----------> uzimsadinaäs : [adj.] coincidental
+-------------> uzimsadinaäst : [adv.] coincidentally
+-------> uzimsadein : [n.] coincidence
+-> sadina : [n.] happening, event
+-> sadein : [n.] occurence
+-> asad : [v.] cause, provoke
+----> asadina : [n.] provocation, cause
 
 värt : [v.] turn {Latin 'verto' via English '-ward'}
 -> värtina : [n.] turn
@@ -1813,10 +1831,10 @@ ru : [adj.] raw, crude; bare
 -> aru : [v.] to lay bare
 -> ruät : [adv.] crudely; barely
 
-sekur : [adj.] without care, secure {Latin 'securus'}
--> sekurein : [n.] certainty, security, safety
--> asekur : [v.] secure
--> sekurät : [adv.] securely
+strüg : [adj.] without care, secure {Latin 'securus', Swedish 'trygg'}
+-> strügein : [n.] certainty, security, safety
+-> astrüg : [v.] secure
+-> strügät : [adv.] securely
 
 guär : [adj.] wild {+ Breton 'gouez'}
 -> guärein : [n.] wildness; wilderness
