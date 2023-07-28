@@ -230,7 +230,7 @@ na : [archaic]
 -ina    : [suf.] forms nouns from verbs, indicating the action of what is denoted by the verb {Croatian 'batina'}  
 -> -in  : [suf.] forms nouns from verbs, describing the result of an action  
 -ör     : [suf.] forms agent nouns from verbs ('-er')  
--äs     : [suf.] forms adjectives from nouns, with the meaning 'of or pertaining to' the suffixed word ('-ic')  
+-(n)äs  : [suf.] forms adjectives from nouns, with the meaning 'of or pertaining to' the suffixed word ('-ic')  
 -(s)ein : [suf.] forms nouns from adjectives, denoting the condition or state of the suffixed word ('-hood', '-dom', '-ness') {Archaic form: '-esin'}  
 -fär    : [suf.] forms adjectives from verbs, indicating that the action can be performed ('-able') {see 'fär'}  
 -nuz    : [suf.] forms abessive adjectives from nouns ('-less') {see 'nuz'}  
