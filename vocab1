@@ -634,6 +634,10 @@ sünog   : [n.] edge, boundary, border
 -> sünognuz : [adj.] boundless
 vine    : [n.] domain, realm {Croatian 'domovina'}
 
+troke : [n.] location, place {Japanese '所'}
+
+skär : [n.] lane, track, channel
+
 liäs    : [n.] link {? French 'lier'}
 -> aliäs : [v.] link, bind, connect
 ----> aliäsina : [n.] connection
@@ -743,6 +747,8 @@ posion  : [n.] potion {French, English 'potion'}
 armur : [n.] armor {French 'armure' via English}
 klad  : [n.] sword {Proto-Celtic '*kladiwos' via French 'glaive'}
 stam  : [n.] shield
+kastäl : [n.] castle; fort {Breton 'kastell'}
+-> kastälu : [n.] fortress
 totäm : [n.] totem {French 'totème', English 'totem'}
 -> totämäs : [adj.] totemic
 räi   : [n.] king {Portugese 'rei'}
@@ -800,6 +806,12 @@ vir : {French 'ver'}
 ---> avir : [v.] to turn into glass
 ---> virtöl : [n.] window, window pane, glass pane {+ 'töl'}
 -- [n.] a vessel, especially one made of glass or transparent plastic, from which one drinks
+
+besät : [n.] team, crew {Swedish 'besättning'}
+-> abesät : [v.] team up, group
+-> besätfränd : [n.] teammate {+ 'fränd'}
+-> besättröbin : [n.] teamwork {+ 'tröb' + '-in'}
+-> besätu : [n.] band, club, troupe, party
 
 === form ===
 štok : [n.] stick, branch; handle, rod {German 'Stock'}
@@ -1832,9 +1844,14 @@ ru : [adj.] raw, crude; bare
 -> ruät : [adv.] crudely; barely
 
 strüg : [adj.] without care, secure {Latin 'securus', Swedish 'trygg'}
--> strügein : [n.] certainty, security, safety
+-> strügein : [n.] security, safety
 -> astrüg : [v.] secure
--> strügät : [adv.] securely
+-> strügät : [adv.] securely; certainly
+
+dogäl : [adj.] certain, sure {Breton 'diogel'}
+-> dogälein : [n.] certainty
+-> adogäl : [v.] assure
+----> adogäl
 
 guär : [adj.] wild {+ Breton 'gouez'}
 -> guärein : [n.] wildness; wilderness
