@@ -13,7 +13,7 @@ is : [det.] proximal demonstrative ('this') {French 'ici'}
 ža : [det.] interrogative ('what', 'which') {Croatian 'za'}  
 -> ödža : [det.] why {'öd' +}  
 -> läža : [det.] how {'läš' +}  
--> tena : [det.] when {'tän' +}  
+-> täna : [det.] when {'tän' +}  
 -> aža  : [det.] where; wherein {'-a' +}  
 -> meža : [det.] how many, how much {'me' +}  
 -> žavär : [det.] to/in what direction, towards where {+ '-vär'}
