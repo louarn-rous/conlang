@@ -1548,13 +1548,15 @@ mät  : [v.] set, change, assign, put {Latin 'mitto' via French 'mettre'}
 -------> temätör : [n.] trader, seller, supplier; merchant, shopkeeper; dealer
 -------> temätin(a) : [n.] purchase, sale, deal
 -> remät : [v.] reset
+----> remätin : [n.] resetting
 -> altemät : [v.] change, switch
 ----> altemätin : [n.] change, switch
 -> immät : [v.] input, enter, submit
 ----> immätin : [n.] input, entry, submission
 -> ustmät : [v.] output, return, give
 ----> ustmätin : [n.] output
--> ülamät : [v.] prepare
+-> ülamät : [v.] preset
+----> ülamätin : [n.] preset (presetting)
 
 kal  : [v.] fit, match, correspond {French 'caler'}
 -> kalin : [n.] match @@
@@ -2015,4 +2017,4 @@ bov    : [n.] [archaic] cow {Late Latin 'bovinus'}
 -> boväs : [adj.] [archaic] bovine
 -> bovu  : [n.] [archaic] calf
 ovär  : [v.] [archaic] open {French 'ouvrir', English 'open'}
-
+vinj  : [n.] [archaic] vine {French 'vigne'}
