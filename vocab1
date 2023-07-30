@@ -1478,10 +1478,8 @@ las : {French 'laisser'}
 -- [v.] leave, depart
 ----> lasina : [n.] departure
 -- [v.] leave behind, let (go of)
-perd : {French 'perdre'}
--- [v.] lose
-----> perdin : [n.] loss
--- [v.] waste
+perd : [v.] lose; drop; waste {French 'perdre'}
+-> perdin : [n.] loss
 
 pärmit : [v.] allow, permit {French 'permit'}
 -> pärmitina : [n.] permission
