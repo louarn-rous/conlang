@@ -151,8 +151,12 @@ uäst : {French 'ouest', English 'west'}
 me   : [adv.] [det.] much, many  
 mer  : [adv.] comparative ('more') {Dutch 'meer'}  
 mest : [adv.] superlative ('most') {Dutch 'meest'}  
+-> mestäs : [adj.] maximal
+----> mestäsät : [adv.] maximally
 ler  : [adv.] diminutive comparative ('less')  
-lest : [adv.] diminutive superlative ('least') {English 'least'}  
+lest : [adv.] diminutive superlative ('least') {English 'least'}
+-> lestäs : [adj.] minimal  
+----> lestäsät : [adv.] minimally  
 te   : [adv.] too, too much, too many {English 'too', French 'trop'}  
 jus  : [adv.] just, only, simply, merely {French 'juste'}
 
