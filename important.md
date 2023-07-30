@@ -206,6 +206,8 @@ uz  : [cnjc.] comitative ('with') {Croatian}
 
 mo    : [cnjc.] also, both, as well, again  
 -> omo : [adj.] same, common  
+----> omotänäs : [adj.] simultaneous  
+-------> omotänäsät : [adv.] simultaneously  
 ----> omoät : [adv.] samely, commonly  
 nä    : [cnjc.] [causal] but, however {French 'mais'}  
 -> sežnä : [cnjc.] [causal] nevertheless, still, despite (preceding clause)  
