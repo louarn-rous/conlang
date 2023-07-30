@@ -1543,6 +1543,10 @@ mät  : [v.] set, change, assign, put {Latin 'mitto' via French 'mettre'}
 -> remät : [v.] reset
 -> altemät : [v.] change, switch
 ----> altemätin : [n.] change, switch
+-> immät : [v.] input, enter, submit
+----> immätin : [n.] input, entry, submission
+-> ustmät : [v.] output, return, give
+----> ustmätin : [n.] output
 
 kal  : [v.] fit, match, correspond {French 'caler'}
 -> kalin : [n.] match @@
