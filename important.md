@@ -45,7 +45,8 @@ im : [prep.] in (contained by, within the bounds of, part of, into) {German}
 ----> imvärät : [adj.] inwards  
 ust : [prep.] out (outside of, away from, not in) {French 'ouste'}  
 -> ustir : [v.] exit  
-----> austir : [v.] expel, oust, drive away, kick out
+----> ustirin : [n.] exit, escape, getaway  
+----> austir : [v.] expel, oust, drive away, kick out  
 -> ustira : [n.] exit, output  
 -> usklöd : [v.] exclude  
 -> ustvär : [adj.] outwards  
