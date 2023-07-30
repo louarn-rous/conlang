@@ -33,7 +33,7 @@ dö  : [prep.] ablative and genitive particle ('from', 'of', authorship) {French
 -> öduz : [adv.] together  
 -> öde : [prep.] benefactive particle ('for', 'in favour/support/the objective of', 'so that')  
 -> ödvär : [adj.] towards  
-----> ödvärät : [adv.] towards  
+----> ödvärt : [adv.] towards  
 tej : [prep.] [cnjc.] instrumentative ('with') {see 'utej'}
 
 sär : [prep.] in the form(at) of  
@@ -45,7 +45,7 @@ im : [prep.] in (contained by, within the bounds of, part of, into) {German}
 -> imira : [n.] entry, input  
 -> imklöd : [v.] include  
 -> imvär : [adj.] inwards  
-----> imvärät : [adj.] inwards  
+----> imvärt : [adj.] inwards  
 ust : [prep.] out (outside of, away from, not in) {French 'ouste'}  
 -> ustir : [v.] exit  
 ----> ustirin : [n.] exit, escape, getaway  
@@ -53,7 +53,7 @@ ust : [prep.] out (outside of, away from, not in) {French 'ouste'}
 -> ustira : [n.] exit, output  
 -> usklöd : [v.] exclude  
 -> ustvär : [adj.] outwards  
-----> ustvärät : [adv.] outwards
+----> ustvärt : [adv.] outwards
 
 -> ustäs? : [adj.] external @@  
 ----> ustäsät? : [adv.] externally @@  
@@ -91,26 +91,26 @@ sti : [prep.] as if, like so, similar to
 ot : [n.] up, high, top (of) {French 'haut(e)'}  
 -> otät : [adj.] highly  
 -> otvär : [adj.] upwards  
-----> otvärät : [adv.] upwards  
+----> otvärt : [adv.] upwards  
 ös : [n.] down, low, bottom (of)  
 -> ösät : [adj.] lowly  
 -> ösvär : [adj.] downwards  
-----> ösvärät : [adv.] downwards  
+----> ösvärt : [adv.] downwards  
 let  : [n.] left {German 'links', English 'left'}  
 -> letest : [adj.] leftmost  
 -> letvär : [adj.] leftwards  
-----> letvärät : [adv.] leftwards  
+----> letvärt : [adv.] leftwards  
 räšt : [n.] right {German 'Rechts'}  
 -> räštest : [adj.] rightmost  
 -> räštvär : [adj.] rightwards  
-----> räštvärät : [adv.] rightwards  
+----> räštvärt : [adv.] rightwards  
 drän  : [n.] front {French 'face'}  
 -> dränvär : [adj.] frontwards; forwards  
 ----> dränvärt : [adv.] frontwards; forwards  
 -> dränpar : [n.] frontside  
 täg  : [n.] back {Original}  
 -> tägvär : [adj.] backwards  
-----> tägvärät : [adv.] backwards  
+----> tägvärt : [adv.] backwards  
 -> tägpar : [n.] backside
 
 mitäl : {German 'mittel', English 'middle'}  
