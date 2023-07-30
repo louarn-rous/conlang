@@ -102,8 +102,8 @@ räšt : [n.] right {German 'Rechts'}
 -> räštvär : [adj.] rightwards  
 ----> räštvärät : [adv.] rightwards  
 drän  : [n.] front {French 'face'}  
--> dränvär : [adj.] frontwards  
-----> dränvärt : [adv.] frontwards  
+-> dränvär : [adj.] frontwards; forwards  
+----> dränvärt : [adv.] frontwards; forwards  
 -> dränpar : [n.] frontside  
 täg  : [n.] back {Original}  
 -> tägvär : [adj.] backwards  
