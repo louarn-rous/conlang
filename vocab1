@@ -1239,6 +1239,9 @@ düs : [v.] should {French 'devoir' + 'müs'}
 -> düsin : [n.] obligation
 baž : [v.] need, require {Original}
 -> bažin : [n.] need, requirement
+-> ülabaž : [v.] prerequire
+----> ülabažin : [n.] prerequisite
+
 vür : [v.] want, wish {French 'vouloir'}
 -> vürin : [n.] want, wish
 sünt : [v.] demand, order, command {Finnish 'kysyntä'}
@@ -1619,7 +1622,6 @@ troš : {French 'trancher'}
 -- [n.] cut, incision
 
 
-
 tröb : {German 'Arbeit', French 'travail', English 'labour'}
 -- [v.] work, labour
 ----> tröbör : [n.] worker
@@ -1883,6 +1885,14 @@ stes : [adj.] sacred, blessed {Russian 'святой'}
 ru : [adj.] raw, crude; bare
 -> aru : [v.] to lay bare
 -> ruät : [adv.] crudely; barely
+
+ran : [adj.] ready, prepared
+-> ranein : [n.] readiness
+-> aran : [v.] [trans] make ready
+----> aranina : [n.] readying
+
+----> ülaran : [v.] [tans] prepare
+-------> ülaranina : [n.] preparation
 
 strüg : [adj.] without care, secure {Latin 'securus', Swedish 'trygg'}
 -> strügein : [n.] security, safety
