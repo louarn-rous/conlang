@@ -23,6 +23,9 @@ netä : [det.] any, either
 -> nölletä : [det.] neither  
 -> netäa : [adv.] anywhere
 
+ait : [det.] each
+-> artu : [det.] all
+
 ## prepositions  
 
 dö  : [prep.] ablative and genitive particle ('from', 'of', authorship) {French 'de'}  
