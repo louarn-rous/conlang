@@ -433,7 +433,7 @@ blüt : {German 'Blut'}
 kap : {Latin 'caput' via English 'captain' & French 'décapiter'}
 -- [n.] head
 ----> kapäs : [adj.] cranial
--------> kapäs : [adv.] cranially
+-------> kapäsät : [adv.] cranially
 ----> dekap : [v.] behead, decapitate
 -------> dekapina : [n.] beheading, decapitation
 -- [v.] lead, direct
@@ -1634,10 +1634,11 @@ tröb : {German 'Arbeit', French 'travail', English 'labour'}
 -- [n.] work, labour
 ----> tröbnuz : [adj.] unemployed
 -------> tröbnuzör : [n.] unemployed person
-štüt : {? German 'stützen'}
--- [v.] support
-----> štütör : [n.] supporter
--- [n.] support
+štüt : [v.] support {? German 'stützen'}
+-> štütör : [n.] supporter
+-> štütin [n.] support
+
+
 tortür : {French & English 'torture'}
 -- [v.] torture
 ----> tortürör : [n.] torturer
@@ -1847,6 +1848,7 @@ vat : [adj.] good, well {Breton}
 -> vatest : [adj.] best
 -> vatein : [n.] goodness, good; wellness
 ----> nevatein : [n.] illness, distress
+-> vatät : [adv.] well
 
 liber : [adj.] free {Latin}
 -> liberein : [n.] freedom
