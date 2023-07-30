@@ -245,13 +245,13 @@ na : [archaic]
 
 -en     : [suf.] plural {German}  
 -(n)u   : [suf.] diminutive {Turkish 'kuzu'}  
--ina    : [suf.] forms nouns from verbs, indicating the action of what is denoted by the verb {Croatian 'batina'}  
--> -in  : [suf.] forms nouns from verbs, describing the result of an action  
--ör     : [suf.] forms agent nouns from verbs ('-er')  
--(n)äs  : [suf.] forms adjectives from nouns, with the meaning 'of or pertaining to' the suffixed word ('-ic')  
+-ina    : [suf.] nominative; forms nouns from verbs, indicating the action of what is denoted by the verb {Croatian 'batina'}  
+-> -in  : [suf.] nominative; forms nouns from verbs, describing the result of an action  
+-ör     : [suf.] agentive; forms agent nouns from verbs ('-er')  
+-(n)äs  : [suf.] genitive; forms adjectives from nouns, with the meaning 'of or pertaining to' the suffixed word ('-ic')  
 -(s)ein : [suf.] forms nouns from adjectives, denoting the condition or state of the suffixed word ('-hood', '-dom', '-ness') {Archaic form: '-esin'}  
 -fär    : [suf.] forms adjectives from verbs, indicating that the action can be performed ('-able') {see 'fär'}  
--nuz    : [suf.] forms abessive adjectives from nouns ('-less') {see 'nuz'}  
+-nuz    : [suf.] abessive; forms abessive adjectives from nouns ('-less') {see 'nuz'}  
 -ver    : [suf.] forms adjectives from nouns, meaning deserving or worthy of the suffixed word ('-worthy', '-some') {see 'ver'}  
 -e      : [suf.] forms ordinal numbers  
 -a      : [suf.] used to mark a place
@@ -263,7 +263,7 @@ na : [archaic]
 
 -ät :  
 -- [suf.] used to form adverbs from adjectives @@ verbs and nouns  
--- [suf.] used to form adjectives from nouns, meaning resembling the suffixed word (esp. in behaviour)  
+-- [suf.] semblative; used to form adjectives from nouns, meaning resembling the suffixed word (esp. in behaviour)  
 -- [suf.] used to form adjectives from verbs, meaning 'inclined to' ###
 
 -mod : [suf.] [v.] used to form verbs from nouns, with the sence of playing the role of, or being the suffixed word {see 'mod'}
