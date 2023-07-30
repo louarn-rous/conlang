@@ -284,6 +284,7 @@ astär  : [n.] star
 lün    : [n.] moon {Latin 'luna'}
 -> lünäs : [adj.] lunar
 ----> lünäsein : [n.] lunacy, insanity
+-> lünlüm
 planät : [n.] planet {French 'planète'}
 -> planätäs : [adj.] planetary
 sol : [n.] sun {Latin 'sol' via French 'solaire'}
@@ -291,6 +292,7 @@ sol : [n.] sun {Latin 'sol' via French 'solaire'}
 -> asol : [v.] [trans] to expose to sunlight
 -> solflor : [n.] sunflower {'sol' + 'flor'}
 ----> solflor : [n.] [colloq.] [figurative] person with little to no capacity for independent thought
+-> sollüm : [n.] sunlight
 === marine ===
 mar      : [n.] sea {Breton 'mor', French 'mer'}
 -> maräs : [adj.] marine
@@ -887,6 +889,7 @@ nat   : [n.] day
 -> minat : [n.] midday {'mi(t)-' +}
 -> sätänat : [n.] week {'sät' +}
 ----> sätänatäs : [n.] weekly
+-> natlüm : [n.] daylight
 nošt  : [n.] night {Russian 'ночь', German 'Nacht'}
 -> noštäs : [adj.] nocturnal, nightly
 ----> noštäst : [adv.] nocturnally
@@ -1110,6 +1113,9 @@ sen : [v.] know {Latin 'sciens'}
 -------> asesinäs : [adj.] pedagogical
 ----------> asesinäst : [adv.] pedagogically
 ----> asenör : [v.] teacher
+
+ren : [v.] believe
+-> renin : [n.] belief
 
 ser : {French 'dire', English 'say', German 'sprechen'}
 -- [v.] say, speak, tell, talk
