@@ -210,7 +210,7 @@ mo    : [cnjc.] also, both, as well, again
 -------> omotänäsät : [adv.] simultaneously  
 ----> omoät : [adv.] samely, commonly  
 nä    : [cnjc.] [causal] but, however {French 'mais'}  
--> sežnä : [cnjc.] [causal] nevertheless, still, despite (preceding clause)  
+-> sežnä : [cnjc.] [causal] nevertheless, still, despite, anyway (preceding clause)  
 -> näst : [cnjc.] [causal] despite (of)  
 štöda : [cnjc.] [causal] because, since {Original}  
 rösni : [cnjc.] [causal] therefore, so, thus, hence, consequently {Original}
