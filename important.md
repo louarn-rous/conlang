@@ -212,6 +212,13 @@ mo    : [cnjc.] also, both, as well, again
 ----> omotänäs : [adj.] simultaneous  
 -------> omotänäsät : [adv.] simultaneously  
 ----> omoät : [adv.] samely, commonly  
+----> omäs : [adj.] equal  
+-------> omäst : [adv.] equally  
+-------> omäsein : [n.] equality  
+-------> neomäs : [adj.] inequal, unequal  
+----------> neomäst : [adv.] inequally, unequally  
+----------> neomäsein : [n.] inequality
+
 nä    : [cnjc.] [causal] but, however {French 'mais'}  
 -> sežnä : [cnjc.] [causal] nevertheless, still, despite, anyway (preceding clause)  
 -> näst : [cnjc.] [causal] despite (of)  
