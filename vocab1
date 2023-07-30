@@ -1,4 +1,4 @@
-m=== numbers ===
+=== numbers ===
 nümer : [n.] number; number of, count {French 'numéro'}
 -> anümer [v.] [trans] to assign a number to
 -> nümeräs : [adj.] numerical
@@ -1554,6 +1554,7 @@ mät  : [v.] set, change, assign, put {Latin 'mitto' via French 'mettre'}
 ----> immätin : [n.] input, entry, submission
 -> ustmät : [v.] output, return, give
 ----> ustmätin : [n.] output
+-> ülamät : [v.] prepare
 
 kal  : [v.] fit, match, correspond {French 'caler'}
 -> kalin : [n.] match @@
@@ -1887,12 +1888,9 @@ ru : [adj.] raw, crude; bare
 -> ruät : [adv.] crudely; barely
 
 ran : [adj.] ready, prepared
--> ranein : [n.] readiness
--> aran : [v.] [trans] make ready
-----> aranina : [n.] readying
-
-----> ülaran : [v.] [tans] prepare
--------> ülaranina : [n.] preparation
+-> ranein : [n.] readiness; preparedness
+-> aran : [v.] [trans] prepare
+----> aranina : [n.] preparation
 
 strüg : [adj.] without care, secure {Latin 'securus', Swedish 'trygg'}
 -> strügein : [n.] security, safety
