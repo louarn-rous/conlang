@@ -245,7 +245,7 @@ na : [archaic]
 
 -en     : [suf.] plural {German}  
 -(n)u   : [suf.] diminutive {Turkish 'kuzu'}  
--ina    : [suf.] nominative; forms nouns from verbs, indicating the action of what is denoted by the verb {Croatian 'batina'}  
+-ina    : [suf.] verbal nominative; forms verbal nouns (the noun indicating the action of what is denoted by the verb) {Croatian 'batina'}  
 -> -in  : [suf.] nominative; forms nouns from verbs, describing the result of an action  
 -ör     : [suf.] agentive; forms agent nouns from verbs ('-er')  
 -(n)äs  : [suf.] genitive; forms adjectives from nouns, with the meaning 'of or pertaining to' the suffixed word ('-ic')  
