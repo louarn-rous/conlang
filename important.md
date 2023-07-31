@@ -257,7 +257,7 @@ na : [archaic]
 -a      : [suf.] used to mark a place
 -(t)roke : [suf.] used to indicate a place with a purpose relating to the suffixed word ('-place')
 
--vär : [suf.] in the direction of ('-wards') {see 'värt'}
+-vär : [suf.] venitive; in the direction of ('-wards') {see 'värt'}
 
 -(n)(en)i : [suf.] used to form nouns, indicating someone who is from a place
 
