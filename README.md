@@ -6,24 +6,24 @@ It utilises Subject-Verb-Object word order.
 
 | Consonants       | Labial  | Alveolar  | Post-Alveolar | Palatal | Velar | Glottal |
 |:---------------- |:-------:|:---------:|:---------:|:---:|:-------:|:---:|
-| Nasal            | /m/     | /n/       |           | (ɲ) | (ŋ)     |     |
+| Nasal            | /m/     | /n/       |           |     |         |     |
 | Plosive          | /p/ /b/ | /t/ /d/   |           |     | /k/ /ɡ/ |     |
 | Affricate        |         | /ts/ /dz/ | /tʃ/ /dʒ/ |     |         |     |
 | Fricative        | /f/ /v/ | /s/ /z/   | /ʃ/ /ʒ/   |     | (x)     | /h/ |
 | Approximant      |         |           |           | /j/ |         |     |
 | Tap/Flap         |         | /ɾ/       |           |     |         |     |
-| Lat. Approximant |         | /l/       |           | (ʎ) |         |     |
+| Lat. Approximant |         | /l/       |           |     |         |     |
+
+| -  | -    | -  | -    | -  | -    |
+|:--:|:----:|:--:|:----:|:--:|:----:|
+| ts | [t͡s] | kj | [kʲ] | nj | [ɲ]  |
+| dz | [d͡z] | gj | [gʲ] | ng | [ŋ]  |
+| tš | [t͡ʃ] | kh | [kʰ] | lj | [ʎ]  |
+| dž | [d͡ʒ] | gh | [gʰ] | ht | [xt] |
 
 /ʝ/ is a frequent allophone of /j/.  
 /ɕ/ is a frequent allophone of /ʃ/.  
 /ʑ/ is a frequent allophone of /ʒ/.
-
-| a  | b    | a  | b    | c  | d    |
-|:--:|:----:|:--:|:----:|:--:|:----:|
-| ts | /t͡s/ | kj | /kʲ/ | kh | /kʰ/ |
-| dz | /d͡z/ | gj | /gʲ/ | gh | /gʰ/ |
-| tš | /t͡ʃ/ | nj | /ɲ/  | ng | /ŋ/  |
-| dž | /d͡ʒ/ | lj | /ʎ/  | ht | /xt/ |
 
 | Vowels    | Front   | Back |
 |:--------- |:-------:|:----:|
@@ -35,10 +35,12 @@ It utilises Subject-Verb-Object word order.
 | Group  | Diphtong | Group  | Diphtong |
 |:------:|:-----:|:------:|:-----:|
 | //io// | \[iʊ] | //ui// | \[ʊi] |
-| //ae// | \[ɐe̞] | //ai// | \[aɪ] |
+| //ae// | \[ɐe̞] | //ue// | \[ʊɪ] |
 | //au// | \[äʊ] | //ou// | \[o̞ʊ] |
-| //ue// | \[ʊɪ] | //üe// | \[ɨɪ] |
+| //ai// | \[aɪ] | //üe// | \[ɨɪ] |
 | //ea// | \[e̞ɐ] |  |  |
+
+⟨si⟩ is realized as [şi]
 
 ## Alphabet
 The Ijter language has two scripts/alphabet: one Latin and one Cyrillic (similar to Serbian)
