@@ -3,12 +3,12 @@
 Ižter (localized in English as 'Ijter') is a constructed language with no specific purpose.
 It utilises Subject-Verb-Object word order.
 
-1. [Phonology](##Phonology)
-2. [Alphabet](##Alphabet)
-3. [Verbs](##Verbs)
-4. [Pronouns](##Pronouns)
-5. [Braille](##Braille)
-6. [Morse](##Morse)
+1. [Phonology](#Phonology)
+2. [Alphabet](#Alphabet)
+3. [Verbs](#Verbs)
+4. [Pronouns](#Pronouns)
+5. [Braille](#Braille)
+6. [Morse](#Morse)
 
 ## Phonology
 
