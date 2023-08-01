@@ -96,6 +96,16 @@ When a fricative is followed by a plosive, or vice versa, the latter preserves t
 | ⟨šd⟩ → št | ⟨šb⟩ → šp | ⟨šg⟩ → šk |
 | ⟨zt⟩ → zd | ⟨zp⟩ → zb | ⟨zk⟩ → zg |
 | ⟨žt⟩ → žd | ⟨žp⟩ → žb | ⟨žk⟩ → žg |
+| - | - | - |
+| ⟨fd⟩ → ft | ⟨fb⟩ → fp | ⟨fg⟩ → fk |
+| ⟨vt⟩ → vd | ⟨vp⟩ → vb | ⟨vk⟩ → vg | 
+
+this is the same with two fricatives:
+
+| s/z | š/ž |
+| - | - |
+| ⟨sv⟩ → sf | ⟨šv⟩ → šf |
+| ⟨zf⟩ → zv | ⟨žf⟩ → žv |
 
 ### Digraphs
 
