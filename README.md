@@ -47,15 +47,15 @@ The Ijter language has two scripts/alphabet: one Latin and one Cyrillic (similar
 
 | IPA | English               |Lat.|Cyr.|Name| IPA | English                 |Lat.|Cyr.|Name|
 |:---:|:---                   |:--:|:--:|:--:|:---:|:---                     |:--:|:--:|:--:|
-| /a/ | 'h**a**t' (Cali, Can) | Aa | Аа | a  | /o/ | 'y**aw**n' (SA)         | Oo | Оо | o  |
-| /ɛ/ | 'y**e**s'             | Ää | Ӓӓ | ä  | /ø/ | 'b**ir**d' (Broad NZ)   | Öö | Ӧӧ | ö  |
+| /a/ | 'h**a**t' (Cali, Can) | Aa | Аа | aa | /o/ | 'y**aw**n' (SA)         | Oo | Оо | oo |
+| /ɛ/ | 'y**e**s'             | Ää | Ӓӓ | ää | /ø/ | 'b**ir**d' (Broad NZ)   | Öö | Ӧӧ | öö |
 | /b/ | '**b**all'            | Bb | Бб | be | /p/ | '**p**en'               | Pp | Пп | pe |
 | /d/ | '**d**og'             | Dd | Дд | de | /ɾ/ | 'be**tt**er' (Aus, NAE) | Rr | Рр | är |
-| /e/ | 'h**a**y'             | Ee | Ее | e  | /s/ | '**s**un'               | Ss | Сс | äs |
+| /e/ | 'h**a**y'             | Ee | Ее | ee | /s/ | '**s**un'               | Ss | Сс | äs |
 | /v/ | '**v**ine'            | Vv | Вв | ve | /ʃ/ | '**sh**oe'              | Šš | Шш | äš |
 | /g/ | '**g**oat'            | Gg | Гг | ge | /t/ | '**t**op'               | Tt | Тт | te |
-| /i/ | 'b**ee**'             | Ii | Ии | i  | /u/ | 'fr**u**it'             | Uu | Уу | u  |
-| /j/ | '**y**ak'             | Jj | Јј | je | /y/ | 'f**ew**' (Gen. SA)     | Üü | Ӱӱ | ü  |
+| /i/ | 'b**ee**'             | Ii | Ии | ii | /u/ | 'fr**u**it'             | Uu | Уу | uu |
+| /j/ | '**y**ak'             | Jj | Јј | je | /y/ | 'f**ew**' (Gen. SA)     | Üü | Ӱӱ | üü |
 | /k/ | '**k**ey'             | Kk | Кк | ke | /z/ | '**z**oo'               | Zz | Зз | ze |
 | /l/ | '**l**eg'             | Ll | Лл | äl | /ʒ/ | 'vi**si**on'            | Žž | Жж | že |
 | /m/ | '**m**ail'            | Mm | Мм | äm | /f/ | '**f**ish'              | Ff | Фф | äf |
