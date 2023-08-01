@@ -32,8 +32,8 @@ It utilises Subject-Verb-Object word order.
 | Open-mid  | /ɛ/     |      |
 | Open      | /a/     |      |
 
-| Group  | Diphtong | Group  | Diphtong |
-|:------:|:-----:|:------:|:-----:|
+| Group | Diphtong | Group  | Diphtong |
+|:---:  |:-----:   |:---:   |:-----:   |
 | ⟨io⟩ | \[iʊ] | ⟨ui⟩ | \[ʊi] |
 | ⟨ae⟩ | \[ɐe̞] | ⟨ue⟩ | \[ʊɪ] |
 | ⟨au⟩ | \[äʊ] | ⟨ou⟩ | \[o̞ʊ] |
@@ -46,7 +46,7 @@ when ⟨si⟩ is the initial syllable in a word, it is realized as [şi].
 The Ijter language has two scripts/alphabet: one Latin and one Cyrillic (similar to Serbian)
 
 | IPA | English               |Lat.|Cyr.|Name| IPA | English                 |Lat.|Cyr.|Name|
-|:---:|:---                   |:--:|:--:|:--:|:---:|:---                     |:--:|:--:|:--:|
+|:---:|:---                   |:-: |:-: |:-: |:---:|:---                     |:-: |:-: |:-: |
 | /a/ | 'h**a**t' (Cali, Can) | Aa | Аа | aa | /o/ | 'y**aw**n' (SA)         | Oo | Оо | oo |
 | /ɛ/ | 'y**e**s'             | Ää | Ӓӓ | ää | /ø/ | 'b**ir**d' (Broad NZ)   | Öö | Ӧӧ | öö |
 | /b/ | '**b**all'            | Bb | Бб | be | /p/ | '**p**en'               | Pp | Пп | pe |
@@ -77,7 +77,7 @@ Conjugation functions by appending an ending to the stem of the verb.
 ### Personal
 
 |     | Acc. | Dat. | Det. |
-|:---:|:----:|:----:|:----:|
+|:-:  |:--:  |:--:  |:--:  |
 | 1s  | Iž   | Mö   | Mön  |
 | 1p  | No   | No   | Nos  |
 | 2s  | Tö   | Tö   | Tön  |
@@ -106,13 +106,13 @@ Ijter braille is inspired by the French, English, Czech and Scandinavian braille
 |      | Ää ⠣ |      |       | Šš ⠱ |      |      |       | Öö ⠪ |      |
 
 | Punc. | Br. | Punc. | Br. |
-|:-----:|:---:|:------|:---:|
+|:-:    |:-:  |:-:    |:-:  |
 | .     | ⠲   | ,     | ⠂  |
 | :     | ⠒   | ;     | ⠆  |
 | !     | ⠖   | ?     | ⠢  |
 
 | Name           |Br.|
-| ---            |:-:|
+| :--            |:-:|
 | Capital marker | ⠠ |
 | Number sign    | ⠼ |
 
