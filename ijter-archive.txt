@@ -57,6 +57,22 @@ lyd - lydo```
 
 `2023/03/10` since im very interested by concepts surrounding input, language and codes, i'm gonna see if i can come up with a sort of highly efficient keyboard-type thing which isnt in traditional layout/structure
 
+`2023-03-12`
+tz → ts, dz   ·   pz → ps, bz   ·   kz → ks, gz
+tž → tš, dž   ·   pž → pš, bž   ·   kž → kš, gž
+ds → dz, ts   ·   bs → bz, ps   ·   gs → gz, ks
+dš → dž, tš   ·   bš → bž, pš   ·   gš → gž, kš
+
+sd → st, zd   ·   sb → sp, zb   ·   sg → sk, zg
+šd → št, žd   ·   šb → šp, žb   ·   šg → šk, žg
+zt → zd, st   ·   zp → zb, sp   ·   zk → zg, sk
+žt → žd, št   ·   žp → žb, šp   ·   žk → žg, šk
+
+this is to map out 'permitted' consonants
+because /k/¸ /s/, /ʃ/, /t/ are unrounded while /g/, /z/, /ʒ/, /d/ are rounded
+pronouncing rounded and unrounded syllables in succession is hard and makes an unclear sound
+if you try to pronounce /kz/ it'll sound like /gz/ or /ks/
+
 `13-03-2023` pissed cause (the above means that) 'us'/'we' is a homophone of 'no' and 'our' is a homophone of '9'
 homophones are natural, even with really common words, but i tend to avoid them as much as possible
 albeit idk if they would really conflict enough for this to be a problem
