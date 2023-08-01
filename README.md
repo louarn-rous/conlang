@@ -7,8 +7,9 @@ It utilises Subject-Verb-Object word order.
 2. [Alphabet](#Alphabet)
 3. [Verbs](#Verbs)
 4. [Pronouns](#Pronouns)
-5. [Braille](#Braille)
-6. [Morse](#Morse)
+5. [Phonotactics](#Phonotactics)
+6. [Braille](#Braille)
+7. [Morse](#Morse)
 
 ## Phonology
 
@@ -22,33 +23,12 @@ It utilises Subject-Verb-Object word order.
 | Tap/Flap         |         | /ɾ/       |           |     |         |     |
 | Lat. Approximant |         | /l/       |           |     |         |     |
 
-| -   | -    | -   | -    | -   | -    |
-|:---:|:----:|:---:|:----:|:---:|:----:|
-| ⟨ts⟩ | [t͡s] | ⟨kj⟩ | [kʲ] | ⟨nj⟩ | [ɲ]  |
-| ⟨dz⟩ | [d͡z] | ⟨gj⟩ | [gʲ] | ⟨ng⟩ | [ŋ]  |
-| ⟨tš⟩ | [t͡ʃ] | ⟨kh⟩ | [kʰ] | ⟨lj⟩ | [ʎ]  |
-| ⟨dž⟩ | [d͡ʒ] | ⟨gh⟩ | [gʰ] | ⟨ht⟩ | [xt] |
-
-/ʝ/ is a frequent allophone of /j/.  
-/ɕ/ is a frequent allophone of /ʃ/.  
-/ʑ/ is a frequent allophone of /ʒ/.
-
 | Vowels    | Front   | Back |
 |:--------- |:-------:|:----:|
 | Close     | /i/ /y/ | /u/  |
 | Close-mid | /e/ /ø/ | /o/  |
 | Open-mid  | /ɛ/     |      |
 | Open      | /a/     |      |
-
-| Group | Diphtong | Group  | Diphtong |
-|:---:  |:-----:   |:---:   |:-----:   |
-| ⟨io⟩ | \[iʊ] | ⟨ui⟩ | \[ʊi] |
-| ⟨ae⟩ | \[ɐe̞] | ⟨ue⟩ | \[ʊɪ] |
-| ⟨au⟩ | \[äʊ] | ⟨ou⟩ | \[o̞ʊ] |
-| ⟨ai⟩ | \[aɪ] | ⟨üe⟩ | \[ɨɪ] |
-| ⟨ea⟩ | \[e̞ɐ] |  |  |
-
-when ⟨si⟩ is the initial syllable in a word, it is realized as [şi].
 
 ## Alphabet
 The Ijter language has two scripts/alphabet: one Latin and one Cyrillic (similar to Serbian)
@@ -101,6 +81,46 @@ A unique feature of Ijter is the possibility of combining a personal pronoun wit
 |:---               |:---                          |:---               |
 | mönen _colleague_ | a colleague of mine          | my-a(n) colleague |
 | söner fränden     | those friends of theirs (sg) | their-the friends |
+
+## Phonotactics
+
+When a fricative is followed by a plosive, or vice versa, the latter preserves the rounded/unroundedness of the other.
+
+| t/d | p/b | k/g |
+| - | - | - |
+| ⟨tz⟩ → ts | ⟨pz⟩ → ps | ⟨kz⟩ → ks |
+| ⟨tž⟩ → tš | ⟨pž⟩ → pš | ⟨kž⟩ → kš |
+| ⟨ds⟩ → dz | ⟨bs⟩ → bz | ⟨gs⟩ → gz |
+| ⟨dš⟩ → dž | ⟨bš⟩ → bž | ⟨gš⟩ → gž |
+| ⟨sd⟩ → st | ⟨sb⟩ → sp | ⟨sg⟩ → sk |
+| ⟨šd⟩ → št | ⟨šb⟩ → šp | ⟨šg⟩ → šk |
+| ⟨zt⟩ → zd | ⟨zp⟩ → zb | ⟨zk⟩ → zg |
+| ⟨žt⟩ → žd | ⟨žp⟩ → žb | ⟨žk⟩ → žg |
+
+### Digraphs
+
+| -   | -    | -   | -    | -   | -    |
+|:---:|:----:|:---:|:----:|:---:|:----:|
+| ⟨ts⟩ | [t͡s] | ⟨kj⟩ | [kʲ] | ⟨nj⟩ | [ɲ]  |
+| ⟨dz⟩ | [d͡z] | ⟨gj⟩ | [gʲ] | ⟨ng⟩ | [ŋ]  |
+| ⟨tš⟩ | [t͡ʃ] | ⟨kh⟩ | [kʰ] | ⟨lj⟩ | [ʎ]  |
+| ⟨dž⟩ | [d͡ʒ] | ⟨gh⟩ | [gʰ] | ⟨ht⟩ | [xt] |
+
+### Diphtongs
+
+| Group | Diphtong | Group  | Diphtong |
+|:---:  |:-----:   |:---:   |:-----:   |
+| ⟨io⟩ | \[iʊ] | ⟨ui⟩ | \[ʊi] |
+| ⟨ae⟩ | \[ɐe̞] | ⟨ue⟩ | \[ʊɪ] |
+| ⟨au⟩ | \[äʊ] | ⟨ou⟩ | \[o̞ʊ] |
+| ⟨ai⟩ | \[aɪ] | ⟨üe⟩ | \[ɨɪ] |
+| ⟨ea⟩ | \[e̞ɐ] |  |  |
+
+when ⟨si⟩ is the initial syllable in a word, it is realized as [şi].
+
+/ʝ/ is a frequent allophone of /j/.  
+/ɕ/ is a frequent allophone of /ʃ/.  
+/ʑ/ is a frequent allophone of /ʒ/.
 
 ## Braille
 
