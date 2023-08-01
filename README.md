@@ -40,7 +40,7 @@ It utilises Subject-Verb-Object word order.
 | //ai// | \[aɪ] | //üe// | \[ɨɪ] |
 | //ea// | \[e̞ɐ] |  |  |
 
-⟨si⟩ is realized as [şi]
+when ⟨si⟩ is the initial syllable in a word, it is realized as [şi].
 
 ## Alphabet
 The Ijter language has two scripts/alphabet: one Latin and one Cyrillic (similar to Serbian)
