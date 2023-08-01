@@ -4,18 +4,18 @@ Ižter (localized in English as 'Ijter') is a constructed language with no speci
 It utilises Subject-Verb-Object word order.
 ## Phonology
 
-| Consonants       | Labial  | Alveolar  | Post-Alveolar | Palatal | Velar | Glottal |
-|:---------------- |:-------:|:---------:|:-------:|:---:|:-------:|:---:|
+| Consonants       | Labial  | Alveolar  | Postalveolar | Palatal | Velar | Glottal |
+|:---------------- |:-------:|:---------:|:---------:|:---:|:-------:|:---:|
 | Nasal            | /m/     | /n/       |           |     |         |     |
 | Plosive          | /p/ /b/ | /t/ /d/   |           |     | /k/ /ɡ/ |     |
 | Affricate        |         | /ts/ /dz/ | /tʃ/ /dʒ/ |     |         |     |
-| Fricative        | /f/ /v/ | /s/ /z/   | /ʃ/ /ʒ/   |     | (x)     | /h/ |
+| Fricative        | /f/ /v/ | /s/ /z/   | /ʃ/ /ʒ/   |     |         | /h/ |
 | Approximant      |         |           |           | /j/ |         |     |
 | Tap/Flap         |         | /ɾ/       |           |     |         |     |
 | Lat. Approximant |         | /l/       |           |     |         |     |
 
-| -  | -    | -  | -    | -  | -    |
-|:--:|:----:|:--:|:----:|:--:|:----:|
+| -   | -    | -   | -    | -   | -    |
+|:---:|:----:|:---:|:----:|:---:|:----:|
 | ⟨ts⟩ | [t͡s] | ⟨kj⟩ | [kʲ] | ⟨nj⟩ | [ɲ]  |
 | ⟨dz⟩ | [d͡z] | ⟨gj⟩ | [gʲ] | ⟨ng⟩ | [ŋ]  |
 | ⟨tš⟩ | [t͡ʃ] | ⟨kh⟩ | [kʰ] | ⟨lj⟩ | [ʎ]  |
