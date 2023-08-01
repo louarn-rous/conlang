@@ -89,10 +89,10 @@ Conjugation functions by appending an ending to the stem of the verb.
 
 A unique feature of Ijter is the possibility of combining a personal pronoun with a definite or indefinite determiner.
 
-| Phrase            | English                            | Lit. translation  |
-| ---               | ---                                | ---               |
-| mönen _colleague_ | a colleague of mine                | my-a(n) colleague |
-| söner fränden     | those friends of theirs (singular) | their-the friends |
+| Phrase            | English                      | Lit. translation  |
+|:---               |:---                          |:---               |
+| mönen _colleague_ | a colleague of mine          | my-a(n) colleague |
+| söner fränden     | those friends of theirs (sg) | their-the friends |
 
 ## Braille
 
@@ -100,10 +100,10 @@ Ijter braille is inspired by the French, English, Czech and Scandinavian braille
 
 | 1  | 2  | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 0 |
 | -  | -  | - | - | - | - | - | - | - | - |
-| a⠁ | b⠃ |    | d⠙ | e⠑ | f⠋ | g⠛ | h⠓ | i⠊ | j⠚ |
-| k⠅ | l⠇ | m⠍ | n⠝ | o⠕ | p⠏ |    | r⠗ | s⠎ | t⠞ |
-| u⠥ | v⠧ |    | ü⠽ | z⠵ |     |    |    | ž⠮ |    |
-|    | ä⠣ |    |     | š⠱ |    |    |    | ö⠪ |    |
+| Aa ⠁ | Bb ⠃ |      | Dd ⠙ | Ee ⠑ | Ff ⠋ | Gg ⠛ | Hh ⠓ | Ii ⠊ | Jj ⠚ |
+| Kk ⠅ | Ll ⠇ | Mm ⠍ | Nn ⠝ | Oo ⠕ | Pp ⠏ |      | Rr ⠗ | Ss ⠎ | Tt ⠞ |
+| Uu ⠥ | Vv ⠧ |      | Üü ⠽ | Zz ⠵ |       |      |      | Žž ⠮ |      |
+|      | Ää ⠣ |      |       | Šš ⠱ |      |      |       | Öö ⠪ |      |
 
 | Punc. | Br. | Punc. | Br. |
 |:-----:|:---:|:------|:---:|
@@ -118,20 +118,20 @@ Ijter braille is inspired by the French, English, Czech and Scandinavian braille
 
 ## Morse
 
-| 0 | Code | 0 | Code |
-|:-:|:---  |:-:|:---  |
-| a | .-   | o | ---  |
-| ä | .-.- | ö | ---. |
-| b | -... | p | .--. |
-| d | -..  | r | .-.  |
-| e | .    | s | ...  |
-| v | ...- | š | ---- |
-| g | --.  | t | -    |
-| i | ..   | u | ..-  |
-| j | .--- | ü | ..-- |
-| k | -.-  | z | --.. |
-| l | .-.. | ž | --..-|
-| m | --   | f | ..-. |
-| n | -.   | h | .... |
+| -- | Code | -- | Code |
+|:-- |:---  |:-- |:---  |
+| Aa | .-   | Oo | ---  |
+| Ää | .-.- | Öö | ---. |
+| Bb | -... | Pp | .--. |
+| Dd | -..  | Rr | .-.  |
+| Ee | .    | Ss | ...  |
+| Vv | ...- | Šš | ---- |
+| Gg | --.  | Tt | -    |
+| Ii | ..   | Uu | ..-  |
+| Jj | .--- | Üü | ..-- |
+| Kk | -.-  | Zz | --.. |
+| Ll | .-.. | Žž | --..-|
+| Mm | --   | Ff | ..-. |
+| Nn | -.   | Hh | .... |
 
 Ijter Morse is partly influenced by Croatian Morse code.
