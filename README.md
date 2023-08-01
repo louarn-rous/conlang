@@ -5,7 +5,7 @@ It utilises Subject-Verb-Object word order.
 ## Phonology
 
 | Consonants       | Labial  | Alveolar  | Post-Alveolar | Palatal | Velar | Glottal |
-|:---------------- |:-------:|:---------:|:---------:|:---:|:-------:|:---:|
+|:---------------- |:-------:|:---------:|:-------:|:---:|:-------:|:---:|
 | Nasal            | /m/     | /n/       |           |     |         |     |
 | Plosive          | /p/ /b/ | /t/ /d/   |           |     | /k/ /ɡ/ |     |
 | Affricate        |         | /ts/ /dz/ | /tʃ/ /dʒ/ |     |         |     |
@@ -16,10 +16,10 @@ It utilises Subject-Verb-Object word order.
 
 | -  | -    | -  | -    | -  | -    |
 |:--:|:----:|:--:|:----:|:--:|:----:|
-| ts | [t͡s] | kj | [kʲ] | nj | [ɲ]  |
-| dz | [d͡z] | gj | [gʲ] | ng | [ŋ]  |
-| tš | [t͡ʃ] | kh | [kʰ] | lj | [ʎ]  |
-| dž | [d͡ʒ] | gh | [gʰ] | ht | [xt] |
+| ⟨ts⟩ | [t͡s] | ⟨kj⟩ | [kʲ] | ⟨nj⟩ | [ɲ]  |
+| ⟨dz⟩ | [d͡z] | ⟨gj⟩ | [gʲ] | ⟨ng⟩ | [ŋ]  |
+| ⟨tš⟩ | [t͡ʃ] | ⟨kh⟩ | [kʰ] | ⟨lj⟩ | [ʎ]  |
+| ⟨dž⟩ | [d͡ʒ] | ⟨gh⟩ | [gʰ] | ⟨ht⟩ | [xt] |
 
 /ʝ/ is a frequent allophone of /j/.  
 /ɕ/ is a frequent allophone of /ʃ/.  
@@ -34,11 +34,11 @@ It utilises Subject-Verb-Object word order.
 
 | Group  | Diphtong | Group  | Diphtong |
 |:------:|:-----:|:------:|:-----:|
-| //io// | \[iʊ] | //ui// | \[ʊi] |
-| //ae// | \[ɐe̞] | //ue// | \[ʊɪ] |
-| //au// | \[äʊ] | //ou// | \[o̞ʊ] |
-| //ai// | \[aɪ] | //üe// | \[ɨɪ] |
-| //ea// | \[e̞ɐ] |  |  |
+| ⟨io⟩ | \[iʊ] | ⟨ui⟩ | \[ʊi] |
+| ⟨ae⟩ | \[ɐe̞] | ⟨ue⟩ | \[ʊɪ] |
+| ⟨au⟩ | \[äʊ] | ⟨ou⟩ | \[o̞ʊ] |
+| ⟨ai⟩ | \[aɪ] | ⟨üe⟩ | \[ɨɪ] |
+| ⟨ea⟩ | \[e̞ɐ] |  |  |
 
 when ⟨si⟩ is the initial syllable in a word, it is realized as [şi].
 
