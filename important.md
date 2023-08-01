@@ -243,7 +243,8 @@ na : [archaic]
 
 ## affixes  
 
--en     : [suf.] plural {German}  
+-en     : [suf.] plural (after closed syllable) {German}  
+-de     : [suf.] plural (after open syllable)
 -(n)u   : [suf.] diminutive {Turkish 'kuzu'}  
 -ina    : [suf.] verbal nominative; forms verbal nouns (the noun indicating the action of what is denoted by the verb) {Croatian 'batina'}  
 -> -in  : [suf.] nominative; forms nouns from verbs, describing the result of an action  
