@@ -272,6 +272,8 @@ na : [archaic]
 
 -mod : [suf.] [v.] used to form verbs from nouns, with the sence of playing the role of, or being the suffixed word {see 'mod'}
 
+-ret : [suf.] used to form nouns, meaning the practice of doing or doing something related to the suffixed word {see 'ret'}
+
 a- : [prf.] {French}   
 -- used to form verbs from adjectives, indicating the gain of the adjectivial property  
 -- used to form verbs from verbs, indicating the action of making an object do an action  
