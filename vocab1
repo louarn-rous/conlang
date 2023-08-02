@@ -648,6 +648,10 @@ vine    : [n.] domain, realm {Croatian 'domovina'}
 trät : [n.] [v.] step {? German}
 
 troke : [n.] location, place {Japanese '所'}
+-> estrok : [n.] room, chamber
+----> sommis-estrok : [n.] [dated] bedroom
+-------> sommistrok : [n.] bedroom {'sommis' +}
+-------> orestrok : [n.] vault {'or' +}
 
 skär : [n.] lane, track, channel
 
@@ -1660,7 +1664,7 @@ tröb : {German 'Arbeit', French 'travail', English 'labour'}
 -- [n.] work, labour
 ----> tröbnuz : [adj.] unemployed
 -------> tröbnuzör : [n.] unemployed person
--> tröbetrok : [n.] workplace; office, bureau
+-> tröbetrok : [n.] workplace; office, bureau {+ 'trok'}
 
 štüt : [v.] support {? German 'stützen'}
 -> štütör : [n.] supporter
@@ -1896,6 +1900,10 @@ liber : [adj.] free {Latin}
 
 ort : [adj.] straight, upright {Anc. Greek 'ὀρθός' via English 'Orthodentist'}
 -> ortät : [adv.] straightly
+
+striis : [n.] {~'tri' + 'stras', Latin 'trivium'}
+-> striisäs : [adj.] vulgar; trivial
+----> striisäst : [adv.] vulgarly; trivially
 
 sut : [adj.] still, down, low, seated
 -> asut : [v.] sit/lay down
