@@ -285,6 +285,7 @@ lös-  : [prf.] mono-, uni- {see 'lös'}
 
 -äst : [suf.] equiv. to -äs and -ät  
 -värt : [suf.] equiv. to -vär and -ät
+-färt : [suf.] equiv. to -fär and -ät
 
 ## interjections  
 
