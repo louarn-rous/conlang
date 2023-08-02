@@ -390,7 +390,7 @@ ur     : [n.] ear {Latin 'auris' via 'ausculto' via Italian 'ascoltare'}
 -------> urodäs : [adj.] auditory
 ----------> urodäst : [adv.] auditorily
 -------> urodfär : [adj.] audible
-----------> urodfärät : [adv.] audibly
+----------> urodfärt : [adv.] audibly
 ----> uräst : [adv.] aurally
 mož    : [n.] mouth
 -> možäs : [adj.] oral
@@ -685,11 +685,11 @@ prod : {Latin 'prode' via cogn. with English 'proud'}
 heer : [n.] [v.] hate
 -> heerin : [n.] hatred
 -> heerfär : [adj.] detestable
-----> heerfärät : [adv.] detestably
+----> heerfärt : [adv.] detestably
 -> heerver : [adj.] hateworthy
 enor : [n.] [v.] honor {Breton}
 -> enorfär : [adj.] honorable
-----> enorfärät : [adv.] honorably
+----> enorfärt : [adv.] honorably
 
 stin : {Serbian 'истина'}
 -- [adj.] true
@@ -702,7 +702,7 @@ stin : {Serbian 'истина'}
 
 köz : [n.] [v.] regret {Breton 'keuz'}
 -> közfär : [adj.] regrettable
-----> közfärät : [adv.] regrettably
+----> közfärt : [adv.] regrettably
 
 rät : [n.] right {Swedish 'rättvisa'}
 -> rätäs : [adj.] just
@@ -1027,10 +1027,10 @@ letä : [n.] letter, text, book {Latin 'littera'}
 ----------> letnefärein : [n.] illiteracy
 -> letefär : [adj.] legible
 ----> letefärein : [n.] legibility
-----> letefärät : [adv.] legibly
+----> letefärt : [adv.] legibly
 ----> letenefär : [adj.] illegible
 -------> letenefärein : [n.] illegibility
--------> letenefärät : [adv.] illegibly
+-------> letenefärt : [adv.] illegibly
 -> letäina : [n.] literature
 ----> letäinäs : [adj.] literary
 -> letätemäta : [n.] bookshop, bookstore
@@ -1126,7 +1126,7 @@ ser : {French 'dire', English 'say', German 'sprechen'}
 -- [v.] signifies, represents, means
 ----> serina : [n.] meaning
 -------> serinafär : [adj.] meaningful ###
-----------> serinafärät : [adv.] meaningfully ###
+----------> serinafärt : [adv.] meaningfully ###
 -> serin : [n.] expression, meaning
 
 klam : [v.] cry out, exclaim; shout, yell; call (out) {Latin 'clamo'}
@@ -1156,9 +1156,19 @@ per : [v.] think {Original}
 rast : [v.] [intrans] reason, reflect, reckon, calculate [trans] consider, judge {Latin 'ratus'}
 -> rastin : [n.] reason
 -> rastina : [n.] reasoning, reflection, justification
+-> visrast : [v.] prove, demonstrate {'vis' +}
+----> visrastefär : [adj.] provable
+-------> visrastefärt : [adv.] provably
+-------> nevisrastefär : [adj.] unprovable
+----------> nevisrastefärt : [adv.] unprovably
+----> navisrastefär : [adj.] [dated] probable
+-------> navistefär : [adj.] probable
+-------> navisrastefärt : [adj.] [dated] probably
+----------> navistefärt : [adv.] probably
+----------> navistefärein : [n.] probability
 
-tös : [v.] to make into, turn the subject into ##
--> stös : [v.] become ##
+tös : [v.] [trans] to make into, turn the subject into
+
 
 utej : [v.] use
 -> utejin : [n.] use, purpose
@@ -1330,13 +1340,13 @@ fräj : [v.] fear {French 'effrayer', English 'fear'}
 maris : [v.] remember, recall {Original}
 -> marisein : [n.] rememberance
 -> marisfär : [adj.] memorable
-----> marisfärät : [adv.] memorably
+----> marisfärt : [adv.] memorably
 
 falt : [v.] falter {Portugese 'faltar'}
 -> faltin : [n.] fault
 ----> faltinät : [adj.] faulty
 -> faltafär : [adj.] fallible
-----> faltafärät : [adv.] fallibly
+----> faltafärt : [adv.] fallibly
 
 alt : [v.] stop, cease {German 'Halt'}
 -> altör : [n.] device for stopping
@@ -1486,9 +1496,9 @@ räs : [v.] let, allow
 ----------> nearäsätät : [adv.] intolerantly
 ----------> nearäsätein : [n.] intolerance
 ----> aräsfär : [adj.] tolerable
--------> aräsfärät : [adv.] tolerably
+-------> aräsfärt : [adv.] tolerably
 -------> nearäsfär : [adv.] intolerable
-----------> nearäsfärät : [adv.] intolerantly
+----------> nearäsfärt : [adv.] intolerantly
 ----------> nearäsfärein : [n.] intolerability
 -> aräsein : [n.] tolerance, endurance
 
@@ -1711,7 +1721,7 @@ vis : [v.] see, perceive, view, look, observe {Latin 'visio' via English & Frenc
 -> navisfär : [adj.] visible
 ----> neavisfär : [adj.] invisible
 -------> neavisfärein : [n.] invisibility
--------> neavisfärät : [adv.] invisibly
+-------> neavisfärt : [adv.] invisibly
 ----> navisfärein : [n.] visibility
 ----> navisät : [adv.] visibly
 -> obvis : [v.] supervise, oversee
