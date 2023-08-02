@@ -1488,8 +1488,7 @@ prom : [v.] get, gain, obtain; take, steal {Original}
 -> aprom : [v.] sell
 ----> apromör : [n.] seller
 ----> apromina : [n.] sale
-
-met : [v.] send {Latin 'mitto'}
+met : [v.] send {Latin 'mitto' +~ 'mät'}
 -> metör : [n.] sender
 -> metina : [n.] send
 
@@ -1772,7 +1771,8 @@ regül : [v.] regulate
 -> regülina : [n.] regulation
 -> regülör : [n.] one that regulates
 
-=== adjectives ===
+## adjectives
+
 sur : [adj.] big, large {Estonian 'suur'}
 -> asur : [v.] [usu. trans] to increase, embiggen, grow
 -> surät : [adv.] largely
@@ -1780,6 +1780,7 @@ sur : [adj.] big, large {Estonian 'suur'}
 tis : [adj.] small {Breton}
 -> atis : [v.] to reduce, shrink
 -> tisät : [adv.] negligibly
+
 lon : [adj.] long {French 'long'}
 -> alon : [v.] lengthen
 -> lonät : [adv.] lengthily
@@ -1787,6 +1788,7 @@ lon : [adj.] long {French 'long'}
 šüt : [adj.] brief, short
 -> ašüt : [v.] shorten
 -> šütät : [adv.] briefly, shortly
+
 när : [adj.] wide, broad
 -> anär : [v.] widen, broaden
 -> närät : [adv.] widely, broadly
@@ -1794,11 +1796,18 @@ när : [adj.] wide, broad
 sten : [adj.] narrow {Anc. Greek 'στενός'}
 -> asten : [v.] constrict
 -> stenät : [adv.] narrowly
+
 goš : [adj.] tall
 -> agoš : [v.] to grow (vertically)
 -> gošein : [n.] height
 ruš : [adj.] short
 -> aruš : [v.] to shorten (vertically)
+
+dost : [adj.] deep {Original}
+-> adost : [v.] deepen
+-> dostein : [n.] depth
+nir : [adj.] shallow {Original}
+
 sob : [adj.] thick
 -> asob : [v.] thicken
 -> sobät : [adv.] thickly
@@ -1806,6 +1815,7 @@ sob : [adj.] thick
 pän : [adj.] thin
 -> apän : [v.] thin
 -> pänät : [adv.] thinly
+
 bur : [adj.] heavy
 -> abur : [v.] to make heavy; weight
 -> burät : [adv.] heavily
@@ -1813,6 +1823,7 @@ bur : [adj.] heavy
 müž : [adj.] light
 -> amüž : [v.] to lighten
 -> müžät : [adv.] lightly
+
 nov : [adj.] new {Portugese 'novo'}
 -> novein : [n.] novelty
 -> novänt : [n.] news { + 'vänt'} {+ Breton 'neventi'}
@@ -1823,22 +1834,26 @@ nov : [adj.] new {Portugese 'novo'}
 jong : [adj.] young {German 'jung', Dutch}
 -> jongein : [n.] youth
 au : [adj.] old {Afrikaans 'ou'}
+
 lis : [adj.] smooth {French 'lisse'}
 -> alis : [v.] smooth
 -> lisät : [adv.] smoothly
 plat : [adj.] flat {French 'aplatir'}
 -> aplat : [v.] flatten
+
 dar : [adj.] hard {French 'dur', English 'hard'}
 -> adar : [v.] harden
 mals : [adj.] soft, tender {Dutch}
 -> amals : [v.] soften; tenderize
 -> malsät : [adv.] softly
-gul : [adj.] wet
+
+gul : [adj.] wet {Breton 'gleb
 -> agul : [v.] wet
 -> gulät : [adv.] wetly
 sek : [adj.] dry {French 'sec'}
 -> asek : [v.] dry
 -> sekät : [adv.] dryly
+
 nät : [adj.] clean {Breton 'naet'}
 -> anät : [v.] clean
 -> nätät : [adv.] cleanly
@@ -1849,27 +1864,28 @@ kras : {French 'crasse'}
 ----> akras : [v.] to dirty, soil
 ----> krasät : [adv.] dirtily
 -- [n.] scum, dirt, grime
+
 klar : [adj.] clear; transparent; evident {Latin 'clarus' from English 'clarity', French 'clair'}
 -> aklar : [v.] to clear; to make clear, clarify
 -> klarein : [n.] clarity
 -> klarät : [adv.] clearly
-rön : [adj.] dull, blunt
+
+rön : [adj.] dull, blunt {Original}
 -> arön : [v.] blunt, dull
 -> rönein : [n.] dullness, bluntness
 -> rönät : [adv.] dully, bluntly
-sir : [adj.] sharp, acute
+sir : [adj.] sharp, acute {Original}
 -> asir : [v.] sharpen
 -> sirein : [n.] sharpness
 -> sirät : [adv.] sharply
 
-bir : [adj.] near, close
+bir : [adj.] near, close {Original}
 -> abir : [v.] to bring closer; to approach
 -> biräs : [adj.] proximal
 ----> biräst : [adv.] proximally 
 -> birein : [n.] proximity
 -> birät : [adv.] closely; nearly, almost
-
-sal : [adj.] far, distant; remote
+sal : [adj.] far, distant; remote {Original}
 -> asal : [v.] to drive away, seclude
 -> saläs : [adj.] distal
 ----> saläst : [adv.] distally; remotely
@@ -1880,8 +1896,7 @@ vist : [adj.] fast, rapid, quick, swift {French 'vite', Italian 'vista'}
 -> vistein : [n.] speed, rapidity, swiftness
 -> avist : [v.] accelerate
 -> vistät : [adv.] rapidly, quickly, swiftly
-
-ler : [adj.] slow
+ler : [adj.] slow {~ French 'lent'}
 -> lerein
 -> aler : [v.] slow
 -> lerät : [adv.] slowly
@@ -1908,14 +1923,15 @@ liber : [adj.] free {Latin}
 
 ort : [adj.] straight, upright {Anc. Greek 'ὀρθός' via English 'Orthodentist'}
 -> ortät : [adv.] straightly
+sut : [adj.] still, down, low, seated {Japanese '座る', English 'sit'}
+-> asut : [v.] sit/lay down
+-> suta : [n.] seat; city
+
 
 striis : [n.] {~'tri' + 'stras', Latin 'trivium'}
 -> striisäs : [adj.] vulgar; trivial
 ----> striisäst : [adv.] vulgarly; trivially
 
-sut : [adj.] still, down, low, seated
--> asut : [v.] sit/lay down
--> suta : [n.] seat; city
 
 rund : {Swedish}
 -- [adj.] round
@@ -1957,23 +1973,20 @@ strüg : [adj.] without care, secure {Latin 'securus', Swedish 'trygg'}
 -> astrüg : [v.] secure
 -> strügät : [adv.] securely; certainly
 
-dogäl : [adj.] certain, sure {Breton 'diogel'}
--> dogälein : [n.] certainty
--> adogäl : [v.] assure
-----> adogäl
+
 
 guär : [adj.] wild {+ Breton 'gouez'}
 -> guärein : [n.] wildness; wilderness
 -> guärät : [adv.] wildly
-prane : [adj.] weird, odd, strange
+
+prane : [adj.] weird, odd, strange {Original}
 -> epran : [v.] alienate, estrange
 -> pranesein : [n.] weirdness
 -> pranät : [adv.] weirdly, oddly, strangely
-kozäv : [adj.] typical, normal; default
+kozäv : [adj.] typical, normal; default {? Original}
 -> akozäv : [v.] normalise
 -> kozävein : [n.] normalcy
 -> kozävät : [adv.] normally
-
 främt : [adj.] foreign {German 'fremd'}
 -> främtein : [n.] foreignness
 
@@ -1981,17 +1994,31 @@ fräl : [adj.] weak, fragile {French 'frêle'}
 -> afräl : [v.] weaken
 -> frälein : [n.] weakness
 -> frälät : [adv.] weakly
-här : [adj.] strong
+här : [adj.] strong {Proto-Germanic 'harjaz'}
 -> ahär : [v.] strengthen
 -> härein : [n.] strength
 -> härät : [adv.] strongly
 
-fis : [adj.] definite, stable, certain {French 'fixe'}
--> afis : [v.] to stabilize, confirm
--> fisein : [n.] stability
--> fisät : [adv.] certainly, definitely
+fist : [adj.] definite, stable {French 'fixe'}
+-> afist : [v.] stabilize, confirm
+----> afistein : [n.] stabilization, confirmation
+-> fistein : [n.] stability
+-> fistät : [adv.] certainly, definitely
+-> nefist : [adj.] unstable; unconfirmed
+----> nefistein : [n.] unstability
+-> defist : [v.] destabilize
+----> defistina : [n.] destabilization
+dogäl : [adj.] certain, sure {Breton 'diogel'}
+-> dogälein : [n.] certainty
+-> adogäl : [v.] assure
+----> adogälein : [n.] (state of) assurance
+----> adogälina : [n.] assurance
+----> resadogäl : [v.] reassure
+-------> resadogälina : [n.] reassurance
+-> nedogäl : [adj.] uncertain, unsure
+----> nedogälein : [n.] uncertainty
 
-motše : [adj.] nice, pleasant {'moce'}
+motše : [adj.] nice, pleasant {Typo of English 'nice' → 'moce'}
 -> motšein : [n.] niceness, pleasantness
 -> motšät : [adv.] nicely, pleasantly
 
