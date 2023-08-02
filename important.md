@@ -206,6 +206,9 @@ ur : [cnjc.] or {French 'ou', English 'or'}
 e   : [cnjc.] and  {Italian, French 'e'}  
 uz  : [cnjc.] comitative ('with') {Croatian}  
 -> nuz : [cnjc.] abessive ('without')
+----> nuzin : [n.] lack
+----> nuzät : [adj.] poor
+-------> nuzätein : [n.] poverty
 
 mo    : [cnjc.] also, both, as well, again  
 -> omo : [adj.] same, common  
