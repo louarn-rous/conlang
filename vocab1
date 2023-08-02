@@ -547,7 +547,7 @@ flis : {Frisian 'fluitsje', French 'siffle(t)'}
 -- [v.] whistle
 ----> flisör : [n.] whistle (device)
 
-=== music ===
+## music // müzik
 müzik    : [n.] music {German 'Musik', French 'musique'}
 -> müzikäs : [adj] musical
 ----> müzikäst : [adv.] musically
@@ -1050,7 +1050,7 @@ srit : [v.] {French 'écrire', English 'write'}
 -> resrit : [v.] rewrite
 -> obesrit : [v.] overwrite
 
-=== fields ===
+## the sciences // er sienzade
 sienza : [n.] science {Italian 'scienza', French & English 'science'}
 -> sienzäs : [adj.] scientific
 ----> sienzäst : [adv.] scientifically
@@ -1063,14 +1063,19 @@ fiziik : [n.] physics
 -> astärfiziik : [n.] astrophysics
 ----> astärfiziikäs : [adj.] astrophysical
 -------> astärfiziikäst : [adv.] astrophysically
+-> atomfiziik : [n.] atomic physics
 biologik : [n.] biology
 -> biologikäs : [adj.] biological
 ----> biologikäst : [adv.] biologically
 genetik : [n.] genetics {Russian & Serbian 'генетика'}
 -> genetikäs : [adj.] genetic
 ----> genetikäst : [adv.] genetically
+kemiš : [n.] chemical {German 'chemisch', French 'chimique', English 'chemical'}
+-> kemišret : [n.] chemistry
+-> kemišäs : [adj.] chemical
+----> kemišäst : [adv.] chemically
 
-=== physics ===
+### atomic physics // atomfiziiken
 atom     : [n.] atom
 -> atomäs : [adj.] atomic
 ----> atomäst : [adv.] atomically
