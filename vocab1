@@ -1129,6 +1129,8 @@ sen : [v.] know {Latin 'sciens'}
 
 ren : [v.] believe {Original}
 -> renin : [n.] belief
+----> derenin : [n.] disbelief
+-> aren : [v.] convince
 
 ser : {French 'dire', English 'say', German 'sprechen'}
 -- [v.] say, speak, tell, talk
@@ -1147,8 +1149,10 @@ klam : [v.] cry out, exclaim; shout, yell; call (out) {Latin 'clamo'}
 ----> deklamina : [n.] disavowal, rejection
 ----> deklamein : [n.] (state of) renounciation
 
-ir  : [v.] go, move (oneself) {French 'ira'}
+ir  : [v.] [intrans] go, move (oneself) {French 'ira'}
 -> irina : [n.] movement
+-> asir : [v.] [trans] displace, move
+----> asirina : [n.] transportation, displacement
 
 jun : [v.] jump {Original}
 
@@ -1630,7 +1634,9 @@ gil : [v.] [n.] help {Scottish Gaelic 'gille' via English 'gillie'}
 -> gilör : [n.] helper, aid
 -> gilin : [n.] aid, help
 
-bištir : [v.] bring {Original}
+bišt : [v.] carry {Original, backform from 'bištir'}
+-> bištir : [v.] bring {Original}
+
 živ    : [v.] persist, continue; stay {Croatian 'živi'}
 -> aživ : [v.] to preserve, uphold, perpetuate
 -> živein : [n.] persistence, continuation
@@ -1639,10 +1645,8 @@ studer : [v.] study {Latin 'studere' via English 'study'}
 tegär  : [v.] meet, encounter, frequent {Original}
 -> tegärin : [n.] meeting; date
 
-
-
 päs : {Original}
--- [v.] feed, nourish
+-- [v.] [trans] feed, nourish
 ----> päsin : [n.] meal; nourishment
 -- [n.] food
 
@@ -1932,6 +1936,7 @@ ort : [adj.] straight, upright {Anc. Greek 'ὀρθός' via English 'Orthodenti
 -> ortät : [adv.] straightly
 sut : [adj.] still, down, low, seated {Japanese '座る', English 'sit'}
 -> asut : [v.] sit/lay down
+----> asutina : [n.] sitting, session
 -> suta : [n.] seat; city
 
 
