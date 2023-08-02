@@ -1122,7 +1122,7 @@ sen : [v.] know {Latin 'sciens'}
 ----------> asesinäst : [adv.] pedagogically
 ----> asenör : [v.] teacher
 
-ren : [v.] believe
+ren : [v.] believe {Original}
 -> renin : [n.] belief
 
 ser : {French 'dire', English 'say', German 'sprechen'}
@@ -1142,8 +1142,10 @@ klam : [v.] cry out, exclaim; shout, yell; call (out) {Latin 'clamo'}
 ----> deklamina : [n.] disavowal, rejection
 ----> deklamein : [n.] (state of) renounciation
 
-ir  : [v.] go, move (oneself)
+ir  : [v.] go, move (oneself) {French 'ira'}
 -> irina : [n.] movement
+
+jun : [v.] jump {Original}
 
 od  : [v.] hear, feel, sense
 -> odäs : [adj.] sensory
