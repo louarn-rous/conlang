@@ -1,4 +1,4 @@
-=== numbers ===
+=== numbers : nümeren ===
 nümer : [n.] number; number of, count {French 'numéro'}
 -> anümer [v.] [trans] to assign a number to
 -> nümeräs : [adj.] numerical
@@ -48,7 +48,7 @@ sän : [num.] 100 (hundred) {French 'cent'}
 mil : [num.] 1000 (thousand) {French 'mille'}
 -> mil : [ord. num] thousandth
 
-=== colours ===
+=== colours : koloren ===
 kolor : {French 'colorer', English 'colour'}
 -- [n.] colour, pigment
 -- [v.] colour
@@ -65,7 +65,7 @@ rod   : [m.] red {German 'rot', English 'red'}
 roz   : [m.] pink {French 'rose'}
 rus   : [m.] reddish-brown {French 'rousse'}
 
-=== animals ===
+=== animals : animäten ===
 brin : [n.] cow {Breton 'brini'}
 -> brinäs : [adj.] bovine
 -> brinu  : [n.] calf
@@ -121,7 +121,6 @@ lemur : [n.] ring-tailed lemur (lemur catta)
 -> lemuräs : [adj.] lemurine, lemurian
 
 mostik : [n.] mosquito {French 'moustique', English 'mosquito'}
-
 
 oris   : [n.] bird {Anc. Greek 'ὄρνις'}
 -> orisäs : [adj.] avian
@@ -277,9 +276,7 @@ miraž   : [n.] mirage {French 'mirage'}
 räviir  : [n.] river {French 'rivière', Afrikaans 'rivier'} 
 -> räviiräs : [adj.] riverine
 
-
-
-## marine // maräs
+=== marine : maräs ===
 mar      : [n.] sea {Breton 'mor', French 'mer'}
 -> maräs : [adj.] marine
 -> maru : [n.] lake
@@ -330,7 +327,6 @@ kristal : [n.] crystal {French 'cristal'}
 -> akristal : [v.] crystallize
 ----> akristalina : [n.] crystallization
 -> kristaläs : [adj.] crystalline
-
 säl : [n.] salt {French}
 -> säläs : [adj.] saline
 -> asäl : [v.] [trans] salt
@@ -359,7 +355,7 @@ tünäl : {French 'tunnel'}
 -- [v.] (to make a) tunnel through
 ----> tünelör : [n.] one who tunnels
 
-=== körp · body ===
+=== körp : body ===
 pil    : [n.] hair {Latin 'pilus' via French 'épiler'}
 -> piläs : [adj.] pilar, crinal
 -> depil  : [v.] epilate
@@ -455,27 +451,7 @@ fus : [n.] foot {German 'Fuß'}
 -> fusäs : [adj.] pedal
 kint : [n.] cheek {Swedish}
 -> kintäs : [adj.] buccal
-
-=== biology ===
-lön : [m.] wool; woolen {French 'laine'}
-mälk : {English 'milk', French 'lait', German 'Milch'}
--- [n.] milk
-----> mälkäs : [adj.] dairy
--- [v.] [usu. of an animal] milk
--- [v.] exploit excessively
-ov   : [n.] egg {Latin 'ovum'}
--> oväs : [adj.] of or pertaining to eggs; oval
-zbas : [n.] wing {Japanese '翼'}
-fung : [n.] mushroom {Italian 'funghi'}
--> [n.] [colloq.] penis
--> fungäs : [adj.] fungal
-----> fungäst : [adv.] fungally
-tust : [n.] tail
-embrion : [n.] embryo {French 'embryon'}
--> embrionäs : [adj.] embryonic
-kälul : [n.] cell {Latin 'cellula' via French 'cellule'}
--> käluläs : [adj.] cellular
-
+ 
 === technology ===
 disk  : [n.] disk, disc, record, CD, CD-ROM {French 'disque', English 'disc'/'disk'}
 kasät : [n.] cassette, cartridge {French, English 'cassette'}
@@ -533,7 +509,7 @@ flis : {Frisian 'fluitsje', French 'siffle(t)'}
 -- [v.] whistle
 ----> flisör : [n.] whistle (device)
 
-## music // müzik
+=== music : müzik ===
 müzik    : [n.] music {German 'Musik', French 'musique'}
 -> müzikäs : [adj] musical
 ----> müzikäst : [adv.] musically
@@ -1036,7 +1012,7 @@ srit : [v.] {French 'écrire', English 'write'}
 -> resrit : [v.] rewrite
 -> obesrit : [v.] overwrite
 
-## the sciences // er sienzade
+=== the sciences : er sienzade ===
 sienza : [n.] science {Italian 'scienza', French & English 'science'}
 -> sienzäs : [adj.] scientific
 ----> sienzäst : [adv.] scientifically
@@ -1046,7 +1022,6 @@ matämatik : [n.] mathematics (maths)
 fiziik : [n.] physics
 -> fiziikäs : [adj.] physical
 ----> fiziikäst : [adv.] physically
-
 biologik : [n.] biology
 -> biologikäs : [adj.] biological
 ----> biologikäst : [adv.] biologically
@@ -1058,7 +1033,7 @@ kemiš : [n.] chemical {German 'chemisch', French 'chimique', English 'chemical'
 -> kemišäs : [adj.] chemical
 ----> kemišäst : [adv.] chemically
 
-### atomic physics // atomfiziiken
+== atomic physics : atomfiziiken ==
 atom     : [n.] atom
 -> atomäs : [adj.] atomic
 ----> atomäst : [adv.] atomically
@@ -1077,35 +1052,50 @@ nötron   : [n.] neutron
 nukleus  : [n.] nucleus
 -> nukleas : [adj.] nuclear, nucleic
 
-### cosmological // cosmologikäs
-
+== cosmological : cosmologikäs ==
 cosm : [n.] space {Anc. Greek 'κόσμος'}
 -> cosmologik : [n.] cosmology
 ----> cosmologikäs : [adj.] cosmological
 -> cosmäs : [adj.] cosmic
 ----> cosmäst : [adv.] cosmically
-
 astär  : [n.] star {Latin 'astrum' + via French 'astre'}
 -> astäräs : [adj.] astral
 ----> astäräst : [adv.] astrally
 -> astärfiziik : [n.] astrophysics
 ----> astärfiziikäs : [adj.] astrophysical
 -------> astärfiziikäst : [adv.] astrophysically
-
 lün    : [n.] moon {Latin 'luna'}
 -> lünäs : [adj.] lunar
 ----> lünäsein : [n.] lunacy, insanity
 -> lünlüm : [n.] moonlight {+ 'lüm'}
-
 planät : [n.] planet {French 'planète'}
 -> planätäs : [adj.] planetary
-
 sol : [n.] sun {Latin 'sol' via French 'solaire'}
 -> soläs : [adj.] solar
 -> asol : [v.] [trans] to expose to sunlight
 -> solflor : [n.] sunflower {'sol' + 'flor'}
 ----> solflor : [n.] [colloq.] [figurative] person with little to no capacity for independent thought
 -> sollüm : [n.] sunlight {+ 'lüm'}
+
+== biology : biologik ==
+lön : [m.] wool; woolen {French 'laine'}
+mälk : {English 'milk', French 'lait', German 'Milch'}
+-- [n.] milk
+----> mälkäs : [adj.] dairy
+-- [v.] [usu. of an animal] milk
+-- [v.] exploit excessively
+ov   : [n.] egg {Latin 'ovum'}
+-> oväs : [adj.] of or pertaining to eggs; oval
+zbas : [n.] wing {Japanese '翼'}
+fung : [n.] mushroom {Italian 'funghi'}
+-> [n.] [colloq.] penis
+-> fungäs : [adj.] fungal
+----> fungäst : [adv.] fungally
+tust : [n.] tail
+embrion : [n.] embryo {French 'embryon'}
+-> embrionäs : [adj.] embryonic
+kälul : [n.] cell {Latin 'cellula' via French 'cellule'}
+-> käluläs : [adj.] cellular
 
 === jargon ===
 alfabät : [n.] alphabet {Anc. Greek 'ἀλφάβητος' via English & French 'alphabet'}
@@ -1116,8 +1106,7 @@ kanton  : [n.] [f:vexillology] canton {English 'canton'}
 bit      : [n.] [f:computing] bit
 servör   : [n.] [f:computing] server
 
-## verbs
-
+=== verbs ===
 es  : [v.] be {German 'ist', French 'est', English 'is', Spanish}
 -> esin : [n.] existence
 ----> esinäs : [adj.] existential
