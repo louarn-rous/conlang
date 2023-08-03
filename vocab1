@@ -614,7 +614,8 @@ troke : [n.] location, place {Japanese '所'}
 -> estrok : [n.] room, chamber
 ----> sommis-estrok : [n.] [dated] bedroom
 -------> sommistrok : [n.] bedroom {'sommis' +}
--------> orestrok : [n.] vault {'or' +}
+----> orestrok : [n.] vault {'or' +}
+----> usestrok : [n.] basement
 
 skär : [n.] lane, track, channel
 
