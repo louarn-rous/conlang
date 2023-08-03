@@ -38,7 +38,7 @@ tej : [prep.] [cnjc.] instrumentative ('with') {see 'utej'}
 
 sär : [prep.] in the form(at) of  
 isän : [prep.] ablative (about, concerning)  
-urund : [prep.] circumlative {from 'u' + 'rund'}
+urund : [prep.] circumlative (around, about) {from 'u' + 'rund'}
 
 im : [prep.] in (contained by, within the bounds of, part of, into) {German}  
 -> imir : [v.] enter  
