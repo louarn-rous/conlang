@@ -20,8 +20,6 @@ penal
 -- n. penalty
 -- v. penalize
 
-deplas : v. displace, move
-
 fiend
 -- n. enemy
 -- adj. hostile
@@ -39,9 +37,6 @@ invers :
 -- v. inverse
 -- adj. inverse
 
-jun 
--- v. jump
--- n. jump
 
 kaž
 -- n. cage
@@ -71,9 +66,6 @@ mister : [n.] mystery ##
 plas
 -- v. place
 -> replas : v. replace
--- n. place
-
-sesion : n. session
 
 stasion
 -- n. station
@@ -103,5 +95,3 @@ levit : v. levitate, hover
 bat : v. beat, hit, defeat
 
 šant : v. sing
-
-
