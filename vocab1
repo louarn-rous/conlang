@@ -277,23 +277,9 @@ miraž   : [n.] mirage {French 'mirage'}
 räviir  : [n.] river {French 'rivière', Afrikaans 'rivier'} 
 -> räviiräs : [adj.] riverine
 
-=== space ===
-astär  : [n.] star
--> astäräs : [adj.] astral
-----> astäräst : [adv.] astrally
-lün    : [n.] moon {Latin 'luna'}
--> lünäs : [adj.] lunar
-----> lünäsein : [n.] lunacy, insanity
--> lünlüm
-planät : [n.] planet {French 'planète'}
--> planätäs : [adj.] planetary
-sol : [n.] sun {Latin 'sol' via French 'solaire'}
--> soläs : [adj.] solar
--> asol : [v.] [trans] to expose to sunlight
--> solflor : [n.] sunflower {'sol' + 'flor'}
-----> solflor : [n.] [colloq.] [figurative] person with little to no capacity for independent thought
--> sollüm : [n.] sunlight
-=== marine ===
+
+
+## marine // maräs
 mar      : [n.] sea {Breton 'mor', French 'mer'}
 -> maräs : [adj.] marine
 -> maru : [n.] lake
@@ -1060,10 +1046,7 @@ matämatik : [n.] mathematics (maths)
 fiziik : [n.] physics
 -> fiziikäs : [adj.] physical
 ----> fiziikäst : [adv.] physically
--> astärfiziik : [n.] astrophysics
-----> astärfiziikäs : [adj.] astrophysical
--------> astärfiziikäst : [adv.] astrophysically
--> atomfiziik : [n.] atomic physics
+
 biologik : [n.] biology
 -> biologikäs : [adj.] biological
 ----> biologikäst : [adv.] biologically
@@ -1081,6 +1064,7 @@ atom     : [n.] atom
 ----> atomäst : [adv.] atomically
 ----> usatomäs : [adj.] subatomic (sub-atomic)
 -------> usatomäst : [adv.] subatomically
+-> atomfiziik : [n.] atomic physics
 elektron : [n.] electron
 -> elektronäs : [adj.] electronic
 ----> elektronäst : [adv.] electronically
@@ -1093,6 +1077,36 @@ nötron   : [n.] neutron
 nukleus  : [n.] nucleus
 -> nukleas : [adj.] nuclear, nucleic
 
+### cosmological // cosmologikäs
+
+cosm : [n.] space {Anc. Greek 'κόσμος'}
+-> cosmologik : [n.] cosmology
+----> cosmologikäs : [adj.] cosmological
+-> cosmäs : [adj.] cosmic
+----> cosmäst : [adv.] cosmically
+
+astär  : [n.] star {Latin 'astrum' + via French 'astre'}
+-> astäräs : [adj.] astral
+----> astäräst : [adv.] astrally
+-> astärfiziik : [n.] astrophysics
+----> astärfiziikäs : [adj.] astrophysical
+-------> astärfiziikäst : [adv.] astrophysically
+
+lün    : [n.] moon {Latin 'luna'}
+-> lünäs : [adj.] lunar
+----> lünäsein : [n.] lunacy, insanity
+-> lünlüm : [n.] moonlight {+ 'lüm'}
+
+planät : [n.] planet {French 'planète'}
+-> planätäs : [adj.] planetary
+
+sol : [n.] sun {Latin 'sol' via French 'solaire'}
+-> soläs : [adj.] solar
+-> asol : [v.] [trans] to expose to sunlight
+-> solflor : [n.] sunflower {'sol' + 'flor'}
+----> solflor : [n.] [colloq.] [figurative] person with little to no capacity for independent thought
+-> sollüm : [n.] sunlight {+ 'lüm'}
+
 === jargon ===
 alfabät : [n.] alphabet {Anc. Greek 'ἀλφάβητος' via English & French 'alphabet'}
 -> alfabätäs : [adj.] alphabetical
@@ -1102,393 +1116,24 @@ kanton  : [n.] [f:vexillology] canton {English 'canton'}
 bit      : [n.] [f:computing] bit
 servör   : [n.] [f:computing] server
 
-=== verbs ===
+## verbs
+
 es  : [v.] be {German 'ist', French 'est', English 'is', Spanish}
 -> esin : [n.] existence
 ----> esinäs : [adj.] existential
 -------> esinäst : [adv.] existentially
 -> esein : [n.] being
+si : [v.] fare; be, feel
 
 ev  : [v.] have {English 'have', French 'avoir'}
 -> evein : [v.] possession
-
 ten : [v.] hold {French 'tenir'}
 -> tensein : [n.] custody
 ----> stattensein : [n.] state custody
 ----> atensein : [v.] arrest
 -> aten : [v.] to make hold; give
-
-sen : [v.] know {Latin 'sciens'}
--> senein : [n.] knowledge
--> asen : [v.] teach
-----> asenin : [n.] lesson
-----> asenina : [n.] teaching
--------> asesinäs : [adj.] pedagogical
-----------> asesinäst : [adv.] pedagogically
-----> asenör : [v.] teacher
-
-ren : [v.] believe {Original}
--> renin : [n.] belief
-----> derenin : [n.] disbelief
--> aren : [v.] convince
-
-ser : {French 'dire', English 'say', German 'sprechen'}
--- [v.] say, speak, tell, talk
-----> serör : [n.] one who speaks
--- [v.] signifies, represents, means
-----> serina : [n.] meaning
--------> serinafär : [adj.] meaningful ###
-----------> serinafärt : [adv.] meaningfully ###
--> serin : [n.] expression, meaning
-
-klam : [v.] cry out, exclaim; shout, yell; call (out) {Latin 'clamo'}
--> reklam : [v.] demand; repossess
-----> reklamina : [n.] repossession
-----> reklamein : [n.] (state of) repossession
--> deklam : [v.] renounce, disavow, reject, disown
-----> deklamina : [n.] disavowal, rejection
-----> deklamein : [n.] (state of) renounciation
-
-ir  : [v.] [intrans] go, move (oneself) {French 'ira'}
--> irina : [n.] movement
--> asir : [v.] [trans] displace, move
-----> asirina : [n.] transportation, displacement
-
-jun : [v.] jump {Original}
-
-od  : [v.] hear, feel, sense
--> odäs : [adj.] sensory
-----> odäst : [adv.] sensorially
--> odör : [n.] sensor
--> odin : [n.] feel, sense
-
-söt : [v.] create, make, build, assemble, bring to fruition {Original}
--> sötina : [n.] creation
-
-per : [v.] think {Original}
--> perin : [n.] thought
--> perina : [n.] thinking
-
-rast : [v.] [intrans] reason, reflect, reckon, calculate [trans] consider, judge {Latin 'ratus'}
--> rastin : [n.] reason
--> rastina : [n.] reasoning, reflection, justification
--> visrast : [v.] prove, demonstrate {'vis' +}
-----> visrastefär : [adj.] provable
--------> visrastefärt : [adv.] provably
--------> nevisrastefär : [adj.] unprovable
-----------> nevisrastefärt : [adv.] unprovably
-----> navisrastefär : [adj.] [dated] probable
--------> navistefär : [adj.] probable
--------> navisrastefärt : [adj.] [dated] probably
-----------> navistefärt : [adv.] probably
-----------> navistefärein : [n.] probability
-
-tös : [v.] [trans] to make into, turn the subject into
-
-
-utej : [v.] use
--> utejin : [n.] use, purpose
-----> utejinver : [adj.] useful
--------> utejinverät : [adv.] usefully
--> utejör : [n.] user
--> autej : [v.] make use
-
-ret : [v.] do {Breton}
--> deret : [v.] undo
-----> deretina : [n.] undoing
--> retina : [n.] doing; action
-
-stag : [v.] start, commence, begin {Breton}
--> stagin : [n.] start, beginning
-
-dast : [v.] amass, assemble; pick, gather {Breton 'dastum'}
--> dastina : [n.] gathering, assembly; harvest
-
-štör : [v.] seem, appear; suggest
-
-ras : [v.] shear, shave; raze {French 'raser'}
-
-visär : [v.] aim, target {'vis' + '-vär', French 'viser'}
--> visärin : [n.] aim
-
-nim : [v.] walk
--> anim : [v.] to make move; animate, bring to life
-----> animäs : [adj.] animal
--------> animäst : [adv.] animally
-----> animät : [n.] animal
-
-piter : [v.] dig
--> piterin : [n.] dig
--> piterör : [n.] digger
-
-kos : [v.] hunt; seek
--> kosin : [n.] hunt, search
--> kosör : [n.] hunter
-
-furn : [v.] bake, cook {French 'four', English 'furnace'}
--> furnör : [n.] oven, furnace
--> furnina : [n.] baking, cooking
-
-sad : [v.] happen, occur {Latin 'cado'}
--> imsad : [v.] take place; meet, intersect
-----> imsadina : [n.] incident
--------> imsadinaäs : [adj.] incidental
-----------> imsadinaäst : [adv.] incidentally
-----> imsadein : [n.] incidence
-----> uzimsad : [v.] to coincide
--------> uzimsadina : [n.] (a) coincidence
-----------> uzimsadinaäs : [adj.] coincidental
--------------> uzimsadinaäst : [adv.] coincidentally
--------> uzimsadein : [n.] coincidence
--> sadina : [n.] happening, event
--> sadein : [n.] occurence
--> asad : [v.] cause, provoke; activate
-----> asadina : [n.] provocation, cause
-----> asadör : [n.] activator
-
-värt : [v.] turn {Latin 'verto' via English '-ward'}
--> värtina : [n.] turn
--> devärt : [v.] divert, redirect; deflect, reflect
-----> devärtina : [n.] diversion, redirection; deflection, reflection
--> mevärt : [v.] degenerate, degrade, decline
-----> mevärtina : [n.] degeneration, degradation, decline
--> revärt : [v.] return; undo
-----> revärtina : [n.] return; undoing
-
-rän : [v.] try {Original}
--> ränin : [n.] attempt
-
-si : [v.] fare; be, feel
-
-štät : [v.] damage {Serbian 'штете'}
--> štätin : [n.] damage; cost, expense
--> štätfär : [adj.] damageable
-
-pend : [v.] weigh; hang
--> pendein : [n.] pension
--> pendina : [n.] hanging (capital punishment)
--> pendinu : [n.] pendant
-
-fär : {Swedish '-bar', German 'fähig'}
--- [adj.] able
-----> färein : [n.] ability
-----> nefär : [adj.] unable
--------> nefärein : [n.] inability
--------> anefär : [v.] to make unable, to immobilize; to make disabled, to cripple
-----> defär : [adj.] disable(d)
--------> defärein : [n.] disability
--------> adefär : [v.] disable
-----> afär : [v.] enable
--- [v.] can, is able to
-
-müs : [v.] must, have to (do something) {German 'Muß'}
--> müsin : [n.] duty; requirement
-düs : [v.] should {French 'devoir' + 'müs'}
--> düsin : [n.] obligation
-baž : [v.] need, require {Original}
--> bažin : [n.] need, requirement
--> ülabaž : [v.] prerequire
-----> ülabažin : [n.] prerequisite
-
-vür : [v.] want, wish {French 'vouloir'}
--> vürin : [n.] want, wish
-sünt : [v.] demand, order, command {Finnish 'kysyntä'}
--> süntin : [n.] demand, order, command
-tuž : [v.] would {Original}
-
-träš : [v.] [trans] throw {Original}
--> trešör : [n.] one who throws
--> träšin : [n.] throw
-trös : [v.] [trans] catch {Original}
--> trösör : [n.] one who catches
--> trösin : [n.] catch
-
-šam  : [v.] hide, conceal {Original}
--> šamein : [n.] concealment
-avis : [v.] show, uncover, demonstrate, discover
--> avisein : [n.] demonstration, discovery
-lüs  : [v.] open {Original}
--> lüsör : [n.] thing which opens; opener
-üsät : [v.] close
-tör  : [v.] pull, drag, draw
--> törör : [n.] trigger
-prös : [v.] [v.] push
-präm : [v.] [n.] press
--> prämin : [n.] pressure; stress
-
-klöd : [v.] fasten, secure, lock; contain, surround {Latin 'claudo'}
--> deklöd : [v.] unlock
-
-plis : [v.] [n.] fold {French 'plisser', Latin 'plicare' via French 'plier'}
-
-rol : [v.] roll {English 'roll', French 'rouler'}
-
-süs : [v.] suck, slurp {French 'suçer'}
-
-frot : [v.] rub {French 'frotter'}
-
-ver :  {Latin 'valor' via Italian 'valore' & French 'valeur', Swedish 'värde', Estonian 'väärt', German 'Wert'}
--- [v.] worth; deserving of
--- [n.] worth, value, merit
-----> aver : [v.] evaluate
-----> vernuz : [adj.] worthless
--------> vernuzät : [adv.] worthlessly
--> verät : [adj.] worthy
-----> verätät : [adv.] worthily
-----> neverät : [adj.] unworthy
-----> verätein : [n.] dignity
-
-
-heg : [v.] [reflexive] choke
--> aheg : [v.] [trans] suffocate
-----> ahegät : [adj.] anxious, distressed, troubled
--------> ahegätät : [adv.] anxiously
--------> ahegätein : [n.] anxiety, distress
-
-spär : [v.] [n.] hope {Latin 'spero' via French 'espérer'}
-
-tatlän : [v.] [n.] doubt {Original}
--> tatlänver : [adj.] doubtsome, doubtful
-
-fräj : [v.] fear {French 'effrayer', English 'fear'}
--> afräj : [v.] scare, spook
--> fräjein : [n.] fear
-----> fräjeinver : [adj.] fearful, fearsome
-
-maris : [v.] remember, recall {Original}
--> marisein : [n.] rememberance
--> marisfär : [adj.] memorable
-----> marisfärt : [adv.] memorably
-
-falt : [v.] falter {Portugese 'faltar'}
--> faltin : [n.] fault
-----> faltinät : [adj.] faulty
--> faltafär : [adj.] fallible
-----> faltafärt : [adv.] fallibly
-
-alt : [v.] stop, cease {German 'Halt'}
--> altör : [n.] device for stopping
-
-vedir : [v.] lead, guide {Serbo-Croatian 'водити', Latin 'dirigo' via French 'diriger' & Spanish 'dirigir'}
--> vedirör : [n.] guide, leader
--> vedirina : [n.] guidance, leadership
--> mevedir : [v.] mislead, misdirect
-----> mevedirör : [n.] crook, liar, dishonest person
-----> mevedirina : [n.] misdirection
-talöd : [v.] follow {Korean '따르다'}
--> talödör : [n.] follower
--> talödein : [n.] (state of) following
-räg : [v.] rule, govern {Latin 'rego'}
--> rägör : [n.] ruler, governor
--> rägein : [n.] governance
--> rägina : [n.] government
-läž : [v.] obey, serve, be loyal to {English 'liege' via 'allegiance'}
--> läžein : [n.] loyalty, obedience, servitude, allegience
-----> läžeinät : [adj.] loyal
--------> läžeinätät : [adv.] loyally
--> deläž : [v.] disobey
-----> deläžein : [n.] (state of) disobedience
-serv : [v.] serve {English 'serve', French 'servir'}
--> servör : [n.] waiter, servant
-pläg : [v.] to pledge, promise, vow, swear (oath) {English 'pledge' + Latin 'plebio'}
--> plägin : [n.] pledge, promise, vow, oath
-
-fäns : [v.] strike, thrust, hit {Latin 'fendo' + via 'defensa'}
--> defäns : [v.] defend, guard, protect
-----> defänsin : [n.] defence
-----> defänsäs : [adj.] defensive
--------> defänsäst : [adv.] defensively
--> fänsör : [n.] [f:sports] striker
-
-ausk : [v.] [dated] listen, hear; heed, accept, obey {archaic 'aur' + archaic 'klen'}
--> ausk : [v.] overheard; eavesdrop
-----> auskina : [n.] reconnaissance; eavesdropping
-----> auskör : [n.] scout
-
-pläs : [v.] to please, favour {Latin 'placeo' via French 'plaire'}
--> pläsein : [n.] pleasure
-----> pläseinfär : [adj.] pleasurable
--> pläsin : [n.] favour
-----> pläsinfär : [adj.] favourable
-
-plän : [v.] to mourn, pity; to bewail, lament for {Latin 'plango' via English 'complain' & French 'plaindre'}
--> plänina : [n.] complaint
--> plänfär : [adj.] pitiable
-
-manž : [v.] eat {Italian 'mangiare', French 'manger'}
--> manžfär : [adj.] edible, comestible
-
-sül : [n.] drink {Original}
--> sülör : [n.] one who drinks (usu. alcohol)
--> sülin : [n.] drink
-
-som : [v.] [intrans] sleep {Latin 'somnus' via French 'sommeil'} 
--> somin : [n.] sleep
-----> sominät : [adj.] sleepy
--------> sominätät : [adv.] sleepily
--> asom : [v.] [trans] knock out
--> somäs : [adj.] somnial
-
-pas : [v.] pass, go by
-
-fam : [v.] hunger {Latin 'fames' via French 'faim'} 
--> famin : [n.] hunger
--> afam : [v.] [trans] to make hungry
--> famät : [adj.] hunger
-----> famätät : [adv.] hungrily
-sit : [v.] thirst {? French 'soif', ? English 'thirsty'}
--> sitin : [n.] thirst
--> asit : [v.] [trans] to make thirsty
--> sität : [adj.] thirsty
-----> sitätät : [adv.] thirstily
-fatig : [v.] [intrans] to tire, become weary {French 'fatigue'}
--> fatigein : [n.] tiredness
--> afatig : [v.] [trans] to tire, make weary
--> fatigit : [adj.] tired
-----> fatigität : [adv.] wearily
--> fatigver : [adj.] tiresome
--> fatignuz : [adj.] tireless
-----> fatignuzät : [adv.] tirelessly
-----> fatignuzein : [n.] tirelessness
-
-tänj : [v.] [n.] stain {French 'teindre'}
-
-klin : [v.] [n.] incline, bend {Latin 'clino' via English 'incline' & French 'incliner'}
-
-nos : [v.] [trans] give birth to; [intrans] [passive] be born {Latin 'nascor' via French 'naissance', French 'noces'}
--> nosina : [n.] birth
- 
-leb : {German 'Leben'}
--- [v.] live
--- [n.] life
-----> lebät : [adj.] lively
--- [adj.] alive
-----> releb : [v.] to revive
-mur : {French 'mourir'}
--- [n.] death, end
--- [n.] dead (person)
-----> limur : [n.] ghost; spirit of the dead
--- [v.] die, end
-----> murin : [n.] death, end
-----> murfär : [adj.] mortal
-
-siät : [v.] wait {Original}
--> siätina : [n.] wait, waiting
-
-brit : [v.] break {Swedish 'bryta'}
--> britin : [n.] fissure, fissuring
--> britina : [n.] breaking, destruction
--> britfär : [adj.] breakable
-----> britnefär : [adj.] unbreakable
-
-fil : ##
--- [v.] like, appreciate
-
-liäd : [v.] [n.] love {German 'leibe'}
--> liädör : [n.] lover; romantic partner
--> liädver : [adj.] loveable
-----> liädverät : [adv.] loveably
-
+bišt : [v.] carry {Original, backform from 'bištir'}
+-> bištir : [v.] bring {Original}
 don : [v.] give, deal {French 'donner'}
 -> donina : [n.] donation
 -> adon : [v.] buy, purchase
@@ -1502,79 +1147,20 @@ prom : [v.] get, gain, obtain; take, steal {Original}
 met : [v.] send {Latin 'mitto' +~ 'mät'}
 -> metör : [n.] sender
 -> metina : [n.] send
-
 tüš : [v.] [intrans.] touch, reach, attain {French 'toucher'}
 
-räs : [v.] let, allow
--> aräs : [v.] endure, tolerate
-----> aräsät : [adj.] tolerant
--------> aräsätät : [adv.] tolerantly
--------> nearäsät : [adj.] intolerant
-----------> nearäsätät : [adv.] intolerantly
-----------> nearäsätein : [n.] intolerance
-----> aräsfär : [adj.] tolerable
--------> aräsfärt : [adv.] tolerably
--------> nearäsfär : [adv.] intolerable
-----------> nearäsfärt : [adv.] intolerantly
-----------> nearäsfärein : [n.] intolerability
--> aräsein : [n.] tolerance, endurance
-
-las : {French 'laisser'}
--- [v.] leave, depart
-----> lasina : [n.] departure
--- [v.] leave behind, let (go of)
-perd : [v.] lose; drop; waste {French 'perdre'}
--> perdin : [n.] loss
-
-pärmit : [v.] allow, permit {French 'permit'}
--> pärmitina : [n.] permission
-probit : [v.] prohibit, disallow
--> probitina : [n.] prohibition
-
-kräs : [v.] grow {Latin 'crescere' via Portugese 'crescer'}
--> kräsör : [n.] one that grows
--> dekräs : [v.] shrink, decrease
-----> dekräsin : [n.] decrease
--> kräsin : [n.] growth
--> akräs : [v.] increase
-----> akräsin : [n.] increase
-
-bran : [v.] [n.] burn {Swedish 'brann'}
-
-skän : {?}
--- [v.] climb, scale
-----> skänör : [n.] one that climbs
--- [n.] climb
-plod
--- [v.] burst, blow
-----> ustplod : [v.] explode
--------> ustplodina : [n.] explosion
-----> implod : [v.] implode
--------> implodina : [n.] implosion
--- [n.] burst, blow
-
-kül : {French 'colle', English 'glue'}
--- [v.] stick, adhere
--- [n.] glue, adhesive
-
-salv : [v.] save {Latin 'salva' via English 'salvation', French 'sauver'}
--> salvör : [n.] saviour
--> salvina : [n.] salvation
-
-stöj : [v.] find {Original}
--> stöjina : [n.] discovery, finding
-
+ir  : [v.] [intrans] go, move (oneself) {French 'ira'}
+-> irina : [n.] movement
+-> asir : [v.] [trans] displace, move
+----> asirina : [n.] transportation, displacement
+nim : [v.] walk {Latin 'anima' via French & English 'animal'}
+-> anim : [v.] to make move; animate, bring to life
+----> animäs : [adj.] animal
+-------> animäst : [adv.] animally
+----> animät : [n.] animal
 vän : [v.] [intrans.] come
-
-dants : {German 'tanz', English 'dance'}
--- [v.] [intrans] dance
-----> dantsör : [n.] dancer
--- [n.] dance
-
-bras : {French 'brasser'}
--- [v.] ferment, brew 
--> brasör : [n.] machine or person who prepares mixtures
--- [n.] concoction, mixture, brew
+jun : [v.] jump {Original}
+pas : [v.] pass, go by
 
 mät  : [v.] set, change, assign, put {Latin 'mitto' via French 'mettre'}
 -> mätkal : [v.] confirm
@@ -1605,6 +1191,446 @@ mät  : [v.] set, change, assign, put {Latin 'mitto' via French 'mettre'}
 -> ülamät : [v.] preset
 ----> ülamätin : [n.] preset (presetting)
 
+ser : {French 'dire', English 'say', German 'sprechen'}
+-- [v.] say, speak, tell, talk
+----> serör : [n.] one who speaks
+-- [v.] signifies, represents, means
+----> serina : [n.] meaning
+-------> serinafär : [adj.] meaningful ###
+----------> serinafärt : [adv.] meaningfully ###
+-> serin : [n.] expression, meaning
+klam : [v.] cry out, exclaim; shout, yell; call (out) {Latin 'clamo'}
+-> reklam : [v.] demand; repossess
+----> reklamina : [n.] repossession
+----> reklamein : [n.] (state of) repossession
+-> deklam : [v.] renounce, disavow, reject, disown
+----> deklamina : [n.] disavowal, rejection
+----> deklamein : [n.] (state of) renounciation
+
+rast : [v.] [intrans] reason, reflect, reckon, calculate [trans] consider, judge {Latin 'ratus'}
+-> rastin : [n.] reason
+-> rastina : [n.] reasoning, reflection, justification
+-> visrast : [v.] prove, demonstrate {'vis' +}
+----> visrastefär : [adj.] provable
+-------> visrastefärt : [adv.] provably
+-------> nevisrastefär : [adj.] unprovable
+----------> nevisrastefärt : [adv.] unprovably
+----> navisrastefär : [adj.] [dated] probable
+-------> navistefär : [adj.] probable
+-------> navisrastefärt : [adj.] [dated] probably
+----------> navistefärt : [adv.] probably
+----------> navistefärein : [n.] probability
+sen : [v.] know {Latin 'sciens'}
+-> senein : [n.] knowledge
+-> asen : [v.] teach
+----> asenin : [n.] lesson
+----> asenina : [n.] teaching
+-------> asesinäs : [adj.] pedagogical
+----------> asesinäst : [adv.] pedagogically
+----> asenör : [v.] teacher
+ren : [v.] believe {Original}
+-> renin : [n.] belief
+----> derenin : [n.] disbelief
+-> aren : [v.] convince
+per : [v.] think {Original}
+-> perin : [n.] thought
+-> perina : [n.] thinking
+maris : [v.] remember, recall {Original}
+-> marisein : [n.] rememberance
+-> marisfär : [adj.] memorable
+----> marisfärt : [adv.] memorably
+oblis : [v.] forget {Latin 'obliviscor' via French 'oublier'}
+
+vis : [v.] see, perceive, view, look, observe {Latin 'visio' via English & French 'vision'}
+-> visina : [n.] view, perspective, observation
+-> visör : [n.] viewer, witness
+-> visäs : [n.] visual
+-> navisfär : [adj.] visible
+----> neavisfär : [adj.] invisible
+-------> neavisfärein : [n.] invisibility
+-------> neavisfärt : [adv.] invisibly
+----> navisfärein : [n.] visibility
+----> navisät : [adv.] visibly
+-> obvis : [v.] supervise, oversee
+----> obvisör : [n.] supervisor, overseer
+----> obvisein : [n.] supervision
+----> obvisäs : [adj.] supervisory
+-> imvis : [v.] examine, inspect
+----> imvisina : [n.] examination, inspection
+----> imvisör : [n.] examiner, inspector
+-> antevis : [v.] compare, contrast
+----> antevisin : [n.] contrast
+----> antevisina : [n.] comparison
+od  : [v.] hear, feel, sense
+-> odäs : [adj.] sensory
+----> odäst : [adv.] sensorially
+-> odör : [n.] sensor
+-> odin : [n.] feel, sense
+
+vedir : [v.] lead, guide {Serbo-Croatian 'водити', Latin 'dirigo' via French 'diriger' & Spanish 'dirigir'}
+-> vedirör : [n.] guide, leader
+-> vedirina : [n.] guidance, leadership
+-> mevedir : [v.] mislead, misdirect
+----> mevedirör : [n.] crook, liar, dishonest person
+----> mevedirina : [n.] misdirection
+läž : [v.] obey, serve, be loyal to {English 'liege' via 'allegiance'}
+-> läžein : [n.] loyalty, obedience, servitude, allegience
+----> läžeinät : [adj.] loyal
+-------> läžeinätät : [adv.] loyally
+-> deläž : [v.] disobey
+----> deläžein : [n.] (state of) disobedience
+räg : [v.] rule, govern {Latin 'rego'}
+-> rägör : [n.] ruler, governor
+-> rägein : [n.] governance
+-> rägina : [n.] government
+talöd : [v.] follow {Korean '따르다'}
+-> talödör : [n.] follower
+-> talödein : [n.] (state of) following
+serv : [v.] serve {English 'serve', French 'servir'}
+-> servör : [n.] waiter, servant
+pläg : [v.] to pledge, promise, vow, swear (oath) {English 'pledge' + Latin 'plebio'}
+-> plägin : [n.] pledge, promise, vow, oath
+pläs : [v.] to please, favour {Latin 'placeo' via French 'plaire'}
+-> pläsein : [n.] pleasure
+----> pläseinfär : [adj.] pleasurable
+-> pläsin : [n.] favour
+----> pläsinfär : [adj.] favourable
+
+utej : [v.] use
+-> utejin : [n.] use, purpose
+----> utejinver : [adj.] useful
+-------> utejinverät : [adv.] usefully
+-> utejör : [n.] user
+-> autej : [v.] make use
+ret : [v.] do {Breton}
+-> deret : [v.] undo
+----> deretina : [n.] undoing
+-> retina : [n.] doing; action
+
+sad : [v.] happen, occur {Latin 'cado'}
+-> imsad : [v.] take place; meet, intersect
+----> imsadina : [n.] incident
+-------> imsadinaäs : [adj.] incidental
+----------> imsadinaäst : [adv.] incidentally
+----> imsadein : [n.] incidence
+----> uzimsad : [v.] to coincide
+-------> uzimsadina : [n.] (a) coincidence
+----------> uzimsadinaäs : [adj.] coincidental
+-------------> uzimsadinaäst : [adv.] coincidentally
+-------> uzimsadein : [n.] coincidence
+-> sadina : [n.] happening, event
+-> sadein : [n.] occurence
+-> asad : [v.] cause, provoke; activate
+----> asadina : [n.] provocation, cause
+----> asadör : [n.] activator
+
+stag : [v.] start, commence, begin {Breton}
+-> stagin : [n.] start, beginning
+fin : [v.] finish, end, conclude {Latin 'finio' via French 'finir' & English 'finish'}
+-> finin : [n.] end
+-> finina : [n.] conclusion
+alt : [v.] stop, cease {German 'Halt'}
+-> altör : [n.] device for stopping
+
+särš : [v.] search, seek {French 'chercher', English 'search'}
+-> säršina : [n.] search
+-> imsärš : [v.] investigate
+----> imsäršina : [n.] investigation
+----> imsäršör : [n.] investigator
+kos : [v.] hunt; seek {Original}
+-> kosin : [n.] hunt, search
+-> kosör : [n.] hunter
+dast : [v.] amass, assemble; pick, gather {Breton 'dastum'}
+-> dastin : [n.] bunch
+-> dastina : [n.] gathering, assembly; harvest
+
+štör : [v.] seem, appear; suggest {Original}
+
+söt : [v.] create, make, build, assemble, bring to fruition {Original}
+-> sötina : [n.] creation
+tös : [v.] [trans] to make into, turn the subject into
+
+värt : [v.] turn {Latin 'verto' via English '-ward'}
+-> värtina : [n.] turn
+-> devärt : [v.] divert, redirect; deflect, reflect
+----> devärtina : [n.] diversion, redirection; deflection, reflection
+-> mevärt : [v.] degenerate, degrade, decline
+----> mevärtina : [n.] degeneration, degradation, decline
+-> revärt : [v.] return; undo
+----> revärtina : [n.] return; undoing
+ 
+fär : {Swedish '-bar', German 'fähig'}
+-- [adj.] able
+----> färein : [n.] ability
+----> nefär : [adj.] unable
+-------> nefärein : [n.] inability
+-------> anefär : [v.] to make unable, to immobilize; to make disabled, to cripple
+----> defär : [adj.] disable(d)
+-------> defärein : [n.] disability
+-------> adefär : [v.] disable
+----> afär : [v.] enable
+-- [v.] can, is able to
+rän : [v.] try {Original}
+-> ränin : [n.] attempt
+
+baž : [v.] need, require {Original}
+-> bažin : [n.] need, requirement
+-> ülabaž : [v.] prerequire
+----> ülabažin : [n.] prerequisite
+müs : [v.] must, have to (do something) {German 'Muß'}
+-> müsin : [n.] duty; requirement
+düs : [v.] should {French 'devoir' + 'müs'}
+-> düsin : [n.] obligation
+vür : [v.] want, wish {French 'vouloir'}
+-> vürin : [n.] want, wish
+sünt : [v.] demand, order, command {Finnish 'kysyntä'}
+-> süntin : [n.] demand, order, command
+tuž : [v.] would {Original}
+
+träš : [v.] [trans] throw {Original}
+-> trešör : [n.] one who throws
+-> träšin : [n.] throw
+trös : [v.] [trans] catch {Original}
+-> trösör : [n.] one who catches
+-> trösin : [n.] catch
+
+šam  : [v.] hide, conceal {Original}
+-> šamein : [n.] concealment
+avis : [v.] show, uncover, demonstrate, discover
+-> avisein : [n.] demonstration, discovery
+lüs  : [v.] open {Original}
+-> lüsör : [n.] thing which opens; opener
+üsät : [v.] close
+tör  : [v.] pull, drag, draw
+-> törör : [n.] trigger
+
+prös : [v.] [v.] push
+präm : [v.] [n.] press
+-> prämin : [n.] pressure; stress
+
+klöd : [v.] fasten, secure, lock; contain, surround {Latin 'claudo'}
+-> deklöd : [v.] unlock
+
+plis : [v.] [n.] fold {French 'plisser', Latin 'plicare' via French 'plier'}
+
+rol : [v.] roll {English 'roll', French 'rouler'}
+
+süs : [v.] suck, slurp {French 'suçer'}
+
+frot : [v.] rub {French 'frotter'}
+
+ver :  {Latin 'valor' via Italian 'valore' & French 'valeur', Swedish 'värde', Estonian 'väärt', German 'Wert'}
+-- [v.] worth; deserving of
+-- [n.] worth, value, merit
+----> aver : [v.] evaluate
+----> vernuz : [adj.] worthless
+-------> vernuzät : [adv.] worthlessly
+-> verät : [adj.] worthy
+----> verätät : [adv.] worthily
+----> neverät : [adj.] unworthy
+----> verätein : [n.] dignity
+
+heg : [v.] [reflexive] choke
+-> aheg : [v.] [trans] suffocate
+----> ahegät : [adj.] anxious, distressed, troubled
+-------> ahegätät : [adv.] anxiously
+-------> ahegätein : [n.] anxiety, distress
+
+spär : [v.] [n.] hope {Latin 'spero' via French 'espérer'}
+tatlän : [v.] [n.] doubt {Original}
+-> tatlänver : [adj.] doubtsome, doubtful
+plän : [v.] to mourn, pity; to bewail, lament for {Latin 'plango' via English 'complain' & French 'plaindre'}
+-> plänina : [n.] complaint
+-> plänfär : [adj.] pitiable
+fräj : [v.] fear {French 'effrayer', English 'fear'}
+-> afräj : [v.] scare, spook
+-> fräjein : [n.] (state of) fear
+----> fräjeinver : [adj.] fearful, fearsome
+
+falt : [v.] falter {Portugese 'faltar'}
+-> faltin : [n.] fault
+----> faltinät : [adj.] faulty
+-> faltafär : [adj.] fallible
+----> faltafärt : [adv.] fallibly
+
+fäns : [v.] strike, thrust, hit {Latin 'fendo' + via 'defensa'}
+-> defäns : [v.] defend, guard, protect
+----> defänsin : [n.] defence
+----> defänsäs : [adj.] defensive
+-------> defänsäst : [adv.] defensively
+-> fänsör : [n.] [f:sports] striker
+
+ausk : [v.] [dated] listen, hear; heed, accept, obey {archaic 'aur' + archaic 'klen'}
+-> ausk : [v.] overheard; eavesdrop
+----> auskina : [n.] reconnaissance; eavesdropping
+----> auskör : [n.] scout
+
+manž : [v.] eat {Italian 'mangiare', French 'manger'}
+-> manžfär : [adj.] edible, comestible
+-> manžin : [n.] meal
+sül : [n.] drink {Original}
+-> sülör : [n.] one who drinks (usu. alcohol)
+-> sülin : [n.] drink
+
+som : [v.] [intrans] sleep {Latin 'somnus' via French 'sommeil'} 
+-> somin : [n.] sleep
+----> sominät : [adj.] sleepy
+-------> sominätät : [adv.] sleepily
+-> asom : [v.] [trans] knock out
+-> somäs : [adj.] somnial
+rumä : {Japanese '夢', French 'rêve', English 'dream'}
+-- [v.] dream
+-- [n.] dream
+----> rumäät : [adj.] dreamy
+-------> rumäätät : [adv.] dreamily
+
+fam : [v.] hunger {Latin 'fames' via French 'faim'} 
+-> famin : [n.] hunger
+-> afam : [v.] [trans] to make hungry
+-> famät : [adj.] hunger
+----> famätät : [adv.] hungrily
+sit : [v.] thirst {? French 'soif', ? English 'thirsty'}
+-> sitin : [n.] thirst
+-> asit : [v.] [trans] to make thirsty
+-> sität : [adj.] thirsty
+----> sitätät : [adv.] thirstily
+fatig : [v.] [intrans] to tire, become weary {French 'fatigue'}
+-> fatigein : [n.] tiredness
+-> afatig : [v.] [trans] to tire, make weary
+-> fatigit : [adj.] tired
+----> fatigität : [adv.] wearily
+-> fatigver : [adj.] tiresome
+-> fatignuz : [adj.] tireless
+----> fatignuzät : [adv.] tirelessly
+----> fatignuzein : [n.] tirelessness
+
+leb : {German 'Leben'}
+-- [v.] live
+-- [n.] life
+----> lebät : [adj.] lively
+-- [adj.] alive
+----> releb : [v.] to revive
+mur : {French 'mourir'}
+-- [n.] death, end
+-- [n.] dead (person)
+----> limur : [n.] ghost; spirit of the dead
+-- [v.] die, end
+----> murin : [n.] death, end
+----> murfär : [adj.] mortal
+
+siät : [v.] wait {Original}
+-> siätina : [n.] wait, waiting
+
+brit : [v.] break {Swedish 'bryta'}
+-> britin : [n.] fissure, fissuring
+-> britina : [n.] breaking, destruction
+-> britfär : [adj.] breakable
+----> britnefär : [adj.] unbreakable
+troš : {French 'trancher'}
+-- [v.] [trans] slice, cut
+----> trošör : [n.] one that cuts
+-- [n.] cut, incision
+štät : [v.] damage {Serbian 'штете'}
+-> štätin : [n.] damage; cost, expense
+-> štätfär : [adj.] damageable
+
+liäd : [v.] [n.] love {German 'Liebe'}
+-> liädör : [n.] lover; romantic partner
+-> liädver : [adj.] loveable
+----> liädverät : [adv.] loveably
+fir : [v.] like, appreciate
+
+pend : [v.] weigh; hang
+-> pendein : [n.] pension
+-> pendina : [n.] hanging (capital punishment)
+-> pendinu : [n.] pendant
+
+räs : [v.] let, allow
+-> aräs : [v.] endure, tolerate
+----> aräsät : [adj.] tolerant
+-------> aräsätät : [adv.] tolerantly
+-------> nearäsät : [adj.] intolerant
+----------> nearäsätät : [adv.] intolerantly
+----------> nearäsätein : [n.] intolerance
+----> aräsfär : [adj.] tolerable
+-------> aräsfärt : [adv.] tolerably
+-------> nearäsfär : [adv.] intolerable
+----------> nearäsfärt : [adv.] intolerantly
+----------> nearäsfärein : [n.] intolerability
+-> aräsein : [n.] tolerance, endurance
+pärmit : [v.] allow, permit {French 'permit'}
+-> pärmitina : [n.] permission
+probit : [v.] prohibit, disallow
+-> probitina : [n.] prohibition
+
+las : {French 'laisser'}
+-- [v.] leave, depart
+----> lasina : [n.] departure
+-- [v.] leave behind, let (go of)
+perd : [v.] lose; drop; waste {French 'perdre'}
+-> perdin : [n.] loss
+
+
+
+kräs : [v.] grow {Latin 'crescere' via Portugese 'crescer'}
+-> kräsör : [n.] one that grows
+-> dekräs : [v.] shrink, decrease
+----> dekräsin : [n.] decrease
+-> kräsin : [n.] growth
+-> akräs : [v.] increase
+----> akräsin : [n.] increase
+fal : {Swedish 'falla'}
+-- [v.] fall; drop, decrease
+-- [n.] fall; drop, decrease
+
+bran : [v.] [n.] burn {Swedish 'brann'}
+
+skän : {?}
+-- [v.] climb, scale
+----> skänör : [n.] one that climbs
+-- [n.] climb
+plod :
+-- [v.] burst, blow
+----> ustplod : [v.] explode
+-------> ustplodina : [n.] explosion
+----> implod : [v.] implode
+-------> implodina : [n.] implosion
+-- [n.] burst, blow
+
+kül : {French 'colle', English 'glue'}
+-- [v.] stick, adhere
+-- [n.] glue, adhesive
+
+salv : [v.] save {Latin 'salva' via English 'salvation', French 'sauver'}
+-> salvör : [n.] saviour
+-> salvina : [n.] salvation
+
+stöj : [v.] find {Original}
+-> stöjina : [n.] discovery, finding
+
+dants : {German 'tanz', English 'dance'}
+-- [v.] [intrans] dance
+----> dantsör : [n.] dancer
+-- [n.] dance
+
+bras : {French 'brasser'}
+-- [v.] ferment, brew 
+-> brasör : [n.] machine or person who prepares mixtures
+-- [n.] concoction, mixture, brew
+
+ras : [v.] shear, shave; raze {French 'raser'}
+
+visär : [v.] aim, target {'vis' + '-vär', French 'viser'}
+-> visärin : [n.] aim
+
+piter : [v.] dig
+-> piterin : [n.] dig
+-> piterör : [n.] digger
+
+furn : [v.] bake, cook {French 'four', English 'furnace'}
+-> furnör : [n.] oven, furnace
+-> furnina : [n.] baking, cooking
+
 kal  : [v.] fit, match, correspond {French 'caler'}
 -> kalin : [n.] match @@
 
@@ -1634,14 +1660,13 @@ gil : [v.] [n.] help {Scottish Gaelic 'gille' via English 'gillie'}
 -> gilör : [n.] helper, aid
 -> gilin : [n.] aid, help
 
-bišt : [v.] carry {Original, backform from 'bištir'}
--> bištir : [v.] bring {Original}
-
 živ    : [v.] persist, continue; stay {Croatian 'živi'}
 -> aživ : [v.] to preserve, uphold, perpetuate
 -> živein : [n.] persistence, continuation
+
 studer : [v.] study {Latin 'studere' via English 'study'}
 -> studerin : [n.] study, research
+
 tegär  : [v.] meet, encounter, frequent {Original}
 -> tegärin : [n.] meeting; date
 
@@ -1666,10 +1691,12 @@ list : {French 'liste', English}
 -- [v.] list
 -- [n.] list
 
-troš : {French 'trancher'}
--- [v.] [trans] slice, cut
-----> trošör : [n.] one that cuts
--- [n.] cut, incision
+tänj : [v.] [n.] stain {French 'teindre'}
+
+klin : [v.] [n.] incline, bend {Latin 'clino' via English 'incline' & French 'incliner'}
+
+nos : [v.] [trans] give birth to; [intrans] [passive] be born {Latin 'nascor' via French 'naissance', French 'noces'}
+-> nosina : [n.] birth
 
 tröb : {German 'Arbeit', French 'travail', English 'labour'}
 -- [v.] work, labour
@@ -1718,39 +1745,13 @@ güst : {Latin 'gustus' via French 'goût' & English 'gustatory'}
 -- [n.] taste
 ----> güstäs : [adj.] gustatory
 
-rumä : {Japanese '夢', French 'rêve', English 'dream'}
--- [v.] dream
--- [n.] dream
-----> rumäät : [adj.] dreamy
--------> rumäätät : [adv.] dreamily
-fal : {Swedish 'falla'}
--- [v.] fall; drop, decrease
--- [n.] fall; drop, decrease
 
-oblis : [v.] forget {Latin 'obliviscor' via French 'oublier'}
+
+
+
 
 löv : [v.] [intrans] stand, rise {French 'lever'}
 -> lövina : [n.] stand, rising outrage
-vis : [v.] see, perceive, view, look, observe {Latin 'visio' via English & French 'vision'}
--> visina : [n.] view, perspective, observation
--> visör : [n.] viewer, witness
--> visäs : [n.] visual
--> navisfär : [adj.] visible
-----> neavisfär : [adj.] invisible
--------> neavisfärein : [n.] invisibility
--------> neavisfärt : [adv.] invisibly
-----> navisfärein : [n.] visibility
-----> navisät : [adv.] visibly
--> obvis : [v.] supervise, oversee
-----> obvisör : [n.] supervisor, overseer
-----> obvisein : [n.] supervision
-----> obvisäs : [adj.] supervisory
--> imvis : [v.] examine, inspect
-----> imvisina : [n.] examination, inspection
-----> imvisör : [n.] examiner, inspector
--> antevis : [v.] compare, contrast
-----> antevisin : [n.] contrast
-----> antevisina : [n.] comparison
 
 spir : [v.] breathe {Latin 'spiro' via French 'inspirer'}
 -> spirina : [n.] breathing
@@ -1763,21 +1764,22 @@ spir : [v.] breathe {Latin 'spiro' via French 'inspirer'}
 vitš : [v.] win {Italian 'vincere'}
 -> vitšina : [n.] victory
 -> vitšör : [n.] victor
+
 läg : [v.] select, choose, pick {Latin 'lego' via English 'select'}
 -> lägina : [n.] selection
+
 lav : [v.] wash {French 'laver'}
 -> lavina : [n.] washing
 -> lavör : [n.] person or machine that washes
-särš : [v.] search, seek {French 'chercher', English 'search'}
--> säršina : [n.] search
--> imsärš : [v.] investigate
-----> imsäršina : [n.] investigation
-----> imsäršör : [n.] investigator
+
+
+
 profit : [v.] profit
 -> profitina : [n.] profit
 -> profitör : [n.] profiteer
 ----> ratneprofitör : [n.] war profiteer
 ----> ratneprofitina : [n.] war profiteering
+
 regül : [v.] regulate
 -> regülina : [n.] regulation
 -> regülör : [n.] one that regulates
