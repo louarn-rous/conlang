@@ -29,6 +29,12 @@ It is synthetic, fusional and mildly inflected. It utilises SVO (Subject-Verb-Ob
 | Open-mid  | /ɛ/     |      |
 | Open      | /a/     |      |
 
+| Letter | Vowel | Semivowel |
+|:-:|:-:|:-:|
+| ⟨i⟩ | /i/ | \[j] |
+| ⟨u⟩ | /u/ | \[w] |
+| ⟨ü⟩ | /y/ | \[ɥ] |
+
 ## Alphabet
 The Ijter language has two scripts/alphabet: one Latin and one Cyrillic (similar to Serbian)
 
@@ -125,10 +131,9 @@ this is the same with two fricatives:
 | ⟨ai⟩ | \[aɪ] | ⟨üe⟩ | \[ɨɪ] |
 | ⟨ea⟩ | \[e̞ɐ] |  |  |
 
-when ⟨si⟩ is the initial syllable in a word, it is realized as [çi].
+when ⟨si⟩ is the initial syllable in a word, it is realized as [çi].  
 when an open syllable containing ⟨u⟩ terminates a word, it is oft realized as [ɯ].
 
-/ʝ/ is a frequent allophone of /j/.  
 /ɕ/ is a frequent allophone of /ʃ/.  
 /ʑ/ is a frequent allophone of /ʒ/.
 
