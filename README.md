@@ -1,7 +1,9 @@
 # Ižter
 
 Ižter (localized in English as 'Ijter') is a constructed language with no specific purpose.
-It utilises Subject-Verb-Object word order.
+It is fusional and mildly inflected.
+It utilises SVO (Subject-Verb-Object) word order, although it is flexible to some degree, allowing SOV.
+
 
 1. [Phonology](#Phonology)
 2. [Alphabet](#Alphabet)
