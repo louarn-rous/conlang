@@ -18,7 +18,7 @@ It is synthetic, fusional and mildly inflected. It utilises SVO (Subject-Verb-Ob
 | Nasal            | /m/     | /n/       |           |     |         |     |
 | Plosive          | /p/ /b/ | /t/ /d/   |           |     | /k/ /ɡ/ |     |
 | Affricate        |         | /ts/ /dz/ | /tʃ/ /dʒ/ |     |         |     |
-| Fricative        | /f/ /v/ | /s/ /z/   | /ʃ/ /ʒ/   | /ʝ/ |         | /h/ |
+| Fricative        | /f/ /v/ | /s/ /z/   | /ʃ/ /ʒ/   | /ʝ~j/ |         | /h~x/ |
 | Tap/Flap         |         | /ɾ/       |           |     |         |     |
 | Lat. Approximant |         | /l/       |           |     |         |     |
 
@@ -125,7 +125,8 @@ this is the same with two fricatives:
 | ⟨ai⟩ | \[aɪ] | ⟨üe⟩ | \[ɨɪ] |
 | ⟨ea⟩ | \[e̞ɐ] |  |  |
 
-when ⟨si⟩ is the initial syllable in a word, it is realized as [şi].
+when ⟨si⟩ is the initial syllable in a word, it is realized as [çi].
+when ⟨u⟩[ɯ]
 
 /ʝ/ is a frequent allophone of /j/.  
 /ɕ/ is a frequent allophone of /ʃ/.  
