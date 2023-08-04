@@ -238,6 +238,7 @@ si  : [cnjc.] if, in the case/condition that, given/supposing/assuming that {Fre
 
 da : [ptcl.] interrogative, marks the preceding clause as a question  
 sü : [ptcl.] existential, indicates 'there is/exists' concerning the object of the nominative-only clause it succeeds 
+i  : [ptcl.] seperates subject and object when using SOV word order
 
 se : [prn.] reflexive pronoun {French 'se'}
 
