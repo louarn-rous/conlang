@@ -62,6 +62,7 @@ ust : [prep.] out (outside of, away from, not in) {French 'ouste'}
 a    : [prep.] at {French 'à'}  
 u    : [prep.] at, in, near, by {Russian 'у'}  
 gešt : [prep.] against {German 'gegen', English 'against'}  
+-> irgešt : [v.] oppose, go against  
 ob   : [prep.] on (top of) {German 'ober', ? 'ob'}  
 -> ob(e)- : [prf.] over-, super-  
 -> štob : [prep.] above, over  
