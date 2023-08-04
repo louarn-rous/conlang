@@ -28,13 +28,7 @@ It is synthetic, fusional and mildly inflected. It utilises SVO (Subject-Verb-Ob
 | Close-mid | /e/ /ø/ | /o/  |
 | Open-mid  | /ɛ/     |      |
 | Open      | /a/     |      |
-
-| Letter | Vowel | Semivowel |
-|:-:|:-:|:-:|
-| ⟨i⟩ | /i/ | \[j] |
-| ⟨u⟩ | /u/ | \[w] |
-| ⟨ü⟩ | /y/ | \[ɥ] |
-
+ 
 ## Alphabet
 The Ijter language has two scripts/alphabet: one Latin and one Cyrillic (similar to Serbian)
 
@@ -112,6 +106,16 @@ this is the same with two fricatives:
 | ⟨sv⟩ → sf | ⟨šv⟩ → šf |
 | ⟨zf⟩ → zv | ⟨žf⟩ → žv |
 
+### Semivowels
+
+| Letter | Vowel | Semivowel |
+|:-:|:-:|:-:|
+| ⟨i⟩ | /i/ | \[j] |
+| ⟨u⟩ | /u/ | \[w] |
+| ⟨ü⟩ | /y/ | \[ɥ] |
+
+The above vowels are realized as semiconsonants when preceding or proceeding a different vowel.
+
 ### Digraphs
 
 | -   | -    | -   | -    | -   | -    | - |
@@ -123,19 +127,18 @@ this is the same with two fricatives:
 
 ### Diphtongs
 
-| Group | Diphtong | Group  | Diphtong |
-|:---:  |:-----:   |:---:   |:-----:   |
-| ⟨io⟩ | \[iʊ] | ⟨ui⟩ | \[ʊi] |
-| ⟨ae⟩ | \[ɐe̞] | ⟨ue⟩ | \[ʊɪ] |
-| ⟨au⟩ | \[äʊ] | ⟨ou⟩ | \[o̞ʊ] |
-| ⟨ai⟩ | \[aɪ] | ⟨üe⟩ | \[ɨɪ] |
-| ⟨ea⟩ | \[e̞ɐ] |  |  |
+|Group|Diphtong|
+|:---:|:-----: |
+| ⟨ae⟩ | \[ɐe̞] |
+| ⟨ea⟩ | \[e̞ɐ] |
 
-when ⟨si⟩ is the initial syllable in a word, it is realized as [çi].  
-when an open syllable containing ⟨u⟩ terminates a word, it is oft realized as [ɯ].
+### Phonemics
 
-/ɕ/ is a frequent allophone of /ʃ/.  
-/ʑ/ is a frequent allophone of /ʒ/.
+when ⟨si⟩ is the initial syllable in a word, it is realized as \[çi].  
+when ⟨u⟩ terminates a word, it is oft realized as \[ɯ].  
+⟨u⟩ is occasionally realized as \[ʊ].  
+⟨š⟩ is oft realized as \[ɕ] rather than \[ʃ].  
+⟨ž⟩ is oft realized as \[ʑ] rather than \[ʒ].
 
 ## Braille
 
