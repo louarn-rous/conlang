@@ -1629,6 +1629,8 @@ bras : {French 'brasser'}
 
 ras : [v.] shear, shave; raze {French 'raser'}
 
+až
+
 visär : [v.] aim, target {'vis' + '-vär', French 'viser'}
 -> visärin : [n.] aim
 
@@ -1903,7 +1905,8 @@ sir : [adj.] sharp, acute {Original}
 -> sirät : [adv.] sharply
 
 bir : [adj.] near, close {Original}
--> abir : [v.] to bring closer; to approach
+-> abir : [v.] to bring closer; to approach; [f:mathematics] to add
+----> abirina : [n.] [f:mathematics] addition
 -> biräs : [adj.] proximal
 ----> biräst : [adv.] proximally 
 -> birein : [n.] proximity
