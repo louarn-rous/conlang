@@ -15,12 +15,12 @@ It is synthetic, fusional and mildly inflected. It utilises SVO (Subject-Verb-Ob
 
 | Consonants       | Labial  | Alveolar  | Postalveolar | Palatal | Velar | Glottal |
 |:---------------- |:-------:|:---------:|:---------:|:---:|:-------:|:---:|
-| Nasal            | /m/     | /n/       |           |     |         |     |
-| Plosive          | /p/ /b/ | /t/ /d/   |           |     | /k/ /ɡ/ |     |
-| Affricate        |         | /ts/ /dz/ | /tʃ/ /dʒ/ |     |         |     |
+| Nasal            | /m/     | /n/       |           |       |         |       |
+| Plosive          | /p/ /b/ | /t/ /d/   |           |       | /k/ /ɡ/ |       |
+| Affricate        |         | /ts/ /dz/ | /tʃ/ /dʒ/ |       |         |       |
 | Fricative        | /f/ /v/ | /s/ /z/   | /ʃ/ /ʒ/   | /ʝ~j/ |         | /h~x/ |
-| Tap/Flap         |         | /ɾ/       |           |     |         |     |
-| Lat. Approximant |         | /l/       |           |     |         |     |
+| Tap/Flap         |         | /ɾ/       |           |       |         |       |
+| Lat. Approximant |         | /l/       |           |       |         |       |
 
 | Vowels    | Front   | Back |
 |:--------- |:-------:|:----:|
@@ -126,7 +126,7 @@ this is the same with two fricatives:
 | ⟨ea⟩ | \[e̞ɐ] |  |  |
 
 when ⟨si⟩ is the initial syllable in a word, it is realized as [çi].
-when ⟨u⟩[ɯ]
+when an open syllable containing ⟨u⟩ terminates a word, it is oft realized as [ɯ].
 
 /ʝ/ is a frequent allophone of /j/.  
 /ɕ/ is a frequent allophone of /ʃ/.  
