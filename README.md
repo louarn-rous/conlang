@@ -18,8 +18,7 @@ It is synthetic, fusional and mildly inflected. It utilises SVO (Subject-Verb-Ob
 | Nasal            | /m/     | /n/       |           |     |         |     |
 | Plosive          | /p/ /b/ | /t/ /d/   |           |     | /k/ /ɡ/ |     |
 | Affricate        |         | /ts/ /dz/ | /tʃ/ /dʒ/ |     |         |     |
-| Fricative        | /f/ /v/ | /s/ /z/   | /ʃ/ /ʒ/   |     |         | /h/ |
-| Approximant      |         |           |           | /j/ |         |     |
+| Fricative        | /f/ /v/ | /s/ /z/   | /ʃ/ /ʒ/   | /ʝ/ |         | /h/ |
 | Tap/Flap         |         | /ɾ/       |           |     |         |     |
 | Lat. Approximant |         | /l/       |           |     |         |     |
 
