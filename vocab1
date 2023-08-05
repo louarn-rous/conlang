@@ -312,6 +312,7 @@ piät     : [m.] stone {Italian 'pietra', Latin 'petram'}
 tärakota : [m.] terracotta {Italian 'terracotta'}
 magma    : [m. unc.] magma {Anc. Greek 'μάγμα' via French, English}
 piäs    : [m.] sand {Croatian 'pijesak'}
+graviir : [m.] gravel {French 'gravier', English 'gravel'}
 
 lant : [n.] land, domain {German 'Land'}
 -> alant : [v.] [intrans] make contact/arrive at land surface from air or sea
@@ -1143,6 +1144,9 @@ ten : [v.] hold {French 'tenir'}
 -------> teninfulät : [adv.] wealthily
 bišt : [v.] carry {Original, backform from 'bištir'}
 -> bištir : [v.] bring {Original}
+-> sebišt : [v.] record; log; login
+----> sebištiletä : [n.] logbook
+----> sebištin : [n.] record, entry
 don : [v.] give, deal {French 'donner'}
 -> donina : [n.] donation
 -> adon : [v.] buy, purchase
