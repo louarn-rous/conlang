@@ -1758,9 +1758,10 @@ kur : {Latin 'cura' via 'securus' via German 'sicher'}
 -- [v.] care
 -- [n.] care, concern
 
-fül : {English 'flow', ? French 'couler'}
--- [v.] flow
--- [n.] flow
+fül : [v.] flow {English 'flow', ? French 'couler'}
+-> fülin : [n.] flow
+-> obefül : [v.] overflow
+----> obefülin : [n.] overflow
 fors : {English & French 'force'}
 -- [v.] force
 -- [n.] force
