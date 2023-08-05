@@ -587,6 +587,7 @@ bot   : [n.] boot {French 'botte'}
 käp   : [n.] cape {English 'cape'}
 džin  : [m.] jean {English 'jeans' via German 'Jeans'}
 poka  : [n.] pocket, pouch {Frankish}
+hälm  : [n.] helmet {English 'helm'}
 
 === concepts ===
 kültür  : [n.] culture {German 'Kultur', French 'culture'}
@@ -1234,6 +1235,7 @@ rast : [v.] [intrans] reason, reflect, reckon, calculate [trans] consider, judge
 ----------> navistefärein : [n.] probability
 sen : [v.] know {Latin 'sciens'}
 -> senein : [n.] knowledge
+----> seneinfär : [adj.] knowledgeable
 -> asen : [v.] teach
 ----> asenin : [n.] lesson
 ----> asenina : [n.] teaching
