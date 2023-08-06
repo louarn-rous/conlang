@@ -665,6 +665,10 @@ heer : [n.] [v.] hate
 enor : [n.] [v.] honor {Breton}
 -> enorfär : [adj.] honorable
 ----> enorfärt : [adv.] honorably
+spag : [n.] shame {Original}
+-> aspag : [v.] shame
+-> (a)spagver : [adj.] shameful
+----> (a)spagverät : [adv.] shamefully
 
 stin : {Serbian 'истина'}
 -- [adj.] true
@@ -1160,6 +1164,7 @@ prom : [v.] get, gain, obtain; take, steal {Original}
 met : [v.] send {Latin 'mitto' +~ 'mät'}
 -> metör : [n.] sender
 -> metina : [n.] send
+-> resm
 tüš : [v.] [intrans.] touch, reach, attain {French 'toucher'}
 
 ir  : [v.] [intrans] go, move (oneself) {French 'ira'}
@@ -2040,7 +2045,7 @@ kozäv : [adj.] typical, normal; default {? Original}
 främt : [adj.] foreign {German 'fremd'}
 -> främtein : [n.] foreignness
 
-fräl : [adj.] weak, fragile {French 'frêle'}
+fräl : [adj.] weak; fragile, sensitive {French 'frêle'}
 -> afräl : [v.] weaken
 -> frälein : [n.] weakness
 -> frälät : [adv.] weakly
@@ -2127,6 +2132,7 @@ hoäl : [adj.] lame, limp; boring
 -> hoälät : [adv.] lamely, limply
 müsot : [adj.] silly
 -> müsot : [n.] silliness
+-> amüsot : [v.] ridicule
 
 === vulgar ===
 bata   : [n.] imbecile, bastard
