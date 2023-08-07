@@ -9,13 +9,6 @@ až
 -- n. age
 -- v. age, grow older
 
-
-bild : v. build
-
-brik
--- n. brick, ingot, brick-shaped item
--- v. [computing] (of a dev) to become non-functional
-
 penal
 -- n. penalty
 -- v. penalize
@@ -23,14 +16,6 @@ penal
 fiend
 -- n. enemy
 -- adj. hostile
-
-fin
--- v. complete, finish
--- n. end
-
-flot
--- v. float
--- n. fleet
 
 invers :
 -- n. inverse
@@ -55,10 +40,6 @@ küb
 -- v. [mathematics] multiply a number by itself twice
 
 lek : n. lick ??
-
-mesaž
--- [v.] message
--- [n.] message
 
 mister : [n.] mystery ##
 
