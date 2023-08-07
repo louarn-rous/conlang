@@ -93,7 +93,7 @@ uz  : [cnjc.] comitative ('with') {Croatian}
 ----> nuzin : [n.] lack
 ----> nuzät : [adj.] poor
 -------> nuzätein : [n.] poverty
-----> [suf.] abessive; forms abessive adjectives from nouns ('-less')
+----> -nuz : [suf.] abessive; forms abessive adjectives from nouns ('-less')
 
 mo    : [cnjc.] also, both, as well, again  
 -> omo : [adj.] same, common  
@@ -132,7 +132,6 @@ si  : [cnjc.] if, in the case/condition that, given/supposing/assuming that {Fre
 -e      : [suf.] forms ordinal numbers  
 -a      : [suf.] used to mark a place
 
--vär    : [suf.] venitive; in the direction of ('-wards') {see 'värt'}
 
 -(n)(en)i : [suf.] used to form nouns, indicating someone who is from a place
 
@@ -141,7 +140,6 @@ si  : [cnjc.] if, in the case/condition that, given/supposing/assuming that {Fre
 -- [suf.] semblative; used to form adjectives from nouns, meaning resembling the suffixed word (esp. in behaviour)  
 -- [suf.] used to form adjectives from verbs, meaning 'inclined to' ###
 
--mod : [suf.] [v.] used to form verbs from nouns, with the sence of playing the role of, or being the suffixed word {see 'mod'}
 
 
 a- : [prf.] {French}   
@@ -155,8 +153,6 @@ de(s)- : [prf.] reversal or removal, lack of ('-dis', 'de-')
 me(s)- : [prf.] badly or wrongly {French 'mal-', English 'mis-'}  
 re(s)- : [prf.] again; anew {French & English 're-'} 
 
-püli- : [prf.] multi-, plura-, poly- {see 'püli'}  
-lös-  : [prf.] mono-, uni- {see 'lös'}
 
 -äst  : [suf.] [cntrc.] equiv. to -äs and -ät  
 -värt : [suf.] [cntrc.] equiv. to -vär and -ät
@@ -1322,6 +1318,7 @@ orde : [n.] order, arrangement, series {Latin 'ordo'}
 korb : [n.] basket {French 'corbeille}
 not : [n.] brief record, usually written; score, mark or grade; [f:music] note
 mod : [n.] style, fashion, way, manner {French 'mode'}
+-> -mod : [suf.] used to form verbs from nouns, with the sence of playing the role of, or being the suffixed word
 
 lite : [n.] letter {Latin 'littera'}
 -> aliter : [v.] spell; alliterate
@@ -1661,7 +1658,7 @@ ret : [v.] do {Breton}
 -> deret : [v.] undo
 ----> deretina : [n.] undoing
 -> retina : [n.] doing; action
--> [suf.] used to form nouns, meaning the practice of doing or doing something related to the suffixed word
+-> -ret : [suf.] used to form nouns, meaning the practice of doing or doing something related to the suffixed word
 
 
 sad : [v.] happen, occur {Latin 'cado'}
@@ -1709,16 +1706,17 @@ söt : [v.] create, make, build, assemble, bring to fruition {Original}
 tös : [v.] [trans] to make into, turn the subject into
 
 värt : [v.] turn {Latin 'verto' via English '-ward'}
--> värtina : [n.] turn
--> devärt : [v.] divert, redirect; deflect, reflect
+-> värtina  : [n.] turn
+-> devärt   : [v.] divert, redirect; deflect, reflect
 ----> devärtina : [n.] diversion, redirection; deflection, reflection
--> mevärt : [v.] degenerate, degrade, decline
+-> mevärt   : [v.] degenerate, degrade, decline
 ----> mevärtina : [n.] degeneration, degradation, decline
--> revärt : [v.] return; undo
+-> revärt   : [v.] return; undo
 ----> revärtina : [n.] return; undoing
 -> antevärt : [v.] invert
 ----> antevärtina : [n.] inversion
- 
+-> -vär     : [suf.] venitive; in the direction of ('-wards')
+
 fär : {Swedish '-bar', German 'fähig'}
 -- [adj.] able
 ----> färein : [n.] ability
@@ -1798,7 +1796,7 @@ ver :  {Latin 'valor' via Italian 'valore' & French 'valeur', Swedish 'värde', 
 ----> verätät : [adv.] worthily
 ----> neverät : [adj.] unworthy
 ----> verätein : [n.] dignity
--> [suf.] forms adjectives from nouns, meaning deserving or worthy of the suffixed word ('-worthy', '-some')  
+-> -ver : [suf.] forms adjectives from nouns, meaning deserving or worthy of the suffixed word ('-worthy', '-some')  
 
 
 heg : [v.] [reflexive] choke
@@ -2450,10 +2448,12 @@ lös : [adj.] single, only; alone {French 'seul', English 'lone'}
 -> alös : [v.] single out
 -> lösein : [n.] loneliness
 -> lösät : [adv.] lonelily; singularly
+-> lös-  : [prf.] mono-, uni-
 püli : [adj.] multiple, plural
 -> apüli : [v.] to make plural, to multiply; to duplicate
 -> pülein : [n.] multiplicity, plurality
 -> püliät : [adv.] plurally
+-> püli- : [prf.] multi-, plura-, poly-
 
 nüdit : [adj.] naked, nude
 -> anüdit : [v.] to strip of protection or clothing
