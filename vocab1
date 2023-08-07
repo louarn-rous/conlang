@@ -31,7 +31,6 @@ dö  : [prep.] ablative, genitive ('from', 'of', authorship) {French 'de'}
 -> öde : [prep.] benefactive ('for', 'in favour/support/the objective of', 'so that')  
 -> ödvär : [adj.] towards  
 ----> ödvärt : [adv.] towards  
-tej : [prep.] [cnjc.] instrumentative ('with') {see 'utej'}
 
 sär : [prep.] in the form(at) of  
 isän : [prep.] ablative (about, concerning)  
@@ -51,6 +50,7 @@ ust : [prep.] out (outside of, away from, not in) {French 'ouste'}
 -> usklöd : [v.] exclude  
 -> ustvär : [adj.] outwards  
 ----> ustvärt : [adv.] outwards
+-> ust- : [prf.] outwards ('-out')
 
 -> ustäs? : [adj.] external @@  
 ----> ustäsät? : [adv.] externally @@  
@@ -93,6 +93,7 @@ uz  : [cnjc.] comitative ('with') {Croatian}
 ----> nuzin : [n.] lack
 ----> nuzät : [adj.] poor
 -------> nuzätein : [n.] poverty
+----> [suf.] abessive; forms abessive adjectives from nouns ('-less')
 
 mo    : [cnjc.] also, both, as well, again  
 -> omo : [adj.] same, common  
@@ -126,12 +127,11 @@ si  : [cnjc.] if, in the case/condition that, given/supposing/assuming that {Fre
 -ör     : [suf.] agentive; forms agent nouns from verbs ('-er')  
 -(n)äs  : [suf.] genitive; forms adjectives from nouns, with the meaning 'of or pertaining to' the suffixed word ('-ic')  
 -(s)ein : [suf.] forms nouns from adjectives, denoting the condition or state of the suffixed word ('-hood', '-dom', '-ness') {Archaic form: '-esin'}  
--fär    : [suf.] forms adjectives from verbs, indicating that the action can be performed ('-able') {see 'fär'}  
--nuz    : [suf.] abessive; forms abessive adjectives from nouns ('-less') {see 'nuz'}  
--ver    : [suf.] forms adjectives from nouns, meaning deserving or worthy of the suffixed word ('-worthy', '-some') {see 'ver'}  
+
+
 -e      : [suf.] forms ordinal numbers  
 -a      : [suf.] used to mark a place
--(t)roke : [suf.] used to indicate a place with a purpose relating to the suffixed word ('-place')
+
 -vär    : [suf.] venitive; in the direction of ('-wards') {see 'värt'}
 
 -(n)(en)i : [suf.] used to form nouns, indicating someone who is from a place
@@ -143,7 +143,6 @@ si  : [cnjc.] if, in the case/condition that, given/supposing/assuming that {Fre
 
 -mod : [suf.] [v.] used to form verbs from nouns, with the sence of playing the role of, or being the suffixed word {see 'mod'}
 
--ret : [suf.] used to form nouns, meaning the practice of doing or doing something related to the suffixed word {see 'ret'}
 
 a- : [prf.] {French}   
 -- used to form verbs from adjectives, indicating the gain of the adjectivial property  
@@ -938,6 +937,7 @@ troke : [n.] location, place {Japanese '所'}
 -------> sommistrok : [n.] bedroom {'sommis' +}
 ----> orestrok : [n.] vault {'or' +}
 ----> usestrok : [n.] basement
+-> -(t)roke : [suf.] used to indicate a place with a purpose relating to the suffixed word ('-place')
 
 skär : [n.] lane, track, channel
 
@@ -1488,6 +1488,8 @@ met : [v.] send {Latin 'mitto' +~ 'mät'}
 -> resmet : [v.] return, take/send ... back
 -> metser : [v.] message
 ----> metserin : [n.] message
+-> ustemet : [v.] hurl, cast; send forth, emit, discharge {'ust' +}
+----> uste
 tüš : [v.] [intrans.] touch, reach, attain {French 'toucher'}
 
 ir  : [v.] [intrans] go, move (oneself) {French 'ira'}
@@ -1649,6 +1651,7 @@ pläs : [v.] to please, favour {Latin 'placeo' via French 'plaire'}
 -------> nesapläsina : [n.] disagreement
 
 utej : [v.] use
+-> tej : [prep.] [cnjc.] instrumentative ('with')
 -> utejin : [n.] use, purpose
 ----> utejinver : [adj.] useful
 -------> utejinverät : [adv.] usefully
@@ -1658,6 +1661,8 @@ ret : [v.] do {Breton}
 -> deret : [v.] undo
 ----> deretina : [n.] undoing
 -> retina : [n.] doing; action
+-> [suf.] used to form nouns, meaning the practice of doing or doing something related to the suffixed word
+
 
 sad : [v.] happen, occur {Latin 'cado'}
 -> imsad : [v.] take place; meet, intersect
@@ -1725,6 +1730,7 @@ fär : {Swedish '-bar', German 'fähig'}
 -------> adefär : [v.] disable
 ----> afär : [v.] enable
 -- [v.] can, is able to
+-> -fär : [suf.] forms adjectives from verbs, indicating that the action can be performed ('-able')
 rän : [v.] try {Original}
 -> ränin : [n.] attempt
 
@@ -1792,6 +1798,8 @@ ver :  {Latin 'valor' via Italian 'valore' & French 'valeur', Swedish 'värde', 
 ----> verätät : [adv.] worthily
 ----> neverät : [adj.] unworthy
 ----> verätein : [n.] dignity
+-> [suf.] forms adjectives from nouns, meaning deserving or worthy of the suffixed word ('-worthy', '-some')  
+
 
 heg : [v.] [reflexive] choke
 -> aheg : [v.] [trans] suffocate
