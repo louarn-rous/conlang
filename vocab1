@@ -905,6 +905,11 @@ poka  : [n.] pocket, pouch {Frankish}
 hälm  : [n.] helmet {English 'helm'}
 
 === concepts ===
+utšä    : [n.] subject, object, item
+-> utši : [n.] concept, idea
+----> utšiäs : [adj.] conceptual
+-------> utšiäst : [adv.] conceptually
+ide     : [n.] idea {French 'idée'}
 kültür  : [n.] culture {German 'Kultur', French 'culture'}
 -> kültüräs : [adj.] cultural
 ----> kültüräst : [adv.] culturally
@@ -912,7 +917,6 @@ värsion : [n.] version {French, English 'version'}
 sistäm  : [n.] system {French 'système', English 'system'}
 -> sistämäs : [adj.] systemic
 ----> sistämäst : [adv.] systemically
-ide     : [n.] idea {French 'idée'}
 
 niväl   : [n.] level {English 'level', French 'niveau'}
 strat   : [n.] layer {Latin 'stratum' via English}
@@ -1466,7 +1470,10 @@ ten : [v.] hold {French 'tenir'}
 -> aten : [v.] to make hold; give
 -> tenin : [n.] hold; wealth
 ----> teninful : [adj.] wealthy
--------> teninfulät : [adv.] wealthily
+-------> teninfulät : [adv.] wealthily\
+-> esten : [v.] occupy, stay at
+----> estenein : [n.] (state of) occupation
+----> estenina : [n.] occupation
 
 bišt : [v.] carry {Original, backform from 'bištir'}
 -> bištir : [v.] bring {Original}
@@ -1582,8 +1589,9 @@ ren : [v.] believe {Original}
 -> renin : [n.] belief
 ----> derenin : [n.] disbelief
 -> aren : [v.] convince
-per : [v.] think {Original}
+per : [v.] think, ponder; consider {Original}
 -> perin : [n.] thought
+----> perinäs : [adj.] of or pertaining to thought
 -> perina : [n.] thinking
 maris : [v.] remember, recall {Original}
 -> marisein : [n.] rememberance
@@ -2080,10 +2088,12 @@ nos : [v.] [trans] give birth to; [intrans] [passive] be born {Latin 'nascor' vi
 tröb : {German 'Arbeit', French 'travail', English 'labour'}
 -- [v.] work, labour
 ----> tröbör : [n.] worker
+----> tröbestrok : [n.] workplace; office, bureau {+ 'trok'}
+----> atröb : [v.] operate, maneuver
+-------> atröbina : [n.] operation, maneuvering
 -- [n.] work, labour
 ----> tröbnuz : [adj.] unemployed
 -------> tröbnuzör : [n.] unemployed person
--> tröbetrok : [n.] workplace; office, bureau {+ 'trok'}
 
 štüt : [v.] support {? German 'stützen'}
 -> štütör : [n.] supporter
