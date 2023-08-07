@@ -1,13 +1,13 @@
 # Geography
 
-## continents & regions ==
+=== continents & regions ===
 Afrika (Afrikäs)   : Africa (African)
 -> NordAfrika (NordAfrikäs) : North Africa (North African)
 
 Amerika (Amerikäs) : America (American)
--> SüdAmerika (SüdAmerikäs)     : South America (South American)
 -> NordAmerika (NordAmerikäs)   : North America (North American)
 -> MitälAmerika (MitälAmerikäs) : Central America (Central American)
+-> SüdAmerika (SüdAmerikäs)     : South America (South American)
 
 Öropa (Öropäs) : Europe (European)
 -> NordÖropa (NordÖropäs)   : Northern Europe (Northern European)
@@ -27,7 +27,7 @@ Orient (Orientäs) : Asia (Asian)
 Kaukasos (Kaukasäs) : Caucasus (Caucasian)
 
 
-## Countries & Territories
+== Countries & Territories ==
 
 Istlant (Islantäs) : Iceland (Icelandic)
 Noreg (Noregäs)    : Norway (Norwegian)
@@ -53,8 +53,7 @@ Südoslavia (Südoslaväs) : Yugoslavia (Yugoslav) [region]
 
 
 
-Britania (Britaniäs)    : Great Britain (British)
--> Britaniäs Ölanten    : British Isles
+
 
 Mahrib (Mahribäs)  : Maghreb (Maghreb)
 
@@ -107,8 +106,8 @@ Ukraina (Ukrainäs)            : Ukraine (Ukrainan)
 Belarus (Belarusäs)           : Belarus (Belarussian)
 Rosija (Rosijäs)              : Russia (Russian) 
 
-
-
+Britania (Britaniäs)    : Great Britain (British)
+-> Britaniäs Ölanten    : British Isles
 Ingelant (Ingeläs) : England (English)
 Kemri (Kemräs)     : Wales (Welsh)
 Albai (Albaiäs)    : Scotland (Scottish, Scot)
@@ -169,6 +168,25 @@ Kebäk (Kebäkäs)  : Quebec (Québécois)
 -> ÜSAmerika (ÜSAmerikäs) : USAmerica (USAmerican)
 Mehiko (Mehikäs) : Mexico (Mexican)
 
+Guatemala (Guatemaläs)  : Guatemala (Guatemalan)
+Beliiz (Beliizäs)       : Belize (Belizean)
+Onduras (Onduräs)       : Honduras (Honduran)
+Salbador (Salbadoräs)   : El Salvador (Salvadoran)
+Nikaragua (Nikaraguäs)  : Nicaragua (Nicaraguan)
+Kosta Rika (Kosta Rikäs : Costa Rica (Costa Rican)
+Panama (Panamäs)        : Panama (Panamanian)
+
+Kolombja (Kolombjäs)   : Colombia (Colombian)
+Benesuela (Benesueläs) : Venezuela (Venezuelan)
+Peru (Peruväs)         : Peru (Peruvian)
+Ekuador (Ekuadoräs)    : Ecuador (Ecuadorian)
+Bolibja (Bolibjäs)     : Bolivia (Bolivian)
+Tšile (Tšiläs)         : Chile (Chilean)
+Arhentina (Arhentinäs) : Argentinia (Argentine, Argentinian)
+Paraguai (Paraguajäs)  : Paraguay (Paraguayan)
+Uruguai (Uruguajäs)    : Uruguay (Uruguayan)
+Brazil (Braziläs)      : Brazil (Brazilian)
+
 Bama (Bamanäs)         : Burma (Burmese)
 Mjanma (Mjanmäs)       : Myanmar (Myanma) 
 Tajlant (Tajäs)        : Thailand (Thai)
@@ -186,16 +204,7 @@ Tšosen (Tšosenäs)      : Korea (Korean) {Korean '조선'}
 -> Süd'Tšosen (SüdTšosenäs) : South Korea (South Korean)
 Yamate (Yamatäs)       : Japanese (Japanese)
 
-Kolombja (Kolombjäs)   : Colombia (Colombian)
-Benesuela (Benesueläs) : Venezuela (Venezuelan)
-Peru (Peruväs)         : Peru (Peruvian)
-Ekuador (Ekuadoräs)    : Ecuador (Ecuadorian)
-Bolibja (Bolibjäs)     : Bolivia (Bolivian)
-Tšile (Tšiläs)         : Chile (Chilean)
-Arhentina (Arhentinäs) : Argentinia (Argentine, Argentinian)
-Paraguai (Paraguajäs)  : Paraguay (Paraguayan)
-Uruguai (Uruguajäs)    : Uruguay (Uruguayan)
-Brazil (Braziläs)      : Brazil (Brazilian)
+
 
 
 
