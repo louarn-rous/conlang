@@ -25,7 +25,7 @@ Orient (Orientäs) : Asia (Asian)
 -> ÄstOrient (ÄstOrientäs)     : East Asia (East Asian)
 
 Kaukasos (Kaukasäs) : Caucasus (Caucasian)
-
+Mahrib (Mahribäs)  : Maghreb (Maghreb)
 
 == Countries & Territories ==
 
@@ -33,6 +33,7 @@ Istlant (Islantäs) : Iceland (Icelandic)
 Noreg (Noregäs)    : Norway (Norwegian)
 Svärjä (Svärjäs)   : Sweden (Swedish)
 Tänmak (Tänmäs)    : Denmark (Danish) 
+Krönlant (Krönlantäs) : Greenland (Greenlander, Greenlandic)
 Suomi (Suomäs)     : Finland (Finnish)
 Olant (Olantäs)    : Åland (Ålandic)
 Förjar (Förjaräs)  : Faroes (Faroese)
@@ -55,7 +56,6 @@ Südoslavia (Südoslaväs) : Yugoslavia (Yugoslav) [region]
 
 
 
-Mahrib (Mahribäs)  : Maghreb (Maghreb)
 
 
 
@@ -76,6 +76,7 @@ Tšekia (Tšekäs)          : Czech Republic (Czech)
 Slovakia (Slovakäs)      : Slovakia (Slovak)
 Letsebueš (Letsebuešäs)  : Luxembourg (Luxembourgish)
 Nedärlant (Nedärlantäs)  : Netherlands (Dutch)
+Zeelant (Zeelantäs)      : Zeeland (Zeeuw)
 Vlams (Vlamsäs)          : Flanders (Flemish)
 Belžika (Belžäs)         : Belgium (Belgian)
 Walonia (Walonäs)        : Wallonia (Wallonian)
@@ -114,12 +115,11 @@ Albai (Albaiäs)    : Scotland (Scottish, Scot)
 Manin (Maninäs)    : Isle of Man (Manx)
 Erje (Erjäs)       : Ireland (Irish)
 
-Krönlant (Krönlantäs) : Greenland (Greenlander, Greenlandic)
 
 Polska (Polskäs)         : Poland (Polish)
 
-
 Sakartvälo (Sakartväläs)    : Georgia (Georgian)
+Armenia (Armeniäs)          : Armenia (Armenian)
 Azärbajdžan (Azärbajdžanäs) : Azerbaijan (Azerbaijani, Azer)
 
 Kazakhstan (Kazakhstäs)    : Kazakhstan (Kazakhstani, Kazakh)
@@ -149,6 +149,8 @@ Ajrak (Ajrakäs)    : Iraq (Iraqi)
 Kurdistan (Kurdäs) : Kurdistan (Kurdish)
 
 Iran (Iranäs) : Iran (Iranian)
+Afganistan (Afganäs) : Afghanistan (Afghan)
+Pakestan (Pakestanäs) : Pakistan (Pakistani)
 
 Rguanda (Rguandäs)     : Rwanda (Rwandan)
 Burundi (Burundiäs)    : Burundi (Burundian)
@@ -167,6 +169,8 @@ Kebäk (Kebäkäs)  : Quebec (Québécois)
 Üniti Staten dö Amerika (Amerikäs) : United States of America (American)
 -> ÜSAmerika (ÜSAmerikäs) : USAmerica (USAmerican)
 Mehiko (Mehikäs) : Mexico (Mexican)
+
+Nov Zeelant (Nov Zeelantäs) : New Zealand (New Zealander)
 
 Guatemala (Guatemaläs)  : Guatemala (Guatemalan)
 Beliiz (Beliizäs)       : Belize (Belizean)
@@ -203,10 +207,6 @@ Tšosen (Tšosenäs)      : Korea (Korean) {Korean '조선'}
 -> NordTšosen (NordTšosenäs) : North Korea (North Korean)
 -> Süd'Tšosen (SüdTšosenäs) : South Korea (South Korean)
 Yamate (Yamatäs)       : Japanese (Japanese)
-
-
-
-
 
 === first names ===
 Alin : 
