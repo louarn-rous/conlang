@@ -121,9 +121,10 @@ si  : [cnjc.] if, in the case/condition that, given/supposing/assuming that {Fre
 === affixes ===  
 -en     : [suf.] plural (after closed syllable) {German}  
 -de     : [suf.] plural (after open syllable, or one ending with a nasal when there is already a nasal-terminated vowel before it)
--(n)u   : [suf.] diminutive {Turkish 'kuzu'}  
+-(n)u   : [suf.] diminutive {Turkish 'kuzu'}
 -ina    : [suf.] verbal nominative; forms verbal nouns (the noun indicating the action of what is denoted by the verb) {Croatian 'batina'}  
--> -in  : [suf.] nominative; forms nouns from verbs, describing the result of an action  
+-> -in   : [suf.] nominative; forms nouns from verbs, describing the result of an action  
+-> -(n)a : [suf.] augmentative
 -ör     : [suf.] agentive; forms agent nouns from verbs ('-er')  
 -(n)äs  : [suf.] genitive; forms adjectives from nouns, with the meaning 'of or pertaining to' the suffixed word ('-ic')  
 -(s)ein : [suf.] forms nouns from adjectives, denoting the condition or state of the suffixed word ('-hood', '-dom', '-ness') {Archaic form: '-esin'}  
@@ -2496,5 +2497,6 @@ bov    : [n.] [archaic] cow {Late Latin 'bovinus'}
 vinj  : [n.] [archaic] vine {French 'vigne'}
 gan   : [v.] [archaic] can, able to {? English 'can'}
 ovär  : [v.] [archaic] open {French 'ouvrir', English 'open'}
+levit : [v.] [archaic] levitate, hover {French 'léviter', English 'levitate'}
 süs : [v.] [archaic] suck, slurp {French 'suçer'}
 škort : [adj.] [archaic] short {French 'court', English 'short'}
