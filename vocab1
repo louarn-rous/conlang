@@ -1146,6 +1146,8 @@ näät : [n.] net, mesh {English 'net'}
 -> näätvine : [n.] cyberspace, virtual place
 ark : [n.] bow, arc; semicircle {Latin 'arcus'}
 -> ark : [n.] [f:archery] bow
+brik : [n.] brick, ingot {French 'brique', English 'brick'} #
+-> brik : [v.] [f:computing] (of a dev) become non-functional
 
 === house ===
 kav   : [n.] basement {French 'cave'}
@@ -1484,6 +1486,8 @@ met : [v.] send {Latin 'mitto' +~ 'mät'}
 -> metör : [n.] sender
 -> metina : [n.] send
 -> resmet : [v.] return, take/send ... back
+-> metser : [v.] message
+----> metserin : [n.] message
 tüš : [v.] [intrans.] touch, reach, attain {French 'toucher'}
 
 ir  : [v.] [intrans] go, move (oneself) {French 'ira'}
@@ -1763,14 +1767,20 @@ präm : [v.] [n.] press
 klöd : [v.] fasten, secure, lock; contain, surround {Latin 'claudo'}
 -> deklöd : [v.] unlock
 -> imklöd : [v.] imprison
+----> imklödein : [n.] (state of) imprisonment
+----> imklödina : [n.] imprisonment
 
 plis : [v.] [n.] fold {French 'plisser', Latin 'plicare' via French 'plier'}
 
 rol : [v.] roll {English 'roll', French 'rouler'}
+-> rolin : [n.] roll
 
-süs : [v.] suck, slurp {French 'suçer'}
+fel : [v.] suck, slurp {Latin 'fello'}
 
 frot : [v.] rub {French 'frotter'}
+
+flot : [v.] float {French 'flotter', English 'float'}
+-> flotina : [n.] fleet {Russian 'флот', French 'flotte'}
 
 ver :  {Latin 'valor' via Italian 'valore' & French 'valeur', Swedish 'värde', Estonian 'väärt', German 'Wert'}
 -- [v.] worth; deserving of
@@ -2104,13 +2114,9 @@ güst : {Latin 'gustus' via French 'goût' & English 'gustatory'}
 -- [n.] taste
 ----> güstäs : [adj.] gustatory
 
-
-
-
-
-
-löv : [v.] [intrans] stand, rise {French 'lever'}
+löv : [v.] [trans] lift [intrans] stand, rise {French 'lever'}
 -> lövina : [n.] stand, rising outrage
+-> štoblöv : [v.] [intrans] levitate, hover
 
 spir : [v.] breathe {Latin 'spiro' via French 'inspirer'}
 -> spirina : [n.] breathing
@@ -2472,12 +2478,13 @@ aur   : [n.] [archaic] ear {Latin 'auris'}
 klen  : [n.] [archaic] bend, incline {Latin 'clino'}
 zdal  : [n.] [archaic] slab {French 'dalle'}
 hart  : [n.] [archaic] core, centre {Afrikaans}
-gan   : [v.] [archaic] can, able to {? English 'can'}
 busk  : [n.] [archaic] bush {English 'bush', ? German 'Busch', ? Finnish 'puska'}
 viv   : [n.] [archaic] life [v.] live [adj.] alive {Spanish 'vida', French 'vivre'}
 bov    : [n.] [archaic] cow {Late Latin 'bovinus'}
 -> boväs : [adj.] [archaic] bovine
 -> bovu  : [n.] [archaic] calf
-ovär  : [v.] [archaic] open {French 'ouvrir', English 'open'}
 vinj  : [n.] [archaic] vine {French 'vigne'}
+gan   : [v.] [archaic] can, able to {? English 'can'}
+ovär  : [v.] [archaic] open {French 'ouvrir', English 'open'}
+süs : [v.] [archaic] suck, slurp {French 'suçer'}
 škort : [adj.] [archaic] short {French 'court', English 'short'}
