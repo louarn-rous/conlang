@@ -125,30 +125,24 @@ si  : [cnjc.] if, in the case/condition that, given/supposing/assuming that {Fre
 -ina    : [suf.] verbal nominative; forms verbal nouns (the noun indicating the action of what is denoted by the verb) {Croatian 'batina'}  
 -> -in   : [suf.] nominative; forms nouns from verbs, describing the result of an action  
 -> -(n)a : [suf.] augmentative
--ör     : [suf.] agentive; forms agent nouns from verbs ('-er')  
--(n)äs  : [suf.] genitive; forms adjectives from nouns, with the meaning 'of or pertaining to' the suffixed word ('-ic')  
+-(t)ör     : [suf.] agentive; forms agent nouns from verbs ('-er')  
 -(s)ein : [suf.] forms nouns from adjectives, denoting the condition or state of the suffixed word ('-hood', '-dom', '-ness') {Archaic form: '-esin'}  
-
-
--e      : [suf.] forms ordinal numbers  
--a      : [suf.] used to mark a place
-
-
--(n)(en)i : [suf.] used to form nouns, indicating someone who is from a place
-
--ät :  
+-(n)äs  : [suf.] genitive; forms adjectives from nouns, with the meaning 'of or pertaining to' the suffixed word ('-ic')  
+-(n)ät :  
 -- [suf.] used to form adverbs from adjectives @@ verbs and nouns  
 -- [suf.] semblative; used to form adjectives from nouns, meaning resembling the suffixed word (esp. in behaviour)  
 -- [suf.] used to form adjectives from verbs, meaning 'inclined to' ###
 
-
+-e      : [suf.] forms ordinal numbers  
+-a      : [suf.] used to mark a place
+-(n)i : [suf.] used to form nouns, indicating someone who is from a place
 
 a(s)- : [prf.] {French}   
 -- used to form verbs from adjectives, indicating the gain of the adjectivial property  
 -- used to form verbs from verbs, indicating the action of making an object do an action  
 -- used to form verbs from nouns, meaning to make into or create the prefixed noun
 
-ge-    : [prf.] collective noun suffix {German}  
+ge(s)-    : [prf.] collective noun suffix {German}  
 ne(s)- : [prf.] negatory; absent, lacking  
 de(s)- : [prf.] reversal or removal, lack of ('-dis', 'de-')  
 me(s)- : [prf.] badly or wrongly {French 'mal-', English 'mis-'}  
@@ -1470,10 +1464,10 @@ ten : [v.] hold {French 'tenir'}
 -> aten : [v.] to make hold; give
 -> tenin : [n.] hold; wealth
 ----> teninful : [adj.] wealthy
--------> teninfulät : [adv.] wealthily\
+-------> teninfulät : [adv.] wealthily
 -> esten : [v.] occupy, stay at
-----> estenein : [n.] (state of) occupation
-----> estenina : [n.] occupation
+----> estenein : [n.] (state of) occupation (of a location)
+----> estenina : [n.] occupation (of a location)
 
 bišt : [v.] carry {Original, backform from 'bištir'}
 -> bištir : [v.] bring {Original}
@@ -1486,6 +1480,10 @@ don : [v.] give, deal {French 'donner'}
 -> adon : [v.] buy, purchase
 ----> adonör : [n.] buyer
 ----> adonina : [n.] purchase
+dräit : [v.] betray; surrender; give up {? Breton 'dreitour'}
+-> dräitör : [n.] betrayer, traitor
+-> dräitin(a) : [n.] betrayal
+-> dräitein : [n.] (state of) betrayal
 prom : [v.] get, gain, obtain; take, steal {Original}
 -> promin : [n.] gain
 -> aprom : [v.] sell
@@ -1500,6 +1498,7 @@ met : [v.] send {Latin 'mitto' +~ 'mät'}
 -> ustemet : [v.] hurl, cast; send forth, emit, discharge {'ust' +}
 ----> uste
 tüš : [v.] [intrans.] touch, reach, attain {French 'toucher'}
+-> tüšin : [n.] touch, reach
 
 ir  : [v.] [intrans] go, move (oneself) {French 'ira'}
 -> irina : [n.] movement
@@ -1762,12 +1761,6 @@ sünt : [v.] demand, order, command {Finnish 'kysyntä'}
 -> süntin : [n.] demand, order, command
 tuž : [v.] would {Original}
 
-träš : [v.] [trans] throw {Original}
--> trešör : [n.] one who throws
--> träšin : [n.] throw
-trös : [v.] [trans] catch {Original}
--> trösör : [n.] one who catches
--> trösin : [n.] catch
 
 šam  : [v.] hide, conceal {Original}
 -> šamein : [n.] concealment
@@ -1779,10 +1772,17 @@ lüs  : [v.] open {Original}
 tör  : [v.] pull, drag, draw
 -> törör : [n.] trigger
 
-prös : [v.] [n.] push
+prös : [v.] [trans] [n.] push
 -> prösir : [v.] (usu. of a vehicle) drive
-präm : [v.] [n.] press
+präm : [v.] [trans] [n.] press
 -> prämin : [n.] pressure; stress
+-> apräm : [v.] pressure
+träš : [v.] [trans] throw {Original}
+-> trešör : [n.] one who throws
+-> träšin : [n.] throw
+trös : [v.] [trans] catch {Original}
+-> trösör : [n.] one who catches
+-> trösin : [n.] catch
 
 klöd : [v.] fasten, secure, lock; contain, surround {Latin 'claudo'}
 -> deklöd : [v.] unlock
@@ -2513,5 +2513,6 @@ vinj  : [n.] [archaic] vine {French 'vigne'}
 gan   : [v.] [archaic] can, able to {? English 'can'}
 ovär  : [v.] [archaic] open {French 'ouvrir', English 'open'}
 levit : [v.] [archaic] levitate, hover {French 'léviter', English 'levitate'}
-süs : [v.] [archaic] suck, slurp {French 'suçer'}
+süs   : [v.] [archaic] suck, slurp {French 'suçer'}
+lek   : [v.] [archaic] lick {English 'lick', French 'lécher'}
 škort : [adj.] [archaic] short {French 'court', English 'short'}
