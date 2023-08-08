@@ -253,7 +253,8 @@ i  : [adj.] (the) current, present {Japanese '今'}
 -> iät : [adv.] currently  
 -> isät : [adv.] instead {'i' + 'sät'}
 
-alte : [det.] [n.] [adj.] other  
+alte : [det.] [n.] [adj.] other
+-> alteein : [n.] otherness
 
 aru : [adv.] yet, still; thus far
 
@@ -951,6 +952,12 @@ par : [n.] side {Anc. Greek 'παρά'}
 pär : [n.] part, piece, share, component {Latin 'partem' via English & French 'part'}
 -> apär : [v.] divide, seperate, split
 ----> apärein : [n.] apartness, seperation, division; polarization
+-> pärät : [adv.] partly; partially
+säm : [n.] half [adj.] half of {Latin 'semi-'}
+-> säm(e)- : [prf.] half of, made of halves('semi-')
+-> asäm : [v.] halve, split (in two/into two)
+-> sämät : [adv.] halfly, half
+haaf : [n.] half [adj.] hafly [common] {English 'half'}
 
 gove : [n.] voice, (manner of) speech; spirit {Japanese '声'}
 
@@ -1256,10 +1263,12 @@ fratä : [n.] brother {Latin 'frater'}
 -> fratääs : [adj.] fraternal
 ----> fratääst : [adv.] fraternally
 -> fratäät : [adj.] brotherly
+-> sämfratä : [n.] half-brother
 sorä  : [n.] sister {Latin 'soror'}
 -> sorääs : [adj.] sororal
 ----> sorääs : [adv.] sororally
 -> soräät : [adj.] sisterly
+-> sämsorä : [n.] half-sister
 kin : [n.] child {German 'kinder', English}
 -> kinä : [n.] kid
 -> kinät : [adj.] childish
@@ -2300,11 +2309,11 @@ vist : [adj.] fast, rapid, quick, swift {French 'vite', Italian 'vista'}
 -> avist : [v.] accelerate
 -> vistät : [adv.] rapidly, quickly, swiftly
 ler : [adj.] slow {~ French 'lent'}
--> lerein
+-> lerein : [n.] slowness
 -> aler : [v.] slow
 -> lerät : [adv.] slowly
 
-ukin : [adj.] cute
+ukin : [adj.] cute {? Japanese '好き')
 -> ukinein : [n.] cuteness
 -> ukinät : [adv.] cutely
 
