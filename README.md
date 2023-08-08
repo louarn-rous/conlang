@@ -118,12 +118,12 @@ The above vowels are realized as semiconsonants when preceding or proceeding a d
 
 ### Digraphs
 
-| -   | -    | -   | -    | -   | -    | - |
-|:---:|:----:|:---:|:----:|:---:|:----:|:---:|
-| ⟨kh⟩ | [kʰ] | ⟨kj⟩ | [kʲ] | ⟨nj⟩ | [ɲ]  | Ǌ ǋ ǌ |
-| ⟨gh⟩ | [gʰ] | ⟨gj⟩ | [gʲ] | ⟨lj⟩ | [ʎ]  | Ǉ ǈ ǉ |
-| ⟨ng⟩ | [ŋ]  | ⟨ts⟩ | [t͡s] | ⟨dz⟩ | [d͡z] | Ǳ ǲ ǳ |
-| ⟨ht⟩ | [xt] | ⟨tš⟩ | [t͡ʃ] | ⟨dž⟩ | [d͡ʒ] | Ǆ ǅ ǆ |
+| -   | -    | -   | -    | -   | -    |
+|:---:|:----:|:---:|:----:|:---:|:----:|
+| ⟨kh⟩ | [kʰ] | ⟨kj⟩ | [kʲ] | ⟨nj⟩ | \[ɲ]  |
+| ⟨gh⟩ | [gʰ] | ⟨gj⟩ | [gʲ] | ⟨lj⟩ | \[ʎ]  |
+| ⟨ng⟩ | [ŋ]  | ⟨ts⟩ | [t͡s] | ⟨dz⟩ | \[d͡z] |
+| ⟨ht⟩ | [xt] | ⟨tš⟩ | [t͡ʃ] | ⟨dž⟩ | \[d͡ʒ] |
 
 ### Diphtongs
 
