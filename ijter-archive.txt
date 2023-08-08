@@ -231,8 +231,7 @@ yeah it sucks to idle on a single feature but thats not the same as making revis
 
 `2023-05-16` will probably delete #ijter-media since i rarely translate stuff, all the things i do are saved on my pc, and they can just be posted here
 
-`2023-05-16`
-i tried installing PolyGlot at home but im not sure it even did because i set it up from a .deb file and i can't find it within the d-menu, and afaik no application has been created anywhere
+`2023-05-16` i tried installing PolyGlot at home but im not sure it even did because i set it up from a .deb file and i can't find it within the d-menu, and afaik no application has been created anywhere
 
 `2023-05-16` this might seem radical but i *could* remove è /ɛ/ entirely
 /e/ is already an extremely common vowel, making the difference between the two is not something that most languages do, in the sense that most languages don't have /ɛ/ at all
@@ -244,6 +243,13 @@ i tried installing PolyGlot at home but im not sure it even did because i set it
 `2023-05-23` consonant diagraphs wherein the succeeding letter is v will probably become labialized forms of the preceding consonant, if possible
 ie 'kv' → /kʷ/ and 'gv' → /gʷ/
 for those of you who dont even IPA, yes those are pronounced pretty much like what you think   /   gwa gwa
+
+`2023-05-23` i think that i should use the ending particle 'da' not as an affirmative 'is', 
+wherein for example "blo da" = "[it] is blue"
+but rather as an interrogative marker where "blo da" = "(is it) blue?"
+english has particular cases where verbs are placed at the start of a sentence to mark interrogation, such as 'are you' or 'do you'. french does something similar except with much more broader use, 'est-ce que' being used to mark the following clause as part of a yes/no question, e.g: 'est-ce que tu aimes la soupe' being '(do) you like soup'
+i guess english still uses it pretty flexibly, like "is it" but it would be "is it green" whereas french would have "est-ce que c'est vert" which contains the fragment "c'est vert" meaning "it is green" which does not occur in english since "it green" is malformed
+so french use of "est-ce que <statement>" is a bit better since <statement> by itself is well-formed (and responding to the question with the contained statement makes sense, and affirms a positive answer)
 
 `2023-05-23`
 simple past : -i
