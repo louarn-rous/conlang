@@ -139,6 +139,7 @@ when ⟨si⟩ is the initial syllable in a word, it is realized as \[çi].
 ⟨u⟩ is occasionally realized as \[ʊ].  
 ⟨š⟩ is oft realized as \[ɕ] rather than \[ʃ].  
 ⟨ž⟩ is oft realized as \[ʑ] rather than \[ʒ].
+⟨er⟩ is oft realized as \[ɪɾ].
 
 ## Braille
 
