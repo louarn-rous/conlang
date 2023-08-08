@@ -3,7 +3,7 @@
 === continents & regions ===
 Afrika (Afrikäs)   : Africa (African)
 -> NordAfrika (NordAfrikäs) : North Africa (North African)
--> ÄstAfrika (ÄstAfrikäs) : East Africa (East African)
+-> ÄstAfrika (ÄstAfrikäs)   : East Africa (East African)
 
 Amerika (Amerikäs) : America (American)
 -> NordAmerika (NordAmerikäs)   : North America (North American)
@@ -19,6 +19,7 @@ Amerika (Amerikäs) : America (American)
 Skadinavia (Skadinaväs) : Scandinavia (Scandinavian)
 Baltija (Baltijäs)      : Baltics (Baltic)
 Iberia (Iberiäs)        : Iberia (Iberian)
+Südoslavia (Südoslaväs) : Yugoslavia (Yugoslav) [region]
 Balkan (Balkanäs)       : Balkans (Balkan)
 
 Orient (Orientäs) : Asia (Asian)
@@ -26,18 +27,18 @@ Orient (Orientäs) : Asia (Asian)
 -> ÄstOrient (ÄstOrientäs)     : East Asia (East Asian)
 
 Kaukasos (Kaukasäs) : Caucasus (Caucasian)
-Mahrib (Mahribäs)  : Maghreb (Maghreb)
+Mahrib (Mahribäs)   : Maghreb (Maghreb)
 
 == Countries & Territories ==
 
-Istlant (Islantäs) : Iceland (Icelandic)
-Noreg (Noregäs)    : Norway (Norwegian)
-Svärjä (Svärjäs)   : Sweden (Swedish)
-Tänmak (Tänmäs)    : Denmark (Danish) 
+Istlant (Islantäs)    : Iceland (Icelandic)
+Noreg (Noregäs)       : Norway (Norwegian)
+Svärjä (Svärjäs)      : Sweden (Swedish)
+Tänmak (Tänmäs)       : Denmark (Danish) 
 Krönlant (Krönlantäs) : Greenland (Greenlander, Greenlandic)
-Suomi (Suomäs)     : Finland (Finnish)
-Olant (Olantäs)    : Åland (Ålandic)
-Förjar (Förjaräs)  : Faroes (Faroese)
+Suomi (Suomäs)        : Finland (Finnish)
+Olant (Olantäs)       : Åland (Ålandic)
+Förjar (Förjaräs)     : Faroes (Faroese)
 
 Estia (Estiäs)     : Estonia (Estonian)
 Latvija (Latväs)   : Latvia (Latvian)
@@ -49,24 +50,18 @@ Euskalia (Euskaläs)            : Basque Country (Basque)
 Portugal (Portugäs)            : Portugal (Portugese)
 Žibraltar (Žibraltäs; Lanitäs) : Gibraltar (Gibraltarian)
 
-
-Südoslavia (Südoslaväs) : Yugoslavia (Yugoslav) [region]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Slovänia (Slovänäs)           : Slovenia (Slovene, Slovenian)
+Hervatska (Hervatäs)          : Croatia (Croat, Croatian)
+Bosna e Hertsegovina (Bosnäs) : Bosnia and Herzegovina (Bosnian)
+Serbija (Serbijäs)            : Serbia (Serb, Serbian)
+Vojvodina (Vojvodinäs)        : Vojvodina (Vojvodinan)
+Kosova (Kosoväs)              : Kosovo (Kosovar, Kosovan)
+TsrnaGora (TsrnaGoräs)        : Montenegro (Montenegrin)
+NordMakädonia (Makädonäs)     : North Macedonia (Macedonian)
+Helenia (Helenäs)             : Greece (Greek, Hellenic)
+Škiperia (Škiperäs)           : Albania (Albanian, Albanese)
+Belgarija (Belgarijäs)        : Bulgaria (Bulgar, Bulgarian)
+Rominia (Rominiäs)            : Romania (Romanian)
 
 Doötšlant (Doötšäs)      : Germany (German)
 Helvetia (Helvetäs)      : Switzerland (Swiss)
@@ -91,33 +86,19 @@ Italia (Italäs)          : Italy (Italian)
 Samarein (Samareinäs)    : San Marino (Sammarinese)
 Malta (Maltäs)           : Malta (Maltese)
 
-Slovänia (Slovänäs)           : Slovenia (Slovene, Slovenian)
-Hervatska (Hervatäs)          : Croatia (Croat, Croatian)
-Bosna e Hertsegovina (Bosnäs) : Bosnia and Herzegovina (Bosnian)
-Serbija (Serbijäs)            : Serbia (Serb, Serbian)
-Vojvodina (Vojvodinäs)        : Vojvodina (Vojvodinan)
-Kosova (Kosoväs)              : Kosovo (Kosovar, Kosovan)
-TsrnaGora (TsrnaGoräs)        : Montenegro (Montenegrin)
-NordMakädonia (Makädonäs)     : North Macedonia (Macedonian)
-Helenia (Helenäs)             : Greece (Greek, Hellenic)
-Škiperia (Škiperäs)           : Albania (Albanian, Albanese)
-Belgarija (Belgarijäs)        : Bulgaria (Bulgar, Bulgarian)
-Rominia (Rominiäs)            : Romania (Romanian)
-Moldova (Moldoväs)            : Moldova (Moldovan)
-Ukraina (Ukrainäs)            : Ukraine (Ukrainan)
-Belarus (Belarusäs)           : Belarus (Belarussian)
-Rosija (Rosijäs)              : Russia (Russian) 
+Polska (Polskäs)    : Poland (Polish)
+Moldova (Moldoväs)  : Moldova (Moldovan)
+Ukraina (Ukrainäs)  : Ukraine (Ukrainan)
+Belarus (Belarusäs) : Belarus (Belarussian)
+Rosija (Rosijäs)    : Russia (Russian) 
 
-Britania (Britaniäs)    : Great Britain (British)
--> Britaniäs Ölanten    : British Isles
-Ingelant (Ingeläs) : England (English)
-Kemri (Kemräs)     : Wales (Welsh)
-Albai (Albaiäs)    : Scotland (Scottish, Scot)
-Manin (Maninäs)    : Isle of Man (Manx)
-Erje (Erjäs)       : Ireland (Irish)
-
-
-Polska (Polskäs)         : Poland (Polish)
+Britania (Britaniäs) : Great Britain (British)
+-> Britaniäs Ölanten : British Isles
+Ingelant (Ingeläs)   : England (English)
+Kemri (Kemräs)       : Wales (Welsh)
+Albai (Albaiäs)      : Scotland (Scottish, Scot)
+Manin (Maninäs)      : Isle of Man (Manx)
+Erje (Erjäs)         : Ireland (Irish)
 
 Sakartvälo (Sakartväläs)    : Georgia (Georgian)
 Armenia (Armeniäs)          : Armenia (Armenian)
@@ -172,7 +153,8 @@ Kebäk (Kebäkäs)  : Quebec (Québécois)
 -> ÜSAmerika (ÜSAmerikäs) : USAmerica (USAmerican)
 Mehiko (Mehikäs) : Mexico (Mexican)
 
-Nov Zeelant (Nov Zeelantäs) : New Zealand (New Zealander)
+NovZeelant (NovZeelantäs) : New Zealand (New Zealander)
+Austeralia (Austeraliäs)    : Australia (Australian)
 
 Guatemala (Guatemaläs)  : Guatemala (Guatemalan)
 Beliiz (Beliizäs)       : Belize (Belizean)
@@ -205,10 +187,13 @@ Singapur (Singapuräs)  : Singapore (Singaporean)
 
 Mongožia (Mongožiäs)   : Mongolia (Mongol, Mongolian)
 Sine (Sinäs)           : China (Chinese)
+Tajuan (Tajuanäs)      : Taiwan (Taiwanese)
 Tšosen (Tšosenäs)      : Korea (Korean) {Korean '조선'}
 -> NordTšosen (NordTšosenäs) : North Korea (North Korean)
--> Süd'Tšosen (SüdTšosenäs) : South Korea (South Korean)
+-> SüdTšosen (SüdTšosenäs)   : South Korea (South Korean)
 Yamate (Yamatäs)       : Japanese (Japanese)
+HänGong (HänGongäs)    : Hong Kong (Hong Konger, Hong Kongese)
+Oumon (Oumonäs)        : Macau (Macau)
 
 === first names ===
 Alin : 
