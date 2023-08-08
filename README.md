@@ -135,7 +135,7 @@ The above vowels are realized as semiconsonants when preceding or proceeding a d
 ### Phonemics
 
 when ⟨si⟩ is the initial syllable in a word, it is realized as \[çi].  
-when ⟨u⟩ terminates a word, it is oft realized as \[ɯ].  
+⟨u⟩ is oft realized as \[ɯ], especially when it terminates a word.  
 ⟨u⟩ is occasionally realized as \[ʊ].  
 ⟨š⟩ is oft realized as \[ɕ] rather than \[ʃ].  
 ⟨ž⟩ is oft realized as \[ʑ] rather than \[ʒ].
