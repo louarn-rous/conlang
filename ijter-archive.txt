@@ -38,6 +38,9 @@ because yes, aesthetics is important when considering alphabet
 i think more of the examples of /ø/ on wikipedia use ö compared to ø
 the `o ö` pair would also go nicely with `é è`
 
+`2023-03-06`
+since im feeling theres strong meaningful difference between obj & subj case for 1st person, im gonna assign `Iž` as temporary subject 'I'
+
 `2023/03/07` in a couple cases im conflicted between roman and latin roots
 for example, idk if 'god' should be 'Got' or 'Dös'/'Döš'
 
@@ -180,6 +183,14 @@ i could allow combining indef/def det. with a personal det. to indicate that the
 - 'tönén *colleague*' → 'a *colleague* of yours'
 honestly i have no goddamn clue if this even exists in any language, even any constructed one
 
+`2023-04-21`
+тестинг
+ЈАААААА
+:333
+ок
+fucl\
+/purge 5
+
 `2023/04/23` official localized english name of the language is 'ijter' btw, i'm not gonna do like turkey and force people to call it 'ižtér'
 
 `27-04-2023`
@@ -243,6 +254,12 @@ yeah it sucks to idle on a single feature but thats not the same as making revis
 `2023-05-23` consonant diagraphs wherein the succeeding letter is v will probably become labialized forms of the preceding consonant, if possible
 ie 'kv' → /kʷ/ and 'gv' → /gʷ/
 for those of you who dont even IPA, yes those are pronounced pretty much like what you think   /   gwa gwa
+
+`2023-05-23`
+solution to the 'give birth'/'be born' problem is to make distinction between active and passive in verb conjugation
+will definitely do by the use of affixes, i'd usually go with a change of suffix but i could do prefix as well
+ive been thinking of having a- as an adjective → verb prefix, similar to how french does it 
+e.g: "arrondir" which means "to make round" : __a__(r)rond [rond = circle] -ir
 
 `2023-05-23` i think that i should use the ending particle 'da' not as an affirmative 'is', 
 wherein for example "blo da" = "[it] is blue"
