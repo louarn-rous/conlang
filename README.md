@@ -15,7 +15,7 @@ b. [Vowels](#Vowels)
 
 ## Phonology
 
-| ###Consonants       | Labial  | Alveolar  | Postalveolar | Palatal | Velar | Glottal |
+| ### Consonants       | Labial  | Alveolar  | Postalveolar | Palatal | Velar | Glottal |
 |:---------------- |:-------:|:---------:|:---------:|:---: |:-------:|:---:|
 | Nasal            | /m/     | /n/       |           |       |         |       |
 | Plosive          | /p/ /b/ | /t/ /d/   |           |       | /k/ /ɡ/ |       |
@@ -28,7 +28,7 @@ if ⟨h⟩ is the onset of a word's first syllable, it is /h/.
 else if it follows a plosive, it causes that plosive to be aspirated.  
 else if it precedes a plosive, it is rendered as /x/.
 
-| ###Vowels    | Front   | Back |
+| ### Vowels    | Front   | Back |
 |:--------- |:-------:|:----:|
 | Close     | /i/ /y/ | /u/  |
 | Close-mid | /e/ /ø/ | /o/  |
