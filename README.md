@@ -4,16 +4,18 @@ Ižter (localized in English as 'Ijter') is a constructed language with no speci
 It is synthetic, fusional and mildly inflected. It utilises SVO (Subject-Verb-Object) word order.
 
 1. [Phonology](#Phonology)
-2. [Alphabet](#Alphabet)
-3. [Verbs](#Verbs)
-4. [Pronouns](#Pronouns)
-5. [Phonotactics](#Phonotactics)
-6. [Braille](#Braille)
-7. [Morse](#Morse)
+   a. [Consonants](#Consonants)
+   b. [Vowels](#Vowels)
+3. [Alphabet](#Alphabet)
+4. [Verbs](#Verbs)
+5. [Pronouns](#Pronouns)
+6. [Phonotactics](#Phonotactics)
+7. [Braille](#Braille)
+8. [Morse](#Morse)
 
 ## Phonology
 
-| Consonants       | Labial  | Alveolar  | Postalveolar | Palatal | Velar | Glottal |
+| ###Consonants       | Labial  | Alveolar  | Postalveolar | Palatal | Velar | Glottal |
 |:---------------- |:-------:|:---------:|:---------:|:---: |:-------:|:---:|
 | Nasal            | /m/     | /n/       |           |       |         |       |
 | Plosive          | /p/ /b/ | /t/ /d/   |           |       | /k/ /ɡ/ |       |
@@ -22,12 +24,19 @@ It is synthetic, fusional and mildly inflected. It utilises SVO (Subject-Verb-Ob
 | Tap/Flap         |         | /ɾ/       |           |       |         |       |
 | Lat. Approximant |         | /l/       |           |       |         |       |
 
-| Vowels    | Front   | Back |
+if ⟨h⟩ is the onset of a word's first syllable, it is /h/.  
+else if it follows a plosive, it causes that plosive to be aspirated.  
+else if it precedes a plosive, it is rendered as /x/.
+
+| ###Vowels    | Front   | Back |
 |:--------- |:-------:|:----:|
 | Close     | /i/ /y/ | /u/  |
 | Close-mid | /e/ /ø/ | /o/  |
 | Open-mid  | /ɛ/     |      |
-| Open      | /a/     |      |
+| Open      | /a/     |      |  
+
+⟨u⟩ is oft realized as \[ɯ], especially if it is the nucleus of a null-coda syllable.  
+⟨u⟩ is occasionally realized as \[ʊ].  
  
 ## Alphabet
 The Ijter language has two scripts/alphabet: one Latin and one Cyrillic (similar to Serbian)
@@ -118,12 +127,12 @@ The above vowels are realized as semiconsonants when preceding or proceeding a d
 
 ### Digraphs
 
-| -   | -    | -   | -    | -   | -    |
-|:---:|:----:|:---:|:----:|:---:|:----:|
-| ⟨kh⟩ | [kʰ] | ⟨kj⟩ | [kʲ] | ⟨nj⟩ | \[ɲ]  |
-| ⟨gh⟩ | [gʰ] | ⟨gj⟩ | [gʲ] | ⟨lj⟩ | \[ʎ]  |
-| ⟨ng⟩ | [ŋ]  | ⟨ts⟩ | [t͡s] | ⟨dz⟩ | \[d͡z] |
-| ⟨ht⟩ | [xt] | ⟨tš⟩ | [t͡ʃ] | ⟨dž⟩ | \[d͡ʒ] |
+| -   | -    | -   | -    | -   | -    | - | -| 
+|:---:|:----:|:---:|:----:|:---:|:----:|:-:|:-:|
+| ⟨kh⟩ | \[kʰ] | ⟨kj⟩ | \[kʲ] | ⟨nj⟩ | \[ɲ]  | ⟨šh⟩ | \[ɕ] |
+| ⟨gh⟩ | \[gʰ] | ⟨gj⟩ | \[gʲ] | ⟨lj⟩ | \[ʎ]  | - | \[ʑ] |
+| ⟨ng⟩ | \[ŋ]  | ⟨ts⟩ | \[t͡s] | ⟨dz⟩ | \[d͡z] | - | - |
+| ⟨ht⟩ | \[xt] | ⟨tš⟩ | \[t͡ʃ] | ⟨dž⟩ | \[d͡ʒ] | - | - |
 
 ### Diphtongs
 
@@ -134,11 +143,10 @@ The above vowels are realized as semiconsonants when preceding or proceeding a d
 
 ### Phonemics
 
-when ⟨si⟩ is the initial syllable in a word, it is realized as \[çi].  
-⟨u⟩ is oft realized as \[ɯ], especially when it terminates a word.  
-⟨u⟩ is occasionally realized as \[ʊ].  
-⟨š⟩ is oft realized as \[ɕ] rather than \[ʃ].  
-⟨ž⟩ is oft realized as \[ʑ] rather than \[ʒ].  
+
+
+if ⟨si⟩ is the body of a first syllable, it is realized as \[çi].  
+
 ⟨er⟩ is oft realized as \[ɪɾ].  
 
 Syllable structure is (C)(C)V(C)(C).
