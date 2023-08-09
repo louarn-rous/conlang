@@ -149,10 +149,10 @@ Ijter braille is inspired by the French, English, Czech and Scandinavian braille
 
 | 1  | 2  | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 0 |
 | -  | -  | - | - | - | - | - | - | - | - |
-| Aa ⠁ | Bb ⠃ |      | Dd ⠙ | Ee ⠑ | Ff ⠋ | Gg ⠛ | Hh ⠓ | Ii ⠊ | Jj ⠚ |
+| Aa ⠁ | Bb ⠃ | Cc ⠉ | Dd ⠙ | Ee ⠑ | Ff ⠋ | Gg ⠛ | Hh ⠓ | Ii ⠊ | Jj ⠚ |
 | Kk ⠅ | Ll ⠇ | Mm ⠍ | Nn ⠝ | Oo ⠕ | Pp ⠏ |      | Rr ⠗ | Ss ⠎ | Tt ⠞ |
 | Uu ⠥ | Vv ⠧ |      | Üü ⠽ | Zz ⠵ |       |      |      | Žž ⠮ |      |
-|      | Ää ⠣ |      |       | Šš ⠱ |      |      |       | Öö ⠪ |      |
+|      | Ää ⠣ | Čč ⠩ |       | Šš ⠱ |      |      |       | Öö ⠪ |      |
 
 | Punc. | Br. | Punc. | Br. |
 |:-:    |:-:  |:-:    |:-:  |
