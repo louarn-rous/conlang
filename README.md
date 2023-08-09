@@ -14,11 +14,11 @@ It is synthetic, fusional and mildly inflected. It utilises SVO (Subject-Verb-Ob
 ## Phonology
 
 | Consonants       | Labial  | Alveolar  | Postalveolar | Palatal | Velar | Glottal |
-|:---------------- |:-------:|:---------:|:---------:|:---:|:-------:|:---:|
+|:---------------- |:-------:|:---------:|:---------:|:---: |:-------:|:---:|
 | Nasal            | /m/     | /n/       |           |       |         |       |
 | Plosive          | /p/ /b/ | /t/ /d/   |           |       | /k/ /ɡ/ |       |
 | Affricate        |         | /ts/ /dz/ | /tʃ/ /dʒ/ |       |         |       |
-| Fricative        | /f/ /v/ | /s/ /z/   | /ʃ/ /ʒ/   | /ʝ~j/ |         | /h~x/ |
+| Fricative        | /f/ /v/ | /s/ /z/   | /ʃ/ /ʒ/   | /ʝ~j/ | /x/     | /h/   |
 | Tap/Flap         |         | /ɾ/       |           |       |         |       |
 | Lat. Approximant |         | /l/       |           |       |         |       |
 
