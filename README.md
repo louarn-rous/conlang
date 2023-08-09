@@ -97,8 +97,8 @@ A unique feature of Ijter is the possibility of combining a personal pronoun wit
 
 When a fricative is followed by a plosive, or vice versa, the latter preserves the rounded/unroundedness of the other.
 
-| t/d | p/b | k/g |
-| - | - | - |
+| t/d      | p/b      | k/g      |
+| -        | -        | -        |
 | ⟨tz⟩ → ts | ⟨pz⟩ → ps | ⟨kz⟩ → ks |
 | ⟨tž⟩ → tš | ⟨pž⟩ → pš | ⟨kž⟩ → kš |
 | ⟨ds⟩ → dz | ⟨bs⟩ → bz | ⟨gs⟩ → gz |
@@ -107,21 +107,21 @@ When a fricative is followed by a plosive, or vice versa, the latter preserves t
 | ⟨šd⟩ → št | ⟨šb⟩ → šp | ⟨šg⟩ → šk |
 | ⟨zt⟩ → zd | ⟨zp⟩ → zb | ⟨zk⟩ → zg |
 | ⟨žt⟩ → žd | ⟨žp⟩ → žb | ⟨žk⟩ → žg |
-| - | - | - |
+| -        | -        | -        |
 | ⟨fd⟩ → ft | ⟨fb⟩ → fp | ⟨fg⟩ → fk |
 | ⟨vt⟩ → vd | ⟨vp⟩ → vb | ⟨vk⟩ → vg | 
 
 this is the same with two fricatives:
 
-| s/z | š/ž |
-| - | - |
+| s/z      | š/ž      |
+| -        | -        |
 | ⟨sv⟩ → sf | ⟨šv⟩ → šf |
 | ⟨zf⟩ → zv | ⟨žf⟩ → žv |
 
 ### Semivowels
 
 | Letter | Vowel | Semivowel |
-|:-:|:-:|:-:|
+|:-: |:-:  |:-:   |
 | ⟨i⟩ | /i/ | \[j] |
 | ⟨u⟩ | /u/ | \[w] |
 | ⟨ü⟩ | /y/ | \[ɥ] |
@@ -130,19 +130,19 @@ The above vowels are realized as semiconsonants when preceding or proceeding a d
 
 ### Digraphs
 
-| -   | -    | -   | -    | -   | -    | - | -| 
-|:---:|:----:|:---:|:----:|:---:|:----:|:-:|:-:|
+| -   | -     | -   | -     | -   | -     | -   | -    | 
+|:---:|:----: |:---:|:----: |:---:|:----: |:---:|:---: |
 | ⟨kh⟩ | \[kʰ] | ⟨kj⟩ | \[kʲ] | ⟨nj⟩ | \[ɲ]  | ⟨šh⟩ | \[ɕ] |
-| ⟨gh⟩ | \[gʰ] | ⟨gj⟩ | \[gʲ] | ⟨lj⟩ | \[ʎ]  | - | \[ʑ] |
-| ⟨ng⟩ | \[ŋ]  | ⟨ts⟩ | \[t͡s] | ⟨dz⟩ | \[d͡z] | - | - |
-| ⟨ht⟩ | \[xt] | ⟨tš⟩ | \[t͡ʃ] | ⟨dž⟩ | \[d͡ʒ] | - | - |
+| ⟨gh⟩ | \[gʰ] | ⟨gj⟩ | \[gʲ] | ⟨lj⟩ | \[ʎ]  | ⟨žh⟩ | \[ʑ] |
+| ⟨ng⟩ | \[ŋ]  | ⟨ts⟩ | \[t͡s] | ⟨dz⟩ | \[d͡z] | -   | -    |
+| ⟨ht⟩ | \[xt] | ⟨tš⟩ | \[t͡ʃ] | ⟨dž⟩ | \[d͡ʒ] | -   | -    |
 
 ### Diphtongs
 
 |Group|Diphtong|
 |:---:|:-----: |
-| ⟨ae⟩ | \[ɐe̞] |
-| ⟨ea⟩ | \[e̞ɐ] |
+| ⟨ae⟩ | \[ɐe̞]  |
+| ⟨ea⟩ | \[e̞ɐ]  |
 
 ### Phonemics
 
