@@ -16,7 +16,7 @@ b. [Vowels](#Vowels)
 ## Phonology
 
 ### Consonants
-|                  | Labial  | Alveolar  | Postalveolar | Palatal | Velar | Glottal |
+| -                | Labial  | Alveolar  | Postalveolar | Palatal | Velar | Glottal |
 |:---------------- |:-------:|:---------:|:---------:|:---: |:-------:|:---:|
 | Nasal            | /m/     | /n/       |           |       |         |       |
 | Plosive          | /p/ /b/ | /t/ /d/   |           |       | /k/ /ɡ/ |       |
@@ -30,7 +30,7 @@ else if it follows a plosive, it causes that plosive to be aspirated.
 else if it precedes a plosive, it is rendered as /x/.
 
 ### Vowels 
-|           | Front   | Back |
+| -         | Front   | Back |
 |:--------- |:-------:|:----:|
 | Close     | /i/ /y/ | /u/  |
 | Close-mid | /e/ /ø/ | /o/  |
@@ -41,7 +41,7 @@ else if it precedes a plosive, it is rendered as /x/.
 ⟨u⟩ is occasionally realized as \[ʊ].  
  
 ## Alphabet
-The Ijter language has two scripts/alphabet: one Latin and one Cyrillic (similar to Serbian)
+The Ijter language employs both a Latin and a Cyrillic script.
 
 | IPA | English               |Lat.|Cyr.|Name| IPA | English                 |Lat.|Cyr.|Name|
 |:---:|:---                   |:-: |:-: |:-: |:---:|:---                     |:-: |:-: |:-: |
@@ -61,7 +61,8 @@ The Ijter language has two scripts/alphabet: one Latin and one Cyrillic (similar
 
 ## Verbs
 
-Conjugation functions by appending an ending to the stem of the verb.
+Verbs are conjugated by appending the desired tense's suffixal to the verb's stem.  
+When the action of the verb is described as a potential without being in a specific time (almost always when the verb precedes another, which IS conjugated).
 
 | Voice   | Active | Active | Passive | Passive |
 | :---:   |:-----: | :----: | :----:  | :----:  |
