@@ -40,21 +40,21 @@ im : [prep.] in (contained by, within the bounds of, part of, into) {German}
 -> imir : [v.] enter  
 -> imira : [n.] entry, input  
 -> imklöd : [v.] include  
--> imvär : [adj.] inwards  
+-> imvär : [adj.] inwards ('in-')
 ----> imvärt : [adj.] inwards  
+-> imtroke : [n.] interior
 ust : [prep.] out (outside of, away from, not in) {French 'ouste'}  
 -> ustir : [v.] exit  
-----> ustirin : [n.] exit, escape, getaway  
+----> ustirin : [n.] exit, leave; escape, getaway  
 ----> austir : [v.] expel, oust, drive away, kick out  
 -> ustira : [n.] exit, output  
 -> usklöd : [v.] exclude  
 -> ustvär : [adj.] outwards  
 ----> ustvärt : [adv.] outwards
--> ust- : [prf.] outwards ('-out')
-
--> ustäs? : [adj.] external @@  
-----> ustäsät? : [adv.] externally @@  
--> ???   : [n.] exterior @@
+-> ust- : [prf.] outwards ('out-')
+-> ustäs? : [adj.] outer, external
+----> ustäsät? : [adv.] externally 
+-> usttroke : [n.] exterior
 
 a    : [prep.] at {French 'à'}  
 u    : [prep.] at, in, near, by {Russian 'у'}  
@@ -520,13 +520,14 @@ bier      : [n.] beer {French 'bière'}
 šister    : [n.] cider {Breton 'chistr'}
 glutän    : [n.] gluten
 jogurt    : [n.] yogurt
-läi       : [n.] yeast; leavening agent (Estonian 'leib', French 'levure')
 bär : [n.] berry {French 'baie', English 'berry'}
 -> norbär : [n.] blackberry
 -> blobär : [n.] blueberry
 -> rozbär : [n.] raspberry
 -> rodbär : [n.] cranberry
 brot      : [n.] bread {German}
+nis       : [n.] wheat {Estonian 'nisu'}
+läi       : [n.] yeast; leavening agent (Estonian 'leib', French 'levure')
 
 === plants & trees ===
 arb     : [n.] tree {French 'arbre'}
@@ -1639,6 +1640,9 @@ od  : [v.] hear, feel, sense
 ----> odäst : [adv.] sensorially
 -> odör : [n.] sensor
 -> odin : [n.] feel, sense
+sänt : [v.] [trans] sense, smell [intrans] smell of {Latin 'sentio' via French 'sentir'}
+-> säntin : [n.] smell, scent
+-> säntäs : [n.] sensory
 
 vedir : [v.] lead, guide {Serbo-Croatian 'водити', Latin 'dirigo' via French 'diriger' & Spanish 'dirigir'}
 -> vedirör : [n.] guide, leader
@@ -2089,6 +2093,10 @@ sträd : [v.] struggle {Frisian 'striid', Swedish 'strida'}
 limit : [v.] [trans] limit {French 'limite', English}
 -> limitör : [n.] device that limits
 -> limitin : [n.] limit
+
+punit : [v.] punish {Latin 'punio' via English 'punish' & French 'punir'}
+-> punitina : [n.] punishment
+-> punitäs : [adj.] punitive
 
 list : {French 'liste', English}
 -- [v.] list
