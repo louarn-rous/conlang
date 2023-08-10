@@ -38,7 +38,7 @@ else if it precedes a plosive, it is rendered as /x/.
 | Open      | /a/     |      |  
 
 ⟨u⟩ is oft realized as \[ɯ], especially if it is the nucleus of a null-coda syllable.  
-⟨u⟩ is occasionally realized as \[ʊ].  
+⟨u⟩ is occasionally realized as \[ʊ], especially after another vowel.  
  
 ## Alphabet
 The Ijter language employs both a Latin and a Cyrillic script.
