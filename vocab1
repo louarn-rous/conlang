@@ -21,7 +21,7 @@ netä : [det.] any, either
 -> tošnetä : [det.] whatever, anything {'toš' + 'netä')  
 -> nölletä : [det.] neither  
 -> netäa : [adv.] anywhere
-ait : [det.] each
+ait : [det.] each, every
 -> artu : [det.] all
 
 === prepositions ===
@@ -221,6 +221,9 @@ uäst : {French 'ouest', English 'west'}
 
 === adverbs ===
 me   : [adv.] [det.] much, many  
+-> meruz : [adj.] abundant, plentiful, rich
+----> meruzät : [adv.] abundantly
+-> amefär : [adj.] fertile
 mer  : [adv.] comparative ('more') {Dutch 'meer'}  
 mest : [adv.] superlative ('most') {Dutch 'meest'}  
 -> mestäs : [adj.] maximal  
@@ -518,7 +521,6 @@ akal      : [n.] alcohol {Arabic 'أَكْحَال' via English 'alcohol' & Fren
 vodka     : [n.] vodka {Russian 'водка' via French, English 'vodka'}
 bier      : [n.] beer {French 'bière'}
 šister    : [n.] cider {Breton 'chistr'}
-glutän    : [n.] gluten
 jogurt    : [n.] yogurt
 bär : [n.] berry {French 'baie', English 'berry'}
 -> norbär : [n.] blackberry
@@ -528,6 +530,8 @@ bär : [n.] berry {French 'baie', English 'berry'}
 brot      : [n.] bread {German}
 nis       : [n.] wheat {Estonian 'nisu'}
 läi       : [n.] yeast; leavening agent (Estonian 'leib', French 'levure')
+glutän    : [n.] gluten
+
 
 === plants & trees ===
 arb     : [n.] tree {French 'arbre'}
@@ -965,6 +969,9 @@ haaf : [n.] half [adj.] hafly [common] {English 'half'}
 
 gove : [n.] voice, (manner of) speech; spirit {Japanese '声'}
 
+yukos : [n.] monster {Original}
+bäst : [n.] beast, creature {French 'bête', English 'beast'}
+
 nam : [n.] name 
 -> namäs : [adj.] nominal
 ----> namäst : [adv.] nominally
@@ -1257,11 +1264,18 @@ sar : [n.] woman {Original}
 ----> sarätät : [adv.] femininely
 ----> sarätein : [n.] womanhood, femininity
 daam : [n.] lady {Estonian, French 'dame', German 'Dame'}
-paträ : [n.] father {Latin 'pater'}
+-> daamä : [n.] aunt
+----> obedaamä : [n.] great-aunt
+sont : [n.] gentleman {Afrikaans 'oom', Japanese '叔父', Estonian 'onu'}
+-> sontä : [n.] uncle
+----> obesontä : [n.] great-uncle
+paträ : [n.] father (dad) {Latin 'pater'}
+-> obepaträ : [n.] grandfather
 -> paträäs : [adj.] paternal
 ----> paträäst : [adv.] paternally
 -> paträät : [adj.] fatherly
-matä  : [n.] mother {Latin 'mater'}
+matä  : [n.] mother (mum, mom) {Latin 'mater'}
+-> obematä : [n.] grandmother
 -> matääs : [adj.] maternal
 ----> matääst : [adv.] maternally
 -> matäät : [adj.] motherly
@@ -1279,14 +1293,19 @@ kin : [n.] child {German 'kinder', English}
 -> kinä : [n.] kid
 -> kinät : [adj.] childish
 ----> kinätät : [adv.] childishly
+-> usekin : [n.] grandchild
 poj   : [n.] boy {Swedish 'pojke', Finnish 'poika'}
 -> pojä : [n.] son
+----> uspojä : [n.] grandson
 -> pojät : [adj.] boyish
 ----> pojätät : [adv.] boyishly
 fal   : [n.] girl {Latin 'filia'}
 -> falä : [n.] daughter
+----> usfalä : [n.] granddaughter
 -> falät : [adj.] girly
 ----> falätät : [adv.] girlishly
+ussor : [n.] cousin {'uz' + 'sorä'}
+usmat : [n.] sibling {'uz' + 'matä'}
 
 fränd : [n.] friend {English 'friend', German 'Freund'}
 -> frändein : [n.] friendship
@@ -2466,6 +2485,9 @@ ful : [adj.] full
 -> aful : [v.] fill
 -> fulein : [n.] fullness, fill
 -> fulät : [adv.] fully
+-> fulmät : [v.] fulfill, satisfy
+----> fulmätein : [n.] (state of) fulfillment, satisfaction
+----> fulmätina : [n.] fulfillment, satisfaction
 vid : [adj.] empty {French 'vide'}
 -> avid : [v.] empty
 -> videin : [n.] emptiness, void
@@ -2542,6 +2564,9 @@ levit : [v.] [archaic] levitate, hover {French 'léviter', English 'levitate'}
 süs   : [v.] [archaic] suck, slurp {French 'suçer'}
 lek   : [v.] [archaic] lick {English 'lick', French 'lécher'}
 škort : [adj.] [archaic] short {French 'court', English 'short'}
+sipaträ : [n.] [archaic] uncle
+-> obesipaträ : [n.] [archaic] great-uncle
 
 dö  : [prep.] [dated] ablative, genitive ('from', 'of', authorship) {French 'de'}  
+
 
