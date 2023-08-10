@@ -2018,10 +2018,9 @@ dants : {German 'tanz', English 'dance'}
 ----> dantsör : [n.] dancer
 -- [n.] dance
 
-bras : {French 'brasser'}
--- [v.] ferment, brew 
+bras : [v.] ferment, brew {French 'brasser'}
 -> brasör : [n.] machine or person who prepares mixtures
--- [n.] concoction, mixture, brew
+-> brasin : [n.] concoction, mixture, brew
 
 ras : [v.] shear, shave; raze {French 'raser'}
 
@@ -2041,10 +2040,9 @@ furn : [v.] bake, cook; roast {French 'four', English 'furnace'}
 kal  : [v.] fit, match, correspond {French 'caler'}
 -> kalin : [n.] match @@
 
-mäl : {French 'mêler'}
--- [v.] mix, combine, blend, tangle, fuse
-----> mälör : [n.] mixer, blender or other apparatus for blending
--- [n.] mixture, combination, blend
+mäl : [v.] mix, combine, blend, tangle, fuse {French 'mêler'}
+-> mälör : [n.] mixer, blender or other apparatus for blending
+-> mälin : [n.] mixture, combination, blend
 
 trem : [v.] shake, tremble, wobble {French 'trembler', Croatian 'tresti'}
 -> tremin : [n.] trembling
