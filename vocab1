@@ -171,7 +171,7 @@ räšt : [n.] right {German 'Rechts'}
 -> räštest : [adj.] rightmost  
 -> räštvär : [adj.] rightwards  
 ----> räštvärt : [adv.] rightwards  
-drän  : [n.] front {French 'face'}  
+drän  : [n.] front
 -> dränvär : [adj.] frontwards; forwards  
 ----> dränvärt : [adv.] frontwards; forwards  
 -> dränpar : [n.] frontside  
@@ -458,6 +458,8 @@ päsk   : [n.] fish {Breton 'pesk'}
 -> päsktemätör : [n.] fishmonger
 -> päskäs : [adj.] piscine
 -> rodpäsk : [n.] goldfish {'rod' + }
+arän : [n.] spider {Latin 'aranea' + via French 'araignée'}
+-> aränäs : [adj.] Arachnid
 
 === crops, food, drink ===
 karot : [n.] carrot {French 'carrote'}
@@ -1214,6 +1216,7 @@ minüt : [n.] minute {French, English 'minute'}
 uur   : [n.] hour {German 'Uhr'}
 -> uuräs : [adj.] hourly
 -> mitäl uur : [n.] noon {'mitäl' + }
+-> uurdrän : [n.] watch, clock, timepiece {+ 'drän'}
 mäns  : [n.] month {Latin 'mensis' via French 'mensuel'}
 -> mänsäs : [adj.] mensual, monthly
 ----> mänsäst : [adv.] mensually
@@ -1331,6 +1334,7 @@ korb : [n.] basket {French 'corbeille}
 not : [n.] brief record, usually written; score, mark or grade; [f:music] note
 mod : [n.] style, fashion, way, manner {French 'mode'}
 -> -mod : [suf.] used to form verbs from nouns, with the sence of playing the role of, or being the suffixed word
+sajl : [n.] bucket, pail {Breton 'sailh'}
 
 lite : [n.] letter {Latin 'littera'}
 -> aliter : [v.] spell; alliterate
@@ -2512,6 +2516,8 @@ sübas : [n.] [archaic] wing {Japanese '翼'}
 aur   : [n.] [archaic] ear {Latin 'auris'}
 klen  : [n.] [archaic] bend, incline {Latin 'clino'}
 zdal  : [n.] [archaic] slab {French 'dalle'}
+fas   : [n.] [archaic] front {French 'face'} 
+dos   : [n.] [archaic] back {French}
 hart  : [n.] [archaic] core, centre {Afrikaans}
 busk  : [n.] [archaic] bush {English 'bush', ? German 'Busch', ? Finnish 'puska'}
 viv   : [n.] [archaic] life [v.] live [adj.] alive {Spanish 'vida', French 'vivre'}
