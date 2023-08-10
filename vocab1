@@ -25,8 +25,8 @@ ait : [det.] each
 -> artu : [det.] all
 
 === prepositions ===
-dö  : [prep.] ablative, genitive ('from', 'of', authorship) {French 'de'}  
-öd  : [prep.] allative ('to', 'for')  
+us  : [prep.] ablative, genitive ('from', 'of', authorship)  
+öd  : [prep.] allative, benefactive ('to', 'for')  
 -> öduz : [adv.] together  
 -> öde : [prep.] benefactive ('for', 'in favour/support/the objective of', 'so that')  
 -> ödvär : [adj.] towards  
@@ -2533,3 +2533,6 @@ levit : [v.] [archaic] levitate, hover {French 'léviter', English 'levitate'}
 süs   : [v.] [archaic] suck, slurp {French 'suçer'}
 lek   : [v.] [archaic] lick {English 'lick', French 'lécher'}
 škort : [adj.] [archaic] short {French 'court', English 'short'}
+
+dö  : [prep.] [dated] ablative, genitive ('from', 'of', authorship) {French 'de'}  
+
