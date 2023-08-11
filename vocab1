@@ -463,6 +463,8 @@ päsk   : [n.] fish {Breton 'pesk'}
 -> rodpäsk : [n.] goldfish {'rod' + }
 arän : [n.] spider {Latin 'aranea' + via French 'araignée'}
 -> aränäs : [adj.] Arachnid
+lusi : [n.] slug {~ French 'limace'}
+skurne : [n.] snail {~ French 'escargot'}
 
 === crops, food, drink ===
 karot : [n.] carrot {French 'carrote'}
@@ -948,6 +950,7 @@ troke : [n.] location, place {Japanese '所'}
 
 skär : [n.] lane, track, channel
 
+
 liäs    : [n.] link {? French 'lier'}
 -> aliäs : [v.] link, bind, connect
 ----> aliäsina : [n.] connection
@@ -1307,6 +1310,9 @@ fal   : [n.] girl {Latin 'filia'}
 ----> falätät : [adv.] girlishly
 ussor : [n.] cousin {'uz' + 'sorä'}
 usmat : [n.] sibling {'uz' + 'matä'}
+
+###
+ut : [v.] sing {Japanese '歌'}
 
 fränd : [n.] friend {English 'friend', German 'Freund'}
 -> frändein : [n.] friendship
