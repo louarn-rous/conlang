@@ -785,6 +785,8 @@ fus : [n.] foot {German 'Fuß'}
 -> fusäs : [adj.] pedal
 kint : [n.] cheek {Swedish}
 -> kintäs : [adj.] buccal
+hepas : [n.] liver {Latin 'hepaticus'}
+-> hepasäs : [adj.] hepatic
  
 === technology ===
 disk  : [n.] disk, disc, record, CD, CD-ROM {French 'disque', English 'disc'/'disk'}
@@ -1679,6 +1681,7 @@ od  : [v.] hear, feel, sense
 sänt : [v.] [trans] sense, smell [intrans] smell of {Latin 'sentio' via French 'sentir'}
 -> säntin : [n.] smell, scent
 -> säntäs : [n.] sensory
+paskäl : [v.] notice, spot, remark
 
 vedir : [v.] lead, guide {Serbo-Croatian 'водити', Latin 'dirigo' via French 'diriger' & Spanish 'dirigir'}
 -> vedirör : [n.] guide, leader
