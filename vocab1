@@ -382,6 +382,7 @@ rus   : [m.] reddish-brown {French 'rousse'}
 brin : [n.] cow {Breton 'brini'}
 -> brinäs : [adj.] bovine
 -> brinu  : [n.] calf
+-> gebrin : [n. unc.] cattle
 pors   : [n.] pig {Latin 'Porcus' via French 'porc'}
 -> porsäs : [adj.] porcine
 -> porsu  : [n.] piglet
@@ -443,7 +444,8 @@ oris   : [n.] bird {Anc. Greek 'ὄρνις'}
 alar   : [n.] swan {Breton "alarc'h"}
 -> alaräs : [adj.] cygnine
 otrüš  : [n.] ostrich {French 'otruche'}
-pol    : [n.] chicken {Spanish 'pollo'}\
+pol    : [n.] chicken {Spanish 'pollo'}
+-> polu : [n.] chick
 -> gepol : [n.] poultry
 gal    : [n.] rooster, hen {Latin 'gallus'}
 -> galäs : [adj.] gallinaceous
@@ -527,11 +529,12 @@ vodka     : [n.] vodka {Russian 'водка' via French, English 'vodka'}
 bier      : [n.] beer {French 'bière'}
 šister    : [n.] cider {Breton 'chistr'}
 jogurt    : [n.] yogurt
-bär : [n.] berry {French 'baie', English 'berry'}
+bär       : [n.] berry {French 'baie', English 'berry'}
 -> norbär : [n.] blackberry
 -> blobär : [n.] blueberry
+-> rodbär : [n.] raspberry
+-> rusbär : [n.] cranberry
 -> rozbär : [n.] raspberry
--> rodbär : [n.] cranberry
 brot      : [n.] bread {German}
 nis       : [n.] wheat {Estonian 'nisu'}
 läi       : [n.] yeast; leavening agent (Estonian 'leib', French 'levure')
@@ -569,7 +572,7 @@ flor : {Italian 'fiore', French 'fleur'}
 -- [v.] [intrans] bloom, blossom, flower
 tülip   : [n.] tulip {French 'tulipe', English 'tulip'}
 säd     : [n.] grain; seed {Swedish}
-har : [n.] shoot, bud
+har     : [n.] shoot, bud
 -> haru : [n.] blossom
 
 === natural phenomena ===
@@ -627,8 +630,9 @@ metal    : [m. unc.] metal {French 'métal'}
 bronz    : [m. unc.] bronze {English 'bronze'}
 fer      : [m. unc.] iron {French}
 -> feräs : [adj.] ferrous
-argänt  : [m. unc.] silver {Latin 'argentum' via French 'argent'}
+argänt   : [m. unc.] silver {Latin 'argentum' via French 'argent'}
 or       : [m. unc.] gold {French}
+-> orät  : [adj.] golden {French}
 granit   : [m. unc.] granite {French 'granit' via Russian 'гранит'}
 kvardz   : [m. unc.] quartz {German 'Quarz' via French & English 'quartz'}
 diamant  : [m.] diamond {French, German 'Diamant'}
@@ -674,6 +678,7 @@ mont :
 ----> montirör : [n.] mountaineer {'mont' + 'ir' + '-ör'}
 ----> montäs : [adj.] mountainous
 -------> montäst : [adv.] mountainously
+----> montu : [n.] hill
 -- [v.] [trans] to tower over, to dwarf
 min : {French 'mine'}
 -- [n.] mine, mineshaft
@@ -846,7 +851,7 @@ flis : {Frisian 'fluitsje', French 'siffle(t)'}
 -- [n.] whistle (sound)
 -- [v.] whistle
 ----> flisör : [n.] whistle (device)
-spel : [n.] shovel {French 'pelle', English 'spelunk'}
+spel : [n.] shovel, spade {French 'pelle', English 'spelunk', ? English 'spade'}
 
 === music : müzik ===
 müzik    : [n.] music {German 'Musik', French 'musique'}
@@ -914,6 +919,9 @@ skol     : [n.] school {English 'school', French 'école'. accidental cognate wi
 -> skoläs : [adj.] scholar
 ----> skoläst : [adv.] scholarly
 drom     : [n.] port {Russian 'космодром'}
+-> [n.] [f:computing] port
+----> imedrom : [n.] entry port
+----> ustedrom : [n.] exit port
 
 === clothes ===
 šos   : [n.] shoe {French 'chaussure'}
@@ -954,7 +962,7 @@ sünog   : [n.] edge, boundary, border
 -> sünognuz : [adj.] boundless
 -> sünoguz : [adj.] limited; bounded
 -> sünogu  : [n.] bordure
-vine    : [n.] domain, realm {Croatian 'domovina'}
+vine       : [n.] domain, realm {Croatian 'domovina'}
 
 
 trät : [n.] [v.] step {? German}
@@ -1110,7 +1118,7 @@ räi   : [n.] king {Portugese 'rei'}
 ----> räiäst : [adv.] royally
 -> räin : [n.] queen {+ French 'reine'}
 ----> räinu : [n.] princess
--> räu : [n.] prince
+-> ränu : [n.] prince
 -> räivine : [n.] kingdom
 koron : [n.] crown {Latin 'corona' via Italian 'corona' & French 'couronne'}
 -> akoron : [v.] crown
@@ -1189,7 +1197,8 @@ ark : [n.] bow, arc; semicircle {Latin 'arcus'}
 -> ark : [n.] [f:archery] bow
 brik : [n.] brick, ingot {French 'brique', English 'brick'} #
 -> brik : [v.] [f:computing] (of a dev) become non-functional
-gan : [n.] hole
+gan : [n.] hole, pit, chasm
+-> ganu : [n.] small hole
 
 === house ===
 kav   : [n.] basement {French 'cave'}
@@ -2540,6 +2549,11 @@ rosn : [adj.] warm
 -> rosnät : [adv.] warmly
 -> rosnein : [n.] (state of) warmth, warmness
 -> rosne : [n.] warmth
+fris : [adj.] fresh, cool {French 'frais'}
+-> afris : [v.] cool
+-> refris : [v.] refresh
+-> frisein : [n.] (state of) freshness
+-> frise : [n.] cool
 
 lös : [adj.] single, only; alone {French 'seul', English 'lone'}
 -> lös : [cnjc.] only
