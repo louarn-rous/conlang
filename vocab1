@@ -133,7 +133,10 @@ si  : [cnjc.] if, in the case/condition that, given/supposing/assuming that {Fre
 -- [suf.] semblative; used to form adjectives from nouns, meaning resembling the suffixed word (esp. in behaviour)  
 -- [suf.] used to form adjectives from verbs, meaning 'inclined to' ###
 
--e      : [suf.] forms ordinal numbers {French '-ème')
+-e      : [suf.]
+-- forms ordinal numbers {French '-ème')
+-- used to form nouns from adjectives
+
 -a      : [suf.] used to mark a place
 -(n)i : [suf.] used to form nouns, indicating someone who is from a place
 -(j)an     : [suf.] used to form nouns, indicating someone with a connection to the suffixed word (German & English '-ling') {French}
@@ -971,7 +974,8 @@ säm : [n.] half [adj.] half of {Latin 'semi-'}
 -> sämät : [adv.] halfly, half
 haaf : [n.] half [adj.] hafly [common] {English 'half'}
 
-gove : [n.] voice, (manner of) speech; spirit {Japanese '声'}
+gove : [n.] voice, (manner of) speech; spirit {Japanese '声', ~? Serbo-Croatian ?}
+-> utegove : [n.] singing voice, song voice
 
 yukos : [n.] monster {Original}
 bäst : [n.] beast, creature {French 'bête', English 'beast'}
@@ -1310,10 +1314,7 @@ fal   : [n.] girl {Latin 'filia'}
 ----> falätät : [adv.] girlishly
 ussor : [n.] cousin {'uz' + 'sorä'}
 usmat : [n.] sibling {'uz' + 'matä'}
-
-###
-ut : [v.] sing {Japanese '歌'}
-
+ 
 fränd : [n.] friend {English 'friend', German 'Freund'}
 -> frändein : [n.] friendship
 -> frändät : [adj.] friendly
@@ -1835,17 +1836,18 @@ klöd : [v.] fasten, secure, lock; contain, surround {Latin 'claudo'}
 ----> imklödein : [n.] (state of) imprisonment
 ----> imklödina : [n.] imprisonment
 
-plis : [v.] [n.] fold {French 'plisser', Latin 'plicare' via French 'plier'}
-
+plis : [v.] fold {French 'plisser', Latin 'plicare' via French 'plier'}
+-> plisin : [n.] fold
 rol : [v.] roll {English 'roll', French 'rouler'}
 -> rolin : [n.] roll
-
-fel : [v.] suck, slurp {Latin 'fello'}
-
-frot : [v.] rub {French 'frotter'}
-
 flot : [v.] float {French 'flotter', English 'float'}
 -> flotina : [n.] fleet {Russian 'флот', French 'flotte'}
+fel : [v.] suck, slurp {Latin 'fello'}
+pust : [v.] blow; puff, wheeze, pant {Serbo-Croatian 'puhati'}
+frot : [v.] rub {French 'frotter'}
+ut : [v.] sing {Japanese '歌'}
+-> utin : [n.] song
+-> utina : [n.] singing
 
 ver :  {Latin 'valor' via Italian 'valore' & French 'valeur', Swedish 'värde', Estonian 'väärt', German 'Wert'}
 -- [v.] worth; deserving of
@@ -1858,7 +1860,6 @@ ver :  {Latin 'valor' via Italian 'valore' & French 'valeur', Swedish 'värde', 
 ----> neverät : [adj.] unworthy
 ----> verätein : [n.] dignity
 -> -ver : [suf.] forms adjectives from nouns, meaning deserving or worthy of the suffixed word ('-worthy', '-some')  
-
 
 heg : [v.] [reflexive] choke
 -> aheg : [v.] [trans] suffocate
@@ -2502,17 +2503,22 @@ vid : [adj.] empty {French 'vide'}
 
 frid : [adj.] cold
 -> afrid : [v.] cool, chill
+----> afridina : [n.] cooling
 -> fridät : [adv.] coldly
--- [n.] cold ##
+-> fridein : [n.] (state of) being cold, coldness
+-> fride : [n.] cold
 hoš : [adj.] hot {French 'chaud', English 'hot'}
 -> ahoš : [v.] heat (up)
+----> ahošina : [n.] heating
 -> hošät : [adv.] hotly
--- [n.] heat ##
-
+-> hošein : [n.] (state of) being hot, heat
+-> hoše : [n.] heat
 rosn : [adj.] warm
 -> arosn : [v.] warm, heat up, reheat
--> rosnein : [n.] warmth, warmness
 -> rosnät : [adv.] warmly
+-> rosnein : [n.] (state of) warmth, warmness
+-> rosne : [n.] warmth
+
 lös : [adj.] single, only; alone {French 'seul', English 'lone'}
 -> lös : [cnjc.] only
 -> alös : [v.] single out
