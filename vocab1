@@ -787,6 +787,8 @@ kint : [n.] cheek {Swedish}
 -> kintäs : [adj.] buccal
 hepas : [n.] liver {Latin 'hepaticus'}
 -> hepasäs : [adj.] hepatic
+ment : [n.] chin {Latin 'mentum' + via French 'menton'}
+-> mentäs : [adj.] of or pertaining to the chin
  
 === technology ===
 disk  : [n.] disk, disc, record, CD, CD-ROM {French 'disque', English 'disc'/'disk'}
@@ -940,6 +942,9 @@ sistäm  : [n.] system {French 'système', English 'system'}
 niväl   : [n.] level {English 'level', French 'niveau'}
 strat   : [n.] layer {Latin 'stratum' via English}
 -> stratein : [n.] layeredness
+kut   : [n.] coat, layer {English 'coat', French 'couche'}
+-> akut : [v.] coat
+----> akutin(a) : [n.] coating
 stras   : [n.] road; street {Latin 'strata' via Italian 'strada' & German 'Straße'}
 -> strasu : [n.] alleyway, lane
 läš     : [n.] way, path, method
@@ -950,6 +955,7 @@ sünog   : [n.] edge, boundary, border
 -> sünoguz : [adj.] limited; bounded
 -> sünogu  : [n.] bordure
 vine    : [n.] domain, realm {Croatian 'domovina'}
+
 
 trät : [n.] [v.] step {? German}
 
@@ -1884,8 +1890,10 @@ spär : [v.] [n.] hope {Latin 'spero' via French 'espérer'}
 tatlän : [v.] [n.] doubt {Original}
 -> tatlänver : [adj.] doubtsome, doubtful
 plän : [v.] to mourn, pity; to bewail, lament for {Latin 'plango' via English 'complain' & French 'plaindre'}
--> plänina : [n.] complaint
+-> plänina : [n.] lament; complaint
 -> plänfär : [adj.] pitiable
+plor : [v.] to cry; lament, complain {Latin 'ploro' via English 'implore' & French 'pleurer'}
+-> plorina : [n.] crying; complaint
 fräj : [v.] fear {French 'effrayer', English 'fear'}
 -> afräj : [v.] scare, spook
 -> fräjein : [n.] (state of) fear
