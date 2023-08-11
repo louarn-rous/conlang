@@ -580,20 +580,25 @@ säls : [n.] sky {Italian 'cielo', French & English 'celestial'}
 -> selsäs : [adj.] celestial
 ----> selsäst : [adv.] celestially
 vänt    : [n.] wind {Latin 'ventus'}
+-> väntät : [adj.] windy
 -> väntäs : [adj.] aeolian
 briz    : [n.] breeze {French 'brize', English 'breeze'}
 kumul : {Latin 'cumulus'}
 -- [n.] cloud
+----> kumulät : [adj.] cloudy
 -- [v.] [trans] cloud, obstruct, confuse
 stürm : {German 'Sturm', English 'storm'}
--- [v.] rush, attack, storm
 -- [n.] storm
-glav : {Breton}
--- [v.] [intrans] (of a liquid) rain
+----> stürmät : [n.] storm
+-- [v.] rush, attack, storm
+glau : {Breton}
 -- [n.] rain
+----> glauät : [adj.] rainy
+-- [v.] [intrans] (of a liquid) rain
 snež : {English 'snow', French 'neige'}
--- [v.] [intrans] (of a powder or snow-like substance) snow 
 -- [n.] snow
+----> snežät : [adj.] snowy
+-- [v.] [intrans] (of a powder or snow-like substance) snow 
 biom    : [n.] biome {French 'biome'}
 džangal : [n.] jungle {Hindi 'जंगल' via English 'jungle'}
 miraž   : [n.] mirage {French 'mirage'}
@@ -608,6 +613,7 @@ osean    : [n.] ocean {French 'océan'}
 -> oseanäs : [adj.] oceanic
 koräl    : [m.] coral {French 'corail', English 'coral'}
 perl     : [m.] pearl {French 'perle'}
+-> perlät : [n.] pearly
 haj      : [n.] shark {Swedish}
 -> hajäs : [adj.] selachian
 büj      : [n.] buoy
@@ -760,6 +766,8 @@ man : {Latin 'manus' via French 'main' & English 'manual'}
 ----> manäs : [adj.] of or relating to the hand; manual
 -------> manäst : [adv.] manually
 -- [v.] [trans] handle, control, manage
+dist : [n.] finger, digit {Latin 'digitus' via English 'digit' & French 'doigt'}
+-> distu : [n.] (numerical) digit
 räš :
 -- [n.] flesh, meat
 ----> räšäs : [adj.] carnal
@@ -2571,6 +2579,7 @@ bov    : [n.] [archaic] cow {Late Latin 'bovinus'}
 -> bovu  : [n.] [archaic] calf
 vinj  : [n.] [archaic] vine {French 'vigne'}
 jan   : [n.] [archaic] person {Toki Pona}
+prom  : [v.] [archaic] promise
 gan   : [v.] [archaic] can, able to {? English 'can'}
 ovär  : [v.] [archaic] open {French 'ouvrir', English 'open'}
 levit : [v.] [archaic] levitate, hover {French 'léviter', English 'levitate'}
@@ -2579,6 +2588,9 @@ lek   : [v.] [archaic] lick {English 'lick', French 'lécher'}
 škort : [adj.] [archaic] short {French 'court', English 'short'}
 sipaträ : [n.] [archaic] uncle
 -> obesipaträ : [n.] [archaic] great-uncle
+votš : [archaic] {Italian 'voce'}
+-- [n.] voice
+-- [v.] express, voice
 
 dö  : [prep.] [dated] ablative, genitive ('from', 'of', authorship) {French 'de'}  
 
