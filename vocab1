@@ -32,34 +32,34 @@ us  : [prep.] ablative, genitive ('from', 'of', authorship)
 -> ödvär : [adj.] towards  
 ----> ödvärt : [adv.] towards  
 
-sär : [prep.] in the form(at) of  
-isän : [prep.] ablative (about, concerning)  
-urund : [prep.] circumlative (around, about) {from 'u' + 'rund'}
-
 im : [prep.] in (contained by, within the bounds of, part of, into) {German}  
--> imir : [v.] enter  
--> imira : [n.] entry, input  
--> imklöd : [v.] include  
--> imvär : [adj.] inwards ('in-')
-----> imvärt : [adj.] inwards  
+-> im- : [prf.] inwards ('in')
 -> imtroke : [n.] interior
+-> imäs : [adj.] inner, internal
+----> imäst : [adv.] internally
+-> imvär : [adj.] inwards
+----> imvärt : [adv.] inwardly
+-> imklöd : [v.] include  
+----> imklödina : [n.] inclusion
+-> imir : [v.] enter  
+----> imira : [n.] entry, input  
+----> imirin : [n.] entry, access
+----> aimir : [v.] make enter, welcome, bring in
+
 ust : [prep.] out (outside of, away from, not in) {French 'ouste'}  
--> ustir : [v.] exit  
-----> ustirin : [n.] exit, leave; escape, getaway  
-----> austir : [v.] expel, oust, drive away, kick out  
--> ustira : [n.] exit, output  
--> usklöd : [v.] exclude  
+-> ust- : [prf.] outwards ('out-')
+-> usttroke : [n.] exterior
+-> ustäs : [adj.] outer, external
+----> ustäst : [adv.] externally 
 -> ustvär : [adj.] outwards  
 ----> ustvärt : [adv.] outwards
--> ust- : [prf.] outwards ('out-')
--> ustäs? : [adj.] outer, external
-----> ustäsät? : [adv.] externally 
--> usttroke : [n.] exterior
+-> usklöd : [v.] exclude
+----> usklödina : [n.] exlusion
+-> ustir : [v.] exit
+----> ustira : [n.] exit, output  
+----> ustirin : [n.] exit, leave; escape, getaway  
+----> austir : [v.] expel, oust, drive away, kick out  
 
-a    : [prep.] at {French 'à'}  
-u    : [prep.] at, in, near, by {Russian 'у'}  
-gešt : [prep.] against {German 'gegen', English 'against'}  
--> irgešt : [v.] oppose, go against  
 ob   : [prep.] on (top of) {German 'ober', ? 'ob'}  
 -> ob(e)- : [prf.] over-, super-  
 -> štob : [prep.] above, over  
@@ -71,13 +71,20 @@ us   : [prep.] under(neath)  {French 'sous', German 'unter'}
 
 ant : [prep.] between, among {Latin 'inter' via English 'internal', ? French 'entre'}  
 -> antäs : [adj.] internal, interior  
-----> antäsät : [adv.] internally  
+----> antäst : [adv.] internally  
 -> antira : [n.] interior  
 -> ant(e)- : [suf.] between  
 -> antuz : [cnjc.] in between, with  
 -> antvär : [adj.] towards between  
 ----> antvär : [adv.] towards between
 
+a    : [prep.] at {French 'à'}  
+u    : [prep.] at, in, near, by {Russian 'у'}  
+gešt : [prep.] against {German 'gegen', English 'against'}  
+-> irgešt : [v.] oppose, go against  
+sär   : [prep.] in the form(at) of  
+isän  : [prep.] ablative (about, concerning)  
+urund : [prep.] circumlative (around, about) {from 'u' + 'rund'}
 tra(s) : [prep.] across, through {Breton 'tra'}
 
 sti : [prep.] as if, like so, similar to  
@@ -98,7 +105,7 @@ uz  : [cnjc.] comitative ('with') {Croatian}
 mo    : [cnjc.] also, both, as well, again  
 -> omo : [adj.] same, common  
 ----> omotänäs : [adj.] simultaneous  
--------> omotänäsät : [adv.] simultaneously  
+-------> omotänäst : [adv.] simultaneously  
 ----> omoät : [adv.] samely, commonly  
 ----> omäs : [adj.] equal  
 -------> omäst : [adv.] equally  
@@ -230,11 +237,11 @@ me   : [adv.] [det.] much, many
 mer  : [adv.] comparative ('more') {Dutch 'meer'}  
 mest : [adv.] superlative ('most') {Dutch 'meest'}  
 -> mestäs : [adj.] maximal  
-----> mestäsät : [adv.] maximally  
+----> mestäst : [adv.] maximally  
 ler  : [adv.] diminutive comparative ('less')  
 lest : [adv.] diminutive superlative ('least') {English 'least'}  
 -> lestäs : [adj.] minimal  
-----> lestäsät : [adv.] minimally  
+----> lestäst : [adv.] minimally  
 te   : [adv.] too, too much, too many {English 'too', French 'trop'}  
 jus  : [adv.] just, only, simply, merely {French 'juste'}
 
@@ -309,7 +316,7 @@ tagräm : {Original}
 -- [v.] apologise  
 ----> tagrämina : [n.] apology  
 ----> tagrämäs [adj.] apologetic  
--------> tagrämäsät : [adv.] apologetically
+-------> tagrämäst : [adv.] apologetically
 
 === numbers : nümeren ===
 nümer : [n.] number; number of, count {French 'numéro'}
@@ -754,7 +761,7 @@ blüt : {German 'Blut'}
 kap : {Latin 'caput' via English 'captain' & French 'décapiter'}
 -- [n.] head
 ----> kapäs : [adj.] cranial
--------> kapäsät : [adv.] cranially
+-------> kapäst : [adv.] cranially
 ----> dekap : [v.] behead, decapitate
 -------> dekapina : [n.] beheading, decapitation
 -- [v.] lead, direct
