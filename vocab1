@@ -852,6 +852,8 @@ telefon : [n.] [v.] telephone
 fals  : [n.] sickle {Catalan 'falç'}
 brust : [n.] brush {Breton 'broust'}
 torš  : [n.] cloth {Breton 'torch'}
+spel : [n.] shovel, spade {French 'pelle', English 'spelunk', ? English 'spade'}
+sajl : [n.] bucket, pail {Breton 'sailh'}
 tamor : {French 'marteau', English 'hammer'}
 -- [n.] hammer
 -- [v.] to strike with a hammer
@@ -859,7 +861,6 @@ flis : {Frisian 'fluitsje', French 'siffle(t)'}
 -- [n.] whistle (sound)
 -- [v.] whistle
 ----> flisör : [n.] whistle (device)
-spel : [n.] shovel, spade {French 'pelle', English 'spelunk', ? English 'spade'}
 
 === music : müzik ===
 müzik    : [n.] music {German 'Musik', French 'musique'}
@@ -972,7 +973,6 @@ sünog   : [n.] edge, boundary, border
 -> sünogu  : [n.] bordure
 vine       : [n.] domain, realm {Croatian 'domovina'}
 
-
 trät : [n.] [v.] step {? German}
 -> fusträt : [n.] footstep
 
@@ -985,7 +985,6 @@ troke : [n.] location, place {Japanese '所'}
 -> -(t)roke : [suf.] used to indicate a place with a purpose relating to the suffixed word ('-place')
 
 skär : [n.] lane, track, channel
-
 
 liäs    : [n.] link {? French 'lier'}
 -> aliäs : [v.] link, bind, connect
@@ -1010,7 +1009,7 @@ haaf : [n.] half [adj.] hafly [common] {English 'half'}
 gove : [n.] voice, (manner of) speech; spirit {Japanese '声', ~? Serbo-Croatian ?}
 -> utegove : [n.] singing voice, song voice
 
-yukos : [n.] monster {Original}
+jukos : [n.] monster {Original}
 bäst : [n.] beast, creature {French 'bête', English 'beast'}
 
 nam : [n.] name 
@@ -1041,6 +1040,10 @@ spag : [n.] shame {Original}
 -> aspag : [v.] shame
 -> (a)spagver : [adj.] shameful
 ----> (a)spagverät : [adv.] shamefully
+märs : [n.] pain, harm, suffering
+-> amärs : [v.] cause harm to
+-> märsver : [adj.] painful; harmful
+----> märsverät : [adv.] painfully
 
 stin : {Serbian 'истина'}
 -- [adj.] true
@@ -1296,8 +1299,9 @@ spät : [adj.] late {German}
 -> spätnat : [n.] evening {+ 'nat'}
 
 === people ===
-den : [n.] human {Breton}
+den : [n.] human, person {Breton}
 -> denäs : [adj.] human
+----> denäsein : [n.] humanity
 jor : [n.] man {Original}
 -> jorät : [adj.] manly, masculine
 ----> jorätät : [adv.] masculinely
@@ -1395,11 +1399,13 @@ orde : [n.] order, arrangement, series {Latin 'ordo'}
 -> desorde : [n.] disorder, disarray
 ----> desordeät : [adj.] disorderly
 
-korb : [n.] basket {French 'corbeille}
+korb : [n.] basket {French 'corbeille'}
+-> korbu : [n.] parcel
+dat : [n.] bag
+-> datu : [n.] small bag
 not : [n.] brief record, usually written; score, mark or grade; [f:music] note
 mod : [n.] style, fashion, way, manner {French 'mode'}
 -> -mod : [suf.] used to form verbs from nouns, with the sence of playing the role of, or being the suffixed word
-sajl : [n.] bucket, pail {Breton 'sailh'}
 
 lite : [n.] letter {Latin 'littera'}
 -> aliter : [v.] spell; alliterate
@@ -1515,6 +1521,8 @@ embrion : [n.] embryo {French 'embryon'}
 -> embrionäs : [adj.] embryonic
 kälul : [n.] cell {Latin 'cellula' via French 'cellule'}
 -> käluläs : [adj.] cellular
+spos : [n.] root [adj.] original
+-> sposät : [adv.] originally
 
 === jargon ===
 alfabät : [n.] alphabet {Anc. Greek 'ἀλφάβητος' via English & French 'alphabet'}
