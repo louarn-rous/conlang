@@ -12,7 +12,7 @@ b. [Vowels](#Vowels)
 6. [Phonotactics](#Phonotactics)
 7. [Braille](#Braille)
 8. [Morse](#Morse)
-9. [Other writing systems not in official use](#Other writing systems not in official use)
+9. [Other](#Other)
 
 ## Phonology
 
@@ -197,9 +197,12 @@ Ijter braille is inspired by the French, English, Czech and Scandinavian braille
 
 Ijter Morse is partly influenced by Croatian Morse code.  
 
-## Other writing systems not in official use  
+## Other  
 
-### Hangul
+### Writing systems not in official use
+
+** Hangul **
+
 
 | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
