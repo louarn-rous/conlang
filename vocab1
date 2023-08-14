@@ -617,17 +617,20 @@ räviir  : [n.] river {French 'rivière', Afrikaans 'rivier'}
 -> räviiräs : [adj.] riverine
 
 === marine : maräs ===
-mar      : [n.] sea {Breton 'mor', French 'mer'}
+mar : [n.] sea {Breton 'mor', French 'mer'}
 -> maräs : [adj.] marine
 -> maru : [n.] lake
-osean    : [n.] ocean {French 'océan'}
+osean : [n.] ocean {French 'océan'}
 -> oseanäs : [adj.] oceanic
-koräl    : [m.] coral {French 'corail', English 'coral'}
-perl     : [m.] pearl {French 'perle'}
+koräl : [m.] coral {French 'corail', English 'coral'}
+perl : [m.] pearl {French 'perle'}
 -> perlät : [n.] pearly
 haj      : [n.] shark {Swedish}
 -> hajäs : [adj.] selachian
-büj      : [n.] buoy
+büj : [n.] buoy
+veg : [n.] [v.] wave {French 'vague', English 'wave'}
+-> vegu : [n.] wavelet
+
 
 === geological, mineral, geographic ===
 metal    : [m. unc.] metal {French 'métal'}
@@ -847,6 +850,9 @@ telefon : [n.] [v.] telephone
 -> telefonina : [n.] telephone call
 -> telefonäs : [adj.] telephonic
 ----> telefonäst : [adv.] telephonically
+
+televis : [v.] televize
+-> televisina : [n.] television
 
 === tools ===
 fals  : [n.] sickle {Catalan 'falç'}
@@ -2286,6 +2292,7 @@ lon : [adj.] long {French 'long'}
 -> alon : [v.] lengthen
 -> lonät : [adv.] lengthily
 -> lonein : [n.] length
+----> veglonein : [n.] wavelength
 šüt : [adj.] brief, short
 -> ašüt : [v.] shorten
 -> šütät : [adv.] briefly, shortly
