@@ -1076,6 +1076,7 @@ rät : [n.] right {Swedish 'rättvisa'}
 ----------> rätäseinäst : [adv.] judicially
 -------> rätäseinör : [n.] judge, jurist
 ----> arätäs : [v.] adjust, rectify; justify
+-------> arätäsina : [n.] adjustment, rectification
 ----> nerätäs : [adj.] unjust
 -------> nerätäsein : [n.] injustice
 -------> nerätäst : [adv.] unjustly
@@ -1611,7 +1612,7 @@ vän : [v.] [intrans.] come
 jun : [v.] jump {Original}
 pas : [v.] pass, go by
 
-mät  : [v.] set, change, assign, put {Latin 'mitto' via French 'mettre'}
+mät : [v.] set, change, assign, put {Latin 'mitto' via French 'mettre'}
 -> mätkal : [v.] confirm, verify
 ----> mätkalina : [n.] confirmation, verification
 -> mättös : [v.] modify, edit
@@ -2278,7 +2279,7 @@ regül : [v.] regulate
 -> regülina : [n.] regulation
 -> regülör : [n.] one that regulates
 
-## adjectives
+=== adjectives ===
 
 sur : [adj.] big, large {Estonian 'suur'}
 -> asur : [v.] [usu. trans] to increase, embiggen, grow
@@ -2591,6 +2592,16 @@ püli : [adj.] multiple, plural
 -> pülein : [n.] multiplicity, plurality
 -> püliät : [adv.] plurally
 -> püli- : [prf.] multi-, plura-, poly-
+
+brat : [adj.] main, principal; central
+-> bratät : [adv.] mainly, principally
+
+sim : [adj.] correct, valid
+-> simmät : [v.] correct, rectify
+----> simmätina : [n.] correction, rectification
+-> asim : [v.] validate
+----> asimina : [n.] validation
+-> simät : [adv.] correctly
 
 nüdit : [adj.] naked, nude
 -> anüdit : [v.] to strip of protection or clothing
