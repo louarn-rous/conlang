@@ -199,6 +199,15 @@ Ijter Morse is partly influenced by Croatian Morse code.
 
 ## Other  
 
+### Archaic orthography
+
+| now | prev. | IPA |
+|:-:|:-:|:-:|
+| ä | è | /ɛ/ |
+| e | é | /e/ |
+| ö | ø | /ø/ |
+| ü | y | /y/ |
+
 ### Writing systems not in official use
 
 Hangul
