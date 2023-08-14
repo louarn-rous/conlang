@@ -16,6 +16,7 @@ is : [det.] proximal demonstrative ('this') {French 'ici'}
 -> aža  : [det.] where; wherein {'-a' +}  
 -> meža : [det.] how many, how much {'me' +}  
 -> žavär : [det.] to/in what direction, towards where {+ '-vär'}
+-> žaden : [det.] who, whose {+ 'den'}
 
 netä : [det.] any, either  
 -> tošnetä : [det.] whatever, anything {'toš' + 'netä')  
@@ -37,6 +38,7 @@ im : [prep.] in (contained by, within the bounds of, part of, into) {German}
 -> imtroke : [n.] interior
 -> imäs : [adj.] inner, internal
 ----> imäst : [adv.] internally
+----> imäsein : [n.] insideness, internality
 -> imvär : [adj.] inwards
 ----> imvärt : [adv.] inwardly
 -> imklöd : [v.] include  
@@ -52,6 +54,7 @@ ust : [prep.] out (outside of, away from, not in) {French 'ouste'}
 -> ustäs : [adj.] outer, external
 ----> ustäst : [adv.] externally 
 ----> ustäsin : [n.] [common] foreigner, outsider
+----> ustäsein : [n.] outsideness, externality
 -> ustvär : [adj.] outwards  
 ----> ustvärt : [adv.] outwards
 -> usklöd : [v.] exclude
@@ -159,7 +162,6 @@ ne(s)- : [prf.] negatory; absent, lacking
 de(s)- : [prf.] reversal or removal, lack of ('-dis', 'de-')  
 me(s)- : [prf.] badly or wrongly {French 'mal-', English 'mis-'}  
 re(s)- : [prf.] again; anew {French & English 're-'} 
-
 
 -äst  : [suf.] [cntrc.] equiv. to -äs and -ät  
 -värt : [suf.] [cntrc.] equiv. to -vär and -ät
@@ -269,7 +271,8 @@ i  : [adj.] (the) current, present {Japanese '今'}
 -> isät : [adv.] instead {'i' + 'sät'}
 
 alte : [det.] [n.] [adj.] other
--> alteein : [n.] otherness
+-> alt(e)- : [prf.] other
+-> altein : [n.] otherness
 
 aru : [adv.] yet, still; thus far
 
@@ -1827,6 +1830,7 @@ värt : [v.] turn {Latin 'verto' via English '-ward'}
 ----> revärtina : [n.] return; undoing
 -> antevärt : [v.] invert
 ----> antevärtin : [n.] inverse
+-------> antevärtinät : [adv.] inversely
 ----> antevärtina : [n.] inversion
 -> -vär     : [suf.] venitive; in the direction of ('-wards')
 
