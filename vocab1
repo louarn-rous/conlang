@@ -726,7 +726,8 @@ mož    : [n.] mouth
 -> možäs : [adj.] oral
 ----> možäst : [adv.] orally
 stom   : [n.] [archaic] mouth {Anc. Greek 'στόμα'}
--> stomak : [n.] stomach {Anc. Greek 'στόμαχος'}
+-> stom : [n.] stomach {Anc. Greek 'στόμαχος'}
+-> n'ev er stom (öd) : [expr.] to not have the appetite (for) {lit. 'to not have the stomach (for)'}
 dänt   : [n.] tooth {Latin 'dens' via French 'dentiste'/'dentaire', English 'dentist'/'dental'}
 -> däntäs : [adj.] dental
 ----> däntäst : [adv.] dentally
@@ -2220,8 +2221,6 @@ mord : {German 'morden'}
 šarž : ##
 -- [v.] charge, load
 -- [n]. charge
-
-
 
 kur : {Latin 'cura' via 'securus' via German 'sicher'}
 -- [v.] care
