@@ -201,12 +201,12 @@ Ijter Morse is partly influenced by Croatian Morse code.
 
 ### Archaic orthography
 
-| now | prev. | IPA |
-|:-:|:-:|:-:|
-| ä | è | /ɛ/ |
-| e | é | /e/ |
-| ö | ø | /ø/ |
-| ü | y | /y/ |
+|Old|New| IPA |
+|:-:|:-:| :-: |
+| è | ä | /ɛ/ |
+| é | e | /e/ |
+| ø | ö | /ø/ |
+| y | ü | /y/ |
 
 ### Writing systems not in official use
 
