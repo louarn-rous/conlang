@@ -53,7 +53,7 @@ The Ijter language employs both a Latin and a Cyrillic script.
 | /e/ | 'h**a**y'             | Ee | Ее | ee | /s/ | '**s**un'               | Ss | Сс | äs |
 | /v/ | '**v**ine'            | Vv | Вв | ve | /ʃ/ | '**sh**oe'              | Šš | Шш | äš |
 | /g/ | '**g**oat'            | Gg | Гг | ge | /t/ | '**t**op'               | Tt | Тт | te |
-| /i/ | 'b**ee**'             | Ii | Ии | ii | /u/ | 'fr**u**it'             | Uu | Уу | uu |
+| /i/ | 'b**ee**'             | Ii | Іі | ii | /u/ | 'fr**u**it'             | Uu | Уу | uu |
 | /j/ | '**y**ak'             | Jj | Јј | je | /y/ | 'f**ew**' (Gen. SA)     | Üü | Ӱӱ | üü |
 | /k/ | '**k**ey'             | Kk | Кк | ke | /z/ | '**z**oo'               | Zz | Зз | ze |
 | /l/ | '**l**eg'             | Ll | Лл | äl | /ʒ/ | 'vi**si**on'            | Žž | Жж | že |
@@ -201,12 +201,14 @@ Ijter Morse is partly influenced by Croatian Morse code.
 
 ### Archaic orthography
 
-|Old|New| IPA |
-|:-:|:-:| :-: |
-| è | ä | /ɛ/ |
-| é | e | /e/ |
-| ø | ö | /ø/ |
-| y | ü | /y/ |
+|Old |New | IPA |
+|:-: |:-: | :-: |
+| Èè | Ää | /ɛ/ |
+| Éé | Ee | /e/ |
+| Øø | Öö | /ø/ |
+| Yy | Üü | /y/ |
+| Ии | Іі | /i/ |
+| Сс | Ѕѕ | /s/ |
 
 ### Writing systems not in official use
 
