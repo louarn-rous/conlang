@@ -1292,12 +1292,12 @@ uur   : [n.] hour {German 'Uhr'}
 mäns  : [n.] month {Latin 'mensis' via French 'mensuel'}
 -> mänsäs : [adj.] mensual, monthly
 ----> mänsäst : [adv.] mensually
-anu : [n.] year {French 'an', + Latin 'annum'}
--> anuäs : [adj.] annual
-----> anuäst : [adv.] annually
--> desanu : [n.] decade
--> sänanu : [n.] century
--> milanu : [n.] millenium
+an : [n.] year {French 'an', + Latin 'annum'}
+-> anäs : [adj.] annual
+----> anäst : [adv.] annually
+-> desan : [n.] decade
+-> sänan : [n.] century
+-> milan : [n.] millenium
 tän : {French 'temps', Italian 'tempo', English 'time'}
 -- [n.] time
 ----> tänäs : [adj.] temporal
