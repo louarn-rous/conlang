@@ -707,17 +707,17 @@ tünäl : {French 'tunnel'}
 ----> tünelör : [n.] one who tunnels
 
 === körp : body ===
-pil    : [n.] hair {Latin 'pilus' via French 'épiler'}
+pil : [n.] hair {Latin 'pilus' via French 'épiler'}
 -> piläs : [adj.] pilar, crinal
--> depil  : [v.] epilate
+-> depil : [v.] epilate
 ----> depilör : [n.] epilator
-öl     : [n.] eye {French 'œil'}
+öl : [n.] eye {French 'œil'}
 -> öläs : [adj.] ocular
 ----> öläst : [adv.] ocularly
-nas    : [n.] nose {Latin 'nasus' via English, French 'nasal'}
+nas : [n.] nose {Latin 'nasus' via English, French 'nasal'}
 -> nasäs : [adj.] nasal
 ----> nasäst : [adv.] nasally
-ur     : [n.] ear {Latin 'auris' via 'ausculto' via Italian 'ascoltare'}
+ur : [n.] ear {Latin 'auris' via 'ausculto' via Italian 'ascoltare'}
 -> uräs : [adj.] aural
 ----> urod : [v.] hear, listen
 -------> urodäs : [adj.] auditory
@@ -725,13 +725,13 @@ ur     : [n.] ear {Latin 'auris' via 'ausculto' via Italian 'ascoltare'}
 -------> urodfär : [adj.] audible
 ----------> urodfärt : [adv.] audibly
 ----> uräst : [adv.] aurally
-mož    : [n.] mouth
+mož : [n.] mouth
 -> možäs : [adj.] oral
 ----> možäst : [adv.] orally
-stom   : [n.] [archaic] mouth {Anc. Greek 'στόμα'}
+stom : [n.] [archaic] mouth {Anc. Greek 'στόμα'}
 -> stom : [n.] stomach {Anc. Greek 'στόμαχος'}
 -> n'ev er stom (öd) : [expr.] to not have the appetite (for) {lit. 'to not have the stomach (for)'}
-dänt   : [n.] tooth {Latin 'dens' via French 'dentiste'/'dentaire', English 'dentist'/'dental'}
+dänt : [n.] tooth {Latin 'dens' via French 'dentiste'/'dentaire', English 'dentist'/'dental'}
 -> däntäs : [adj.] dental
 ----> däntäst : [adv.] dentally
 leng   : [n.] tongue {French 'langue'}
@@ -744,7 +744,7 @@ leng   : [n.] tongue {French 'langue'}
 -> trasleng : [v.] translate {'tra(s)' +}
 ----> traslengina : [n.] translation
 ----> traslengör : [n.] translator
-ost    : [n.] bone {Anc. Greek 'ὀστέον' via French 'ostéo-'}
+ost : [n.] bone {Anc. Greek 'ὀστέον' via French 'ostéo-'}
 -> ostäs : [adj.] osteal
 -> ostät : [adj.] bony
 skelät : [n.] skeleton {Anc. Greek 'σκελετός' via French 'squelette' & English 'skeleton'}
@@ -995,6 +995,7 @@ troke : [n.] location, place {Japanese '所'}
 -> -(t)roke : [suf.] used to indicate a place with a purpose relating to the suffixed word ('-place')
 
 skär : [n.] lane, track, channel
+pros : [n.] sign, board; panel, plaque
 
 liäs    : [n.] link {? French 'lier'}
 -> aliäs : [v.] link, bind, connect
@@ -1246,8 +1247,11 @@ mis : {? French 'nid'}
 
 === building ===
 pilar : [n.] pillar; support, foundation {English 'pillar'}
-dal   : [n.] slab {French 'dalle'}
-most  : [n.] bridge {Serbian 'мост'}
+dal : [n.] slab {French 'dalle'}
+most : [n.] bridge {Serbian 'мост'}
+teg : [n.] roof; ceiling; ceiling (upper limit) {Original}
+-> tega : [n.] hut, shack; shelter
+tom : [n.] floor; ground; floor (lower limit) {Original}
 simänt : {French 'ciment', English 'cement'}
 -- [m.] cement
 -- [v.] [trans] cement (in) @@
@@ -2163,8 +2167,8 @@ gil : [v.] [n.] help {Scottish Gaelic 'gille' via English 'gillie'}
 studer : [v.] study {Latin 'studere' via English 'study'}
 -> studerin : [n.] study, research
 
-tegär  : [v.] meet, encounter, frequent {Original}
--> tegärin : [n.] meeting; date
+tagär  : [v.] meet, encounter, frequent {Original}
+-> tagärin : [n.] meeting; date
 
 päs : {Original}
 -- [v.] [trans] feed, nourish
