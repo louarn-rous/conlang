@@ -5,7 +5,7 @@ It is synthetic, fusional and mildly inflected. It utilises SVO (Subject-Verb-Ob
 
 1. [Alphabet](#Alphabet)
 2. [Phonology](#Phonology)  
-a. [Consonants](#Consonants)  
+a. [Consonants](#Consonants)
 b. [Vowels](#Vowels)
 c. [Semivowels](#Semivowels)
 d. [Digraphs](#Digraphs)
