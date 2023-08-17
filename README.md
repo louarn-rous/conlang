@@ -96,7 +96,8 @@ A unique feature of Ijter is the possibility of combining a personal pronoun wit
 
 ## Phonotactics
 
-When a fricative is followed by a plosive, or vice versa, the latter preserves the rounded/unroundedness of the other.
+In consonant clusters terminates by an obstruent, all change their voicing according to the first.  
+Prograde voicing assimilation occurs, even across word boundaries.
 
 | t/d      | p/b      | k/g      |
 | -        | -        | -        |
