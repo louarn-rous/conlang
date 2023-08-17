@@ -3,16 +3,39 @@
 Ižter (localized in English as 'Ijter') is a constructed language with no specific purpose.  
 It is synthetic, fusional and mildly inflected. It utilises SVO (Subject-Verb-Object) word order.
 
-1. [Phonology](#Phonology)  
+1. [Alphabet](#Alphabet)
+2. [Phonology](#Phonology)  
 a. [Consonants](#Consonants)  
 b. [Vowels](#Vowels)
-3. [Alphabet](#Alphabet)
+c. [Semivowels](#Semivowels)
+d. [Digraphs](#Digraphs)
+e. [Phonotactics](#Phonotactics)
+e. [Diphtongs](#Diphtongs)
 4. [Verbs](#Verbs)
 5. [Pronouns](#Pronouns)
 6. [Phonotactics](#Phonotactics)
 7. [Braille](#Braille)
 8. [Morse](#Morse)
 9. [Other](#Other)
+
+## Alphabet
+The Ijter language employs both a Latin and a Cyrillic script.
+
+| IPA | English               |Lat.|Cyr.|Name| IPA | English                 |Lat.|Cyr.|Name|
+|:---:|:---                   |:-: |:-: |:-: |:---:|:---                     |:-: |:-: |:-: |
+| /a/ | 'h**a**t' (Cali, Can) | Aa | Аа | aa | /o/ | 'y**aw**n' (SA)         | Oo | Оо | oo |
+| /ɛ/ | 'y**e**s'             | Ää | Ӓӓ | ää | /ø/ | 'b**ir**d' (Broad NZ)   | Öö | Ӧӧ | öö |
+| /b/ | '**b**all'            | Bb | Бб | be | /p/ | '**p**en'               | Pp | Пп | pe |
+| /d/ | '**d**og'             | Dd | Дд | de | /ɾ/ | 'be**tt**er' (Aus, NAE) | Rr | Рр | är |
+| /e/ | 'h**a**y'             | Ee | Ее | ee | /s/ | '**s**un'               | Ss | Сс | äs |
+| /v/ | '**v**ine'            | Vv | Вв | ve | /ʃ/ | '**sh**oe'              | Šš | Шш | äš |
+| /g/ | '**g**oat'            | Gg | Гг | ge | /t/ | '**t**op'               | Tt | Тт | te |
+| /i/ | 'b**ee**'             | Ii | Іі | ii | /u/ | 'fr**u**it'             | Uu | Уу | uu |
+| /j/ | '**y**ak'             | Jj | Јј | je | /y/ | 'f**ew**' (Gen. SA)     | Üü | Ӱӱ | üü |
+| /k/ | '**k**ey'             | Kk | Кк | ke | /z/ | '**z**oo'               | Zz | Зз | ze |
+| /l/ | '**l**eg'             | Ll | Лл | äl | /ʒ/ | 'vi**si**on'            | Žž | Жж | že |
+| /m/ | '**m**ail'            | Mm | Мм | äm | /f/ | '**f**ish'              | Ff | Фф | äf |
+| /n/ | '**n**et'             | Nn | Нн | än | /h/ | '**h**ome'              | Hh | Һһ | he |
 
 ## Phonology
 
@@ -41,24 +64,84 @@ else if it precedes a plosive, it is rendered as /x/.
 ⟨u⟩ is oft realized as \[ɯ], especially if it is the nucleus of a null-coda syllable.  
 ⟨u⟩ is occasionally realized as \[ʊ], especially after another vowel.  
  
-## Alphabet
-The Ijter language employs both a Latin and a Cyrillic script.
+### Semivowels
 
-| IPA | English               |Lat.|Cyr.|Name| IPA | English                 |Lat.|Cyr.|Name|
-|:---:|:---                   |:-: |:-: |:-: |:---:|:---                     |:-: |:-: |:-: |
-| /a/ | 'h**a**t' (Cali, Can) | Aa | Аа | aa | /o/ | 'y**aw**n' (SA)         | Oo | Оо | oo |
-| /ɛ/ | 'y**e**s'             | Ää | Ӓӓ | ää | /ø/ | 'b**ir**d' (Broad NZ)   | Öö | Ӧӧ | öö |
-| /b/ | '**b**all'            | Bb | Бб | be | /p/ | '**p**en'               | Pp | Пп | pe |
-| /d/ | '**d**og'             | Dd | Дд | de | /ɾ/ | 'be**tt**er' (Aus, NAE) | Rr | Рр | är |
-| /e/ | 'h**a**y'             | Ee | Ее | ee | /s/ | '**s**un'               | Ss | Сс | äs |
-| /v/ | '**v**ine'            | Vv | Вв | ve | /ʃ/ | '**sh**oe'              | Šš | Шш | äš |
-| /g/ | '**g**oat'            | Gg | Гг | ge | /t/ | '**t**op'               | Tt | Тт | te |
-| /i/ | 'b**ee**'             | Ii | Іі | ii | /u/ | 'fr**u**it'             | Uu | Уу | uu |
-| /j/ | '**y**ak'             | Jj | Јј | je | /y/ | 'f**ew**' (Gen. SA)     | Üü | Ӱӱ | üü |
-| /k/ | '**k**ey'             | Kk | Кк | ke | /z/ | '**z**oo'               | Zz | Зз | ze |
-| /l/ | '**l**eg'             | Ll | Лл | äl | /ʒ/ | 'vi**si**on'            | Žž | Жж | že |
-| /m/ | '**m**ail'            | Mm | Мм | äm | /f/ | '**f**ish'              | Ff | Фф | äf |
-| /n/ | '**n**et'             | Nn | Нн | än | /h/ | '**h**ome'              | Hh | Һһ | he |
+| Letter | Vowel ~ Semivowel |
+|:-: |:-:         |
+| ⟨i⟩ | /i/ ~ \[j] |
+| ⟨u⟩ | /u/ ~ \[w] |
+| ⟨ü⟩ | /y/ ~ \[ɥ] |
+
+The above vowels are realized as semiconsonants when preceding or proceeding a different vowel.
+
+when ⟨j⟩ follows a plosive and precedes another vowel, it provokes the palatization of the aforementioned plosive:
+
+| ⟨pi⟩   | ⟨bi⟩   | ⟨ti⟩   | ⟨di⟩   | ⟨ki⟩   | ⟨gi⟩   |
+| :-:   | :-:   | :-:   | :-:   | :-:   | :-:   |
+| \[pʲ] | \[bʲ] | \[tʲ] | \[dʲ] | \[kʲ] | \[gʲ] |
+
+when ⟨ü⟩ follows a plosive and precedes another vowel, it provokes the labio-palatization of the aforementioned plosive:
+
+| ⟨pü⟩   | ⟨bü⟩   | ⟨tü⟩   | ⟨dü⟩   | ⟨kü⟩   | ⟨gü⟩   |
+| :-:   | :-:   | :-:   | :-:   | :-:   | :-:   |
+| \[pᶣ] | \[bᶣ] | \[tᶣ] | \[dᶣ] | \[kᶣ] | \[gᶣ] |
+
+when ⟨u⟩ follows a plosive and precedes another vowel, it provokes the labialization of the aforementioned plosive:
+
+| ⟨pu⟩   | ⟨bu⟩   | ⟨tu⟩   | ⟨du⟩   | ⟨ku⟩   | ⟨gu⟩   |
+| :-:   | :-:   | :-:   | :-:   | :-:   | :-:   |
+| \[pʷ] | \[bʷ] | \[tʷ] | \[dʷ] | \[kʷ] | \[gʷ] |
+
+### Digraphs
+| -           | -           | -           | -           |  -          |
+|:----------: |:----------: |:----------: |:----------: |:----------: |
+| ⟨šh⟩ → \[ɕ]  | ⟨ts⟩ → \[t͡s] | ⟨dz⟩ → \[d͡z] | ⟨lj⟩ → \[ʎ]  | ⟨ng⟩ → \[ŋ]  |
+| ⟨žh⟩ → \[ʑ]  | ⟨tš⟩ → \[t͡ʃ] | ⟨dž⟩ → \[d͡ʒ] | ⟨ht⟩ → \[xt] | ⟨nj⟩ → \[ɲ]  |
+
+### Diphtongs
+| - | ⟨e | ⟨i | ⟨a | ⟨ä | ⟨o | ⟨ö | ⟨u | ⟨ü |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| e⟩ | \[eː] | - | \[ɐe̞] | - | - | - | - | - |
+| i⟩ | - | \[iː] | - | - | - | - | - | - |
+| a⟩ | \[e̞ɐ] | - | \[aː] | - | - | - | - | - |
+| ä⟩ | - | - | - | \[ɛː] | - | - | - | - |
+| o⟩ | - | - | - | - | \[oː] | - | - | - |
+| ö⟩ | - | - | - | - | - | \[øː] | - | - |
+| u⟩ | - | - | - | - | - | - | \[uː] | - |
+| ü⟩ | - | - | - | - | - | - | - | \[yː] |
+
+### Phonotactics
+
+Syllable structure is (C)(C)V(C)(C).
+
+if ⟨si⟩ is the body of a first syllable, it is realized as \[çi].  
+
+⟨er⟩ is oft realized as \[ɪɾ].  
+
+**Assimilation**
+
+In consonant clusters terminated by an obstruent, all change their voicing according to the first.  
+Prograde voicing assimilation occurs, even across word boundaries.
+
+| t/d      | p/b      | k/g      |
+| :-:      | :-:      | :-:      |
+| ⟨tv⟩ → tf | ⟨pv⟩ → pf | ⟨kv⟩ → kf |
+| ⟨tz⟩ → ts | ⟨pz⟩ → ps | ⟨kz⟩ → ks |
+| ⟨tž⟩ → tš | ⟨pž⟩ → pš | ⟨kž⟩ → kš |
+| ⟨df⟩ → dv | ⟨bf⟩ → bv | ⟨gf⟩ → gv |
+| ⟨ds⟩ → dz | ⟨bs⟩ → bz | ⟨gs⟩ → gz |
+| ⟨dš⟩ → dž | ⟨bš⟩ → bž | ⟨gš⟩ → gž |
+| ⟨fd⟩ → ft | ⟨fb⟩ → fp | ⟨fg⟩ → fk |
+| ⟨sd⟩ → st | ⟨sb⟩ → sp | ⟨sg⟩ → sk |
+| ⟨šd⟩ → št | ⟨šb⟩ → šp | ⟨šg⟩ → šk |
+| ⟨vt⟩ → vd | ⟨vp⟩ → vb | ⟨vk⟩ → vg | 
+| ⟨zt⟩ → zd | ⟨zp⟩ → zb | ⟨zk⟩ → zg |
+| ⟨žt⟩ → žd | ⟨žp⟩ → žb | ⟨žk⟩ → žg |
+
+| s/z      | š/ž      |
+| :-:      | :-:      |
+| ⟨sv⟩ → sf | ⟨šv⟩ → šf |
+| ⟨zf⟩ → zv | ⟨žf⟩ → žv |
 
 ## Verbs
 
@@ -94,88 +177,9 @@ A unique feature of Ijter is the possibility of combining a personal pronoun wit
 | mönen _colleague_ | a colleague of mine          | my-a(n) colleague |
 | söner fränden     | those friends of theirs (sg) | their-the friends |
 
-## Phonotactics
 
-In consonant clusters terminated by an obstruent, all change their voicing according to the first.  
-Prograde voicing assimilation occurs, even across word boundaries.
 
-| t/d      | p/b      | k/g      |
-| :-:      | :-:      | :-:      |
-| ⟨tv⟩ → tf | ⟨pv⟩ → pf | ⟨kv⟩ → kf |
-| ⟨tz⟩ → ts | ⟨pz⟩ → ps | ⟨kz⟩ → ks |
-| ⟨tž⟩ → tš | ⟨pž⟩ → pš | ⟨kž⟩ → kš |
-| ⟨df⟩ → dv | ⟨bf⟩ → bv | ⟨gf⟩ → gv |
-| ⟨ds⟩ → dz | ⟨bs⟩ → bz | ⟨gs⟩ → gz |
-| ⟨dš⟩ → dž | ⟨bš⟩ → bž | ⟨gš⟩ → gž |
-| ⟨fd⟩ → ft | ⟨fb⟩ → fp | ⟨fg⟩ → fk |
-| ⟨sd⟩ → st | ⟨sb⟩ → sp | ⟨sg⟩ → sk |
-| ⟨šd⟩ → št | ⟨šb⟩ → šp | ⟨šg⟩ → šk |
-| ⟨vt⟩ → vd | ⟨vp⟩ → vb | ⟨vk⟩ → vg | 
-| ⟨zt⟩ → zd | ⟨zp⟩ → zb | ⟨zk⟩ → zg |
-| ⟨žt⟩ → žd | ⟨žp⟩ → žb | ⟨žk⟩ → žg |
 
-| s/z      | š/ž      |
-| :-:      | :-:      |
-| ⟨sv⟩ → sf | ⟨šv⟩ → šf |
-| ⟨zf⟩ → zv | ⟨žf⟩ → žv |
-
-### Semivowels
-
-| Letter | Vowel ~ Semivowel |
-|:-: |:-:         |
-| ⟨i⟩ | /i/ ~ \[j] |
-| ⟨u⟩ | /u/ ~ \[w] |
-| ⟨ü⟩ | /y/ ~ \[ɥ] |
-
-The above vowels are realized as semiconsonants when preceding or proceeding a different vowel.
-
-when ⟨j⟩ follows a plosive and precedes another vowel, it provokes the palatization of the aforementioned plosive:
-
-| ⟨pi⟩   | ⟨bi⟩   | ⟨ti⟩   | ⟨di⟩   | ⟨ki⟩   | ⟨gi⟩   |
-| :-:   | :-:   | :-:   | :-:   | :-:   | :-:   |
-| \[pʲ] | \[bʲ] | \[tʲ] | \[dʲ] | \[kʲ] | \[gʲ] |
-
-when ⟨ü⟩ follows a plosive and precedes another vowel, it provokes the labio-palatization of the aforementioned plosive:
-
-| ⟨pü⟩   | ⟨bü⟩   | ⟨tü⟩   | ⟨dü⟩   | ⟨kü⟩   | ⟨gü⟩   |
-| :-:   | :-:   | :-:   | :-:   | :-:   | :-:   |
-| \[pᶣ] | \[bᶣ] | \[tᶣ] | \[dᶣ] | \[kᶣ] | \[gᶣ] |
-
-when ⟨u⟩ follows a plosive and precedes another vowel, it provokes the labialization of the aforementioned plosive:
-
-| ⟨pu⟩   | ⟨bu⟩   | ⟨tu⟩   | ⟨du⟩   | ⟨ku⟩   | ⟨gu⟩   |
-| :-:   | :-:   | :-:   | :-:   | :-:   | :-:   |
-| \[pʷ] | \[bʷ] | \[tʷ] | \[dʷ] | \[kʷ] | \[gʷ] |
-
-### Digraphs
-
-| -           | -           | -           | -           | 
-|:----------: |:----------: |:----------: |:----------: |
-| ⟨kh⟩ → \[kʰ] | ⟨kj⟩ → \[kʲ] |  →  | ⟨ng⟩ → \[ŋ]  |
-| ⟨gh⟩ → \[gʰ] | ⟨gj⟩ → \[gʲ] | ⟨gu⟩ → \[gʷ] | ⟨nj⟩ → \[ɲ]  |
-| ⟨šh⟩ → \[ɕ]  | ⟨ts⟩ → \[t͡s] | ⟨dz⟩ → \[d͡z] | ⟨lj⟩ → \[ʎ]  |
-| ⟨žh⟩ → \[ʑ]  | ⟨tš⟩ → \[t͡ʃ] | ⟨dž⟩ → \[d͡ʒ] | ⟨ht⟩ → \[xt] |
-
-### Diphtongs
-
-| - | ⟨e | ⟨i | ⟨a | ⟨ä | ⟨o | ⟨ö | ⟨u | ⟨ü |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| e⟩ | \[eː] | - | \[ɐe̞] | - | - | - | - | - |
-| i⟩ | - | \[iː] | - | - | - | - | - | - |
-| a⟩ | \[e̞ɐ] | - | \[aː] | - | - | - | - | - |
-| ä⟩ | - | - | - | \[ɛː] | - | - | - | - |
-| o⟩ | - | - | - | - | \[oː] | - | - | - |
-| ö⟩ | - | - | - | - | - | \[øː] | - | - |
-| u⟩ | - | - | - | - | - | - | \[uː] | - |
-| ü⟩ | - | - | - | - | - | - | - | \[yː] |
-
-### Phonemics
-
-if ⟨si⟩ is the body of a first syllable, it is realized as \[çi].  
-
-⟨er⟩ is oft realized as \[ɪɾ].  
-
-Syllable structure is (C)(C)V(C)(C).
 
 ## Braille
 
