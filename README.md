@@ -129,11 +129,23 @@ Prograde voicing assimilation occurs, even across word boundaries.
 
 The above vowels are realized as semiconsonants when preceding or proceeding a different vowel.
 
+when ⟨j⟩ follows a plosive and precedes another vowel, it provokes the palatization of the aforementioned plosive:
+
+| ⟨pi⟩   | ⟨bi⟩   | ⟨ti⟩   | ⟨di⟩   | ⟨ki⟩   | ⟨gi⟩   |
+| :-:   | :-:   | :-:   | :-:   | :-:   | :-:   |
+| \[pʲ] | \[bʲ] | \[tʲ] | \[dʲ] | \[kʲ] | \[gʲ] |
+
+when ⟨ü⟩ follows a plosive and precedes another vowel, it provokes the labio-palatization of the aforementioned plosive:
+
+| ⟨pü⟩   | ⟨bü⟩   | ⟨tü⟩   | ⟨dü⟩   | ⟨kü⟩   | ⟨gü⟩   |
+| :-:   | :-:   | :-:   | :-:   | :-:   | :-:   |
+| \[pᶣ] | \[bᶣ] | \[tᶣ] | \[dᶣ] | \[kᶣ] | \[gᶣ] |
+
 when ⟨u⟩ follows a plosive and precedes another vowel, it provokes the labialization of the aforementioned plosive:
 
-| ⟨ku⟩   | ⟨gu⟩   |
-| :-:   | :-:   |
-| \[kʷ] | \[gʷ] |
+| ⟨pu⟩   | ⟨bu⟩   | ⟨tu⟩   | ⟨du⟩   | ⟨ku⟩   | ⟨gu⟩   |
+| :-:   | :-:   | :-:   | :-:   | :-:   | :-:   |
+| \[pʷ] | \[bʷ] | \[tʷ] | \[dʷ] | \[kʷ] | \[gʷ] |
 
 ### Digraphs
 
