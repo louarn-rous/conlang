@@ -19,7 +19,7 @@ b. [Vowels](#Vowels)
 ### Consonants
 | -                | Labial  | Alveolar  | Postalveolar | Palatal | Velar | Glottal |
 |:---------------- |:-------:|:---------:|:---------:|:---: |:-------:|:---:|
-| Nasal            | /m/     | /n/       |           |       | _/ŋ/_     |       |
+| Nasal            | /m/     | /n/       |           | _/ɲ/_   | _/ŋ/_     |       |
 | Plosive          | /p/ /b/ | /t/ /d/   |           |       | /k/ /ɡ/ |       |
 | Affricate        |         | /ts/ /dz/ | /tʃ/ /dʒ/ |       |         |       |
 | Fricative        | /f/ /v/ | /s/ /z/   | /ʃ/ /ʒ/   | /ʝ~j/ | _/x/_     | /h/   |
@@ -129,11 +129,17 @@ Prograde voicing assimilation occurs, even across word boundaries.
 
 The above vowels are realized as semiconsonants when preceding or proceeding a different vowel.
 
+when ⟨u⟩ follows a plosive and precedes another vowel, it provokes the labialization of the aforementioned plosive:
+
+| ⟨ku⟩   | ⟨gu⟩   |
+| :-:   | :-:   |
+| \[kʷ] | \[gʷ] |
+
 ### Digraphs
 
 | -           | -           | -           | -           | 
 |:----------: |:----------: |:----------: |:----------: |
-| ⟨kh⟩ → \[kʰ] | ⟨kj⟩ → \[kʲ] | ⟨ku⟩ → \[kʷ] | ⟨ng⟩ → \[ŋ]  |
+| ⟨kh⟩ → \[kʰ] | ⟨kj⟩ → \[kʲ] |  →  | ⟨ng⟩ → \[ŋ]  |
 | ⟨gh⟩ → \[gʰ] | ⟨gj⟩ → \[gʲ] | ⟨gu⟩ → \[gʷ] | ⟨nj⟩ → \[ɲ]  |
 | ⟨šh⟩ → \[ɕ]  | ⟨ts⟩ → \[t͡s] | ⟨dz⟩ → \[d͡z] | ⟨lj⟩ → \[ʎ]  |
 | ⟨žh⟩ → \[ʑ]  | ⟨tš⟩ → \[t͡ʃ] | ⟨dž⟩ → \[d͡ʒ] | ⟨ht⟩ → \[xt] |
