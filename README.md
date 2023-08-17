@@ -96,37 +96,36 @@ A unique feature of Ijter is the possibility of combining a personal pronoun wit
 
 ## Phonotactics
 
-In consonant clusters terminates by an obstruent, all change their voicing according to the first.  
+In consonant clusters terminated by an obstruent, all change their voicing according to the first.  
 Prograde voicing assimilation occurs, even across word boundaries.
 
 | t/d      | p/b      | k/g      |
-| -        | -        | -        |
+| :-:      | :-:      | :-:      |
+| ⟨tv⟩ → tf | ⟨pv⟩ → pf | ⟨kv⟩ → kf |
 | ⟨tz⟩ → ts | ⟨pz⟩ → ps | ⟨kz⟩ → ks |
 | ⟨tž⟩ → tš | ⟨pž⟩ → pš | ⟨kž⟩ → kš |
+| ⟨df⟩ → dv | ⟨bf⟩ → bv | ⟨gf⟩ → gv |
 | ⟨ds⟩ → dz | ⟨bs⟩ → bz | ⟨gs⟩ → gz |
 | ⟨dš⟩ → dž | ⟨bš⟩ → bž | ⟨gš⟩ → gž |
+| ⟨fd⟩ → ft | ⟨fb⟩ → fp | ⟨fg⟩ → fk |
 | ⟨sd⟩ → st | ⟨sb⟩ → sp | ⟨sg⟩ → sk |
 | ⟨šd⟩ → št | ⟨šb⟩ → šp | ⟨šg⟩ → šk |
+| ⟨vt⟩ → vd | ⟨vp⟩ → vb | ⟨vk⟩ → vg | 
 | ⟨zt⟩ → zd | ⟨zp⟩ → zb | ⟨zk⟩ → zg |
 | ⟨žt⟩ → žd | ⟨žp⟩ → žb | ⟨žk⟩ → žg |
-| -        | -        | -        |
-| ⟨fd⟩ → ft | ⟨fb⟩ → fp | ⟨fg⟩ → fk |
-| ⟨vt⟩ → vd | ⟨vp⟩ → vb | ⟨vk⟩ → vg | 
-
-this is the same with two fricatives:
 
 | s/z      | š/ž      |
-| -        | -        |
+| :-:      | :-:      |
 | ⟨sv⟩ → sf | ⟨šv⟩ → šf |
 | ⟨zf⟩ → zv | ⟨žf⟩ → žv |
 
 ### Semivowels
 
-| Letter | Vowel | Semivowel |
-|:-: |:-:  |:-:   |
-| ⟨i⟩ | /i/ | \[j] |
-| ⟨u⟩ | /u/ | \[w] |
-| ⟨ü⟩ | /y/ | \[ɥ] |
+| Letter | Vowel ~ Semivowel |
+|:-: |:-:         |
+| ⟨i⟩ | /i/ ~ \[j] |
+| ⟨u⟩ | /u/ ~ \[w] |
+| ⟨ü⟩ | /y/ ~ \[ɥ] |
 
 The above vowels are realized as semiconsonants when preceding or proceeding a different vowel.
 
