@@ -19,10 +19,10 @@ b. [Vowels](#Vowels)
 ### Consonants
 | -                | Labial  | Alveolar  | Postalveolar | Palatal | Velar | Glottal |
 |:---------------- |:-------:|:---------:|:---------:|:---: |:-------:|:---:|
-| Nasal            | /m/     | /n/       |           |       |         |       |
+| Nasal            | /m/     | /n/       |           |       | _/ŋ/_     |       |
 | Plosive          | /p/ /b/ | /t/ /d/   |           |       | /k/ /ɡ/ |       |
 | Affricate        |         | /ts/ /dz/ | /tʃ/ /dʒ/ |       |         |       |
-| Fricative        | /f/ /v/ | /s/ /z/   | /ʃ/ /ʒ/   | /ʝ~j/ | /x/     | /h/   |
+| Fricative        | /f/ /v/ | /s/ /z/   | /ʃ/ /ʒ/   | /ʝ~j/ | _/x/_     | /h/   |
 | Tap/Flap         |         | /ɾ/       |           |       |         |       |
 | Lat. Approximant |         | /l/       |           |       |         |       |
 
