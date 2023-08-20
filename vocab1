@@ -1703,6 +1703,7 @@ maris : [v.] remember, recall {Original}
 -> marisfär : [adj.] memorable
 ----> marisfärt : [adv.] memorably
 oblis : [v.] forget {Latin 'obliviscor' via French 'oublier'}
+štuz : [v.] pretend, feign {Original}
 
 vis : [v.] see, perceive, view, look, observe {Latin 'visio' via English & French 'vision'}
 -> visina : [n.] view, perspective, observation
@@ -2190,9 +2191,14 @@ limit : [v.] [trans] limit {French 'limite', English}
 -> limitör : [n.] device that limits
 -> limitin : [n.] limit
 
-punit : [v.] punish {Latin 'punio' via English 'punish' & French 'punir'}
+punit : [v.] punish {Latin 'punio' via English 'punish' & French 'punir'} ##
 -> punitina : [n.] punishment
 -> punitäs : [adj.] punitive
+pen : [v.] fine, punishment {Latin 'poena' via English 'penalty' & French 'peine'}
+-> penäs : [adj.] penal
+----> penäst : [adv.] penally
+-> penin : [n.] penalty
+----> penina : [n.] (act of) punishment 
 
 list : {French 'liste', English}
 -- [v.] list
