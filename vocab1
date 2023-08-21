@@ -87,7 +87,8 @@ a    : [prep.] at {French 'à'}
 u    : [prep.] at, in, near, by {Russian 'у'}  
 gešt : [prep.] against {German 'gegen', English 'against'}  
 -> irgešt : [v.] oppose, go against  
-sär   : [prep.] in the form(at) of  
+sär   : [prep.] in the form(at) of
+-> -sär : [suf.] in the form of the suffixed word
 isän  : [prep.] ablative (about, concerning)  
 urund : [prep.] circumlative (around, about) {from 'u' + 'rund'}
 tra(s) : [prep.] across, through {Breton 'tra'}
@@ -1247,6 +1248,8 @@ mis : {? French 'nid'}
 ----> štogtröbör : [n.] garbage collector
 -- [v.] pollute
 ----> štogör : [n.] polluter
+tem : [n.] table {Spanish 'mesa', Latin 'tabula' via French & English 'table'}
+-> temsär, temät : [adj.] tabular
 
 === building ===
 pilar : [n.] pillar; support, foundation {English 'pillar'}
