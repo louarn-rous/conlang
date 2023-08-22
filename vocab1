@@ -26,8 +26,8 @@ ait : [det.] each, every
 -> artu : [det.] all
 
 === prepositions ===
-us  : [prep.] ablative, genitive ('from', 'of', authorship)  
-öd  : [prep.] allative, benefactive ('to', 'for')  
+us : [prep.] ablative, genitive ('from', 'of', authorship)  
+öd : [prep.] allative, benefactive ('to', 'for')  
 -> öduz : [adv.] together  
 -> öde : [prep.] benefactive ('for', 'in favour/support/the objective of', 'so that')  
 -> ödvär : [adj.] towards  
@@ -65,11 +65,11 @@ ust : [prep.] out (outside of, away from, not in) {French 'ouste'}
 ----> ustirin : [n.] exit, leave; escape, getaway  
 ----> austir : [v.] expel, oust, drive away, kick out  
 
-ob   : [prep.] on (top of) {German 'ober', ? 'ob'}  
+ob : [prep.] on (top of) {German 'ober', ? 'ob'}  
 -> ob(e)- : [prf.] over-, super-  
 -> štob : [prep.] above, over  
 -> obpar : [n.] overside, top, surface  
-us   : [prep.] under(neath)  {French 'sous', German 'unter'}  
+us : [prep.] under(neath)  {French 'sous', German 'unter'}  
 -> us(e)- : [prf.] under-, sub-  
 -> surma : [prep.] below, under  
 -> uspar : [n.] underside
@@ -83,13 +83,13 @@ ant : [prep.] between, among {Latin 'inter' via English 'internal', ? French 'en
 -> antvär : [adj.] towards between  
 ----> antvär : [adv.] towards between
 
-a    : [prep.] at {French 'à'}  
-u    : [prep.] at, in, near, by {Russian 'у'}  
+a : [prep.] at {French 'à'}  
+u : [prep.] at, in, near, by {Russian 'у'}  
 gešt : [prep.] against {German 'gegen', English 'against'}  
 -> irgešt : [v.] oppose, go against  
-sär   : [prep.] in the form(at) of
+sär : [prep.] in the form(at) of
 -> -sär : [suf.] in the form of the suffixed word
-isän  : [prep.] ablative (about, concerning)  
+isän : [prep.] ablative (about, concerning)  
 urund : [prep.] circumlative (around, about) {from 'u' + 'rund'}
 tra(s) : [prep.] across, through {Breton 'tra'}
 
@@ -100,15 +100,15 @@ sti : [prep.] as if, like so, similar to
 === conjunctions === 
 ur : [cnjc.] or {French 'ou', English 'or'}  
 -> nur : [cnjc.] nor; neither  
-e   : [cnjc.] and  {Italian, French 'e'}  
-uz  : [cnjc.] comitative ('with') {Croatian}  
+e : [cnjc.] and  {Italian, French 'e'}  
+uz : [cnjc.] comitative ('with') {Croatian}  
 -> nuz : [cnjc.] abessive ('without')
 ----> nuzin : [n.] lack
 ----> nuzät : [adj.] poor
 -------> nuzätein : [n.] poverty
 ----> -nuz : [suf.] abessive; forms abessive adjectives from nouns ('-less')
 
-mo    : [cnjc.] also, both, as well, again  
+mo : [cnjc.] also, both, as well, again  
 -> omo : [adj.] same, common  
 ----> omotänäs : [adj.] simultaneous  
 -------> omotänäst : [adv.] simultaneously  
@@ -120,7 +120,7 @@ mo    : [cnjc.] also, both, as well, again
 ----------> neomäst : [adv.] inequally, unequally  
 ----------> neomäsein : [n.] inequality
 
-nä    : [cnjc.] [causal] but, however {French 'mais'}  
+nä : [cnjc.] [causal] but, however {French 'mais'}  
 -> sežnä : [cnjc.] [causal] nevertheless, still, despite, anyway (preceding clause)  
 -> näst : [cnjc.] [causal] despite (of)  
 štöda : [cnjc.] [causal] because, since {Original}  
@@ -132,25 +132,25 @@ gän : [cjnc.] when, during the time that, at the time of the action of the foll
 si  : [cnjc.] if, in the case/condition that, given/supposing/assuming that {French}
 
 === affixes ===  
--en     : [suf.] plural (after closed syllable) {German}  
--de     : [suf.] plural (after open syllable, or one ending with a nasal when there is already a nasal-terminated vowel before it)
--(n)u   : [suf.] diminutive {Turkish 'kuzu'}
--ina    : [suf.] verbal nominative; forms verbal nouns (the noun indicating the action of what is denoted by the verb) {Croatian 'batina'}  
--> -in   : [suf.] nominative; forms nouns from verbs, describing the result of an action  
+-en : [suf.] plural (after closed syllable) {German}  
+-de : [suf.] plural (after open syllable, or one ending with a nasal when there is already a nasal-terminated vowel before it)
+-(n)u : [suf.] diminutive {Turkish 'kuzu'}
+-ina : [suf.] verbal nominative; forms verbal nouns (the noun indicating the action of what is denoted by the verb) {Croatian 'batina'}  
+-> -in : [suf.] nominative; forms nouns from verbs, describing the result of an action  
 -> -(n)a : [suf.] augmentative
--(t)ör     : [suf.] agentive; forms agent nouns from verbs ('-er')  
+-(t)ör : [suf.] agentive; forms agent nouns from verbs ('-er')  
 -(s)ein : [suf.] forms nouns from adjectives, denoting the condition or state of the suffixed word ('-hood', '-dom', '-ness') {Archaic form: '-esin'}  
--(n)äs  : [suf.] genitive; forms adjectives from nouns, with the meaning 'of or pertaining to' the suffixed word ('-ic')  
+-(n)äs : [suf.] genitive; forms adjectives from nouns, with the meaning 'of or pertaining to' the suffixed word ('-ic')  
 -(n)ät :  
 -- [suf.] used to form adverbs from adjectives @@ verbs and nouns  
 -- [suf.] semblative; used to form adjectives from nouns, meaning resembling the suffixed word (esp. in behaviour)  
 -- [suf.] used to form adjectives from verbs, meaning 'inclined to' ###
 
--e      : [suf.]
+-e : [suf.]
 -- forms ordinal numbers {French '-ème')
 -- used to form nouns from adjectives
 
--a      : [suf.] used to mark a place
+-a : [suf.] used to mark a place
 -(n)i : [suf.] used to form nouns, indicating someone who is from a place
 -(j)an     : [suf.] used to form nouns, indicating someone with a connection to the suffixed word (German & English '-ling') {French}
 
@@ -159,13 +159,13 @@ a(s)- : [prf.] {French}
 -- used to form verbs from verbs, indicating the action of making an object do an action  
 -- used to form verbs from nouns, meaning to make into or create the prefixed noun
 
-ge(s)-    : [prf.] collective noun suffix {German}  
+ge(s)- : [prf.] collective noun suffix {German}  
 ne(s)- : [prf.] negatory; absent, lacking  
 de(s)- : [prf.] reversal or removal, lack of ('-dis', 'de-')  
 me(s)- : [prf.] badly or wrongly {French 'mal-', English 'mis-'}  
 re(s)- : [prf.] again; anew {French & English 're-'} 
 
--äst  : [suf.] [cntrc.] equiv. to -äs and -ät  
+-äst : [suf.] [cntrc.] equiv. to -äs and -ät  
 -värt : [suf.] [cntrc.] equiv. to -vär and -ät
 -färt : [suf.] [cntrc.] equiv. to -fär and -ät
 
@@ -266,7 +266,7 @@ or : [adj.] (the) next, subsequent {Original}
 -> ore : [cnjc.] then  
 -> döor : [prep.] [cnjc.] since
 
-i  : [adj.] (the) current, present {Japanese '今'}   
+i : [adj.] (the) current, present {Japanese '今'}   
 -> inat : [n.] today  
 ----> ina : [n.] now  
 -> iät : [adv.] currently  
@@ -298,7 +298,7 @@ na : [archaic]
 
 === interjections ===  
 halo : [intj.] greeting, call for response ('hello') {German 'Hallo'}  
-häj  : [intj.] exclamation, protest or reprimand, expression of surprise; informal greeting ('hey')  
+häj : [intj.] exclamation, protest or reprimand, expression of surprise; informal greeting ('hey')  
 nö : [intj.] negative; used to show disagreement or disbelief ('no') {German}  
 ja : {German, Dutch, Swedish}  
 -- [intj.] affirmative; used to show agreement or acceptance ('yes')  
@@ -379,67 +379,67 @@ mil : [num.] 1000 (thousand) {French 'mille'}
 kolor : {French 'colorer', English 'colour'}
 -- [n.] colour, pigment
 -- [v.] colour
-blo   : [m.] blue {Swedish 'blå'}
-brön  : [m.] brown {English 'brown' + 'grön'}
-gäl   : [m.] yellow {Swedish 'gul', German 'Gelb', Dutch 'geel'}
-griz  : [m.] grey {French 'grize'}
-grön  : [m.] green {German 'Grün'}
-van   : [m.] white {Breton 'gwenn'} 
-nor   : [m.] black {French 'noir', ? Italian 'notte'}
+blo : [m.] blue {Swedish 'blå'}
+brön : [m.] brown {English 'brown' + 'grön'}
+gäl : [m.] yellow {Swedish 'gul', German 'Gelb', Dutch 'geel'}
+griz : [m.] grey {French 'grize'}
+grön : [m.] green {German 'Grün'}
+van : [m.] white {Breton 'gwenn'} 
+nor : [m.] black {French 'noir', ? Italian 'notte'}
 oranž : [m.] orange {French, English 'orange'}
 -> oranž : [n.] orange (fruit)
-rod   : [m.] red {German 'rot', English 'red'}
-roz   : [m.] pink {French 'rose'}
-rus   : [m.] reddish-brown {French 'rousse'}
+rod : [m.] red {German 'rot', English 'red'}
+roz : [m.] pink {French 'rose'}
+rus : [m.] reddish-brown {French 'rousse'}
 
 === animals : animäten ===
 brin : [n.] cow {Breton 'brini'}
 -> brinäs : [adj.] bovine
 -> brinu  : [n.] calf
 -> gebrin : [n. unc.] cattle
-pors   : [n.] pig {Latin 'Porcus' via French 'porc'}
+pors : [n.] pig {Latin 'Porcus' via French 'porc'}
 -> porsäs : [adj.] porcine
 -> porsu  : [n.] piglet
-kuz    : [n.] sheep {Turkish 'kuzu'}
+kuz : [n.] sheep {Turkish 'kuzu'}
 -> kuzäs : [adj.] ovine
 -> kuzu  : [n.] lamb
-bok    : [n.] goat {Afrikaans}
+bok : [n.] goat {Afrikaans}
 -> bokäs : [adj.] caprine
 -> boku  : [n.] kid
-ekus   : [n.] horse {Latin 'equus'}
+ekus : [n.] horse {Latin 'equus'}
 -> ekusäs : [adj.] equine
 -> ekusu  : [n.] foal
-az     : [n.] donkey {Breton 'azen'}
+az : [n.] donkey {Breton 'azen'}
 -> azäs : [adj.] asinine
 -> azu  : [n.] donkey foal
-gupil  : [n.] fox {Old/Middle French 'goupil'}
+gupil : [n.] fox {Old/Middle French 'goupil'}
 -> gupiläs : [adj.] vulpine
 -> gupilu : [n.] fox cub
-kot    : [n.] cat {Polish, English 'cat', German 'Katze'}
+kot : [n.] cat {Polish, English 'cat', German 'Katze'}
 -> kotäs : [adj.] feline
 -> kotu  : [n.] kitten
-kärü   : [n.] dog {Estonian 'koer'}
+kärü : [n.] dog {Estonian 'koer'}
 -> kärüäs : [adj.] canine
 -> kärünu : [n.] pup, puppy
-luv    : [n.] wolf {Latin 'lupus' via French 'louve'}
+luv : [n.] wolf {Latin 'lupus' via French 'louve'}
 -> luväs : [adj.] lupine
 -> luvu  : [n.] wolf cub
-lapin  : [n.] rabbit {French}
+lapin : [n.] rabbit {French}
 -> lapinäs : [adj.] leporine
--> lapu    : [n.] kitten (rabbit)
-mus    : [n.] mouse {English 'mouse', French 'souris'}
+-> lapu : [n.] kitten (rabbit)
+mus : [n.] mouse {English 'mouse', French 'souris'}
 -> mus  : [n.] computer mouse
 -> musu : [n.] mouse pup
 -> musäs : [adj.] musine
-leo    : [n.] lion {Latin}
+leo : [n.] lion {Latin}
 -> leonäs : [adj.] leonine
 -> leonu  : [n.] lion cub
 pantär : [n.] panther {French 'panthère', Serbian 'пантери'}
 -> pantäru : [n.] panther cub
-urs    : [n.] bear {Latin 'ursus'}
+urs : [n.] bear {Latin 'ursus'}
 -> ursäs : [adj.] ursine
 -> ursu  : [n.] bear cub
-blär   : [n.] badger {French 'blaireau'}
+blär : [n.] badger {French 'blaireau'}
 -> bläräs : [adj.] meline
 -> bläru : [n.] badger cub
 -> stamblär : [n.] pangolin
@@ -453,30 +453,30 @@ ermin : [n.] ermine {French 'hermine', English 'ermine'}
 -> erminäs : [adj.] of or pertaining to ermines
 mostik : [n.] mosquito {French 'moustique', English 'mosquito'}
 
-oris   : [n.] bird {Anc. Greek 'ὄρνις'}
+oris : [n.] bird {Anc. Greek 'ὄρνις'}
 -> orisäs : [adj.] avian
-alar   : [n.] swan {Breton "alarc'h"}
+alar : [n.] swan {Breton "alarc'h"}
 -> alaräs : [adj.] cygnine
 otrüš  : [n.] ostrich {French 'otruche'}
-pol    : [n.] chicken {Spanish 'pollo'}
+pol : [n.] chicken {Spanish 'pollo'}
 -> polu : [n.] chick
 -> gepol : [n.] poultry
-gal    : [n.] rooster, hen {Latin 'gallus'}
+gal : [n.] rooster, hen {Latin 'gallus'}
 -> galäs : [adj.] gallinaceous
 korvas : [n.] crow, raven {Japanese '烏', Latin 'corvus' via English 'corvid' & French 'corbeau'}
 -> korväs : [adj.] corvine
-parok  : [n.] parrot, parrakeet {English 'parrot', French 'perroquet'}
+parok : [n.] parrot, parrakeet {English 'parrot', French 'perroquet'}
 -> parokäs : [adj.] psittacine
-rat    : [n.] rat {English, Latin 'rattus' via French 'rat'}
-žiraf  : [n.] giraffe {French 'giraffe'}
+rat : [n.] rat {English, Latin 'rattus' via French 'rat'}
+žiraf : [n.] giraffe {French 'giraffe'}
 -> žirafäs : [adj.] giraffine
-mono   : [n.] monkey {Spanish}
+mono : [n.] monkey {Spanish}
 -> monäs : [adj.] simian
 lüzd :
 -- [n.] worm
 ----> [adj.] vermicular
 -- [v.] squirm, wriggle, worm, crawl
-päsk   : [n.] fish {Breton 'pesk'}
+päsk : [n.] fish {Breton 'pesk'}
 -> päsktemätör : [n.] fishmonger
 -> päskäs : [adj.] piscine
 -> rodpäsk : [n.] goldfish {'rod' + }
@@ -488,19 +488,19 @@ skurne : [n.] snail {~ French 'escargot'}
 === crops, food, drink ===
 karot : [n.] carrot {French 'carrote'}
 radis : [n.] radish {French}
-biit  : [n.] beet {English 'beet'}
+biit : [n.] beet {English 'beet'}
 -> rodbiit : [n.] beetroot {'rod' + }
 patat : [n.] potato {French 'patate'}
-mili  : [n.] corn {Afrikaans 'mielie'}
-ris   : [n.] rice {French 'riz', English 'rice'}
+mili : [n.] corn {Afrikaans 'mielie'}
+ris : [n.] rice {French 'riz', English 'rice'}
 melon : [n.] melon {English}
 tomat : [n.] tomato {French 'tomate'}
 sitre : [n.] citrus; lemon {Latin 'citrus' via English, French 'citron'}
 -> grönsitre : lime {'grön' + }
 limonat : [n.] lemonade {Italian 'limonata'}
 onion : [n.] onion {French 'oignon'}
-soj   : [n.] soy {Satsuma Jp. '醤油' via Dutch 'soja' via French 'soja' & English 'soy'}
-nüs   : [n.] nut {French 'noix', English 'nut'}
+soj : [n.] soy {Satsuma Jp. '醤油' via Dutch 'soja' via French 'soja' & English 'soy'}
+nüs : [n.] nut {French 'noix', English 'nut'}
 -> nüskät : [n.] peanut {'nüs' + French 'cacahuète'}
 makademia : [n.] macadamia
 frut : {French, English 'fruit'}
@@ -556,7 +556,7 @@ glutän : [n.] gluten
 
 
 === plants & trees ===
-arb     : [n.] tree {French 'arbre'}
+arb : [n.] tree {French 'arbre'}
 mäts : {Estonian}
 -- [n. unc.] wood
 ----> mätstrošör : [n.] lumberjack {'mets' + 'troš' + '-ör'}
@@ -564,9 +564,9 @@ mäts : {Estonian}
 ----> gemäts : [n.] [collective] lumber
 -- [n.] forest, woods
 ----> mätsäs : [adj.] forestal
-burš    : [m.] birch {English 'birch', French 'bouleau}
-akašia  : [m.] acacia {English, French 'acacia'}
-lilak   : [n.] lilac {English 'lilac'}
+burš : [m.] birch {English 'birch', French 'bouleau}
+akašia : [m.] acacia {English, French 'acacia'}
+lilak : [n.] lilac {English 'lilac'}
 -> lila : [adj.] purple {Estonian 'lilla'}
 föl : {French 'feuille'}
 -- [n.] leaf
