@@ -526,33 +526,33 @@ käbab : {Arabic 'كباب' via English 'kebab' & French 'kébab'}
 -- [n.] juice
 -- [v.] to make into juice
 -----> žusör : [n.] machine that makes juice
-frit      : [n.] [v.] fry {French 'frite'}
-sup       : [n.] soup, stew {French 'soupe'}
-koko      : [n.] cocoa {French 'cacao', English 'cocoa'}
-šokola    : [m.] chocolate {French 'chocolat', Russian 'шоколад'}
-tart      : [n.] tart {French 'tarte'}
-formaž    : [n.] cheese {Italian 'formaggio' via French 'fromage'}
+frit : [n.] [v.] fry {French 'frite'}
+sup : [n.] soup, stew {French 'soupe'}
+koko : [n.] cocoa {French 'cacao', English 'cocoa'}
+šokola : [m.] chocolate {French 'chocolat', Russian 'шоколад'}
+tart : [n.] tart {French 'tarte'}
+formaž : [n.] cheese {Italian 'formaggio' via French 'fromage'}
 maskarpon : [n.] mascarpone {Italian 'mascarpone' via French & English}
-tšädar    : [n.] Cheddar (cheese) {English 'Cheddar'}
-te        : [n.] tea {German 'Tee'}
-kafe      : [n.] coffee {German 'Kaffee'}
+tšädar : [n.] Cheddar (cheese) {English 'Cheddar'}
+te : [n.] tea {German 'Tee'}
+kafe : [n.] coffee {German 'Kaffee'}
 -> kafesötör : [n.] coffee machine
-akal      : [n.] alcohol {Arabic 'أَكْحَال' via English 'alcohol' & French 'alcool'}
+akal : [n.] alcohol {Arabic 'أَكْحَال' via English 'alcohol' & French 'alcool'}
 -> akaläs : [adj.] alcoholic
-vodka     : [n.] vodka {Russian 'водка' via French, English 'vodka'}
-bier      : [n.] beer {French 'bière'}
-šister    : [n.] cider {Breton 'chistr'}
-jogurt    : [n.] yogurt
-bär       : [n.] berry {French 'baie', English 'berry'}
+vodka : [n.] vodka {Russian 'водка' via French, English 'vodka'}
+bier : [n.] beer {French 'bière'}
+šister : [n.] cider {Breton 'chistr'}
+jogurt : [n.] yogurt
+bär : [n.] berry {French 'baie', English 'berry'}
 -> norbär : [n.] blackberry
 -> blobär : [n.] blueberry
 -> rodbär : [n.] raspberry
 -> rusbär : [n.] cranberry
 -> rozbär : [n.] raspberry
-brot      : [n.] bread {German}
-nis       : [n.] wheat {Estonian 'nisu'}
-läi       : [n.] yeast; leavening agent (Estonian 'leib', French 'levure')
-glutän    : [n.] gluten
+brot : [n.] bread {German}
+nis : [n.] wheat {Estonian 'nisu'}
+läi : [n.] yeast; leavening agent (Estonian 'leib', French 'levure')
+glutän : [n.] gluten
 
 
 === plants & trees ===
@@ -572,35 +572,35 @@ föl : {French 'feuille'}
 -- [n.] leaf
 -- [n.] feather
 -> fölu : [n.] leaflet, strip of paper
-buis    : [n.] bush {Dutch, Afrikaans}
-vit     : [n.] vine {Latin 'vitis'}
-härb    : [n.] grass, herb {French 'herbe', English 'herb'}
+buis : [n.] bush {Dutch, Afrikaans}
+vit : [n.] vine {Latin 'vitis'}
+härb : [n.] grass, herb {French 'herbe', English 'herb'}
 -> härbäs : [adj.] herbal
 ----> härbäst : [adv.] herbally
-bambu   : [m.] bamboo {French 'bambou'}
-kaktüs  : [n.] cactus {French 'cactus'}
+bambu : [m.] bamboo {French 'bambou'}
+kaktüs : [n.] cactus {French 'cactus'}
 flor : {Italian 'fiore', French 'fleur'}
 -- [n.] flower
 ----> floräs : [adj.] floral
 -------> floräst : [adv.] florally
 ----> flortemätör : [n.] florist 
 -- [v.] [intrans] bloom, blossom, flower
-tülip   : [n.] tulip {French 'tulipe', English 'tulip'}
-säd     : [n.] grain; seed {Swedish}
-har     : [n.] shoot, bud
+tülip : [n.] tulip {French 'tulipe', English 'tulip'}
+säd : [n.] grain; seed {Swedish}
+har : [n.] shoot, bud
 -> haru : [n.] blossom
 
 === natural phenomena ===
-velt    : [n.] world {German 'Welt'}
+velt : [n.] world {German 'Welt'}
 -> veltäs : [adj.] wordly; actual, material
 ----> veltäst : [adv.] actually; materially
 säls : [n.] sky {Italian 'cielo', French & English 'celestial'}
 -> selsäs : [adj.] celestial
 ----> selsäst : [adv.] celestially
-vänt    : [n.] wind {Latin 'ventus'}
+vänt : [n.] wind {Latin 'ventus'}
 -> väntät : [adj.] windy
 -> väntäs : [adj.] aeolian
-briz    : [n.] breeze {French 'brize', English 'breeze'}
+briz : [n.] breeze {French 'brize', English 'breeze'}
 kumul : {Latin 'cumulus'}
 -- [n.] cloud
 ----> kumulät : [adj.] cloudy
@@ -617,10 +617,10 @@ snež : {English 'snow', French 'neige'}
 -- [n.] snow
 ----> snežät : [adj.] snowy
 -- [v.] [intrans] (of a powder or snow-like substance) snow 
-biom    : [n.] biome {French 'biome'}
+biom : [n.] biome {French 'biome'}
 džangal : [n.] jungle {Hindi 'जंगल' via English 'jungle'}
-miraž   : [n.] mirage {French 'mirage'}
-räviir  : [n.] river {French 'rivière', Afrikaans 'rivier'} 
+miraž : [n.] mirage {French 'mirage'}
+räviir : [n.] river {French 'rivière', Afrikaans 'rivier'} 
 -> räviiräs : [adj.] riverine
 
 === marine : maräs ===
@@ -632,7 +632,7 @@ osean : [n.] ocean {French 'océan'}
 koräl : [m.] coral {French 'corail', English 'coral'}
 perl : [m.] pearl {French 'perle'}
 -> perlät : [n.] pearly
-haj      : [n.] shark {Swedish}
+haj : [n.] shark {Swedish}
 -> hajäs : [adj.] selachian
 büj : [n.] buoy
 veg : [n.] [v.] wave {French 'vague', English 'wave'}
@@ -640,29 +640,30 @@ veg : [n.] [v.] wave {French 'vague', English 'wave'}
 
 
 === geological, mineral, geographic ===
-metal    : [m. unc.] metal {French 'métal'}
+metal : [m. unc.] metal {French 'métal'}
 -> metaltröb : [n.] metalwork {'metal' + 'tröb'}
 ----> metaltröbör : [n.] metalworker
 -> metaläs : [adj.] metallic
 ----> metaläst : [adv.] metallically
-bronz    : [m. unc.] bronze {English 'bronze'}
-fer      : [m. unc.] iron {French}
+bronz : [m. unc.] bronze {English 'bronze'}
+cupre : [m. unc.] copper {Late Latin 'cuprum' via French 'cuivre'}
+fer : [m. unc.] iron {French}
 -> feräs : [adj.] ferrous
-argänt   : [m. unc.] silver {Latin 'argentum' via French 'argent'}
-or       : [m. unc.] gold {French}
--> orät  : [adj.] golden {French}
-granit   : [m. unc.] granite {French 'granit' via Russian 'гранит'}
-kvardz   : [m. unc.] quartz {German 'Quarz' via French & English 'quartz'}
-diamant  : [m.] diamond {French, German 'Diamant'}
-emrod    : [m.] emerald {French 'émeraude', English 'emerald'}
-piät     : [m.] stone {Italian 'pietra', Latin 'petram'}
+argänt : [m. unc.] silver {Latin 'argentum' via French 'argent'}
+or : [m. unc.] gold {French}
+-> orät : [adj.] golden
+granit : [m. unc.] granite {French 'granit' via Russian 'гранит'}
+kvardz : [m. unc.] quartz {German 'Quarz' via French & English 'quartz'}
+diamant : [m.] diamond {French, German 'Diamant'}
+emrod : [m.] emerald {French 'émeraude', English 'emerald'}
+piät : [m.] stone {Italian 'pietra', Latin 'petram'}
 -> apiät : [v.] petrify
 -> gepiät : [n.] [collective] rock
 tärakota : [m.] terracotta {Italian 'terracotta'}
-magma    : [m. unc.] magma {Anc. Greek 'μάγμα' via French, English}
-piäs    : [m.] sand {Croatian 'pijesak'}
+magma : [m. unc.] magma {Anc. Greek 'μάγμα' via French, English}
+piäs : [m.] sand {Croatian 'pijesak'}
 graviir : [m.] gravel {French 'gravier', English 'gravel'}
-erts    : [n.] ore {German 'Erz'}
+erts : [n.] ore {German 'Erz'}
 
 lant : [n.] land, domain {German 'Land'}
 -> alant : [v.] [intrans] make contact/arrive at land surface from air or sea
@@ -674,7 +675,7 @@ ter : {French 'terre'}
 -------> teräst : [adv.] earthily
 -- [v.] (of electrical equipment) connect to the ground
 -- [v.] (of aircraft) prevent from flying
-feld    : [n.] field {German 'Feld'}
+feld : [n.] field {German 'Feld'}
 -> risfeld : [n.] rice field
 
 kristal : [n.] crystal {French 'cristal'}
