@@ -291,6 +291,10 @@ da : [ptcl.] interrogative, marks the preceding clause as a question
 sü : [ptcl.] existential, indicates 'there is/exists' concerning the object of the nominative-only clause it succeeds 
 
 se : [prn.] reflexive pronoun {French 'se'}
+-> sei : [n.] self, oneself, own
+----> seinuz : [adj.] selfless
+-------> seinuzät : [adv.] selflessly
+-> se(i)- : [prf.] self-, auto-
 
 na : [archaic]  
 -- [prep.] succeeds the subject of a sentence, marking it as the passive agent  
@@ -1897,6 +1901,8 @@ tör  : [v.] pull, drag, draw
 
 prös : [v.] [trans] [n.] push
 -> prösir : [v.] (usu. of a vehicle) drive
+-> seiprösäs : [adj.] automatic, automobile
+----> seiprösäst : [adv.] automatically
 präm : [v.] [trans] [n.] press
 -> prämin : [n.] pressure; stress
 -> apräm : [v.] pressure
@@ -2136,8 +2142,6 @@ bras : [v.] ferment, brew {French 'brasser'}
 
 ras : [v.] shear, shave; raze {French 'raser'}
 
-až
-
 visär : [v.] aim, target {'vis' + '-vär', French 'viser'}
 -> visärin : [n.] aim
 
@@ -2234,6 +2238,7 @@ tröb : {German 'Arbeit', French 'travail', English 'labour'}
 -- [n.] work, labour
 ----> tröbnuz : [adj.] unemployed
 -------> tröbnuzör : [n.] unemployed person
+----> seitröbuz : [adj.] self-employed
 
 štüt : [v.] support {? German 'stützen'}
 -> štütör : [n.] supporter
@@ -2246,6 +2251,8 @@ tortür : {French & English 'torture'}
 mord : {German 'morden'}
 -- [v.] kill, murder
 ----> mordör : [n.] killer, murderer
+----> seimord : [v.] commit suicide
+-------> seimordin : [n.] suicide
 -- [n.] murder
 
 šarž : ##
@@ -2276,6 +2283,9 @@ güst : {Latin 'gustus' via French 'goût' & English 'gustatory'}
 löv : [v.] [trans] lift [intrans] stand, rise {French 'lever'}
 -> lövina : [n.] stand, rising outrage
 -> štoblöv : [v.] [intrans] levitate, hover
+-> seilöväs : [adj.] autonomous, independent
+----> seilöväst : [adv.] autonomously, independently
+----> seilöväsein : [n.] autonomy
 
 spir : [v.] breathe {Latin 'spiro' via French 'inspirer'}
 -> spirina : [n.] breathing
