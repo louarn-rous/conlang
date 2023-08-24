@@ -14,9 +14,10 @@ It is synthetic, fusional and mildly inflected. It utilises SVO (Subject-Verb-Ob
 3. [Verbs](#Verbs)
 4. [Pronouns](#Pronouns)
 5. [Phonotactics](#Phonotactics)
-6. [Braille](#Braille)
-7. [Morse](#Morse)
-8. [Other](#Other)
+6. [Grammar](#Grammar)
+7. [Braille](#Braille)
+8. [Morse](#Morse)
+9. [Other](#Other)
 
 ## Alphabet
 The Ijter language employs both a Latin and a Cyrillic script.
@@ -121,7 +122,7 @@ if ⟨si⟩ is the body of a first syllable, it is realized as \[çi].
 **Assimilation**
 
 In consonant clusters terminated by an obstruent, all change their voicing according to the first.  
-Prograde voicing assimilation occurs, even across word boundaries.
+Prograde/progressive voicing assimilation occurs, even across word boundaries.
 
 | t/d      | p/b      | k/g      |
 | :-:      | :-:      | :-:      |
@@ -177,9 +178,13 @@ A unique feature of Ijter is the possibility of combining a personal pronoun wit
 | mönen _colleague_ | a colleague of mine          | my-a(n) colleague |
 | söner fränden     | those friends of theirs (sg) | their-the friends |
 
+## Grammar
 
+The order of different word classes is as follows:  
+Determiner - Noun - Adjective  
+Subject - (Catenative verb) - Verb - (Adverb) - (Object)  
 
-
+When a phrase contains a catenative verb in addition to a regular verb, the former is conjugated while the latter remains in its infinitive/root/unconjugated form.
 
 ## Braille
 
