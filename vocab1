@@ -705,7 +705,7 @@ mont :
 ----> montirör : [n.] mountaineer {'mont' + 'ir' + '-ör'}
 ----> montäs : [adj.] mountainous
 -------> montäst : [adv.] mountainously
-----> montu : [n.] hill
+----> montu : [n.] hill, mound
 -- [v.] [trans] to tower over, to dwarf
 min : {French 'mine'}
 -- [n.] mine, mineshaft
@@ -1202,7 +1202,8 @@ glas : {French 'glace'}
 ----> glasät : [adj.] icy
 -- [adj.] frozen
 ----> aglas : [v.] freeze
-uäs : water
+uis : [n.] water
+-> uissor : [n.] toilet {+ 'sor'}
 vir : {French 'ver'}
 -- [m.] glass
 ---> avir : [v.] to turn into glass
@@ -1217,7 +1218,8 @@ besät : [n.] team, crew {Swedish 'besättning'}
 
 === form ===
 štok : [n.] stick, branch; handle, rod {German 'Stock'}
-soru
+pot : [n.] pole, post; trunk {French 'poteau'}
+-> potu : [n.] bar, rod
 lin : [n.] line, string, cord, rope {French 'ligne'} ##
 bol : [n.] bowl {French}
 lozanž : {French 'losange'}
@@ -1239,6 +1241,7 @@ brik : [n.] brick, ingot {French 'brique', English 'brick'} #
 -> brik : [v.] [f:computing] (of a dev) become non-functional
 gan : [n.] hole, pit, chasm
 -> ganu : [n.] small hole
+pi : [n.]
 
 === house ===
 kav : [n.] basement {French 'cave'}
@@ -1433,7 +1436,6 @@ orde : [n.] order, arrangement, series {Latin 'ordo'}
 -> desorde : [n.] disorder, disarray
 ----> desordeät : [adj.] disorderly
 
-
 korb : [n.] basket {French 'corbeille'}
 -> korbu : [n.] parcel
 dat : [n.] bag
@@ -1441,6 +1443,8 @@ dat : [n.] bag
 not : [n.] brief record, usually written; score, mark or grade; [f:music] note
 mod : [n.] style, fashion, way, manner {French 'mode'}
 -> -mod : [suf.] used to form verbs from nouns, with the sence of playing the role of, or being the suffixed word
+sor : [n.] chest, trunk {Original
+-> soru : [n.] box
 
 lite : [n.] letter {Latin 'littera'}
 -> aliter : [v.] spell; alliterate
@@ -1632,6 +1636,8 @@ ir : [v.] [intrans] go, move (oneself) {French 'ira'}
 -------> urundiräst : [adv.] ambitiously
 -> visir : [v.] visit
 ----> visirin : [n.] visit
+-> ödir : [v.] follow; chase, pursue
+----> ödirin : [n.] chase, pursuit; hunt
 nim : [v.] walk {Latin 'anima' via French & English 'animal'}
 -> anim : [v.] to make move; animate, bring to life
 ----> animäs : [adj.] animal
