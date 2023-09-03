@@ -6,8 +6,8 @@ en : [det.] indefinite ('a'/'an') {English 'an', French 'un(e)'}
 
 is : [det.] proximal demonstrative ('this') {French 'ici'}  
 -> isa : [n.] proximal locative ('here')  
-üs : [det.] distal demonstrative ('that')  
--> üsa : [n.] distal locative ('there')
+as : [det.] distal demonstrative ('that')  
+-> asa : [n.] distal locative ('there')
 
 ža : [det.] interrogative ('what', 'which') {Croatian 'za'}  
 -> ödža : [det.] why {'öd' +}  
@@ -69,15 +69,15 @@ ob : [prep.] on (top of) {German 'ober', ? 'ob'}
 -> ob(e)- : [prf.] over-, super-  
 -> štob : [prep.] above, over  
 -> obpar : [n.] overside, top, surface  
-us : [prep.] under(neath) {French 'sous', German 'unter'}  
+us : [prep.] under(neath) {French 'sous', German 'unter'} @@ 
 -> us(e)- : [prf.] under-, sub-  
 -> surma : [prep.] below, under  
 -> uspar : [n.] underside
 
 ant : [prep.] between, among {Latin 'inter' via English 'internal', ? French 'entre'}  
--> antäs : [adj.] internal, interior  
+-> antäs : [adj.] internal, interior
 ----> antäst : [adv.] internally  
--> antira : [n.] interior  
+-> antira : [n.] interior
 -> ant(e)- : [suf.] between  
 -> antuz : [cnjc.] in between, with  
 -> antvär : [adj.] towards between  
@@ -220,13 +220,13 @@ nord : {French & German, English 'north'}
 -- [adj.] eastern  
 ----> ästät : [adv.] easternly  
 ----> ästest : [adj.] eastmost  
-süd : {French 'sud'}  
+sud : {French 'sud'}  
 -- [n.] south  
-----> südvär : [adj.] southwards  
--------> südvärt : [adv.] southwards  
+----> sudvär : [adj.] southwards  
+-------> sudvärt : [adv.] southwards  
 -- [adj.] southern  
-----> südät : [adv.] southernly  
-----> südest : [adj.] southernmost  
+----> sudät : [adv.] southernly  
+----> sudest : [adj.] southernmost  
 uäst : {French 'ouest', English 'west'}  
 -- [n.] west  
 ----> uästvär : [adj.] westwards  
@@ -251,13 +251,13 @@ lest : [adv.] diminutive superlative ('least') {English 'least'}
 te : [adv.] too, too much, too many {English 'too', French 'trop'}  
 jus : [adv.] just, only, simply, merely {French 'juste'}
 
-ül : [adj.] (the) previous, anticedent {Original}  
--> üla : [adj.] before  
-----> ülaät : [adv.] previously  
--> ülna : [adj.] first, primordial  
-----> ülnaät : [adv.] primordially, firstly  
--> ül(a)- : [prf.] preceding ('pre-')  
--> ödül : [prep.] [cnjc.] until  
+ul : [adj.] (the) previous, anticedent {Original}  
+-> ula : [adj.] before  
+----> ulaät : [adv.] previously  
+-> ulna : [adj.] first, primordial  
+----> ulnaät : [adv.] primordially, firstly  
+-> ul(a)- : [prf.] preceding ('pre-')  
+-> ödul : [prep.] [cnjc.] until  
 or : [adj.] (the) next, subsequent {Original}  
 -> ora : [adj.] after  
 ----> oraät : [adv.] subsequently  
@@ -329,28 +329,28 @@ tagräm : {Original}
 ----> tagrämäs [adj.] apologetic  
 -------> tagrämäst : [adv.] apologetically
 
-=== numbers : nümeren ===
-nümer : [n.] number; number of, count {French 'numéro'}
--> anümer [v.] [trans] to assign a number to
--> nümeräs : [adj.] numerical
-----> nümeräst : [adv.] numerically
+=== numbers : numeren ===
+numer : [n.] number; number of, count {French 'numéro'}
+-> anumer [v.] [trans] to assign a number to
+-> numeräs : [adj.] numerical
+----> numeräst : [adv.] numerically
 nöl : {German 'Null', English 'null', French 'annuler'}
 -- [num.] 0 (zero)
 -- [adj.] none, null, nought
 ---> anöl : [v.] cancel, make null
-ün : [num.] 1 (one) {French 'une'}
--> ünit : [v.] unite, unify
-----> ünitein : [v.] unity 
--> üne : [ord. num.] first
-----> ünät : [adv.] firstly
--> tün : [adj.] whole, complete, entire
-----> tünein : [n.] wholeness
-----> atün : [v.] complete, to make whole
-----> tünät : [adv.] wholly
--> ünäs : [adj.] primary
-----> ünäst : [adv.] primarily
--> ünein : [n.] oneness
--> ünu : [n.] unit; piece
+un : [num.] 1 (one) {French 'une'}
+-> unit : [v.] unite, unify
+----> unitein : [v.] unity 
+-> une : [ord. num.] first
+----> unät : [adv.] firstly
+-> tun : [adj.] whole, complete, entire
+----> tunein : [n.] wholeness
+----> atun : [v.] complete, to make whole
+----> tunät : [adv.] wholly
+-> unäs : [adj.] primary
+----> unäst : [adv.] primarily
+-> unein : [n.] oneness
+-> unu : [n.] unit; piece
 to : [num.] 2 (two)
 -> toe : [ord. num.] second
 ----> toäs : [adv.] secondly
@@ -423,19 +423,19 @@ gupil : [n.] fox {Old/Middle French 'goupil'}
 kot : [n.] cat {Polish, English 'cat', German 'Katze'}
 -> kotäs : [adj.] feline
 -> kotu : [n.] kitten
-kärü : [n.] dog {Estonian 'koer'}
--> kärüäs : [adj.] canine
--> kärünu : [n.] pup, puppy
+käru : [n.] dog {Estonian 'koer'}
+-> käruäs : [adj.] canine
+-> kärunu : [n.] pup, puppy
 luv : [n.] wolf {Latin 'lupus' via French 'louve'}
 -> luväs : [adj.] lupine
 -> luvu : [n.] wolf cub
 lapin : [n.] rabbit {French}
 -> lapinäs : [adj.] leporine
 -> lapu : [n.] kitten (rabbit)
-mus : [n.] mouse {English 'mouse', French 'souris'}
--> mus : [n.] computer mouse
--> musu : [n.] mouse pup
--> musäs : [adj.] musine
+muz : [n.] mouse {English 'mouse', French 'souris'}
+-> muz : [n.] computer mouse
+-> muzu : [n.] mouse pup
+-> muzäs : [adj.] musine
 leo : [n.] lion {Latin}
 -> leonäs : [adj.] leonine
 -> leonu : [n.] lion cub
@@ -462,7 +462,7 @@ oris : [n.] bird {Anc. Greek 'ὄρνις'}
 -> orisäs : [adj.] avian
 alar : [n.] swan {Breton "alarc'h"}
 -> alaräs : [adj.] cygnine
-otrüš : [n.] ostrich {French 'otruche'}
+otruš : [n.] ostrich {French 'otruche'}
 pol : [n.] chicken {Spanish 'pollo'}
 -> polu : [n.] chick
 -> gepol : [n.] poultry
@@ -477,9 +477,9 @@ rat : [n.] rat {English, Latin 'rattus' via French 'rat'}
 -> žirafäs : [adj.] giraffine
 mono : [n.] monkey {Spanish}
 -> monäs : [adj.] simian
-lüzd :
+luzd :
 -- [n.] worm
-----> [adj.] vermicular
+----> luzdäs : [adj.] vermicular
 -- [v.] squirm, wriggle, worm, crawl
 päsk : [n.] fish {Breton 'pesk'}
 -> päsktemätör : [n.] fishmonger
@@ -505,8 +505,8 @@ sitre : [n.] citrus; lemon {Latin 'citrus' via English, French 'citron'}
 limonat : [n.] lemonade {Italian 'limonata'}
 onion : [n.] onion {French 'oignon'}
 soj : [n.] soy {Satsuma Jp. '醤油' via Dutch 'soja' via French 'soja' & English 'soy'}
-nüs : [n.] nut {French 'noix', English 'nut'}
--> nüskät : [n.] peanut {'nüs' + French 'cacahuète'}
+nus : [n.] nut {French 'noix', English 'nut'}
+-> nuskät : [n.] peanut {'nüs' + French 'cacahuète'}
 makademia : [n.] macadamia
 frut : {French, English 'fruit'}
 -- [n.] fruit
@@ -559,7 +559,6 @@ nis : [n.] wheat {Estonian 'nisu'}
 läi : [n.] yeast; leavening agent (Estonian 'leib', French 'levure')
 glutän : [n.] gluten
 
-
 === plants & trees ===
 arb : [n.] tree {French 'arbre'}
 mäts : {Estonian}
@@ -583,14 +582,14 @@ härb : [n.] grass, herb {French 'herbe', English 'herb'}
 -> härbäs : [adj.] herbal
 ----> härbäst : [adv.] herbally
 bambu : [m.] bamboo {French 'bambou'}
-kaktüs : [n.] cactus {French 'cactus'}
+kaktus : [n.] cactus {French 'cactus'}
 flor : {Italian 'fiore', French 'fleur'}
 -- [n.] flower
 ----> floräs : [adj.] floral
 -------> floräst : [adv.] florally
 ----> flortemätör : [n.] florist 
 -- [v.] [intrans] bloom, blossom, flower
-tülip : [n.] tulip {French 'tulipe', English 'tulip'}
+tulip : [n.] tulip {French 'tulipe', English 'tulip'}
 säd : [n.] grain; seed {Swedish}
 har : [n.] shoot, bud
 -> haru : [n.] blossom
@@ -610,9 +609,9 @@ kumul : {Latin 'cumulus'}
 -- [n.] cloud
 ----> kumulät : [adj.] cloudy
 -- [v.] [trans] cloud, obstruct, confuse
-stürm : {German 'Sturm', English 'storm'}
+sturm : {German 'Sturm', English 'storm'}
 -- [n.] storm
-----> stürmät : [n.] storm
+----> sturmät : [n.] storm
 -- [v.] rush, attack, storm
 glau : {Breton}
 -- [n.] rain
@@ -638,11 +637,10 @@ koräl : [m.] coral {French 'corail', English 'coral'}
 perl : [m.] pearl {French 'perle'}
 -> perlät : [n.] pearly
 haj : [n.] shark {Swedish}
--> hajäs : [adj.] selachian
-büj : [n.] buoy
+-> haiäs : [adj.] selachian
+buj : [n.] buoy
 veg : [n.] [v.] wave {French 'vague', English 'wave'}
 -> vegu : [n.] wavelet
-
 
 === geological, mineral, geographic ===
 metal : [m. unc.] metal {French 'métal'}
@@ -714,10 +712,10 @@ min : {French 'mine'}
 -- [n.] mine (explosive device)
 -- [v.] [trans] to lay mines
 ----> demin : [v.] demine
-tünäl : {French 'tunnel'}
+tunäl : {French 'tunnel'}
 -- [n.] tunnel
 -- [v.] (to make a) tunnel through
-----> tünelör : [n.] one who tunnels
+----> tunelör : [n.] one who tunnels
 
 === körp : body ===
 pil : [n.] hair {Latin 'pilus' via French 'épiler'}
@@ -773,12 +771,12 @@ vän : [n.] vein {French 'veine'}
 hart : [n.] heart {Afrikaans}
 -> hartäs : [adj.] cardiac
 ----> hartäst : [adv.] cordially
-blüt : {German 'Blut'}
+blut : {German 'Blut'}
 -- [n.] blood
-----> blütäs : [adj.] sanguine
--------> blütäst : [adv.] sanguinely
+----> blutäs : [adj.] sanguine
+-------> blutäst : [adv.] sanguinely
 -- [v.] bleed
-----> ablüt : [v.] to make bleed
+----> ablut : [v.] to make bleed
 kap : {Latin 'caput' via English 'captain' & French 'décapiter'}
 -- [n.] head
 ----> kapäs : [adj.] cranial
@@ -827,10 +825,10 @@ ment : [n.] chin {Latin 'mentum' + via French 'menton'}
 disk : [n.] disk, disc, record, CD, CD-ROM {French 'disque', English 'disc'/'disk'}
 kasät : [n.] cassette, cartridge {French, English 'cassette'}
 donät : [n.] data {French 'donées'}
-pilül : [n.] pill, pastule {French 'pilule'}
-miok : [n.] truck {French 'camion', English 'truck'}
--> miokör : [n.] truck driver
-raj : [n.] rail {French 'rail'}
+pilul : [n.] pill, pastule {French 'pilule'}
+mjok : [n.] truck {French 'camion', English 'truck'}
+-> mjokör : [n.] truck driver
+rai : [n.] rail {French 'rail'}
 -> rajtröbör : [n.] rail-worker {'raj' + 'tröbör'}
 rotu : [n.] wheel
 ingän : [n.] engine, machine, contraption {Latin 'ingenium' via French 'engin'}
@@ -885,10 +883,10 @@ flis : {Frisian 'fluitsje', French 'siffle(t)'}
 -- [v.] whistle
 ----> flisör : [n.] whistle (device)
 
-=== music : müzik ===
-müzik : [n.] music {German 'Musik', French 'musique'}
--> müzikäs : [adj] musical
-----> müzikäst : [adv.] musically
+=== music : muzik ===
+muzik : [n.] music {German 'Musik', French 'musique'}
+-> muzikäs : [adj] musical
+----> muzikäst : [adv.] musically
 saksofon : [n.] saxophone {French 'saxophone' also via English}
 piano : [n.] piano {Italian}
 
@@ -988,11 +986,11 @@ stras : [n.] road; street {Latin 'strata' via Italian 'strada' & German 'Straße
 -> strasu : [n.] alleyway, lane
 läš : [n.] way, path, method
 toš : [n.] thing {French 'chose'}
-sünog : [n.] edge, boundary, border
--> sünogein : [n.] state of being on the edge, of being borderline; hesitancy
--> sünognuz : [adj.] boundless
--> sünoguz : [adj.] limited; bounded
--> sünogu : [n.] bordure
+sunog : [n.] edge, boundary, border
+-> sunogein : [n.] state of being on the edge, of being borderline; hesitancy
+-> sunognuz : [adj.] boundless
+-> sunoguz : [adj.] limited; bounded
+-> sunogu : [n.] bordure
 vine : [n.] domain, realm {Croatian 'domovina'}
 -> vinu : [n.] zone, area
 
@@ -1187,10 +1185,11 @@ pul : {Latin 'pulvis' via English 'pulverise' & French 'pulvériser'}
 frus : {? English 'froth', ? French 'mousse'}
 -- [m.] froth, moss, foam
 -- [v.] foam, froth
-füm : {French 'fumée'}
+fum : {French 'fumée'}
 -- [m.] smoke
+----> fumu : [n.] whisp
 -- [v.] produce smoke
-----> fümör :
+----> fumör :
 -------- [n.] smoker
 -------- [n.] appartus for smoking
 flam : {French 'flamme'}
@@ -1198,7 +1197,7 @@ flam : {French 'flamme'}
 -- [v.] to set ablaze, aflame
 -- [n.] [figurative] strong passion
 -- [v.] to deliberately encourage hostility or anger
-lüm : {Late Latin 'lūmināria' via French 'lumière'}
+lum : {Late Latin 'lūmināria' via French 'lumière'}
 -- [n.] light
 -- [v.] cast light onto/throughout
 är : [n.] air {French & English 'air'}
@@ -1256,7 +1255,7 @@ pi : [n.]
 kav : [n.] basement {French 'cave'}
 käl : [n.] key {French 'clé', English 'key'}
 -> kältröbör : [n.] locksmith
-tür : [n.] door, gate {German 'Tür'}
+tur : [n.] door, gate {German 'Tür'}
 tapir : {French 'tapis'}
 -- [n.] carpet
 -- [v.] to cover with carpet
@@ -1304,7 +1303,7 @@ nat : [n.] day
 -> minat : [n.] midday {'mi(t)-' +}
 -> sätänat : [n.] week {'sät' +}
 ----> sätänatäs : [n.] weekly
--> natlüm : [n.] daylight
+-> natlum : [n.] daylight
 nošt : [n.] night {Russian 'ночь', German 'Nacht'}
 -> noštäs : [adj.] nocturnal, nightly
 ----> noštäst : [adv.] nocturnally
@@ -1312,7 +1311,7 @@ nošt : [n.] night {Russian 'ночь', German 'Nacht'}
 -> minošt : [n.] midnight {'mi(t)-' +}
 damer : [n.] dusk {German 'Dämmerlicht'}
 säkond : [n.] second {French 'seconde', English 'second'}
-minüt : [n.] minute {French, English 'minute'}
+minut : [n.] minute {French, English 'minute'}
 uur : [n.] hour {German 'Uhr'}
 -> uuräs : [adj.] hourly
 -> mitäl uur : [n.] noon {'mitäl' + }
@@ -1387,11 +1386,11 @@ kin : [n.] child {German 'kinder', English}
 -> kinät : [adj.] childish
 ----> kinätät : [adv.] childishly
 -> usekin : [n.] grandchild
-poj : [n.] boy {Swedish 'pojke', Finnish 'poika'}
--> pojä : [n.] son
-----> uspojä : [n.] grandson
--> pojät : [adj.] boyish
-----> pojätät : [adv.] boyishly
+poi : [n.] boy {Swedish 'pojke', Finnish 'poika'}
+-> poiä : [n.] son
+----> uspoiä : [n.] grandson
+-> poiät : [adj.] boyish
+----> poiätät : [adv.] boyishly
 fal : [n.] girl {Latin 'filia'}
 -> falä : [n.] daughter
 ----> usfalä : [n.] granddaughter
@@ -1537,12 +1536,12 @@ astär : [n.] star {Latin 'astrum' + via French 'astre'}
 -> astärfiziik : [n.] astrophysics
 ----> astärfiziikäs : [adj.] astrophysical
 -------> astärfiziikäst : [adv.] astrophysically
-lün : [n.] moon {Latin 'luna'}
--> lünäs : [adj.] lunar
-----> lünäs : [adj.] lunatic
--------> lünäsein : [n.] lunacy, insanity
--------> lünäst : [adv.] insanely
--> lünlüm : [n.] moonlight {+ 'lüm'}
+lun : [n.] moon {Latin 'luna'}
+-> lunäs : [adj.] lunar
+----> lunäs : [adj.] lunatic
+-------> lunäsein : [n.] lunacy, insanity
+-------> lunäst : [adv.] insanely
+-> lunlüm : [n.] moonlight {+ 'lüm'}
 planät : [n.] planet {French 'planète'}
 -> planätäs : [adj.] planetary
 sol : [n.] sun {Latin 'sol' via French 'solaire'}
@@ -1580,7 +1579,7 @@ alfabät : [n.] alphabet {Anc. Greek 'ἀλφάβητος' via English & French 
 -> alfabätäs : [adj.] alphabetical
 ----> alfabätäst : [adv.] alphabetically
 kanton : [n.] [f:vexillology] canton {English 'canton'}
-ülagarda : [n.] [f:marxism] vanguard {'üla' + 'garda'}
+ulagarda : [n.] [f:marxism] vanguard {'ula' + 'garda'}
 bit : [n.] [f:computing] bit
 servör : [n.] [f:computing] server
 
@@ -1634,8 +1633,8 @@ met : [v.] send {Latin 'mitto' +~ 'mät'}
 ----> metserin : [n.] message
 -> ustemet : [v.] hurl, cast; send forth, emit, discharge {'ust' +}
 ----> uste
-tüš : [v.] [intrans.] touch, reach, attain {French 'toucher'}
--> tüšin : [n.] touch, reach
+tuš : [v.] [intrans.] touch, reach, attain {French 'toucher'}
+-> tušin : [n.] touch, reach
 
 ir : [v.] [intrans] go, move (oneself) {French 'ira'}
 -> irina : [n.] movement
@@ -1655,7 +1654,7 @@ nim : [v.] walk {Latin 'anima' via French & English 'animal'}
 -------> animäst : [adv.] animally
 ----> animät : [n.] animal
 vän : [v.] [intrans.] come
-jun : [v.] jump {Original}
+iun : [v.] jump {Original}
 pas : [v.] pass, go by
 
 mät : [v.] set, change, assign, put {Latin 'mitto' via French 'mettre'}
@@ -1900,14 +1899,14 @@ baž : [v.] need, require {Original}
 -> bažin : [n.] need, requirement
 -> ülabaž : [v.] prerequire
 ----> ülabažin : [n.] prerequisite
-müs : [v.] must, have to (do something) {German 'Muß'}
--> müsin : [n.] duty; requirement
-düs : [v.] should {French 'devoir' + 'müs'}
--> düsin : [n.] obligation
-vür : [v.] want, wish {French 'vouloir'}
--> vürin : [n.] want, wish
-sünt : [v.] demand, order, command {Finnish 'kysyntä'}
--> süntin : [n.] demand, order, command
+mus : [v.] must, have to (do something) {German 'Muß'}
+-> musin : [n.] duty; requirement
+dus : [v.] should {French 'devoir' + 'müs'}
+-> dusin : [n.] obligation
+vur : [v.] want, wish {French 'vouloir'}
+-> vurin : [n.] want, wish
+sunt : [v.] demand, order, command {Finnish 'kysyntä'}
+-> suntin : [n.] demand, order, command
 tuž : [v.] would {Original}
 
 
@@ -1915,9 +1914,9 @@ tuž : [v.] would {Original}
 -> šamein : [n.] concealment
 avis : [v.] show, uncover, demonstrate, discover
 -> avisein : [n.] demonstration, discovery
-lüs : [v.] open {Original}
--> lüsör : [n.] thing which opens; opener
-üsät : [v.] close
+lus : [v.] open {Original}
+-> lusör : [n.] thing which opens; opener
+usät : [v.] close
 tör : [v.] pull, drag, draw
 -> törör : [n.] trigger
 
@@ -1987,6 +1986,12 @@ fräj : [v.] fear {French 'effrayer', English 'fear'}
 -> fräjein : [n.] (state of) fear
 ----> fräjeinver : [adj.] fearful, fearsome
 
+grom : [v.] groan {Serbian 'гром'}
+-> gromin : [n.] groan
+-> gromina : [n.] groaning
+-> groma : [n.] thunder
+
+
 falt : [v.] falter {Portugese 'faltar'}
 -> faltin : [n.] fault
 ----> faltinät : [adj.] faulty
@@ -2011,9 +2016,9 @@ ausk : [v.] [dated] listen, hear; heed, accept, obey {archaic 'aur' + archaic 'k
 manž : [v.] eat {Italian 'mangiare', French 'manger'}
 -> manžfär : [adj.] edible, comestible
 -> manžin : [n.] meal
-sül : [n.] drink {Original}
--> sülör : [n.] one who drinks (usu. alcohol)
--> sülin : [n.] drink
+sul : [n.] drink {Original}
+-> sulör : [n.] one who drinks (usu. alcohol)
+-> sulin : [n.] drink
 
 som : [v.] [intrans] sleep {Latin 'somnus' via French 'sommeil'} 
 -> somin : [n.] sleep
@@ -2262,13 +2267,13 @@ tröb : {German 'Arbeit', French 'travail', English 'labour'}
 -------> tröbnuzör : [n.] unemployed person
 ----> seitröbuz : [adj.] self-employed
 
-štüt : [v.] support {? German 'stützen'}
--> štütör : [n.] supporter
--> štütin [n.] support
+štut : [v.] support {? German 'stützen'}
+-> štutör : [n.] supporter
+-> štutin [n.] support
 
-tortür : {French & English 'torture'}
+tortur : {French & English 'torture'}
 -- [v.] torture
-----> tortürör : [n.] torturer
+----> torturör : [n.] torturer
 -- [n.] torture
 mord : {German 'morden'}
 -- [v.] kill, murder
@@ -2542,10 +2547,10 @@ ran : [adj.] ready, prepared
 -> aran : [v.] [trans] prepare
 ----> aranina : [n.] preparation
 
-strüg : [adj.] without care, secure {Latin 'securus', Swedish 'trygg'}
--> strügein : [n.] security, safety
--> astrüg : [v.] secure
--> strügät : [adv.] securely; certainly
+strug : [adj.] without care, secure {Latin 'securus', Swedish 'trygg'}
+-> strugein : [n.] security, safety
+-> astrug : [v.] secure
+-> strugät : [adv.] securely; certainly
 
 
 
@@ -2603,13 +2608,13 @@ jats : [adj.] great, grand, mighty {Korean '에야차'}
 lärt : [adj.] conscious, aware; alert
 -> alärt : [v.] alert, warn
 ----> alärtin : [n.] alert, warning, caution
--------> ülaalärtin : [n.] [dated] precaution, foreword, warning
-----------> üllärtin : [n.] precaution, foreword, warning
+-------> ulaalärtin : [n.] [dated] precaution, foreword, warning
+----------> ullärtin : [n.] precaution, foreword, warning
 -> lärtät : [adv.] consciously
 -> lärtein : [n.] consciousness, awareness; alertness
 -> lärtin : [n.] conscience
 
-ful : [adj.] full
+ful : [adj.] full ##
 -> aful : [v.] fill
 -> fulein : [n.] fullness, fill
 -> fulät : [adv.] fully
@@ -2666,10 +2671,10 @@ sim : [adj.] correct, valid
 ----> asimina : [n.] validation
 -> simät : [adv.] correctly
 
-nüdit : [adj.] naked, nude
--> anüdit : [v.] to strip of protection or clothing
--> nüditein : [n.] nakedness
--> nüdität : [adv.] nakedly, nudely
+nudit : [adj.] naked, nude
+-> anudit : [v.] to strip of protection or clothing
+-> nuditein : [n.] nakedness
+-> nudität : [adv.] nakedly, nudely
 hoäl : [adj.] lame, limp; boring
 -> ahoäl : [v.] bore
 -> hoälein : [n.] boredom
@@ -2685,7 +2690,7 @@ lidit : [n.] idiot
 ----> liditätät : [adv.] stupidly
 -> liditäs : [adj.] idiotic
 ----> liditäst : [adv.] idiotically
-küs : [intj.] fuck, damn, darn, shit
+kus : [intj.] fuck, damn, darn, shit
 smät : [v.] to copulate with
 šiäs : [v.] [n.] shit, crap
 ruug : [n.] ass
