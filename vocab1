@@ -197,13 +197,13 @@ täg : [n.] back {Original}
 -> tägpar : [n.] backside
 treg : [adv.] back {Afrikaans, Dutch 'terug'}
 -> tregir : [v.] return
-mitäl : {German 'mittel', English 'middle'}  
--- [n.] middle, centre  
--- [adj.] middle, central  
-----> mitälät : [adv.] centrally  
+mitäl : [dated] {German 'mittel', English 'middle'}  
+-- [n.] middle, centre [adj.] middle, central   
+----> mitälät : [dated] [adv.] centrally  
 -> mi(t)- : [prf.] ('mid-')  
--> mität : [adj.] mild  
-----> mitätät : [adv.] mildly
+----> mit : [n.] middle, centre [adj.] middle, central
+-------> mität : [adj.] mild  
+----------> mitätät : [adv.] mildly
 
 nord : {French & German, English 'north'}  
 -- [n.] north  
@@ -289,7 +289,7 @@ mäs : [adj.] constant, unmoving, permanent {German '-mals'}
 
 === other particles === 
 da : [ptcl.] interrogative, marks the preceding clause as a question  
-sü : [ptcl.] existential, indicates 'there is/exists' concerning the object of the nominative-only clause it succeeds 
+su : [ptcl.] existential, indicates 'there is/exists' concerning the object of the nominative-only clause it succeeds 
 
 se : [prn.] reflexive pronoun {French 'se'}
 -> sei : [n.] self, oneself, own
@@ -506,7 +506,7 @@ limonat : [n.] lemonade {Italian 'limonata'}
 onion : [n.] onion {French 'oignon'}
 soj : [n.] soy {Satsuma Jp. '醤油' via Dutch 'soja' via French 'soja' & English 'soy'}
 nus : [n.] nut {French 'noix', English 'nut'}
--> nuskät : [n.] peanut {'nüs' + French 'cacahuète'}
+-> nuskät : [n.] peanut {'nus' + French 'cacahuète'}
 makademia : [n.] macadamia
 frut : {French, English 'fruit'}
 -- [n.] fruit
@@ -556,7 +556,7 @@ bär : [n.] berry {French 'baie', English 'berry'}
 -> rozbär : [n.] raspberry
 brot : [n.] bread {German}
 nis : [n.] wheat {Estonian 'nisu'}
-läi : [n.] yeast; leavening agent (Estonian 'leib', French 'levure')
+läj : [n.] yeast; leavening agent (Estonian 'leib', French 'levure')
 glutän : [n.] gluten
 
 === plants & trees ===
@@ -1085,9 +1085,9 @@ kön : {Original}
 ----> könein : [n.] (state of) falsehood
 -- [n.] falsehood
 
-üväl : [adj.] humble {Breton 'uvel'}
--> üvälät : [adv.] humbly
--> üvälein : [n.] humility
+uväl : [adj.] humble {Breton 'uvel'}
+-> uvälät : [adv.] humbly
+-> uvälein : [n.] humility
 
 köz : [n.] [v.] regret {Breton 'keuz'}
 -> közfär : [adj.] regrettable
@@ -1173,7 +1173,7 @@ skläv : [n.] slave {French 'esclave'}
 
 === substance ===
 släm : [m.] slime, goo, sludge {English 'slime', PIE '*sley-'}
-pelüš : [m.] fluff, plush {French 'peluche', English 'plush'}
+peluš : [m.] fluff, plush {French 'peluche', English 'plush'}
 siltše : [m.] flint {Italian 'selce' via Latin via French 'silex'}
 seträ : [m.] ash(es)
 tan : [n.] fire {Breton}
@@ -1289,11 +1289,11 @@ bal : [n.] ball {French 'balle'}
 doš : [n.] die/dice {Original}
 ešäk : [n. unc.] chess {French 'échecs', English 'chess'}
 uegä : [n.] game {Spanish 'juego'}
-lüd : [v.] play {Latin 'ludus' via French 'ludothèque'}
--> lüdo : [dated] [n.] game
--> lüdör : [n.] player
-----> pülilüdör : [f:video games] [n.] [adj.] multiplayer (mode)
-----> löslüdör : [f:video games] [n.] [adj.] singeplayer (mode)
+lud : [v.] play {Latin 'ludus' via French 'ludothèque'}
+-> ludo : [dated] [n.] game
+-> ludör : [n.] player
+----> püliludör : [f:video games] [n.] [adj.] multiplayer (mode)
+----> lösludör : [f:video games] [n.] [adj.] singeplayer (mode)
 
 === time - tän ===
 nat : [n.] day
@@ -1541,7 +1541,7 @@ lun : [n.] moon {Latin 'luna'}
 ----> lunäs : [adj.] lunatic
 -------> lunäsein : [n.] lunacy, insanity
 -------> lunäst : [adv.] insanely
--> lunlüm : [n.] moonlight {+ 'lüm'}
+-> lunlum : [n.] moonlight {+ 'lum'}
 planät : [n.] planet {French 'planète'}
 -> planätäs : [adj.] planetary
 sol : [n.] sun {Latin 'sol' via French 'solaire'}
@@ -1550,7 +1550,7 @@ sol : [n.] sun {Latin 'sol' via French 'solaire'}
 -> asol : [v.] [trans] to expose to sunlight
 -> solflor : [n.] sunflower {'sol' + 'flor'}
 ----> solflor : [n.] [colloq.] [figurative] person with little to no capacity for independent thought
--> sollüm : [n.] sunlight {+ 'lüm'}
+-> sollum : [n.] sunlight {+ 'lum'}
 
 == biology : biologik ==
 lön : [m.] wool; woolen {French 'laine'}
@@ -1683,8 +1683,8 @@ mät : [v.] set, change, assign, put {Latin 'mitto' via French 'mettre'}
 ----> immätin : [n.] input, entry, submission
 -> ustmät : [v.] output, return, give
 ----> ustmätin : [n.] output
--> ülamät : [v.] preset
-----> ülamätin : [n.] preset (presetting)
+-> ulamät : [v.] preset
+----> ulamätin : [n.] preset (presetting)
 
 ser : {French 'dire', English 'say', German 'sprechen'}
 -- [v.] say, speak, tell, talk
@@ -1897,11 +1897,11 @@ rän : [v.] try {Original}
 
 baž : [v.] need, require {Original}
 -> bažin : [n.] need, requirement
--> ülabaž : [v.] prerequire
-----> ülabažin : [n.] prerequisite
+-> ulabaž : [v.] prerequire
+----> ulabažin : [n.] prerequisite
 mus : [v.] must, have to (do something) {German 'Muß'}
 -> musin : [n.] duty; requirement
-dus : [v.] should {French 'devoir' + 'müs'}
+dus : [v.] should {French 'devoir' + 'mus'}
 -> dusin : [n.] obligation
 vur : [v.] want, wish {French 'vouloir'}
 -> vurin : [n.] want, wish
@@ -1946,7 +1946,6 @@ rol : [v.] roll {English 'roll', French 'rouler'}
 -> rolin : [n.] roll
 flot : [v.] float {French 'flotter', English 'float'}
 -> flotina : [n.] fleet {Russian 'флот', French 'flotte'}
-fel : [v.] suck, slurp {Latin 'fello'}
 pust : [v.] blow; puff, wheeze, pant {Serbo-Croatian 'puhati'}
 frot : [v.] rub {French 'frotter'}
 ut : [v.] sing {Japanese '歌'}
@@ -2147,7 +2146,7 @@ plod :
 -------> implodina : [n.] implosion
 -- [n.] burst, blow
 
-kül : {French 'colle', English 'glue'}
+kul : {French 'colle', English 'glue'}
 -- [v.] stick, adhere
 -- [n.] glue, adhesive
 
@@ -2290,10 +2289,12 @@ kur : {Latin 'cura' via 'securus' via German 'sicher'}
 -- [v.] care
 -- [n.] care, concern
 
-fül : [v.] flow {English 'flow', ? French 'couler'}
--> fülin : [n.] flow
--> obefül : [v.] overflow
-----> obefülin : [n.] overflow
+fel : [v.] flow {English 'flow', ? French 'couler'}
+-> felin : [n.] flow
+-> obefel : [v.] overflow
+----> obefelin : [n.] overflow
+-> imfel : [v.] suck, slurp
+----> imfelin : [n.] suck, slurp
 fors : {English & French 'force'}
 -- [v.] force
 -- [n.] force
@@ -2301,11 +2302,11 @@ marš : {English 'march', French 'marcher'}
 -- [v.] march
 -- [n.] march
 
-güst : {Latin 'gustus' via French 'goût' & English 'gustatory'}
+gust : {Latin 'gustus' via French 'goût' & English 'gustatory'}
 -- [v.] taste
-----> güstör : [n.] one that tastes
+----> gustör : [n.] one that tastes
 -- [n.] taste
-----> güstäs : [adj.] gustatory
+----> gustäs : [adj.] gustatory
 
 löv : [v.] [trans] lift [intrans] stand, rise {French 'lever'}
 -> lövina : [n.] stand, rising outrage
@@ -2343,9 +2344,9 @@ profit : [v.] profit
 ----> ratneprofitör : [n.] war profiteer
 ----> ratneprofitina : [n.] war profiteering
 
-regül : [v.] regulate
--> regülina : [n.] regulation
--> regülör : [n.] one that regulates
+regul : [v.] regulate
+-> regulina : [n.] regulation
+-> regulör : [n.] one that regulates
 
 === adjectives ===
 
@@ -2362,9 +2363,9 @@ lon : [adj.] long {French 'long'}
 -> lonät : [adv.] lengthily
 -> lonein : [n.] length
 ----> veglonein : [n.] wavelength
-šüt : [adj.] brief, short
--> ašüt : [v.] shorten
--> šütät : [adv.] briefly, shortly
+šut : [adj.] brief, short
+-> ašut : [v.] shorten
+-> šutät : [adv.] briefly, shortly
 
 när : [adj.] wide, broad
 -> anär : [v.] widen, broaden
@@ -2397,9 +2398,9 @@ bur : [adj.] heavy
 -> abur : [v.] to make heavy; weight
 -> burät : [adv.] heavily
 -> burein : [n.] weight
-müž : [adj.] light
--> amüž : [v.] to lighten
--> müžät : [adv.] lightly
+muž : [adj.] light
+-> amuž : [v.] to lighten
+-> mužät : [adv.] lightly
 
 nov : [adj.] new {Portugese 'novo'}
 -> novein : [n.] novelty
@@ -2552,8 +2553,6 @@ strug : [adj.] without care, secure {Latin 'securus', Swedish 'trygg'}
 -> astrug : [v.] secure
 -> strugät : [adv.] securely; certainly
 
-
-
 guär : [adj.] wild {+ Breton 'gouez'}
 -> guärein : [n.] wildness; wilderness
 -> guärät : [adv.] wildly
@@ -2679,9 +2678,9 @@ hoäl : [adj.] lame, limp; boring
 -> ahoäl : [v.] bore
 -> hoälein : [n.] boredom
 -> hoälät : [adv.] lamely, limply
-müsot : [adj.] silly
--> müsot : [n.] silliness
--> amüsot : [v.] ridicule
+muzot : [adj.] silly
+-> muzot : [n.] silliness
+-> amuzot : [v.] ridicule
 
 === vulgar ===
 bata : [n.] imbecile, bastard
