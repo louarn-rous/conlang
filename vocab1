@@ -1386,11 +1386,11 @@ kin : [n.] child {German 'kinder', English}
 -> kinät : [adj.] childish
 ----> kinätät : [adv.] childishly
 -> usekin : [n.] grandchild
-poi : [n.] boy {Swedish 'pojke', Finnish 'poika'}
--> poiä : [n.] son
-----> uspoiä : [n.] grandson
--> poiät : [adj.] boyish
-----> poiätät : [adv.] boyishly
+poj : [n.] boy {Swedish 'pojke', Finnish 'poika'}
+-> pojä : [n.] son
+----> uspojä : [n.] grandson
+-> pojät : [adj.] boyish
+----> pojätät : [adv.] boyishly
 fal : [n.] girl {Latin 'filia'}
 -> falä : [n.] daughter
 ----> usfalä : [n.] granddaughter
