@@ -57,12 +57,11 @@ else if it precedes a plosive, it is rendered as /x/.
 ### Vowels 
 | -         | Front   | Back |
 |:--------- |:-------:|:----:|
-| Close     | /i/ /y/ | /u/  |
+| Close     | /i/     | /ɯ/  |
 | Close-mid | /e/ /ø/ | /o/  |
 | Open-mid  | /ɛ/     |      |
 | Open      | /a/     |      |  
 
-⟨u⟩ is oft realized as \[ɯ], especially if it is the nucleus of a null-coda syllable.  
 ⟨u⟩ is occasionally realized as \[ʊ], especially after another vowel.  
  
 ### Semivowels
@@ -71,7 +70,6 @@ else if it precedes a plosive, it is rendered as /x/.
 |:-: |:-:         |
 | ⟨i⟩ | /i/ ~ \[j] |
 | ⟨u⟩ | /u/ ~ \[w] |
-| ⟨ü⟩ | /y/ ~ \[ɥ] |
 
 The above vowels are realized as semiconsonants when preceding or proceeding a different vowel.
 
@@ -80,12 +78,6 @@ when ⟨j⟩ follows a plosive and precedes another vowel, it provokes the palat
 | ⟨pi⟩   | ⟨bi⟩   | ⟨ti⟩   | ⟨di⟩   | ⟨ki⟩   | ⟨gi⟩   |
 | :-:   | :-:   | :-:   | :-:   | :-:   | :-:   |
 | \[pʲ] | \[bʲ] | \[tʲ] | \[dʲ] | \[kʲ] | \[gʲ] |
-
-when ⟨ü⟩ follows a plosive and precedes another vowel, it provokes the labio-palatization of the aforementioned plosive:
-
-| ⟨pü⟩   | ⟨bü⟩   | ⟨tü⟩   | ⟨dü⟩   | ⟨kü⟩   | ⟨gü⟩   |
-| :-:   | :-:   | :-:   | :-:   | :-:   | :-:   |
-| \[pᶣ] | \[bᶣ] | \[tᶣ] | \[dᶣ] | \[kᶣ] | \[gᶣ] |
 
 when ⟨u⟩ follows a plosive and precedes another vowel, it provokes the labialization of the aforementioned plosive:
 
