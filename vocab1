@@ -462,6 +462,8 @@ mostik : [n.] mosquito {French 'moustique', English 'mosquito'}
 
 oris : [n.] bird {Anc. Greek 'ὄρνις'}
 -> orisäs : [adj.] avian
+agräl : [n.] eagle {Latin 'aquila' via French 'aigle & English 'eagle'}
+-> agräläs : [adj.] aquiline
 alar : [n.] swan {Breton "alarc'h"}
 -> alaräs : [adj.] cygnine
 otruš : [n.] ostrich {French 'otruche'}
@@ -563,7 +565,7 @@ läj : [n.] yeast; leavening agent (Estonian 'leib', French 'levure')
 glutän : [n.] gluten
 
 === plants & trees ===
-arb : [n.] tree {French 'arbre'}
+roba : [n.] tree
 mäts : {Estonian}
 -- [n. unc.] wood
 ----> mätstrošör : [n.] lumberjack {'mets' + 'troš' + '-ör'}
@@ -801,6 +803,7 @@ man : {Latin 'manus' via French 'main' & English 'manual'}
 -- [n.] hand
 ----> manäs : [adj.] of or relating to the hand; manual
 -------> manäst : [adv.] manually
+----> mana : [n.] handle
 -- [v.] [trans] handle, control, manage
 dist : [n.] finger, digit {Latin 'digitus' via English 'digit' & French 'doigt'}
 -> distu : [n.] (numerical) digit
@@ -975,10 +978,18 @@ utšä : [n.] subject, object, item
 -> utši : [n.] concept, idea
 ----> utšiäs : [adj.] conceptual
 -------> utšiäst : [adv.] conceptually
+-> utšäträš : [v.] conceptualize
+----> utšäträšin : [n.] concept
+-------> träšin : [n.] project
+----> utšäträšina : [n.] conceptualization
 ide : [n.] idea {French 'idée'}
 res : [n.] thing, matter {Latin}
 -> resäs : [adj.] actual, real
 ----> resäst : [adv.] actually, really
+----> resäsein : [n.] actuality, reality
+-> resu : [n.] material, subtance
+-> ares : [v.] compose (be a part of)
+----> aresin : [n.] composition, makeup
 kultur : [n.] culture {German 'Kultur', French 'culture'}
 -> kulturäs : [adj.] cultural
 ----> kulturäst : [adv.] culturally
@@ -1255,6 +1266,7 @@ besät : [n.] team, crew {Swedish 'besättning'}
 štok : [n.] stick, branch; handle, rod {German 'Stock'}
 pot : [n.] pole, post; trunk {French 'poteau'}
 -> potu : [n.] bar, rod
+----> manpotu : [n.] handlebar
 lin : [n.] line, string, cord, rope {French 'ligne'} ##
 bol : [n.] bowl {French}
 lozanž : {French 'losange'}
@@ -1309,6 +1321,8 @@ most : [n.] bridge {Serbian 'мост'}
 teg : [n.] roof; ceiling; ceiling (upper limit) {Original}
 -> tega : [n.] hut, shack; shelter
 tom : [n.] floor; ground; floor (lower limit) {Original}
+dol : [n.] wall {Original}
+-> dolu : [n.] small wall; barrier, fence
 simänt : {French 'ciment', English 'cement'}
 -- [m.] cement
 -- [v.] [trans] cement (in) @@
@@ -1873,6 +1887,7 @@ utej : [v.] use
 -------> utejinverät : [adv.] usefully
 -> utejör : [n.] user
 -> autej : [v.] make use
+-> uteja : [n.] tool
 ret : [v.] do {Breton}
 -> deret : [v.] undo
 ----> deretina : [n.] undoing
@@ -2010,6 +2025,7 @@ frot : [v.] rub {French 'frotter'}
 ut : [v.] sing {Japanese '歌'}
 -> utin : [n.] song
 -> utina : [n.] singing
+----> utagove : [n.] singing voice {+'gove'}
 
 ver : {Latin 'valor' via Italian 'valore' & French 'valeur', Swedish 'värde', Estonian 'väärt', German 'Wert'}
 -- [v.] worth; deserving of
@@ -2767,6 +2783,7 @@ smät : [v.] to copulate with
 ruug : [n.] ass
 
 === archaic ===
+arb : [n.] [archaic] tree {French 'arbre'}
 taj : [n.] [archaic] day {German 'tag'}
 haim : [n.] [archaic] home {German 'Heim'}
 sübas : [n.] [archaic] wing {Japanese '翼'}
