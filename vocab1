@@ -125,7 +125,8 @@ nä : [cnjc.] [causal] but, however {French 'mais'}
 -> sežnä : [cnjc.] [causal] nevertheless, still, despite, anyway (preceding clause)  
 -> näst : [cnjc.] [causal] despite (of)  
 štöda : [cnjc.] [causal] because, since {Original}  
-rösni : [cnjc.] [causal] therefore, so, thus, hence, consequently {Original}
+rösni : [cnjc.] [causal] [formal] therefore, so, thus, hence, consequently {Original}
+-> rö(s) : [cnjc.] [cntrc.] [causal] so, then
 
 ar : [cnjc.] as; than
 
@@ -672,6 +673,8 @@ erts : [n.] ore {German 'Erz'}
 lant : [n.] land, domain {German 'Land'}
 -> alant : [v.] [intrans] make contact/arrive at land surface from air or sea
 -> ölant : [n.] island, isle {Swedish 'ö', English 'island'}
+-> ustlant : [n.] foreign land
+----> ustlantör : [n.] person from foreign land, foreigner
 ter : {French 'terre'}
 -- [n.] earth, ground, dirt
 ----> ater : [v.] (of aircraft) to land @
@@ -1007,9 +1010,13 @@ troke : [n.] location, place {Japanese '所'}
 ----> orestrok : [n.] vault {'or' +}
 ----> usestrok : [n.] basement
 -> -(t)roke : [suf.] used to indicate a place with a purpose relating to the suffixed word ('-place')
+-> atrok : [v.] place
+----> resatrok : [v.] replace
+-------> resatrokin(a) : [n.] replacement
+----> atrokin(a) : [n.] placement (of)
 
-skär : [n.] lane, track, channel
-pros : [n.] sign, board; panel, plaque
+skär : [n.] lane, track, channel {Original}
+pros : [n.] sign, board; panel, plaque {?}
 
 liäs : [n.] link {? French 'lier'}
 -> aliäs : [v.] link, bind, connect
@@ -1017,6 +1024,9 @@ liäs : [n.] link {? French 'lier'}
 -> deliäs : [n.] disconnect
 ----> deiliäsina : [n.] disconnection
 -> liäsein : [n.] relation, togetherness
+
+gadäs : [n.] chain, link; channel {Latin 'catena' via Catalan 'cadena'}
+-> gadäsen : [n.] chains, irons; binds
 
 par : [n.] side {Anc. Greek 'παρά'}
 -> apar : [adv.] aside, besides
@@ -1454,6 +1464,10 @@ orde : [n.] order, arrangement, series {Latin 'ordo'}
 -> desorde : [n.] disorder, disarray
 ----> desordeät : [adj.] disorderly
 
+nar : [n.] capacity; weapon {Original}
+-> genar : [n.] arms, weapons
+-> anar : [v.] [trans] arm (equip with weapons); [v.] [trans] prime, charge with ammunition
+
 korb : [n.] basket {French 'corbeille'}
 -> korbu : [n.] parcel
 dat : [n.] bag
@@ -1495,6 +1509,7 @@ srit : [v.] {French 'écrire', English 'write'}
 -> sritiletä : [n.] workbook {+ 'letä'}
 -> resrit : [v.] rewrite
 -> obesrit : [v.] overwrite
+
 
 === the sciences : er sienzade ===
 sienza : [n.] science {Italian 'scienza', French & English 'science'}
@@ -1606,7 +1621,7 @@ si : [v.] fare; be, feel
 ev : [v.] have {English 'have', French 'avoir'}
 -> evein : [v.] possession
 ten : [v.] hold, keep {French 'tenir'}
--> tensein : [n.] custody
+-> tensein : [n.] custody; storage
 ----> stattensein : [n.] state custody
 ----> atensein : [v.] arrest
 -> aten : [v.] to make hold; give
@@ -1628,6 +1643,9 @@ don : [v.] give, deal {French 'donner'}
 -> adon : [v.] buy, purchase
 ----> adonör : [n.] buyer
 ----> adonina : [n.] purchase
+----> resadon : [v.] redeem
+-------> resadonin(a) : [n.] redemption
+-------> resadon štät : [n.] ransom (money)
 dräit : [v.] betray; surrender; give up {? Breton 'dreitour'}
 -> dräitör : [n.] betrayer, traitor
 -> dräitin(a) : [n.] betrayal
@@ -1734,6 +1752,10 @@ rast : [v.] [intrans] reason, reflect, reckon, calculate [trans] consider, judge
 sen : [v.] know {Latin 'sciens'}
 -> senein : [n.] knowledge
 ----> seneinfär : [adj.] knowledgeable
+-> nesent : [adj.] unknown
+----> nesente : [n.] unknown; mystery
+----> nesentät : [adv.] unknowingly
+----> nesentäs : [adj.] mysterious
 -> asen : [v.] teach
 ----> asenin : [n.] lesson
 ----> asenina : [n.] teaching
@@ -1881,6 +1903,7 @@ dast : [v.] amass, assemble; pick, gather {Breton 'dastum'}
 söt : [v.] create, make, build, assemble, bring to fruition {Original}
 -> sötina : [n.] creation
 tös : [v.] [trans] to make into, turn the subject into
+bau : [v.] to build, construct {German 'bauen'}
 
 värt : [v.] turn {Latin 'verto' via English '-ward'}
 -> värtina : [n.] turn
