@@ -1968,7 +1968,7 @@ ut : [v.] sing {Japanese '歌'}
 -> utin : [n.] song
 -> utina : [n.] singing
 
-ver :  {Latin 'valor' via Italian 'valore' & French 'valeur', Swedish 'värde', Estonian 'väärt', German 'Wert'}
+ver : {Latin 'valor' via Italian 'valore' & French 'valeur', Swedish 'värde', Estonian 'väärt', German 'Wert'}
 -- [v.] worth; deserving of
 -- [n.] worth, value, merit
 ----> aver : [v.] evaluate
@@ -2148,7 +2148,8 @@ fal : {Swedish 'falla'}
 
 bran : [v.] [n.] burn {Swedish 'brann'}
 
-vol : [v.] fly {French 'voler'}
+flet : [v.] fly {German 'Flieg', French 'voler', English 'flutter'}
+-> fletin(a) : [n.] flight
 
 skän : {?}
 -- [v.] climb, scale
@@ -2733,6 +2734,7 @@ ovär : [v.] [archaic] open {French 'ouvrir', English 'open'}
 levit : [v.] [archaic] levitate, hover {French 'léviter', English 'levitate'}
 süs : [v.] [archaic] suck, slurp {French 'suçer'}
 lek : [v.] [archaic] lick {English 'lick', French 'lécher'}
+vol : [v.] [archaic] fly {French 'voler'}
 škort : [adj.] [archaic] short {French 'court', English 'short'}
 sipaträ : [n.] [archaic] uncle
 -> obesipaträ : [n.] [archaic] great-uncle
