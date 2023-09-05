@@ -251,6 +251,7 @@ lest : [adv.] diminutive superlative ('least') {English 'least'}
 ----> lestäst : [adv.] minimally  
 te : [adv.] too, too much, too many {English 'too', French 'trop'}  
 jus : [adv.] just, only, simply, merely {French 'juste'}
+sei : [adv.] such, so
 
 ul : [adj.] (the) previous, anticedent {Original}  
 -> ula : [adj.] before  
@@ -499,6 +500,7 @@ biit : [n.] beet {English 'beet'}
 patat : [n.] potato {French 'patate'}
 mili : [n.] corn {Afrikaans 'mielie'}
 ris : [n.] rice {French 'riz', English 'rice'}
+alberžin : [n.] eggplant {Catalan 'albergínia' via French 'aubergine'}
 melon : [n.] melon {English}
 tomat : [n.] tomato {French 'tomate'}
 sitre : [n.] citrus; lemon {Latin 'citrus' via English, French 'citron'}
@@ -974,6 +976,9 @@ utšä : [n.] subject, object, item
 ----> utšiäs : [adj.] conceptual
 -------> utšiäst : [adv.] conceptually
 ide : [n.] idea {French 'idée'}
+res : [n.] thing, matter {Latin}
+-> resäs : [adj.] actual, real
+----> resäst : [adv.] actually, really
 kultur : [n.] culture {German 'Kultur', French 'culture'}
 -> kulturäs : [adj.] cultural
 ----> kulturäst : [adv.] culturally
@@ -981,6 +986,10 @@ värsion : [n.] version {French, English 'version'}
 sistäm : [n.] system {French 'système', English 'system'}
 -> sistämäs : [adj.] systemic
 ----> sistämäst : [adv.] systemically
+
+ötren : [n.] problem, issue; concern {Original}
+-> ötrena : [n.] crisis
+-> ötrenäs : [adj.] problematic
 
 niväl : [n.] level {English 'level', French 'niveau'}
 strat : [n.] layer {Latin 'stratum' via English}
@@ -1676,6 +1685,7 @@ ir : [v.] [intrans] go, move (oneself) {French 'ira'}
 -------> urundiräst : [adv.] ambitiously
 -> visir : [v.] visit
 ----> visirin : [n.] visit
+----> visinör : [n.] visitor, guest
 -> ödir : [v.] follow; chase, pursue
 ----> ödirin : [n.] chase, pursuit; hunt
 nim : [v.] walk {Latin 'anima' via French & English 'animal'}
@@ -1781,6 +1791,15 @@ kuet : [v.] count, calculate {Original}
 -> kuetina : [n.] calculation
 -> kuetsor : [n.] computer {+ 'sor'}
 
+läts : [v.] lure, deceive; entice, ensnare {Latin 'lacio'}
+-> öläts : [v.] allure, attract; tempt
+----> ölätsin : [n.] temptation, attraction
+fäl : [v.] trick, deceive, cheat {Latin 'fallo'}
+-> fälin : [n.] trick
+-> fälina : [n.] deception, lie; cheating
+-> fälör : [n.] cheater
+
+
 vis : [v.] see, perceive, view, look, observe {Latin 'visio' via English & French 'vision'}
 -> visina : [n.] view, perspective, observation
 -> visör : [n.] viewer, witness
@@ -1845,6 +1864,7 @@ pläs : [v.] to please, favour {Latin 'placeo' via French 'plaire'}
 ----> nesapläs : [v.] disagree
 -------> nesapläsein : [n.] (state of) disagreement
 -------> nesapläsina : [n.] disagreement
+-> pläses : [adj.] pleasing; delicious
 
 utej : [v.] use
 -> tej : [prep.] [cnjc.] instrumentative ('with')
@@ -2004,10 +2024,15 @@ ver : {Latin 'valor' via Italian 'valore' & French 'valeur', Swedish 'värde', E
 -> -ver : [suf.] forms adjectives from nouns, meaning deserving or worthy of the suffixed word ('-worthy', '-some')  
 
 heg : [v.] [reflexive] choke
--> aheg : [v.] [trans] suffocate
+-> aheg : [v.] [trans] suffocate; disturb, distress, trouble
 ----> ahegät : [adj.] anxious, distressed, troubled
 -------> ahegätät : [adv.] anxiously
 -------> ahegätein : [n.] anxiety, distress
+-> aseg : [v.] anger
+----> asegein : [n.] (state of) anger
+----> asega : [n.] rage
+----> asegär : [adj.] angry
+-------> asegärt : [adj.] angrily
 
 spär : [v.] [n.] hope {Latin 'spero' via French 'espérer'}
 -> späruz : [adj.] hopeful
@@ -2146,6 +2171,8 @@ räs : [v.] let, allow
 -> aräsein : [n.] tolerance, endurance
 -> usträs : [v.] release
 ----> usträsin : [n.] release
+-> imräs : [v.] invite
+----> imräsin : [n.] invitation
 pärmit : [v.] allow, permit {French 'permit'}
 -> pärmitina : [n.] permission
 probit : [v.] prohibit, disallow
@@ -2281,7 +2308,11 @@ pen : [v.] fine, punishment {Latin 'poena' via English 'penalty' & French 'peine
 -> penäs : [adj.] penal
 ----> penäst : [adv.] penally
 -> penin : [n.] penalty
-----> penina : [n.] (act of) punishment 
+----> penina : [n.] (act of) punishment
+-> uspen : [v.] excuse, pardon {'ust'+ }
+----> uspenein : [n.] forgiveness
+----> uspenin : [n.] excuse, pardon
+----> uspenina : [n.] (formal) pardon
 
 list : {French 'liste', English}
 -- [v.] list
@@ -2354,6 +2385,7 @@ löv : [v.] [trans] lift [intrans] stand, rise {French 'lever'}
 -> seilöväs : [adj.] autonomous, independent
 ----> seilöväst : [adv.] autonomously, independently
 ----> seilöväsein : [n.] autonomy
+-> alöv : [v.] [trans] wake (up)
 
 spir : [v.] breathe {Latin 'spiro' via French 'inspirer'}
 -> spirina : [n.] breathing
