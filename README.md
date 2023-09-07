@@ -40,8 +40,8 @@ The Ijter language employs both a Latin and a Cyrillic script.
 
 | 1 | 1 | 1 | 1 | 1 | 1 |
 | - | - | - | - | - | - |
-| /ts/ | c | ? | /dz/ | ? | ? |
-| /tʃ/ | č | ? | /dž/ | ? | ? |
+| /ts/ | Cc | ? | /dz/ | ? | Ӡӡ |
+| /tʃ/ | Čč | ? | /dž/ | ? | Ӂӂ |
 
 ## Phonology
 
