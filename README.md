@@ -25,7 +25,7 @@ The Ijter language employs both a Latin and a Cyrillic script.
 | IPA | English               |Lat.|Cyr.|Name| IPA | English                 |Lat.|Cyr.|Name|
 |:---:|:---                   |:-: |:-: |:-: |:---:|:---                     |:-: |:-: |:-: |
 | /a/ | 'h**a**t' (Cali, Can) | Aa | Аа | aa | /o/ | 'y**aw**n' (SA)         | Oo | Оо | oo |
-| /ɛ/ | 'y**e**s'             | Ää | Ӓӓ | ää | /ø/ | 'b**ir**d' (Broad NZ)   | Öö | Ӧӧ | öö |
+| /ɛ/ | 'y**e**s'             | Ää | Ӓӓ | ää | /ø/ | 'b**ir**d' (NZ)         | Öö | Ӧӧ | öö |
 | /b/ | '**b**all'            | Bb | Бб | be | /p/ | '**p**en'               | Pp | Пп | pe |
 | /d/ | '**d**og'             | Dd | Дд | de | /ɾ/ | 'be**tt**er' (Aus, NAE) | Rr | Рр | är |
 | /e/ | 'h**a**y'             | Ee | Ее | ee | /s/ | '**s**un'               | Ss | Сс | äs |
