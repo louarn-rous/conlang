@@ -62,7 +62,7 @@ else if it precedes a plosive, it is rendered as /x/.
 ### Vowels 
 | -         | Front   | Back |
 |:--------- |:-------:|:----:|
-| Close     | /i/     | /ɯ/  |
+| Close     | /i/ /y/ | /u/  |
 | Close-mid | /e/ /ø/ | /o/  |
 | Open-mid  | /ɛ/     |      |
 | Open      | /a/     |      |  
@@ -75,20 +75,20 @@ else if it precedes a plosive, it is rendered as /x/.
 |:-: |:-:         |
 | ⟨i⟩ | /i/ ~ \[j] |
 | ⟨u⟩ | /u/ ~ \[w] |
+| ⟨ü⟩ | /y/ ~ \[ɥ] |
 
 The above vowels are realized as semiconsonants when preceding or proceeding a different vowel.
+When they follow a plosive and precede another vowel, they provoke the palatization, labio-palatization and palatization of the aforementioned plosive, respectively;
 
-when ⟨j⟩ follows a plosive and precedes another vowel, it provokes the palatization of the aforementioned plosive:
 
-| ⟨pi⟩   | ⟨bi⟩   | ⟨ti⟩   | ⟨di⟩   | ⟨ki⟩   | ⟨gi⟩   |
-| :-:   | :-:   | :-:   | :-:   | :-:   | :-:   |
-| \[pʲ] | \[bʲ] | \[tʲ] | \[dʲ] | \[kʲ] | \[gʲ] |
-
-when ⟨u⟩ follows a plosive and precedes another vowel, it provokes the labialization of the aforementioned plosive:
-
-| ⟨pu⟩   | ⟨bu⟩   | ⟨tu⟩   | ⟨du⟩   | ⟨ku⟩   | ⟨gu⟩   |
-| :-:   | :-:   | :-:   | :-:   | :-:   | :-:   |
-| \[pʷ] | \[bʷ] | \[tʷ] | \[dʷ] | \[kʷ] | \[gʷ] |
+| -  | -i⟩    | -ü⟩   | -u⟩   |
+| -  | :-:   | :-:   | :-:   |
+| ⟨p- | \[pʲ] | \[pᶣ] | \[pʷ] |
+| ⟨b- | \[bʲ] | \[bᶣ] | \[bʷ] |
+| ⟨t- | \[tʲ] | \[tᶣ] | \[tʷ] |
+| ⟨d- | \[dʲ] | \[dᶣ] | \[dʷ] |
+| ⟨k- | \[kʲ] | \[kᶣ] | \[kʷ] |
+| ⟨g- | \[gʲ] | \[gᶣ] | \[gʷ] |
 
 ### Digraphs
 | -           | -           | -           | -           |  -          |
