@@ -22,26 +22,22 @@ It is synthetic, fusional and mildly inflected. It utilises SVO (Subject-Verb-Ob
 ## Alphabet
 The Ijter language employs both a Latin and a Cyrillic script.
 
-| IPA | English               |Lat.|Cyr.|Name| IPA | English                 |Lat.|Cyr.|Name|
-|:---:|:---                   |:-: |:-: |:-: |:---:|:---                     |:-: |:-: |:-: |
-| /a/ | 'h**a**t' (Cali, Can) | Aa | Аа | aa | /o/ | 'y**aw**n' (SA)         | Oo | Оо | oo |
-| /ɛ/ | 'y**e**s'             | Ää | Ӓӓ | ää | /ø/ | 'b**ir**d' (NZ)         | Öö | Ӧӧ | öö |
-| /b/ | '**b**all'            | Bb | Бб | be | /p/ | '**p**en'               | Pp | Пп | pe |
-| /d/ | '**d**og'             | Dd | Дд | de | /ɾ/ | 'be**tt**er' (Aus, NAE) | Rr | Рр | är |
-| /e/ | 'h**a**y'             | Ee | Ее | ee | /s/ | '**s**un'               | Ss | Сс | äs |
-| /v/ | '**v**ine'            | Vv | Вв | ve | /ʃ/ | '**sh**oe'              | Šš | Шш | äš |
-| /g/ | '**g**oat'            | Gg | Гг | ge | /t/ | '**t**op'               | Tt | Тт | te |
-| /i/ | 'b**ee**'             | Ii | Іі | ii | /u/ | 'fr**u**it'             | Uu | Уу | uu |
-| /j/ | '**y**ak'             | Jj | Јј | je | /y/ | 'f**ew**' (Gen. SA)     | Üü | Ӱӱ | üü |
-| /k/ | '**k**ey'             | Kk | Кк | ke | /z/ | '**z**oo'               | Zz | Зз | ze |
-| /l/ | '**l**eg'             | Ll | Лл | äl | /ʒ/ | 'vi**si**on'            | Žž | Жж | že |
-| /m/ | '**m**ail'            | Mm | Мм | äm | /f/ | '**f**ish'              | Ff | Фф | äf |
-| /n/ | '**n**et'             | Nn | Нн | än | /h/ | '**h**ome'              | Hh | Һһ | he |
-
-| 1 | 1 | 1 | 1 | 1 | 1 |
-| - | - | - | - | - | - |
-| /ts/ | Cc | Цц | /dz/ | ? | Ӡӡ |
-| /tʃ/ | Čč | Чч | /dž/ | ? | Ӂӂ |
+| IPA  | English               |Lat.|Cyr.|Name| IPA | English                 |Lat.|Cyr.|Name|
+|:---: |:---                   |:-: |:-: |:-: |:---:|:---                     |:-: |:-: |:-: |
+| /a/  | 'h**a**t' (Cali, Can) | Aa | Аа | aa | /n/ | '**n**et'               | Nn | Нн | än |
+| /ɛ/  | 'y**e**s'             | Ää | Ӓӓ | ää | /o/ | 'y**aw**n' (SA)         | Oo | Оо | oo |
+| /b/  | '**b**all'            | Bb | Бб | be | /ø/ | 'b**ir**d' (NZ)         | Öö | Ӧӧ | öö |
+| /ts/ | 'klu**tz**'           | Cc | Цц | ce | /p/ | '**p**en'               | Pp | Пп | pe |
+| /tʃ/ | '**ch**um'            | Čč | Чч | če | /ɾ/ | 'be**tt**er' (Aus, NAE) | Rr | Рр | är |
+| /d/  | '**d**og'             | Dd | Дд | de | /s/ | '**s**un'               | Ss | Сс | äs |
+| /e/  | 'h**a**y'             | Ee | Ее | ee | /ʃ/ | '**sh**oe'              | Šš | Шш | äš |
+| /v/  | '**v**ine'            | Vv | Вв | ve | /t/ | '**t**op'               | Tt | Тт | te |
+| /g/  | '**g**oat'            | Gg | Гг | ge | /u/ | 'fr**u**it'             | Uu | Уу | uu |
+| /i/  | 'b**ee**'             | Ii | Іі | ii | /y/ | 'f**ew**' (Gen. SA)     | Üü | Ӱӱ | üü |
+| /j/  | '**y**ak'             | Jj | Јј | je | /z/ | '**z**oo'               | Zz | Зз | ze |
+| /k/  | '**k**ey'             | Kk | Кк | ke | /ʒ/ | 'vi**si**on'            | Žž | Жж | že |
+| /l/  | '**l**eg'             | Ll | Лл | äl | /f/ | '**f**ish'              | Ff | Фф | äf |
+| /m/  | '**m**ail'            | Mm | Мм | äm | /h/ | '**h**ome'              | Hh | Һһ | he |
 
 ## Phonology
 
@@ -50,7 +46,7 @@ The Ijter language employs both a Latin and a Cyrillic script.
 |:---------------- |:-------:|:---------:|:---------:|:---: |:-------:|:---:|
 | Nasal            | /m/     | /n/       |           | _/ɲ/_   | _/ŋ/_     |       |
 | Plosive          | /p/ /b/ | /t/ /d/   |           |       | /k/ /ɡ/ |       |
-| Affricate        |         | /ts/ /dz/ | /tʃ/ /dʒ/ |       |         |       |
+| Affricate        |         | /t͡s/ /d͡z/ | /t͡ʃ/ /d͡ʒ/ |       |         |       |
 | Fricative        | /f/ /v/ | /s/ /z/   | /ʃ/ /ʒ/   | /ʝ~j/ | _/x/_     | /h/   |
 | Tap/Flap         |         | /ɾ/       |           |       |         |       |
 | Lat. Approximant |         | /l/       |           |       |         |       |
@@ -80,7 +76,6 @@ else if it precedes a plosive, it is rendered as /x/.
 The above vowels are realized as semiconsonants when preceding or proceeding a different vowel.
 When they follow a plosive and precede another vowel, they provoke the palatization, labio-palatization and palatization of the aforementioned plosive, respectively;
 
-
 | -  | -i⟩    | -ü⟩   | -u⟩   |
 | -  | :-:   | :-:   | :-:   |
 | ⟨p- | \[pʲ] | \[pᶣ] | \[pʷ] |
@@ -91,10 +86,10 @@ When they follow a plosive and precede another vowel, they provoke the palatizat
 | ⟨g- | \[gʲ] | \[gᶣ] | \[gʷ] |
 
 ### Digraphs
-| -           | -           | -           | -           |  -          |
-|:----------: |:----------: |:----------: |:----------: |:----------: |
-| ⟨šh⟩ → \[ɕ]  | ⟨ts⟩ → \[t͡s] | ⟨dz⟩ → \[d͡z] | ⟨lj⟩ → \[ʎ]  | ⟨ng⟩ → \[ŋ]  |
-| ⟨žh⟩ → \[ʑ]  | ⟨tš⟩ → \[t͡ʃ] | ⟨dž⟩ → \[d͡ʒ] | ⟨ht⟩ → \[xt] | ⟨nj⟩ → \[ɲ]  |
+| -           | -           | -           |  -          |
+|:----------: |:----------: |:----------: |:----------: |
+| ⟨šh⟩ → \[ɕ]  | ⟨dz⟩ → \[d͡z] | ⟨lj⟩ → \[ʎ]  | ⟨ng⟩ → \[ŋ]  |
+| ⟨žh⟩ → \[ʑ]  | ⟨dž⟩ → \[d͡ʒ] | ⟨ht⟩ → \[xt] | ⟨nj⟩ → \[ɲ]  |
 
 ### Diphtongs
 | - | ⟨e | ⟨i | ⟨a | ⟨ä | ⟨o | ⟨ö | ⟨u | ⟨ü |
@@ -207,21 +202,22 @@ Ijter braille is inspired by the French, English, Czech and Scandinavian braille
 
 ## Morse
 
-| -- | Code | -- | Code |
-|:-- |:---  |:-- |:---  |
-| Aa | .-   | Oo | ---  |
-| Ää | .-.- | Öö | ---. |
-| Bb | -... | Pp | .--. |
-| Dd | -..  | Rr | .-.  |
-| Ee | .    | Ss | ...  |
-| Vv | ...- | Šš | ---- |
-| Gg | --.  | Tt | -    |
-| Ii | ..   | Uu | ..-  |
-| Jj | .--- | Üü | ..-- |
-| Kk | -.-  | Zz | --.. |
-| Ll | .-.. | Žž | --..-|
-| Mm | --   | Ff | ..-. |
-| Nn | -.   | Hh | .... |
+| -- | Code  | -- | Code |
+|:-- |:---   |:-- |:---  |
+| Aa | .-    | Nn | -.   |
+| Ää | .-.-  | Oo | ---  |
+| Cc | -.-.  | Öö | ---. |
+| Čč | -.--. | Pp | .--. |
+| Bb | -...  | Rr | .-.  |
+| Dd | -..   | Ss | ...  |
+| Ee | .     | Šš | ---- |
+| Vv | ...-  | Tt | -    |
+| Gg | --.   | Uu | ..-  |
+| Ii | ..    | Üü | ..-- |
+| Jj | .---  | Zz | --.. |
+| Kk | -.-   | Žž | --..-|
+| Ll | .-..  | Ff | ..-. |
+| Mm | --    | Hh | .... |
 
 Ijter Morse is partly influenced by Croatian Morse code.  
 
