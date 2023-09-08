@@ -37,7 +37,7 @@ The Ijter language employs both a Latin and a Cyrillic script.
 | /j/  | '**y**ak'             | Jj | Јј | je | /z/ | '**z**oo'               | Zz | Зз | ze |
 | /k/  | '**k**ey'             | Kk | Кк | ke | /ʒ/ | 'vi**si**on'            | Žž | Жж | že |
 | /l/  | '**l**eg'             | Ll | Лл | äl | /f/ | '**f**ish'              | Ff | Фф | äf |
-| /m/  | '**m**ail'            | Mm | Мм | äm | /h/ | '**h**ome'              | Hh | Һһ | he |
+| /m/  | '**m**ail'            | Mm | Мм | äm | /h/ | '**h**ome'              | Hh | Хх | he |
 
 ## Phonology
 
@@ -176,6 +176,8 @@ The order of different word classes is as follows:
 Determiner - Noun - Adjective  
 Subject - (Catenative verb) - Verb - (Adverb) - (Object)  
 
+Note that this is subject to some variation.
+
 When a phrase contains a catenative verb in addition to a regular verb, the former is conjugated while the latter remains in its infinitive/root/unconjugated form.
 
 ## Braille
@@ -244,7 +246,7 @@ Hangul
 | f | ㅋ | v | ㅌ | s | ㅅ | š | ㅆ | z | ㅈ | ž | ㅉ | ⌀ | ㅓ | 
 | m | ㅁ | n | ㄴ | r | ㄹ | l | ᄑ | h | ㅎ | j | ㅊ | ⌀ | ㅇ |
 
-Sanskrit/Devanagari
+Sanskrit/Devanagari (Incomplete)
 
 | k | क | g | ग | t | त | d | द | p | प | b | ब |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -256,7 +258,7 @@ Sanskrit/Devanagari
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | i | इ | पि | ä | आ | पा | ü | ऊ | पू | ö | औ | पौ |
 
-### Adaptation into Katakana
+### Adaptation into Katakana (Incomplete)
 
 | - | * | k | g | t | d | s | z | m | n | 
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
