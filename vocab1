@@ -568,11 +568,11 @@ glutän : [n.] gluten
 
 === plants & trees ===
 roba : [n.] tree
-mäts : {Estonian}
+mäc : {Estonian}
 -- [n. unc.] wood
-----> mätstrošör : [n.] lumberjack {'mets' + 'troš' + '-ör'}
-----> mätströbör : [n.] woodworker {'mets' + 'tröbör'}
-----> gemäts : [n.] [collective] lumber
+----> mäctrošör : [n.] lumberjack {'mets' + 'troš' + '-ör'}
+----> mäctröbör : [n.] woodworker {'mets' + 'tröbör'}
+----> gemäc : [n.] [collective] lumber
 -- [n.] forest, woods
 ----> mätsäs : [adj.] forestal
 burš : [m.] birch {English 'birch', French 'bouleau}
@@ -704,8 +704,8 @@ kav : [n.] cave, basement {French 'cave'}
 -> kavör : [n.] one who explores caves {'kav' + '-ör'} 
 ravin : [n.] ravine
 kratär : [n.] crater {French 'cratère'}
-lits : [n.] shore {Latin 'litus' via French 'littoral'}
--> alits : [adj.] ashore
+lic : [n.] shore {Latin 'litus' via French 'littoral'}
+-> alic : [adj.] ashore
 faas : [n.] cliff
 mont :
 -- [n.] mountain
@@ -1459,9 +1459,9 @@ sint : [n.] Saint {Dutch}
 -> sintät : [adj.] saintly
 kamarad : [n.] comrade, mate; fellow student, classmate {French 'camarade', German 'Kamerad'}
 
-sots : [n.] fellow, acquantiance
--> sotsäs : [adj.] social
-----> sotsäst : [adv.] socially
+soc : [n.] fellow, acquantiance
+-> socäs : [adj.] social
+----> socäst : [adv.] socially
 
 === misc. ===
 dös : [n.] god, deity {Portugese 'Deus'}
@@ -1479,8 +1479,8 @@ päst : {French 'peste', English 'pester'}
 -- [v.] spread plague amongst
 -- [n.] annoyance
 -- [v.] plague, pester, annoy
-patš : [n.] peace {Latin 'pax'}
--> apatš : [v.] appease
+pač : [n.] peace {Latin 'pax'}
+-> apač : [v.] appease
 ----> apatšina : [n.] appeasement
 -> patšein : [n.] peacetime
 banier : [n.] banner {French 'banière'}
@@ -1810,8 +1810,8 @@ kuet : [v.] count, calculate {Original}
 -> kuetina : [n.] calculation
 -> kuetsor : [n.] computer {+ 'sor'}
 
-läts : [v.] lure, deceive; entice, ensnare {Latin 'lacio'}
--> öläts : [v.] allure, attract; tempt
+läc : [v.] lure, deceive; entice, ensnare {Latin 'lacio'}
+-> öläc : [v.] allure, attract; tempt
 ----> ölätsin : [n.] temptation, attraction
 fäl : [v.] trick, deceive, cheat {Latin 'fallo'}
 -> fälin : [n.] trick
@@ -2252,7 +2252,7 @@ salv : [v.] save {Latin 'salva' via English 'salvation', French 'sauver'}
 stöj : [v.] find {Original}
 -> stöjina : [n.] discovery, finding
 
-dants : {German 'tanz', English 'dance'}
+danc : {German 'tanz', English 'dance'}
 -- [v.] [intrans] dance
 ----> dantsör : [n.] dancer
 -- [n.] dance
@@ -2423,9 +2423,9 @@ spir : [v.] breathe {Latin 'spiro' via French 'inspirer'}
 -> imspir : [v.] inspire
 ----> inspirina : [n.] inspiration
 
-vitš : [v.] win {Italian 'vincere'}
--> vitšina : [n.] victory
--> vitšör : [n.] victor
+vič : [v.] win {Italian 'vincere'}
+-> vičina : [n.] victory
+-> vičör : [n.] victor
 
 läg : [v.] select, choose, pick {Latin 'lego' via English 'select'}
 -> lägina : [n.] selection
@@ -2700,9 +2700,9 @@ motše : [adj.] nice, pleasant {Typo of English 'nice' → 'moce'}
 -> motšein : [n.] niceness, pleasantness
 -> motšät : [adv.] nicely, pleasantly
 
-jats : [adj.] great, grand, mighty {Korean '에야차'}
--> ajats : [v.] make great, improve, elevate
--> ijats @@@
+jac : [adj.] great, grand, mighty {Korean '에야차'}
+-> ajac : [v.] make great, improve, elevate
+-> ijac @@@
 
 lärt : [adj.] conscious, aware; alert
 -> alärt : [v.] alert, warn
@@ -2822,7 +2822,7 @@ vol : [v.] [archaic] fly {French 'voler'}
 škort : [adj.] [archaic] short {French 'court', English 'short'}
 sipaträ : [n.] [archaic] uncle
 -> obesipaträ : [n.] [archaic] great-uncle
-votš : [archaic] {Italian 'voce'}
+voč : [archaic] {Italian 'voce'}
 -- [n.] voice
 -- [v.] express, voice
 
