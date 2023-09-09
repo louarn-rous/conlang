@@ -470,6 +470,8 @@ oris : [n.] bird {Anc. Greek 'ὄρνις'}
 -> orisäs : [adj.] avian
 agräl : [n.] eagle {Latin 'aquila' via French 'aigle & English 'eagle'}
 -> agräläs : [adj.] aquiline
+falk : [n.] falcon; hawk
+-> falkäs : [adj.] falconine
 alar : [n.] swan {Breton "alarc'h"}
 -> alaräs : [adj.] cygnine
 otrüš : [n.] ostrich {French 'otruche'}
@@ -510,7 +512,7 @@ biit : [n.] beet {English 'beet'}
 patat : [n.] potato {French 'patate'}
 mili : [n.] corn {Afrikaans 'mielie'}
 ris : [n.] rice {French 'riz', English 'rice'}
-alberžin : [n.] eggplant {Catalan 'albergínia' via French 'aubergine'}
+abercin : [n.] eggplant {Catalan 'albergínia' via French 'aubergine'}
 melon : [n.] melon {English}
 tomat : [n.] tomato {French 'tomate'}
 sitre : [n.] citrus; lemon {Latin 'citrus' via English, French 'citron'}
@@ -2159,11 +2161,11 @@ som : [v.] [intrans] sleep {Latin 'somnus' via French 'sommeil'}
 -------> sominätät : [adv.] sleepily
 -> asom : [v.] [trans] knock out
 -> somäs : [adj.] somnial
-rumä : {Japanese '夢', French 'rêve', English 'dream'}
+rümä : {Japanese '夢', French 'rêve', English 'dream'}
 -- [v.] dream
 -- [n.] dream
-----> rumäät : [adj.] dreamy
--------> rumäätät : [adv.] dreamily
+----> rümäät : [adj.] dreamy
+-------> rümäätät : [adv.] dreamily
 
 fam : [v.] hunger {Latin 'fames' via French 'faim'} 
 -> famin : [n.] hunger
