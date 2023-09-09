@@ -1996,8 +1996,14 @@ värt : [v.] turn {Latin 'verto' via English '-ward'}
 -> -vär : [suf.] venitive; in the direction of ('-wards')
 
 
-trag : [v.] twist
+trag : [v.] twist {? Original}
 -> tragöti : [n.] wrench, spanner
+tend : [v.] stretch {Latin 'tendo'}
+-> ustend : [v.] understand, comprehend
+-> öttend : [v.] mean, intend
+----> öttendina : [n.] intention
+-------> öttendinäs : [adj.] intentional
+----------> öttendinäst : [adv.] intentionally
 
 fär : {Swedish '-bar', German 'fähig'}
 -- [adj.] able
