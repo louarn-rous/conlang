@@ -27,6 +27,7 @@ ait : [det.] each, every
 
 === prepositions ===
 us : [prep.] ablative, genitive ('from', 'of', authorship)  
+-> ussa : [prep.] ('beyond')
 öd : [prep.] allative, benefactive ('to', 'for')  
 -> öduz : [adv.] together  
 -> öde : [prep.] benefactive ('for', 'in favour/support/the objective of', 'so that')  
@@ -145,7 +146,7 @@ si : [cnjc.] if, in the case/condition that, given/supposing/assuming that {Fren
 -(s)ein : [suf.] forms nouns from adjectives, denoting the condition or state of the suffixed word ('-hood', '-dom', '-ness') {Archaic form: '-esin'}  
 -(n)äs : [suf.] genitive; forms adjectives from nouns, with the meaning 'of or pertaining to' the suffixed word ('-ic')  
 -(n)ät :  
--- [suf.] used to form adverbs from adjectives @@ verbs and nouns  
+-- [suf.] used to form adverbs from adjectives @@ verbs and nouns  ; having the quality of
 -- [suf.] semblative; used to form adjectives from nouns, meaning resembling the suffixed word (esp. in behaviour)  
 -- [suf.] used to form adjectives from verbs, meaning 'inclined to' ###
 
@@ -1258,6 +1259,8 @@ vir : {French 'ver'}
 ---> virtöl : [n.] window, window pane, glass pane {+ 'töl'}
 -- [n.] a vessel, especially one made of glass or transparent plastic, from which one drinks
 
+fibr : [m.] fibre {French 'fibre'}
+-> fibrät : [adj.] fibrous
 papiir : {Anc. Greek 'πάπυρος' via English 'paper' & French 'papier'}
 -- [m.] paper 
 -- [n.] document
