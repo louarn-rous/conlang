@@ -238,7 +238,7 @@ uäst : {French 'ouest', English 'west'}
 ----> uästest : [adj.] westmost
 
 === adverbs ===
-me : [adv.] [det.] much, many  
+me : [adv.] [det.] much, many; very
 -> meruz : [adj.] abundant, plentiful, rich
 ----> meruzät : [adv.] abundantly
 -> amefär : [adj.] fertile
@@ -1002,6 +1002,10 @@ värsion : [n.] version {French, English 'version'}
 sistäm : [n.] system {French 'système', English 'system'}
 -> sistämäs : [adj.] systemic
 ----> sistämäst : [adv.] systemically
+
+tite : [n.] title {Latin 'titulus' + via French 'titre'}
+-> atit : [v.] give a title
+-> netitet : [adj.] untitled
 
 ötren : [n.] problem, issue; concern {Original}
 -> ötrena : [n.] crisis
@@ -2481,10 +2485,18 @@ sten : [adj.] narrow {Anc. Greek 'στενός'}
 -> asten : [v.] constrict
 -> stenät : [adv.] narrowly
 
-goš : [adj.] tall
+tic : [adj.] tight {Original, ~ English 'tight'}
+-> atic : [v.] tighten
+-> ticät : [adv.] tightly
+slet : [adj.] loose {Original}
+-> aslet : [v.] loosen
+-> sletät : [adv.] loosely
+-> zlace : [n.] leash, lead
+
+goš : [adj.] tall {? Original}
 -> agoš : [v.] to grow (vertically)
 -> gošein : [n.] height
-ruš : [adj.] short
+ruš : [adj.] short {Original}
 -> aruš : [v.] to shorten (vertically)
 
 dost : [adj.] deep {Original}
@@ -2492,19 +2504,19 @@ dost : [adj.] deep {Original}
 -> dostein : [n.] depth
 nir : [adj.] shallow {Original}
 
-sob : [adj.] thick
+sob : [adj.] thick {? Original}
 -> asob : [v.] thicken
 -> sobät : [adv.] thickly
 -> sobein : [n.] thickness
-pän : [adj.] thin
+pän : [adj.] thin {? Original}
 -> apän : [v.] thin
 -> pänät : [adv.] thinly
 
-bur : [adj.] heavy
+bur : [adj.] heavy {? Original}
 -> abur : [v.] to make heavy; weight
 -> burät : [adv.] heavily
 -> burein : [n.] weight
-muž : [adj.] light
+muž : [adj.] light {Original}
 -> amuž : [v.] to lighten
 -> mužät : [adv.] lightly
 
@@ -2531,7 +2543,7 @@ mals : [adj.] soft, tender {Dutch}
 -> amals : [v.] soften; tenderize
 -> malsät : [adv.] softly
 
-gul : [adj.] wet {Breton 'gleb
+gul : [adj.] wet {Breton 'gleb}
 -> agul : [v.] wet
 -> gulät : [adv.] wetly
 sek : [adj.] dry {French 'sec'}
