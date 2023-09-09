@@ -69,10 +69,10 @@ ob : [prep.] on (top of) {German 'ober', ? 'ob'}
 -> ob(e)- : [prf.] over-, super-  
 -> štob : [prep.] above, over  
 -> obpar : [n.] overside, top, surface  
-us : [prep.] under(neath) {French 'sous', German 'unter'} @@ 
--> us(e)- : [prf.] under-, sub-  
+uc : [prep.] under(neath) {French 'sous', German 'unter'} @@ 
+-> uc(e)- : [prf.] under-, sub-  
 -> surma : [prep.] below, under  
--> uspar : [n.] underside
+-> ucpar : [n.] underside
 
 ant : [prep.] between, among {Latin 'inter' via English 'internal', ? French 'entre'}  
 -> antäs : [adj.] internal, interior
@@ -92,6 +92,7 @@ sär : [prep.] in the form(at) of
 isän : [prep.] ablative (about, concerning)  
 urund : [prep.] circumlative (around, about) {from 'u' + 'rund'}
 tra(s) : [prep.] perlocative, perlative (across, through) {Breton 'tra'}
+-> trasal : [prep.] far from, far off; across
 ga : [prep.] distributive (per, for each) {Original}
 
 sti : [prep.] as if, like so, similar to  
@@ -495,6 +496,8 @@ arän : [n.] spider {Latin 'aranea' + via French 'araignée'}
 -> aränäs : [adj.] Arachnid
 lusi : [n.] slug {~ French 'limace'}
 skürne : [n.] snail {~ French 'escargot'}
+apiä : [n.] bee {Latin 'apis'}
+-> apiäs : [n.] apian
 
 === crops, food, drink ===
 karot : [n.] carrot {French 'carrote'}
@@ -545,7 +548,7 @@ koko : [n.] cocoa {French 'cacao', English 'cocoa'}
 tart : [n.] tart {French 'tarte'}
 formaž : [n.] cheese {Italian 'formaggio' via French 'fromage'}
 maskarpon : [n.] mascarpone {Italian 'mascarpone' via French & English}
-tšädar : [n.] Cheddar (cheese) {English 'Cheddar'}
+čädar : [n.] Cheddar (cheese) {English 'Cheddar'}
 te : [n.] tea {German 'Tee'}
 kafe : [n.] coffee {German 'Kaffee'}
 -> kafesötör : [n.] coffee machine
@@ -686,8 +689,8 @@ ter : {French 'terre'}
 ----> ater : [v.] (of aircraft) to land @
 ----> teräs : [adj.] earthly
 -------> teräst : [adv.] earthily
-----> usteräs : [adj.] underground, subterreanean
-----> usterroke : [n.] underground
+----> ucter : [n.] underground
+-------> ucteräs : [adj.] underground, subterreanean
 -- [v.] (of electrical equipment) connect to the ground
 -- [v.] (of aircraft) prevent from flying
 feld : [n.] field {German 'Feld'}
@@ -976,14 +979,14 @@ poka : [n.] pocket, pouch {Frankish}
 hälm : [n.] helmet {English 'helm'}
 
 === concepts ===
-utšä : [n.] subject, object, item
--> utši : [n.] concept, idea
-----> utšiäs : [adj.] conceptual
--------> utšiäst : [adv.] conceptually
--> utšäträš : [v.] conceptualize
-----> utšäträšin : [n.] concept
+učä : [n.] subject, object, item
+-> uči : [n.] concept, idea
+----> učiäs : [adj.] conceptual
+-------> učiäst : [adv.] conceptually
+-> učäträš : [v.] conceptualize
+----> učäträšin : [n.] concept
 -------> träšin : [n.] project
-----> utšäträšina : [n.] conceptualization
+----> učäträšina : [n.] conceptualization
 ide : [n.] idea {French 'idée'}
 res : [n.] thing, matter {Latin}
 -> resäs : [adj.] actual, real
@@ -1209,7 +1212,7 @@ skläv : [n.] slave {French 'esclave'}
 === substance ===
 släm : [m.] slime, goo, sludge {English 'slime', PIE '*sley-'}
 peluš : [m.] fluff, plush {French 'peluche', English 'plush'}
-siltše : [m.] flint {Italian 'selce' via Latin via French 'silex'}
+silče : [m.] flint {Italian 'selce' via Latin via French 'silex'}
 seträ : [m.] ash(es)
 tan : [n.] fire {Breton}
 -> atan : [v.] set fire to, light on fire
@@ -1325,6 +1328,8 @@ teg : [n.] roof; ceiling; ceiling (upper limit) {Original}
 tom : [n.] floor; ground; floor (lower limit) {Original}
 dol : [n.] wall {Original}
 -> dolu : [n.] small wall; barrier, fence
+kac : [n.] tower {Original}
+-> kacu : [n.] small tower; turret
 simänt : {French 'ciment', English 'cement'}
 -- [m.] cement
 -- [v.] [trans] cement (in) @@
@@ -1481,8 +1486,8 @@ päst : {French 'peste', English 'pester'}
 -- [v.] plague, pester, annoy
 pač : [n.] peace {Latin 'pax'}
 -> apač : [v.] appease
-----> apatšina : [n.] appeasement
--> patšein : [n.] peacetime
+----> apačina : [n.] appeasement
+-> pačein : [n.] peacetime
 banier : [n.] banner {French 'banière'}
 orde : [n.] order, arrangement, series {Latin 'ordo'}
 -> ordeät : [adj.] orderly
@@ -1725,8 +1730,8 @@ mät : [v.] set, change, assign, put {Latin 'mitto' via French 'mettre'}
 ----> immätina : [n.] insertion
 -> demät : [v.] revoke, withdraw
 ----> demätina : [n.] revocation, withdrawal
--> usmät : [v.] place under; submit, yield
-----> usmätina : [n.] submission
+-> ucmät : [v.] place under; submit, yield
+----> ucmätina : [n.] submission
 -> antemät : [v.] exchange, trade, swap
 ----> antemätin(a) : [n.] exchange, trade, deal
 ----> antemäta : [n.] [archaic] shop, hall, plaza, hub
@@ -1886,6 +1891,7 @@ pläs : [v.] to please, favour {Latin 'placeo' via French 'plaire'}
 -------> nesapläsein : [n.] (state of) disagreement
 -------> nesapläsina : [n.] disagreement
 -> pläses : [adj.] pleasing; delicious
+prät : [v.] [n.] joke {Original}
 
 utej : [v.] use
 -> tej : [prep.] [cnjc.] instrumentative ('with')
@@ -2696,9 +2702,9 @@ dogäl : [adj.] certain, sure {Breton 'diogel'}
 -> nedogäl : [adj.] uncertain, unsure
 ----> nedogälein : [n.] uncertainty
 
-motše : [adj.] nice, pleasant {Typo of English 'nice' → 'moce'}
--> motšein : [n.] niceness, pleasantness
--> motšät : [adv.] nicely, pleasantly
+moče : [adj.] nice, pleasant {Typo of English 'nice' → 'moce'}
+-> močein : [n.] niceness, pleasantness
+-> močät : [adv.] nicely, pleasantly
 
 jac : [adj.] great, grand, mighty {Korean '에야차'}
 -> ajac : [v.] make great, improve, elevate
