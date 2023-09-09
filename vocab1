@@ -24,6 +24,7 @@ netä : [det.] any, either
 -> netäa : [adv.] anywhere
 ait : [det.] each, every
 -> artu : [det.] all
+ceni : [det.] some 
 
 === prepositions ===
 us : [prep.] ablative, genitive ('from', 'of', authorship)  
@@ -574,11 +575,11 @@ glutän : [n.] gluten
 roba : [n.] tree
 mäc : {Estonian}
 -- [n. unc.] wood
-----> mäctrošör : [n.] lumberjack {'mets' + 'troš' + '-ör'}
-----> mäctröbör : [n.] woodworker {'mets' + 'tröbör'}
+----> mäctrošör : [n.] lumberjack {'mec' + 'troš' + '-ör'}
+----> mäctröbör : [n.] woodworker {'mec' + 'tröbör'}
 ----> gemäc : [n.] [collective] lumber
 -- [n.] forest, woods
-----> mätsäs : [adj.] forestal
+----> mäcäs : [adj.] forestal
 burš : [m.] birch {English 'birch', French 'bouleau}
 akašia : [m.] acacia {English, French 'acacia'}
 lilak : [n.] lilac {English 'lilac'}
@@ -1299,7 +1300,7 @@ täl : [n.] fabric, canvas; (spider's) web {Latin 'tela' via French 'toile'}
 -------> getälensor : [n.] wardrobe, closet
 näät : [n.] net, mesh {English 'net'}
 -> antenäät : [n.] internet
-----> antenäätsor : [n.] router, modem {+ 'sor'}
+----> antenääcor : [n.] router, modem {+ 'sor'}
 -> näätein : [n.] netting; network
 -> näätvine : [n.] cyberspace, virtual place
 ark : [n.] bow, arc; semicircle {Latin 'arcus'}
@@ -1720,8 +1721,8 @@ met : [v.] send {Latin 'mitto' +~ 'mät'}
 -> metör : [n.] sender
 -> metina : [n.] send
 -> resmet : [v.] return, take/send ... back
--> metser : [v.] message
-----> metserin : [n.] message
+-> mecer : [v.] message
+----> mecerin : [n.] message
 -> ustemet : [v.] hurl, cast; send forth, emit, discharge {'ust' +}
 tuš : [v.] [intrans.] touch, reach, attain {French 'toucher'}
 -> tušin : [n.] touch, reach
@@ -1785,8 +1786,8 @@ ser : {French 'dire', English 'say', German 'sprechen'}
 -------> serinafär : [adj.] meaningful ###
 ----------> serinafärt : [adv.] meaningfully ###
 -> serin : [n.] expression, meaning
--> antser : [v.] converse
-----> antserin(a) : [n.] conversation, exchange, dialogue
+-> ancer : [v.] converse
+----> ancerin(a) : [n.] conversation, exchange, dialogue
 klam : [v.] cry out, exclaim; shout, yell; call (out) {Latin 'clamo'}
 -> reklam : [v.] demand; repossess
 ----> reklamina : [n.] repossession
@@ -1840,11 +1841,11 @@ oblis : [v.] forget {Latin 'obliviscor' via French 'oublier'}
 kuet : [v.] count, calculate {Original}
 -> kuetin : [n.] count
 -> kuetina : [n.] calculation
--> kuetsor : [n.] computer {+ 'sor'}
+-> kuecor : [n.] computer {+ 'sor'}
 
 läc : [v.] lure, deceive; entice, ensnare {Latin 'lacio'}
 -> öläc : [v.] allure, attract; tempt
-----> ölätsin : [n.] temptation, attraction
+----> öläcin : [n.] temptation, attraction
 fäl : [v.] trick, deceive, cheat {Latin 'fallo'}
 -> fälin : [n.] trick
 -> fälina : [n.] deception, lie; cheating
@@ -2298,7 +2299,7 @@ stöj : [v.] find {Original}
 
 danc : {German 'tanz', English 'dance'}
 -- [v.] [intrans] dance
-----> dantsör : [n.] dancer
+----> dancör : [n.] dancer
 -- [n.] dance
 
 bras : [v.] ferment, brew {French 'brasser'}
@@ -2884,4 +2885,4 @@ mälk : [archaic] {English 'milk', French 'lait', German 'Milch'}
 
 dö : [prep.] [dated] ablative, genitive ('from', 'of', authorship) {French 'de'}  
 
-
+süra : [det.] some
