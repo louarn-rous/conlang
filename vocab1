@@ -256,7 +256,12 @@ lest : [adv.] diminutive superlative ('least') {English 'least'}
 ----> lestäst : [adv.] minimally  
 te : [adv.] too, too much, too many {English 'too', French 'trop'}  
 jus : [adv.] just, only, simply, merely {French 'juste'}
-sei : [adv.] such, so
+sei : [adv.] such, so {Original}
+
+čundr : [v.] suffice {Korean '충분'}
+-> čundräs : [adj.] sufficient, enough 
+----> čundräst : [adv.] sufficiently
+----> ačundräs : [v.] to make sufficient, to fill, compensate
 
 ül : [adj.] (the) previous, anticedent {Original}  
 -> üla : [adj.] before  
@@ -283,6 +288,9 @@ i : [adj.] (the) current, present {Japanese '今'}
 alte : [det.] [n.] [adj.] other
 -> alt(e)- : [prf.] other
 -> altein : [n.] otherness
+
+maci : [det.] one's own
+-> kur tön maci : [phrase] mind your own business
 
 arü : [adv.] yet, still; thus far {Japanese 'ある'}
 
@@ -523,6 +531,7 @@ onion : [n.] onion {French 'oignon'}
 soj : [n.] soy {Satsuma Jp. '醤油' via Dutch 'soja' via French 'soja' & English 'soy'}
 nüs : [n.] nut {French 'noix', English 'nut'}
 -> nüskät : [n.] peanut {'nus' + French 'cacahuète'}
+-> nüsdat : [n.] [derog.] bag of nuts
 makademia : [n.] macadamia
 frut : {French, English 'fruit'}
 -- [n.] fruit
@@ -1329,13 +1338,16 @@ mis : {? French 'nid'}
 ----> misät : [adj.] cozy; homely
 -- [v.] host
 ----> misör : [n.] host
-štog :
+štog : {Original}
 -- [n.] trash, garbage, rubbish
 ----> štogtröbör : [n.] garbage collector
+----> štogsoru : [n.] bin, wastebasket
+----> štogdat : [n.] trash bag
 -- [v.] pollute
 ----> štogör : [n.] polluter
 tem : [n.] table {Spanish 'mesa', Latin 'tabula' via French & English 'table'}
 -> temsär, temät : [adj.] tabular
+hust : [n.] chair {Original}
 
 === building ===
 pilar : [n.] pillar; support, foundation {English 'pillar'}
@@ -1354,6 +1366,7 @@ simänt : {French 'ciment', English 'cement'}
 
 === games ===
 bal : [n.] ball {French 'balle'}
+-> baldat : [n.] [vulgar] ballsack
 doš : [n.] die/dice {Original}
 ešäk : [n. unc.] chess {French 'échecs', English 'chess'}
 uegä : [n.] game {Spanish 'juego'}
@@ -1501,6 +1514,7 @@ post : [n.] mail {English, French 'poste'}
 -> posttröbör : [n.] postman { + 'tröbör'}
 -> postäs : [adj.] postal
 ----> postäst : [adv.] postally
+-> postdat : [n.] mail bag
 päst : {French 'peste', English 'pester'}
 -- [n.] plague
 -- [v.] spread plague amongst
@@ -1515,6 +1529,9 @@ orde : [n.] order, arrangement, series {Latin 'ordo'}
 -> ordeät : [adj.] orderly
 -> desorde : [n.] disorder, disarray
 ----> desordeät : [adj.] disorderly
+guran : [v.] tickle
+-> guranin : [n.] tickles
+-> guran (ceni den) isän (učä) : [phrase] tease (someone) about (subject)
 
 nar : [n.] capacity; weapon {Original}
 -> genar : [n.] arms, weapons
@@ -1534,6 +1551,11 @@ sor : [n.] chest, trunk {Original
 -> soru : [n.] box
 ----> asor(u) : [v.] [trans] to put in a box
 ----> imsoru : [n.] [f:email] inbox
+
+tukon : [n.] lid, cap; plug {Korean '뚜껑'}
+
+maid : [n.] shell, hull
+-> maidu : [n.] case
 
 besät : [n.] team, crew {Swedish 'besättning'}
 -> abesät : [v.] team up, group
@@ -1903,6 +1925,7 @@ läž : [v.] obey, serve, be loyal to {English 'liege' via 'allegiance'}
 ----> deläžein : [n.] (state of) disobedience
 räg : [v.] rule, govern {Latin 'rego'}
 -> rägör : [n.] ruler, governor
+----> arträgör : [n.] tyrant
 -> rägein : [n.] governance
 -> rägina : [n.] government
 talöd : [v.] follow {Korean '따르다'}
@@ -1963,6 +1986,8 @@ stag : [v.] start, commence, begin {Breton}
 fin : [v.] finish, end, conclude {Latin 'finio' via French 'finir' & English 'finish'}
 -> finin : [n.] end
 -> finina : [n.] conclusion
+-> finäs : [adj.] final
+----> finäst : [adv.] finally
 alt : [v.] stop, cease {German 'Halt'}
 -> altör : [n.] device for stopping
 
@@ -2327,7 +2352,7 @@ furn : [v.] bake, cook; roast {French 'four', English 'furnace'}
 kal : [v.] fit, match, correspond {French 'caler'}
 -> kalin : [n.] match @@
 
-mäl : [v.] mix, combine, blend, tangle, fuse {French 'mêler'}
+mäl : [v.] mix, blend; combine, fuse; tangle {French 'mêler'}
 -> mälör : [n.] mixer, blender or other apparatus for blending
 -> mälin : [n.] mixture, combination, blend
 
