@@ -1037,7 +1037,7 @@ troke : [n.] location, place {Japanese '所'}
 ----> sommis-estrok : [n.] [dated] bedroom
 -------> sommistrok : [n.] bedroom {'sommis' +}
 ----> orestrok : [n.] vault {'or' +}
-----> usestrok : [n.] basement
+----> ucestrok : [n.] basement
 -> -(t)roke : [suf.] used to indicate a place with a purpose relating to the suffixed word ('-place')
 -> atrok : [v.] place
 ----> resatrok : [v.] replace
@@ -1439,15 +1439,15 @@ kin : [n.] child {German 'kinder', English}
 -> kinä : [n.] kid
 -> kinät : [adj.] childish
 ----> kinätät : [adv.] childishly
--> usekin : [n.] grandchild
+-> ucekin : [n.] grandchild
 poj : [n.] boy {Swedish 'pojke', Finnish 'poika'}
 -> pojä : [n.] son
-----> uspojä : [n.] grandson
+----> ucpojä : [n.] grandson
 -> pojät : [adj.] boyish
 ----> pojätät : [adv.] boyishly
 fal : [n.] girl {Latin 'filia'}
 -> falä : [n.] daughter
-----> usfalä : [n.] granddaughter
+----> ucfalä : [n.] granddaughter
 -> falät : [adj.] girly
 ----> falätät : [adv.] girlishly
 ussor : [n.] cousin {'uz' + 'sorä'}
@@ -1573,8 +1573,8 @@ kemiš : [n.] chemical {German 'chemisch', French 'chimique', English 'chemical'
 atom : [n.] atom
 -> atomäs : [adj.] atomic
 ----> atomäst : [adv.] atomically
-----> usatomäs : [adj.] subatomic (sub-atomic)
--------> usatomäst : [adv.] subatomically
+----> ucatomäs : [adj.] subatomic (sub-atomic)
+-------> ucatomäst : [adv.] subatomically
 -> atomfiziik : [n.] atomic physics
 elektron : [n.] electron
 -> elektronäs : [adj.] electronic
@@ -1699,7 +1699,6 @@ met : [v.] send {Latin 'mitto' +~ 'mät'}
 -> metser : [v.] message
 ----> metserin : [n.] message
 -> ustemet : [v.] hurl, cast; send forth, emit, discharge {'ust' +}
-----> uste
 tuš : [v.] [intrans.] touch, reach, attain {French 'toucher'}
 -> tušin : [n.] touch, reach
 
