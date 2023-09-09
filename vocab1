@@ -716,7 +716,7 @@ mont :
 ----> montirör : [n.] mountaineer {'mont' + 'ir' + '-ör'}
 ----> montäs : [adj.] mountainous
 -------> montäst : [adv.] mountainously
-----> montu : [n.] hill, mound
+----> montu : [n.] hill, mound; pile
 -- [v.] [trans] to tower over, to dwarf
 min : {French 'mine'}
 -- [n.] mine, mineshaft
@@ -834,6 +834,8 @@ hepas : [n.] liver {Latin 'hepaticus'}
 -> hepasäs : [adj.] hepatic
 ment : [n.] chin {Latin 'mentum' + via French 'menton'}
 -> mentäs : [adj.] of or pertaining to the chin
+siän : [n.] breast {Latin 'sinus', + via French 'sein'}
+-> siänäs : [adj.] mammary; pertaining to the breast
  
 === technology ===
 disk : [n.] disk, disc, record, CD, CD-ROM {French 'disque', English 'disc'/'disk'}
@@ -938,6 +940,9 @@ arme : [n.] army {French 'armée', also via German 'Armee'}
 soldat : [n.] soldier {French 'soldat', German 'Soldat'}
 general : [n.] general {Serbian 'генерал', French 'général'}
 
+monet : [n.] money {Latin 'moneta' via English 'money' & French 'monnaie'}
+-> monetäs : [adj.] monetary
+----> monetäst : [adv.] monetarily
 salar : [n.] wage, salary {Latin 'salarium' via French 'salaire'}
 -> salarör : [n.] salary-man, employee
 -> salaräs : [adj.] salarial
@@ -953,7 +958,7 @@ prizon : [n.] prison
 -> prizonör : [n.] prisoner
 -> imprizon : [v.] imprison {'im' + 'prizon'}
 
-=== places ===
+=== places : troken ===
 otel : [n.] hotel {French 'hôtel'}
 katädral : [n.] cathedral {French 'catédrale'}
 dom : [n.] house, home {Russian 'дома'}
@@ -969,7 +974,7 @@ drom : [n.] port {Russian 'космодром'}
 ----> imedrom : [n.] entry port
 ----> ustedrom : [n.] exit port
 
-=== clothes ===
+=== clothes : getälen ===
 šos : [n.] shoe {French 'chaussure'}
 -> šosu : [n.] sock
 bot : [n.] boot {French 'botte'}
@@ -978,6 +983,7 @@ käp : [n.] cape {English 'cape'}
 džin : [m.] jean {English 'jeans' via German 'Jeans'}
 poka : [n.] pocket, pouch {Frankish}
 hälm : [n.] helmet {English 'helm'}
+lön : [m.] wool; woolen {French 'laine'}
 
 === concepts ===
 učä : [n.] subject, object, item
@@ -993,7 +999,8 @@ res : [n.] thing, matter {Latin}
 -> resäs : [adj.] actual, real
 ----> resäst : [adv.] actually, really
 ----> resäsein : [n.] actuality, reality
--> resu : [n.] material, subtance
+-> resu : [n.] material, substance
+----> geresu : [n.] substance, composition
 -> ares : [v.] compose (be a part of)
 ----> aresin : [n.] composition, makeup
 kultur : [n.] culture {German 'Kultur', French 'culture'}
@@ -1214,7 +1221,7 @@ skläv : [n.] slave {French 'esclave'}
 -> askläv : [v.] enslave
 ----> asklävina : [n.] enslavement
 
-=== substance ===
+=== substance : resu ===
 släm : [m.] slime, goo, sludge {English 'slime', PIE '*sley-'}
 peluš : [m.] fluff, plush {French 'peluche', English 'plush'}
 silče : [m.] flint {Italian 'selce' via Latin via French 'silex'}
@@ -1267,12 +1274,11 @@ papiir : {Anc. Greek 'πάπυρος' via English 'paper' & French 'papier'}
 ----> gepapiir : [n.] [collective] documentation
 ----> apapiir : [v.] to summarize; document, create a report on
 ----> papiirsor : [n.] filing cabinet
-
-besät : [n.] team, crew {Swedish 'besättning'}
--> abesät : [v.] team up, group
--> besätfränd : [n.] teammate {+ 'fränd'}
--> besättröbin : [n.] teamwork {+ 'tröb' + '-in'}
--> besätu : [n.] band, club, troupe, party
+gärt : {Anc. Greek 'χάρτης' via Latin 'charta' via French 'carte' & English 'card'}
+-- [n.] card
+----> monetgärt : [n.] debit card
+-- [n.] map
+-- [m.] card
 
 === form ===
 štok : [n.] stick, branch; handle, rod {German 'Stock'}
@@ -1300,9 +1306,9 @@ ark : [n.] bow, arc; semicircle {Latin 'arcus'}
 -> ark : [n.] [f:archery] bow
 brik : [n.] brick, ingot {French 'brique', English 'brick'} #
 -> brik : [v.] [f:computing] (of a dev) become non-functional
-gan : [n.] hole, pit, chasm
+gan : [n.] hole, pit, chasm {? Original}
 -> ganu : [n.] small hole
-pi : [n.]
+krät : [n.] grid {Latin 'cratis'}
 
 === house ===
 kav : [n.] basement {French 'cave'}
@@ -1399,6 +1405,8 @@ var : [adj.] early {Estonian 'vara'}
 spät : [adj.] late {German}
 -> spätät : [adv.] late, later
 -> spätnat : [n.] evening {+ 'nat'}
+-> aspät : [v.] retard, delay, put off
+----> aspätin : [n.] delay
 
 === people ===
 den : [n.] human, person {Breton}
@@ -1470,6 +1478,7 @@ klun : [n.] clown {French 'clown'}
 sint : [n.] Saint {Dutch}
 -> sintät : [adj.] saintly
 kamarad : [n.] comrade, mate; fellow student, classmate {French 'camarade', German 'Kamerad'}
+-> kamaradein : [n.] comradeship, mateship
 
 soc : [n.] fellow, acquantiance
 -> socäs : [adj.] social
@@ -1520,6 +1529,12 @@ sor : [n.] chest, trunk {Original
 ----> asor(u) : [v.] [trans] to put in a box
 ----> imsoru : [n.] [f:email] inbox
 
+besät : [n.] team, crew {Swedish 'besättning'}
+-> abesät : [v.] team up, group
+-> besätfränd : [n.] teammate {+ 'fränd'}
+-> besättröbin : [n.] teamwork {+ 'tröb' + '-in'}
+-> besätu : [n.] band, club, troupe, party
+
 lite : [n.] letter {Latin 'littera'}
 -> aliter : [v.] spell; alliterate
 ----> aliterina : [n.] spelling; alliteration
@@ -1551,10 +1566,10 @@ srit : [v.] {French 'écrire', English 'write'}
 -> obesrit : [v.] overwrite
 
 
-=== the sciences : er sienzade ===
-sienza : [n.] science {Italian 'scienza', French & English 'science'}
--> sienzäs : [adj.] scientific
-----> sienzäst : [adv.] scientifically
+=== the sciences : er siencade ===
+sienca : [n.] science {Italian 'scienza', French & English 'science'}
+-> siencäs : [adj.] scientific
+----> siencäst : [adv.] scientifically
 matämatik : [n.] mathematics (maths)
 -> matämatikäs : [adj.] mathematic, mathematical
 ----> matämatikäst : [adv.] mathematically
@@ -1620,12 +1635,18 @@ sol : [n.] sun {Latin 'sol' via French 'solaire'}
 -> sollum : [n.] sunlight {+ 'lum'}
 
 == biology : biologik ==
-lön : [m.] wool; woolen {French 'laine'}
-mälk : {English 'milk', French 'lait', German 'Milch'}
--- [n.] milk
-----> mälkäs : [adj.] dairy
--- [v.] [usu. of an animal] milk
--- [v.] exploit excessively
+
+
+lät : {Latin 'lac', + via French 'lait'}
+-- [n.] [v.] milk [v.] exploit
+----> lätäs : [adj.] lactic
+----> gelät : [n.] dairy
+----> alät : [v.] breastfeed
+
+
+
+
+
 ov : [n.] egg {Latin 'ovum'}
 -> oväs : [adj.] of or pertaining to eggs; oval
 zbas : [n.] wing {Japanese '翼'}
@@ -1739,7 +1760,7 @@ mät : [v.] set, change, assign, put {Latin 'mitto' via French 'mettre'}
 -> ucmät : [v.] place under; submit, yield
 ----> ucmätina : [n.] submission
 -> antemät : [v.] exchange, trade, swap
-----> antemätin(a) : [n.] exchange, trade, deal
+----> antemätin(a) : [n.] exchange, transaction; trade, deal
 ----> antemäta : [n.] [archaic] shop, hall, plaza, hub
 ----> temät : [v.] sell, deal in, trade, supply
 -------> temäta : [n.] shop, store
@@ -2241,10 +2262,15 @@ bran : [v.] [n.] burn {Swedish 'brann'}
 flet : [v.] fly {German 'Flieg', French 'voler', English 'flutter'}
 -> fletin(a) : [n.] flight
 
-skän : {?}
+skän : {? Latin 'scala'}
 -- [v.] climb, scale
 ----> skänör : [n.] one that climbs
+----> skene : [n.] ladder
 -- [n.] climb
+----> skänu : [n.] step
+-------> skänude : [n.] steps; stairs
+
+
 plod :
 -- [v.] burst, blow
 ----> ustplod : [v.] explode
@@ -2627,11 +2653,9 @@ sut : [adj.] still, down, low, seated {Japanese '座る', English 'sit'}
 ----> asutina : [n.] sitting, session
 -> suta : [n.] seat; city
 
-
 striis : [n.] {~'tri' + 'stras', Latin 'trivium'}
 -> striisäs : [adj.] vulgar; trivial
 ----> striisäst : [adv.] vulgarly; trivially
-
 
 rund : {Swedish}
 -- [adj.] round
@@ -2832,7 +2856,7 @@ bov : [n.] [archaic] cow {Late Latin 'bovinus'}
 -> bovu : [n.] [archaic] calf
 vinj : [n.] [archaic] vine {French 'vigne'}
 jan : [n.] [archaic] person {Toki Pona}
-prom : [v.] [archaic] promise
+prom : [v.] [archaic] promise {French 'promettre'}
 gan : [v.] [archaic] can, able to {? English 'can'}
 ovär : [v.] [archaic] open {French 'ouvrir', English 'open'}
 levit : [v.] [archaic] levitate, hover {French 'léviter', English 'levitate'}
@@ -2845,6 +2869,12 @@ sipaträ : [n.] [archaic] uncle
 voč : [archaic] {Italian 'voce'}
 -- [n.] voice
 -- [v.] express, voice
+
+mälk : [archaic] {English 'milk', French 'lait', German 'Milch'}
+-- [n.] milk
+----> mälkäs : [adj.] dairy
+-- [v.] [usu. of an animal] milk
+-- [v.] exploit excessively
 
 dö : [prep.] [dated] ablative, genitive ('from', 'of', authorship) {French 'de'}  
 
