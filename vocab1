@@ -465,8 +465,10 @@ blär : [n.] badger {French 'blaireau'}
 -> bläräs : [adj.] meline
 -> bläru : [n.] badger cub
 -> stamblär : [n.] pangolin
-širm : [n.] lizard
+širm : [n.] lizard {Original}
 -> širmäs : [adj.] lacertilian
+torte : [n.] tortoise, turtle {English 'toirtoise', French 'tortue'}
+serpe : [n.] snake {Latin 'serpens' via French 'serpent'}
 lemür : [n.] ring-tailed lemur (lemur catta)
 -> lemüräs : [adj.] lemurine, lemurian
 luter : [n.] otter {Latin 'lutra' + via French 'loutre'}
@@ -498,20 +500,23 @@ rat : [n.] rat {English, Latin 'rattus' via French 'rat'}
 -> žirafäs : [adj.] giraffine
 mono : [n.] monkey {Spanish}
 -> monäs : [adj.] simian
-luzd :
--- [n.] worm
-----> luzdäs : [adj.] vermicular
--- [v.] squirm, wriggle, worm, crawl
 päsk : [n.] fish {Breton 'pesk'}
 -> päsktemätör : [n.] fishmonger
 -> päskäs : [adj.] piscine
 -> rodpäsk : [n.] goldfish {'rod' + }
+luzd :
+-- [n.] worm
+----> luzdäs : [adj.] vermicular
+-- [v.] squirm, wriggle, worm, crawl
 arän : [n.] spider {Latin 'aranea' + via French 'araignée'}
 -> aränäs : [adj.] Arachnid
 lusi : [n.] slug {~ French 'limace'}
+-> lusiäs : [adj.] limacine
 skürne : [n.] snail {~ French 'escargot'}
 apiä : [n.] bee {Latin 'apis'}
 -> apiäs : [n.] apian
+scarbe : [n.] beetle, scarab {French 'scarabée', English 'scarab'}
+musk : [n.] fly {Latin 'musca' via French 'mouche'}
 
 === crops, food, drink ===
 karot : [n.] carrot {French 'carrote'}
@@ -527,7 +532,9 @@ tomat : [n.] tomato {French 'tomate'}
 sitre : [n.] citrus; lemon {Latin 'citrus' via English, French 'citron'}
 -> grönsitre : lime {'grön' + }
 limonat : [n.] lemonade {Italian 'limonata'}
+mange : [n.] mango {Portugese 'manga' via English 'mango'}
 onion : [n.] onion {French 'oignon'}
+guso : [n.] garlic {~ French 'gousse'}
 soj : [n.] soy {Satsuma Jp. '醤油' via Dutch 'soja' via French 'soja' & English 'soy'}
 nüs : [n.] nut {French 'noix', English 'nut'}
 -> nüskät : [n.] peanut {'nus' + French 'cacahuète'}
