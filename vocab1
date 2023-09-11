@@ -1647,11 +1647,11 @@ nukleus : [n.] nucleus
 -> nukleas : [adj.] nuclear, nucleic
 
 == cosmological : cosmologikäs ==
-cosm : [n.] space {Anc. Greek 'κόσμος'}
--> cosmologik : [n.] cosmology
-----> cosmologikäs : [adj.] cosmological
--> cosmäs : [adj.] cosmic
-----> cosmäst : [adv.] cosmically
+kosme : [n.] space {Anc. Greek 'κόσμος'}
+-> kosmelogik : [n.] cosmology
+----> kosmelogikäs : [adj.] cosmological
+-> kosmäs : [adj.] cosmic
+----> kosmäst : [adv.] cosmically
 astär : [n.] star {Latin 'astrum' + via French 'astre'}
 -> astäräs : [adj.] astral
 ----> astäräst : [adv.] astrally
@@ -2375,6 +2375,8 @@ spen : [v.] spy {French 'espion'}
 -> spenör : [n.] spy
 -> spenina : [n.] espionage
 
+naus 
+
 baes : {Unknown}
 -- [v.] [n.] bite
 -- [v.] [colloq.] kid, fool around
@@ -2413,6 +2415,14 @@ grafit
 sträd : [v.] struggle {Frisian 'striid', Swedish 'strida'}
 -> strädin : [n.] conflict, struggle, war
 ----> strädinu : [n.] fight, squabble, dispute, argument
+
+naut : [v.] sail {Latin 'nauta'}
+-> nautör : [n.] sailor
+----> kosmenautör : [n.] astronaut, cosmonaut
+-> nautäs : [n.] pertaining to sailing
+nave : [n.] ship, boat; craft {Latin 'navis'}
+-> navu : [n.] small boat
+-> kosmenave : [n.] spacecraft
 
 limit : [v.] [trans] limit {French 'limite', English}
 -> limitör : [n.] device that limits
