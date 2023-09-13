@@ -595,6 +595,7 @@ brot : [n.] bread {German}
 nis : [n.] wheat {Estonian 'nisu'}
 läj : [n.] yeast; leavening agent (Estonian 'leib', French 'levure')
 glutän : [n.] gluten
+past : [n.] pasta {Italian 'pasta', French 'pâte'}
 
 === plants & trees ===
 roba : [n.] tree
@@ -999,6 +1000,10 @@ drom : [n.] port {Russian 'космодром'}
 -> [n.] [f:computing] port
 ----> imedrom : [n.] entry port
 ----> ustedrom : [n.] exit port
+ferm : [n.] [v.] farm {Latin 'firma' + via French 'ferme'}
+-> fermör : [n.] farmer
+-> fermlant : [n.] farmland
+-> fermina : [n.] farming
 
 === clothes : getälen ===
 šos : [n.] shoe {French 'chaussure'}
@@ -1554,6 +1559,9 @@ nar : [n.] capacity; weapon {Original}
 
 furk : [n.] fork (shape, abstract)
 -> furku : [n.] fork (utensil)
+
+klet : [n.] cage {Russian 'клетка'}
+-> aklet : [v.] cage
 
 korb : [n.] basket {French 'corbeille'}
 -> korbu : [n.] parcel
