@@ -1042,6 +1042,8 @@ tite : [n.] title {Latin 'titulus' + via French 'titre'}
 -> netitet : [adj.] untitled
 -> uctite : [n.] subtitle
 
+dača : [n.] chance, luck {Russian 'удача'}
+
 ötren : [n.] problem, issue; concern {Original}
 -> ötrena : [n.] crisis
 -> ötrenäs : [adj.] problematic
@@ -1064,7 +1066,7 @@ sunog : [n.] edge, boundary, border
 vine : [n.] domain, realm {Croatian 'domovina'}
 -> vinu : [n.] zone, area
 
-trät : [n.] step [v.] step; trample, tread {? German}
+trät : [n.] step [v.] step; trample, tread {German 'Tritt'}
 -> fusträt : [n.] footstep
 
 troke : [n.] location, place {Japanese '所'}
@@ -2340,6 +2342,8 @@ salv : [v.] save {Latin 'salva' via English 'salvation', French 'sauver'}
 
 stöj : [v.] find {Original}
 -> stöjina : [n.] discovery, finding
+
+brilj : [v.] shine {Portugese 'brilhar', French 'briller'}
 
 danc : {German 'tanz', English 'dance'}
 -- [v.] [intrans] dance
