@@ -1051,6 +1051,10 @@ tite : [n.] title {Latin 'titulus' + via French 'titre'}
 
 dača : [n.] chance, luck {Russian 'удача'}
 
+vet : [n.] age {Latin 'vetus'}
+-> avet : [v.] age
+----> avetina : [n.] aging
+
 ötren : [n.] problem, issue; concern {Original}
 -> ötrena : [n.] crisis
 -> ötrenäs : [adj.] problematic
@@ -1345,6 +1349,11 @@ brik : [n.] brick, ingot {French 'brique', English 'brick'} #
 gan : [n.] hole, pit, chasm {? Original}
 -> ganu : [n.] small hole
 krät : [n.] grid {Latin 'cratis'}
+
+kev : {Anc. Greek 'κύβος' via French & English 'cube'}
+-- [n.] cube
+-- [n.] [f:mathematics] third power of a number or term
+----> akev : [v.] [f:mathematics] to multiply a number by itself twice
 
 === house ===
 kav : [n.] basement {French 'cave'}
@@ -2412,6 +2421,8 @@ gil : [v.] [n.] help {Scottish Gaelic 'gille' via English 'gillie'}
 živ : [v.] persist, continue; stay {Croatian 'živi'}
 -> aživ : [v.] to preserve, uphold, perpetuate
 -> živein : [n.] persistence, continuation
+
+
 
 studer : [v.] study {Latin 'studere' via English 'study'}
 -> studerin : [n.] study, research
