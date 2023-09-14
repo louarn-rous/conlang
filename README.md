@@ -22,7 +22,7 @@ It is synthetic, fusional and mildly inflected. It utilises SVO (Subject-Verb-Ob
 ## Alphabet
 The Ijter language employs both a Latin and a Cyrillic script.
 
-| IPA  | English               |Lat.|Cyr.|Name| IPA | English                 |Lat.|Cyr.|Name|
+| IPA  | English               |Lat.|Cyr.| -  | IPA | English                 |Lat.|Cyr.| -  |
 |:---: |:---                   |:-: |:-: |:-: |:---:|:---                     |:-: |:-: |:-: |
 | /a/  | 'h**a**t' (Cali, Can) | Aa | Аа | aa | /n/ | '**n**et'               | Nn | Нн | än |
 | /ɛ/  | 'y**e**s'             | Ää | Ӓӓ | ää | /o/ | 'y**aw**n' (SA)         | Oo | Оо | oo |
