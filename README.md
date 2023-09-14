@@ -180,6 +180,8 @@ Note that this is subject to some variation.
 
 When a phrase contains a catenative verb in addition to a regular verb, the former is conjugated while the latter remains in its infinitive/root/unconjugated form.
 
+To specify the gender of an agent noun, one can replace -ör with -ar for feminine and -or for masculine
+
 ## Braille
 
 Ijter braille is inspired by the French, English, Czech and Scandinavian braille alphabets.
