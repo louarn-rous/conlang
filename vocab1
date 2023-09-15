@@ -621,6 +621,7 @@ vit : [n.] vine {Latin 'vitis'}
 härb : [n.] grass, herb {French 'herbe', English 'herb'}
 -> härbäs : [adj.] herbal
 ----> härbäst : [adv.] herbally
+trav : [n.] lawn {Russian 'трава'}
 bambu : [m.] bamboo {French 'bambou'}
 kaktüs : [n.] cactus {French 'cactus'}
 flor : {Italian 'fiore', French 'fleur'}
@@ -1136,7 +1137,7 @@ gove : [n.] voice, (manner of) speech; spirit {Japanese '声', ~? Serbo-Croatian
 jukos : [n.] monster {Original}
 bäst : [n.] beast, creature {French 'bête', English 'beast'}
 
-nam : [n.] name 
+nam : [n.] name {German 'Name', French 'nom', English 'name'}
 -> namäs : [adj.] nominal
 ----> namäst : [adv.] nominally
 -> anam : [v.] to give/assign a name to
@@ -1157,9 +1158,9 @@ heer : [n.] [v.] hate
 -> heerfär : [adj.] detestable
 ----> heerfärt : [adv.] detestably
 -> heerver : [adj.] hateworthy
-enor : [n.] [v.] honor {Breton}
--> enorfär : [adj.] honorable
-----> enorfärt : [adv.] honorably
+enor : [n.] [v.] honour {Breton}
+-> enorfär : [adj.] honourable
+----> enorfärt : [adv.] honourably
 spag : [n.] shame {Original}
 -> aspag : [v.] shame
 -> (a)spagver : [adj.] shameful
@@ -1168,6 +1169,25 @@ märs : [n.] pain, harm, suffering
 -> amärs : [v.] cause harm to
 -> märsver : [adj.] painful; harmful
 ----> märsverät : [adv.] painfully
+
+cörg : [v.] hurt
+-> cörgin : [n.] harm
+setör : [v.] (experience) pain [n.] pain
+
+gad : [adj.] happy, glad {~ English 'glad', ? Breton}
+-> gadät : [adv.] happily
+-> agad : [v.] to make happy
+-> gadein : [n.] (state of) happiness
+-> gadin : [n.] joy, happiness
+----> gadina : [n.] bliss
+-> gada : [adj.] ecstatic
+cer : [adj.] sad {Original}
+-> acer : [v.] to make sad
+-> cerät : [adv.] sadly
+-> cerein : [n.] (state of) sadness
+----> cereina : [n.] [common] depression
+-> cerin : [n.] sadness; grief
+----> vältcerin : [n.] weltschmerz
 
 stin : {Serbian 'истина'}
 -- [adj.] true
@@ -1854,7 +1874,7 @@ ser : {French 'dire', English 'say', German 'sprechen'}
 -------> serinafär : [adj.] meaningful ###
 ----------> serinafärt : [adv.] meaningfully ###
 -> serin : [n.] expression, meaning
--> ancer : [v.] converse
+-> antser : [v.] converse
 ----> ancerin(a) : [n.] conversation, exchange, dialogue
 klam : [v.] cry out, exclaim; shout, yell; call (out) {Latin 'clamo'}
 -> reklam : [v.] demand; repossess
@@ -2115,9 +2135,8 @@ avis : [v.] show, uncover, demonstrate, discover
 lus : [v.] open {Original}
 -> lusör : [n.] thing which opens; opener
 usät : [v.] close
-tör : [v.] pull, drag, draw
+tör : [v.] pull, draw
 -> törör : [n.] trigger
-
 prös : [v.] [trans] [n.] push
 -> prösir : [v.] (usu. of a vehicle) drive
 -> seiprösäs : [adj.] automatic, automobile
@@ -2194,6 +2213,7 @@ grom : [v.] groan {Serbian 'гром'}
 -> gromina : [n.] groaning
 -> groma : [n.] thunder
 
+träg : [v.] wear {German 'tragenen'}
 
 falt : [v.] falter {Portugese 'faltar'}
 -> faltin : [n.] fault
@@ -2652,7 +2672,8 @@ nov : [adj.] new {Portugese 'novo'}
 -> novät : [adv.] newly
 -> reanov : [v.] update, renovate, renew
 ----> reanovin : [n.] update, renewal
-----> reanovina : [n.] renewal
+----> reanovina : [n.] renewal; renovation
+-> anov : [adj.] anew
 jong : [adj.] young {German 'jung', Dutch}
 -> jongein : [n.] youth
 au : [adj.] old {Afrikaans 'ou'}
