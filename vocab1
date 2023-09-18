@@ -43,7 +43,7 @@ im : [prep.] in (contained by, within the bounds of, part of, into) {German}
 -> imtroke : [n.] interior
 -> imäs : [adj.] inner, internal
 ----> imäst : [adv.] internally
-----> imäsein : [n.] insideness, internality
+----> imäsime : [n.] insideness, internality
 -> imvär : [adj.] inwards
 ----> imvärt : [adv.] inwardly
 -> imklöd : [v.] include  
@@ -61,7 +61,7 @@ ust : [prep.] out (outside of, away from, not in) {French 'ouste'}
 -> ustäs : [adj.] outer, external
 ----> ustäst : [adv.] externally 
 ----> ustäsin : [n.] [common] foreigner, outsider
-----> ustäsein : [n.] outsideness, externality
+----> ustäsime : [n.] outsideness, externality
 -> ustvär : [adj.] outwards  
 ----> ustvärt : [adv.] outwards
 -> usklöd : [v.] exclude
@@ -113,7 +113,7 @@ uz : [cnjc.] comitative ('with') {Croatian}
 -> nuz : [cnjc.] abessive ('without')
 ----> nuzin : [n.] lack
 ----> nuzät : [adj.] poor
--------> nuzätein : [n.] poverty
+-------> nuzätime : [n.] poverty
 ----> -nuz : [suf.] abessive; forms abessive adjectives from nouns ('-less')
 
 mo : [cnjc.] also, both, as well, again  
@@ -123,10 +123,10 @@ mo : [cnjc.] also, both, as well, again
 ----> omoät : [adv.] samely, commonly  
 ----> omäs : [adj.] equal  
 -------> omäst : [adv.] equally  
--------> omäsein : [n.] equality  
+-------> omäsime : [n.] equality  
 -------> neomäs : [adj.] inequal, unequal  
 ----------> neomäst : [adv.] inequally, unequally  
-----------> neomäsein : [n.] inequality
+----------> neomäsime : [n.] inequality
 
 nä : [cnjc.] [causal] but, however {French 'mais'}  
 -> sežnä : [cnjc.] [causal] nevertheless, still, despite, anyway (preceding clause)  
@@ -148,7 +148,7 @@ si : [cnjc.] if, in the case/condition that, given/supposing/assuming that {Fren
 -> -in : [suf.] nominative; forms nouns from verbs, describing the result of an action  
 -> -(n)a : [suf.] augmentative
 -(t)ör : [suf.] agentive; forms agent nouns from verbs ('-er')  
--(s)im : [suf.] forms nouns from adjectives, denoting the condition or state of the suffixed word ('-hood', '-dom', '-ness')
+-(s)ime : [suf.] forms nouns from adjectives, denoting the condition or state of the suffixed word ('-hood', '-dom', '-ness')
 -(n)äs : [suf.] genitive; forms adjectives from nouns, with the meaning 'of or pertaining to' the suffixed word ('-ic')  
 -(n)ät :  
 -- [suf.] used to form adverbs from adjectives @@ verbs and nouns  ; having the quality of
@@ -289,7 +289,7 @@ i : [adj.] (the) current, present {Japanese '今'}
 
 alte : [det.] [n.] [adj.] other
 -> alt(e)- : [prf.] other
--> altein : [n.] otherness
+-> altime : [n.] otherness
 
 maci : [det.] one's own
 -> kur tön maci : [phrase] mind your own business
@@ -300,8 +300,8 @@ mäs : [adj.] constant, unmoving, permanent {German '-mals'}
 -> mäst : [adv.] ever; always  
 ----> nemäst : [adv.] never  
 ----> dömast : [adv.] forever  
--------> dömastein : [n.] eternity  
--> mäsein : [n.] permanence, immutability  
+-------> dömastime : [n.] eternity  
+-> mäsime : [n.] permanence, immutability  
 -> mäsäs : [adv.] constantly
 
 === other particles === 
@@ -336,8 +336,8 @@ jos : {Japanese 'よし'}
 ----> josät : [adv.] readily  
 ----> nejos : [adj.] unprepared  
 -------> nejosät : [adv.] unpreparedly  
--------> nejosein : [n.] unpreparedness  
-----> josein : [n.] preparedness, readiness
+-------> nejosime : [n.] unpreparedness  
+----> josime : [n.] preparedness, readiness
 
 tagräm : {Original}  
 -- [intj.] sorry  
@@ -359,23 +359,23 @@ nöl : {German 'Null', English 'null', French 'annuler'}
 ---> anöl : [v.] cancel, make null
 ün : [num.] 1 (one) {French 'une'}
 -> ünit : [v.] unite, unify
-----> ünitein : [v.] unity 
+----> ünitime : [n.] unity 
 -> üne : [ord. num.] first
 ----> ünät : [adv.] firstly
 -> tün : [adj.] whole, complete, entire
-----> tünein : [n.] wholeness
+----> tünime : [n.] wholeness
 ----> atün : [v.] complete, to make whole
 ----> tünät : [adv.] wholly
 -> ünäs : [adj.] primary
 ----> ünäst : [adv.] primarily
--> ünein : [n.] oneness
+-> ünime : [n.] oneness
 -> ünu : [n.] unit; piece
 to : [num.] 2 (two)
 -> toe : [ord. num.] second
 ----> toäs : [adv.] secondly
 -> toäs : [adj.] secondary
 ----> toäst : [adv.] secondarily
--> tosein : [n.] duality
+-> tosime : [n.] duality
 tri : [num.] 3 (three) {Russian 'три', French 'trois'}
 -> trie : [ord. num.] third
 ----> trijät : [adv.] thirdly
@@ -1039,7 +1039,7 @@ ide : [n.] idea {French 'idée'}
 res : [n.] thing, matter {Latin}
 -> resäs : [adj.] actual, real
 ----> resäst : [adv.] actually, really
-----> resäsein : [n.] actuality, reality
+----> resäsime : [n.] actuality, reality
 -> resu : [n.] material, substance
 ----> geresu : [n.] substance, composition
 -> ares : [v.] compose (be a part of)
@@ -1072,7 +1072,7 @@ vet : [n.] age {Latin 'vetus'}
 
 niväl : [n.] level {English 'level', French 'niveau'}
 strat : [n.] layer {Latin 'stratum' via English}
--> stratein : [n.] layeredness
+-> stratime : [n.] layeredness
 kut : [n.] coat, layer {English 'coat', French 'couche'}
 -> akut : [v.] coat
 ----> akutin(a) : [n.] coating
@@ -1081,7 +1081,7 @@ stras : [n.] road; street {Latin 'strata' via Italian 'strada' & German 'Straße
 läš : [n.] way, path, method
 toš : [n.] thing {French 'chose'}
 sunog : [n.] edge, boundary, border
--> sunogein : [n.] state of being on the edge, of being borderline; hesitancy
+-> sunogime : [n.] state of being on the edge, of being borderline; hesitancy
 -> sunognuz : [adj.] boundless
 -> sunoguz : [adj.] limited; bounded
 -> sunogu : [n.] bordure
@@ -1111,7 +1111,7 @@ liäs : [n.] link {? French 'lier'}
 ----> aliäsina : [n.] connection
 -> deliäs : [n.] disconnect
 ----> deiliäsina : [n.] disconnection
--> liäsein : [n.] relation, togetherness
+-> liäsime : [n.] relation, togetherness
 
 gadäs : [n.] chain, link; channel {Latin 'catena' via Catalan 'cadena'}
 -> gadäsen : [n.] chains, irons; binds
@@ -1121,15 +1121,15 @@ par : [n.] side {Anc. Greek 'παρά'}
 
 pär : [n.] part, piece, share, component {Latin 'partem' via English & French 'part'}
 -> apär : [v.] divide, seperate, split
-----> apärein : [n.] apartness, seperation, division; polarization
+----> apärime : [n.] apartness, seperation, division; polarization
 ----> usapär : [v.] decide
 -------> usapärin : [n.] decision
 ----> usapärfär : [adj.] decidable
 -------> usapärfärt : [adv.] decidably
--------> usapärfärein : [n.] decidability
+-------> usapärfärime : [n.] decidability
 -------> nesusapär : [adj.] undecidable
 ----------> nesuspärfärt : [adv.] undecidably
-----------> nesuspärfärein : [n.] undecidability
+----------> nesuspärfärime : [n.] undecidability
 -> pärät : [adv.] partly; partially
 säm : [n.] half [adj.] half of {Latin 'semi-'}
 -> säm(e)- : [prf.] half of, made of halves('semi-')
@@ -1187,15 +1187,15 @@ setör : [v.] (experience) pain [n.] pain
 gad : [adj.] happy, glad {~ English 'glad', ? Breton}
 -> gadät : [adv.] happily
 -> agad : [v.] to make happy
--> gadein : [n.] (state of) happiness
+-> gadime : [n.] (state of) happiness
 -> gadin : [n.] joy, happiness
 ----> gadina : [n.] bliss
 -> gada : [adj.] ecstatic
 cer : [adj.] sad {Original}
 -> acer : [v.] to make sad
 -> cerät : [adv.] sadly
--> cerein : [n.] (state of) sadness
-----> cereina : [n.] [common] depression
+-> cerime : [n.] (state of) sadness
+----> cerima : [n.] [common] depression
 -> cerin : [n.] sadness; grief
 ----> vältcerin : [n.] weltschmerz
 
@@ -1206,12 +1206,12 @@ stin : {Serbian 'истина'}
 kön : {Original}
 -- [adj.] false
 ----> könäs : [adv.] falsely
-----> könein : [n.] (state of) falsehood
+----> könime : [n.] (state of) falsehood
 -- [n.] falsehood
 
 uväl : [adj.] humble {Breton 'uvel'}
 -> uvälät : [adv.] humbly
--> uvälein : [n.] humility
+-> uvälime : [n.] humility
 
 köz : [n.] [v.] regret {Breton 'keuz'}
 -> közfär : [adj.] regrettable
@@ -1219,14 +1219,14 @@ köz : [n.] [v.] regret {Breton 'keuz'}
 
 rät : [n.] right {Swedish 'rättvisa'}
 -> rätäs : [adj.] just
-----> rätäsein : [n.] justice
--------> rätäseinäs : [adj.] judiciary; judicial
-----------> rätäseinäst : [adv.] judicially
--------> rätäseinör : [n.] judge, jurist
+----> rätäsime : [n.] justice
+-------> rätäsimäs : [adj.] judiciary; judicial
+----------> rätäsimäst : [adv.] judicially
+-------> rätäsimör : [n.] judge, jurist
 ----> arätäs : [v.] adjust, rectify; justify
 -------> arätäsina : [n.] adjustment, rectification
 ----> nerätäs : [adj.] unjust
--------> nerätäsein : [n.] injustice
+-------> nerätäsime : [n.] injustice
 -------> nerätäst : [adv.] unjustly
 ----> rätäst : [adv.] justly
 
@@ -1292,7 +1292,7 @@ koron : [n.] crown {Latin 'corona' via Italian 'corona' & French 'couronne'}
 -> akoron : [v.] crown
 skläv : [n.] slave {French 'esclave'}
 -> sklävör : [n.] one who owns or trades slaves
--> sklävein : [n.] slavery, slavedom
+-> sklävime : [n.] slavery, slavedom
 -> askläv : [v.] enslave
 ----> asklävina : [n.] enslavement
 
@@ -1375,7 +1375,7 @@ täl : [n.] fabric, canvas; (spider's) web {Latin 'tela' via French 'toile'}
 näät : [n.] net, mesh {English 'net'}
 -> antenäät : [n.] internet
 ----> antenääcor : [n.] router, modem {+ 'sor'}
--> näätein : [n.] netting; network
+-> näätime : [n.] netting; network
 -> näätvine : [n.] cyberspace, virtual place
 ark : [n.] bow, arc; semicircle {Latin 'arcus'}
 -> ark : [n.] [f:archery] bow
@@ -1495,15 +1495,15 @@ spät : [adj.] late {German}
 === people ===
 den : [n.] human, person {Breton}
 -> denäs : [adj.] human
-----> denäsein : [n.] humanity
+----> denäsime : [n.] humanity
 jor : [n.] man {Original}
 -> jorät : [adj.] manly, masculine
 ----> jorätät : [adv.] masculinely
-----> jorätein : [n.] manhood, masculinity
+----> jorätime : [n.] manhood, masculinity
 sar : [n.] woman {Original}
 -> sarät : [adj.] womanly, feminine
 ----> sarätät : [adv.] femininely
-----> sarätein : [n.] womanhood, femininity
+----> sarätime : [n.] womanhood, femininity
 daam : [n.] lady {Estonian, French 'dame', German 'Dame'}
 -> daamä : [n.] aunt
 ----> obedaamä : [n.] great-aunt
@@ -1550,7 +1550,7 @@ ussor : [n.] cousin {'uz' + 'sorä'}
 usmat : [n.] sibling {'uz' + 'matä'}
  
 fränd : [n.] friend {English 'friend', German 'Freund'}
--> frändein : [n.] friendship
+-> frändime : [n.] friendship
 -> frändät : [adj.] friendly
 ----> frändätät : [adv.] friendlily
 ----> afrändät : [v.] befriend
@@ -1563,7 +1563,7 @@ klun : [n.] clown {French 'clown'}
 sint : [n.] Saint {Dutch}
 -> sintät : [adj.] saintly
 kamarad : [n.] comrade, mate; fellow student, classmate {French 'camarade', German 'Kamerad'}
--> kamaradein : [n.] comradeship, mateship
+-> kamaradime : [n.] comradeship, mateship
 
 soc : [n.] fellow, acquantiance
 -> socäs : [adj.] social
@@ -1573,7 +1573,7 @@ soc : [n.] fellow, acquantiance
 dös : [n.] god, deity {Portugese 'Deus'}
 -> dösäs : [adj.] divine
 ----> dösäst : [adv.] divinely
-----> dösäsein : [n.] divinity; state of being divine
+----> dösäsime : [n.] divinity; state of being divine
 kompost : [v.] compost {English, French 'compost'}
 -> kompostör : [n.] compost
 post : [n.] mail {English, French 'poste'}
@@ -1589,7 +1589,7 @@ päst : {French 'peste', English 'pester'}
 pač : [n.] peace {Latin 'pax'}
 -> apač : [v.] appease
 ----> apačina : [n.] appeasement
--> pačein : [n.] peacetime
+-> pačime : [n.] peacetime
 banier : [n.] banner {French 'banière'}
 orde : [n.] order, arrangement, series {Latin 'ordo'}
 -> ordeät : [adj.] orderly
@@ -1640,14 +1640,14 @@ letä : [n.] letter, text, book {Latin 'littera'}
 -> let : [v.] read
 ----> letina : [n.] reading
 ----> letfär : [adj.] literate
--------> letfärein : [n.] literacy
+-------> letfärime : [n.] literacy
 -------> letnefär : [adj.] illiterate
-----------> letnefärein : [n.] illiteracy
+----------> letnefärime : [n.] illiteracy
 -> letefär : [adj.] legible
-----> letefärein : [n.] legibility
+----> letefärime : [n.] legibility
 ----> letefärt : [adv.] legibly
 ----> letenefär : [adj.] illegible
--------> letenefärein : [n.] illegibility
+-------> letenefärime : [n.] illegibility
 -------> letenefärt : [adv.] illegibly
 -> letäina : [n.] literature
 ----> letäinäs : [adj.] literary
@@ -1719,7 +1719,7 @@ astär : [n.] star {Latin 'astrum' + via French 'astre'}
 lun : [n.] moon {Latin 'luna'}
 -> lunäs : [adj.] lunar
 ----> lunäs : [adj.] lunatic
--------> lunäsein : [n.] lunacy, insanity
+-------> lunäsime : [n.] lunacy, insanity
 -------> lunäst : [adv.] insanely
 -> lunlum : [n.] moonlight {+ 'lum'}
 planät : [n.] planet {French 'planète'}
@@ -1774,21 +1774,21 @@ es : [v.] be {German 'ist', French 'est', English 'is', Spanish}
 -> esin : [n.] existence
 ----> esinäs : [adj.] existential
 -------> esinäst : [adv.] existentially
--> esein : [n.] being
+-> esime : [n.] being
 si : [v.] fare; be, feel
 
 ev : [v.] have {English 'have', French 'avoir'}
--> evein : [v.] possession
+-> evime : [v.] possession
 ten : [v.] hold, keep {French 'tenir'}
--> tensein : [n.] custody; storage
-----> stattensein : [n.] state custody
-----> atensein : [v.] arrest
+-> tensime : [n.] custody; storage
+----> stattensime : [n.] state custody
+----> atensim : [v.] arrest
 -> aten : [v.] to make hold; give
 -> tenin : [n.] hold; wealth
 ----> teninful : [adj.] wealthy
 -------> teninfulät : [adv.] wealthily
 -> esten : [v.] occupy, stay at
-----> estenein : [n.] (state of) occupation (of a location)
+----> estenime : [n.] (state of) occupation (of a location)
 ----> estenina : [n.] occupation (of a location)
 
 bišt : [v.] carry {Original, backform from 'bištir'}
@@ -1808,7 +1808,7 @@ don : [v.] give, deal {French 'donner'}
 dräit : [v.] betray; surrender; give up {? Breton 'dreitour'}
 -> dräitör : [n.] betrayer, traitor
 -> dräitin(a) : [n.] betrayal
--> dräitein : [n.] (state of) betrayal
+-> dräitime : [n.] (state of) betrayal
 prom : [v.] get, gain, obtain; take, steal {Original}
 -> promin : [n.] gain
 -> aprom : [v.] sell
@@ -1890,10 +1890,10 @@ ser : {French 'dire', English 'say', German 'sprechen'}
 klam : [v.] cry out, exclaim; shout, yell; call (out) {Latin 'clamo'}
 -> reklam : [v.] demand; repossess
 ----> reklamina : [n.] repossession
-----> reklamein : [n.] (state of) repossession
+----> reklamime : [n.] (state of) repossession
 -> deklam : [v.] renounce, disavow, reject, disown
 ----> deklamina : [n.] disavowal, rejection
-----> deklamein : [n.] (state of) renounciation
+----> deklamime : [n.] (state of) renounciation
 seg : [v.] ask, inquire, question {Original}
 -> segin : [n.] question, query
 
@@ -1909,10 +1909,10 @@ rast : [v.] [intrans] reason, reflect, reckon, calculate [trans] consider, judge
 -------> navistefär : [adj.] probable
 -------> navisrastefärt : [adj.] [dated] probably
 ----------> navistefärt : [adv.] probably
-----------> navistefärein : [n.] probability
+----------> navistefärime : [n.] probability
 sen : [v.] know {Latin 'sciens'}
--> senein : [n.] knowledge
-----> seneinfär : [adj.] knowledgeable
+-> senime : [n.] knowledge
+----> senimfär : [adj.] knowledgeable
 -> nesent : [adj.] unknown
 ----> nesente : [n.] unknown; mystery
 ----> nesentät : [adv.] unknowingly
@@ -1932,7 +1932,7 @@ per : [v.] think, ponder; consider {Original}
 ----> perinäs : [adj.] of or pertaining to thought
 -> perina : [n.] thinking
 maris : [v.] remember, recall {Original}
--> marisein : [n.] rememberance
+-> marisime : [n.] rememberance
 -> marisfär : [adj.] memorable
 ----> marisfärt : [adv.] memorably
 oblis : [v.] forget {Latin 'obliviscor' via French 'oublier'}
@@ -1957,13 +1957,13 @@ vis : [v.] see, perceive, view, look, observe {Latin 'visio' via English & Frenc
 -> visäs : [n.] visual
 -> navisfär : [adj.] visible
 ----> neavisfär : [adj.] invisible
--------> neavisfärein : [n.] invisibility
+-------> neavisfärime : [n.] invisibility
 -------> neavisfärt : [adv.] invisibly
-----> navisfärein : [n.] visibility
+----> navisfärime : [n.] visibility
 ----> navisät : [adv.] visibly
 -> obvis : [v.] supervise, oversee
 ----> obvisör : [n.] supervisor, overseer
-----> obvisein : [n.] supervision
+----> obvisime : [n.] supervision
 ----> obvisäs : [adj.] supervisory
 -> imvis : [v.] examine, inspect
 ----> imvisina : [n.] examination, inspection
@@ -1991,33 +1991,33 @@ vedir : [v.] lead, guide {Serbo-Croatian 'водити', Latin 'dirigo' via Fren
 ----> mevedirör : [n.] crook, liar, dishonest person
 ----> mevedirina : [n.] misdirection
 läž : [v.] obey, serve, be loyal to {English 'liege' via 'allegiance'}
--> läžein : [n.] loyalty, obedience, servitude, allegience
-----> läžeinät : [adj.] loyal
--------> läžeinätät : [adv.] loyally
+-> läžime : [n.] loyalty, obedience, servitude, allegience
+----> läžimät : [adj.] loyal
+-------> läžimätät : [adv.] loyally
 -> deläž : [v.] disobey
-----> deläžein : [n.] (state of) disobedience
+----> deläžime : [n.] (state of) disobedience
 räg : [v.] rule, govern {Latin 'rego'}
 -> rägör : [n.] ruler, governor
 ----> arträgör : [n.] tyrant
--> rägein : [n.] governance
+-> rägime : [n.] governance
 -> rägina : [n.] government
 talöd : [v.] follow {Korean '따르다'}
 -> talödör : [n.] follower
--> talödein : [n.] (state of) following
+-> talödime : [n.] (state of) following
 serv : [v.] serve {English 'serve', French 'servir'}
 -> servör : [n.] waiter, servant
 pläg : [v.] to pledge, promise, vow, swear (oath) {English 'pledge' + Latin 'plebio'}
 -> plägin : [n.] pledge, promise, vow, oath
 pläs : [v.] to please, favour {Latin 'placeo' via French 'plaire'}
--> pläsein : [n.] pleasure
-----> pläseinfär : [adj.] pleasurable
+-> pläsime : [n.] pleasure
+----> pläsimfär : [adj.] pleasurable
 -> pläsin : [n.] favour
 ----> pläsinfär : [adj.] favourable
 -> apläs : [v.] agree
-----> apläsein : [n.] (state of) agreement
+----> apläsime : [n.] (state of) agreement
 ----> apläsina : [n.] agreement
 ----> nesapläs : [v.] disagree
--------> nesapläsein : [n.] (state of) disagreement
+-------> nesapläsime : [n.] (state of) disagreement
 -------> nesapläsina : [n.] disagreement
 -> pläses : [adj.] pleasing; delicious
 prät : [v.] [n.] joke {Original}
@@ -2042,14 +2042,14 @@ sad : [v.] happen, occur {Latin 'cado'}
 ----> imsadina : [n.] incident
 -------> imsadinaäs : [adj.] incidental
 ----------> imsadinaäst : [adv.] incidentally
-----> imsadein : [n.] incidence
+----> imsadime : [n.] incidence
 ----> uzimsad : [v.] to coincide
 -------> uzimsadina : [n.] (a) coincidence
 ----------> uzimsadinaäs : [adj.] coincidental
 -------------> uzimsadinaäst : [adv.] coincidentally
--------> uzimsadein : [n.] coincidence
+-------> uzimsadime : [n.] (state of) coincidence
 -> sadina : [n.] happening, event
--> sadein : [n.] occurence
+-> sadime : [n.] occurence
 -> asad : [v.] cause, provoke; activate
 ----> asadina : [n.] provocation, cause
 ----> asadör : [n.] activator
@@ -2111,12 +2111,12 @@ tend : [v.] stretch {Latin 'tendo'}
 
 fär : {Swedish '-bar', German 'fähig'}
 -- [adj.] able
-----> färein : [n.] ability
+----> färime : [n.] ability
 ----> nefär : [adj.] unable
--------> nefärein : [n.] inability
+-------> nefärime : [n.] inability
 -------> anefär : [v.] to make unable, to immobilize; to make disabled, to cripple
 ----> defär : [adj.] disable(d)
--------> defärein : [n.] disability
+-------> defärime : [n.] disability
 -------> adefär : [v.] disable
 ----> afär : [v.] enable
 -- [v.] can, is able to
@@ -2140,9 +2140,9 @@ tuž : [v.] would {Original}
 baj : [v.] might, may {Original}
 
 šam : [v.] hide, conceal {Original}
--> šamein : [n.] concealment
+-> šamime : [n.] concealment
 avis : [v.] show, uncover, demonstrate, discover
--> avisein : [n.] demonstration, discovery
+-> avisime : [n.] demonstration, discovery
 lus : [v.] open {Original}
 -> lusör : [n.] thing which opens; opener
 usät : [v.] close
@@ -2165,7 +2165,7 @@ trös : [v.] [trans] catch {Original}
 klöd : [v.] fasten, secure, lock; contain, surround {Latin 'claudo'}
 -> deklöd : [v.] unlock
 -> imklöd : [v.] imprison
-----> imklödein : [n.] (state of) imprisonment
+----> imklödime : [n.] (state of) imprisonment
 ----> imklödina : [n.] imprisonment
 
 plis : [v.] fold {French 'plisser', Latin 'plicare' via French 'plier'}
@@ -2190,16 +2190,16 @@ ver : {Latin 'valor' via Italian 'valore' & French 'valeur', Swedish 'värde', E
 -> verät : [adj.] worthy
 ----> verätät : [adv.] worthily
 ----> neverät : [adj.] unworthy
-----> verätein : [n.] dignity
+----> verätime : [n.] dignity
 -> -ver : [suf.] forms adjectives from nouns, meaning deserving or worthy of the suffixed word ('-worthy', '-some')  
 
 heg : [v.] [reflexive] choke
 -> aheg : [v.] [trans] suffocate; disturb, distress, trouble
 ----> ahegät : [adj.] anxious, distressed, troubled
 -------> ahegätät : [adv.] anxiously
--------> ahegätein : [n.] anxiety, distress
+-------> ahegätime : [n.] anxiety, distress
 -> aseg : [v.] anger
-----> asegein : [n.] (state of) anger
+----> asegime : [n.] (state of) anger
 ----> asega : [n.] rage
 ----> asegär : [adj.] angry
 -------> asegärt : [adj.] angrily
@@ -2216,8 +2216,8 @@ plor : [v.] to cry; lament, complain {Latin 'ploro' via English 'implore' & Fren
 -> plorina : [n.] crying; complaint
 fräj : [v.] fear {French 'effrayer', English 'fear'}
 -> afräj : [v.] scare, spook
--> fräjein : [n.] (state of) fear
-----> fräjeinver : [adj.] fearful, fearsome
+-> fräjime : [n.] (state of) fear
+----> fräjimver : [adj.] fearful, fearsome
 
 grom : [v.] groan {Serbian 'гром'}
 -> gromin : [n.] groan
@@ -2280,14 +2280,14 @@ sit : [v.] thirst {? French 'soif', ? English 'thirsty'}
 -> sität : [adj.] thirsty
 ----> sitätät : [adv.] thirstily
 fatig : [v.] [intrans] to tire, become weary {French 'fatigue'}
--> fatigein : [n.] tiredness
+-> fatigime : [n.] tiredness
 -> afatig : [v.] [trans] to tire, make weary
 -> fatigit : [adj.] tired
 ----> fatigität : [adv.] wearily
 -> fatigver : [adj.] tiresome
 -> fatignuz : [adj.] tireless
 ----> fatignuzät : [adv.] tirelessly
-----> fatignuzein : [n.] tirelessness
+----> fatignuzime : [n.] tirelessness
 
 leb : {German 'Leben'}
 -- [v.] live
@@ -2328,7 +2328,7 @@ liäd : [v.] [n.] love {German 'Liebe'}
 fir : [v.] like, appreciate
 
 pend : [v.] weigh; hang
--> pendein : [n.] pension
+-> pendime : [n.] pension
 -> pendina : [n.] hanging (capital punishment)
 -> pendinu : [n.] pendant
 
@@ -2338,13 +2338,13 @@ räs : [v.] let, allow
 -------> aräsätät : [adv.] tolerantly
 -------> nearäsät : [adj.] intolerant
 ----------> nearäsätät : [adv.] intolerantly
-----------> nearäsätein : [n.] intolerance
+----------> nearäsätime : [n.] intolerance
 ----> aräsfär : [adj.] tolerable
 -------> aräsfärt : [adv.] tolerably
 -------> nearäsfär : [adv.] intolerable
 ----------> nearäsfärt : [adv.] intolerantly
-----------> nearäsfärein : [n.] intolerability
--> aräsein : [n.] tolerance, endurance
+----------> nearäsfärime : [n.] intolerability
+-> aräsime : [n.] tolerance, endurance
 -> usträs : [v.] release
 ----> usträsin : [n.] release
 -> imräs : [v.] invite
@@ -2463,7 +2463,7 @@ gil : [v.] [n.] help {Scottish Gaelic 'gille' via English 'gillie'}
 
 živ : [v.] persist, continue; stay {Croatian 'živi'}
 -> aživ : [v.] to preserve, uphold, perpetuate
--> živein : [n.] persistence, continuation
+-> živime : [n.] persistence, continuation
 
 
 
@@ -2507,7 +2507,7 @@ pen : [v.] fine, punishment {Latin 'poena' via English 'penalty' & French 'peine
 -> penin : [n.] penalty
 ----> penina : [n.] (act of) punishment
 -> uspen : [v.] excuse, pardon {'ust'+ }
-----> uspenein : [n.] forgiveness
+----> uspenime : [n.] forgiveness
 ----> uspenin : [n.] excuse, pardon
 ----> uspenina : [n.] (formal) pardon
 
@@ -2582,7 +2582,7 @@ löv : [v.] [trans] lift [intrans] stand, rise {French 'lever'}
 -> štoblöv : [v.] [intrans] levitate, hover
 -> seilöväs : [adj.] autonomous, independent
 ----> seilöväst : [adv.] autonomously, independently
-----> seilöväsein : [n.] autonomy
+----> seilöväsime : [n.] autonomy
 -> alöv : [v.] [trans] wake (up)
 
 spir : [v.] breathe {Latin 'spiro' via French 'inspirer'}
@@ -2623,7 +2623,7 @@ regul : [v.] regulate
 sur : [adj.] big, large {Estonian 'suur'}
 -> asur : [v.] [usu. trans] to increase, embiggen, grow
 -> surät : [adv.] largely
--> surein : [n.] size
+-> surime : [n.] size
 tis : [adj.] small {Breton}
 -> atis : [v.] to reduce, shrink
 -> tisät : [adv.] negligibly
@@ -2631,8 +2631,8 @@ tis : [adj.] small {Breton}
 lon : [adj.] long {French 'long'}
 -> alon : [v.] lengthen
 -> lonät : [adv.] lengthily
--> lonein : [n.] length
-----> veglonein : [n.] wavelength
+-> lonime : [n.] length
+----> veglonime : [n.] wavelength
 šut : [adj.] brief, short
 -> ašut : [v.] shorten
 -> šutät : [adv.] briefly, shortly
@@ -2640,7 +2640,7 @@ lon : [adj.] long {French 'long'}
 när : [adj.] wide, broad
 -> anär : [v.] widen, broaden
 -> närät : [adv.] widely, broadly
--> närein : [n.] width
+-> närime : [n.] width
 sten : [adj.] narrow {Anc. Greek 'στενός'}
 -> asten : [v.] constrict
 -> stenät : [adv.] narrowly
@@ -2655,19 +2655,19 @@ slet : [adj.] loose {Original}
 
 goš : [adj.] tall {? Original}
 -> agoš : [v.] to grow (vertically)
--> gošein : [n.] height
+-> gošime : [n.] height
 ruš : [adj.] short {Original}
 -> aruš : [v.] to shorten (vertically)
 
 dost : [adj.] deep {Original}
 -> adost : [v.] deepen
--> dostein : [n.] depth
+-> dostime : [n.] depth
 nir : [adj.] shallow {Original}
 
 sob : [adj.] thick {? Original}
 -> asob : [v.] thicken
 -> sobät : [adv.] thickly
--> sobein : [n.] thickness
+-> sobime : [n.] thickness
 pän : [adj.] thin {? Original}
 -> apän : [v.] thin
 -> pänät : [adv.] thinly
@@ -2675,13 +2675,13 @@ pän : [adj.] thin {? Original}
 bur : [adj.] heavy {? Original}
 -> abur : [v.] to make heavy; weight
 -> burät : [adv.] heavily
--> burein : [n.] weight
+-> burime : [n.] weight
 muž : [adj.] light {Original}
 -> amuž : [v.] to lighten
 -> mužät : [adv.] lightly
 
 nov : [adj.] new {Portugese 'novo'}
--> novein : [n.] novelty
+-> novime : [n.] novelty
 -> novänt : [n.] news { + 'vänt'} {+ Breton 'neventi'}
 -> novät : [adv.] newly
 -> reanov : [v.] update, renovate, renew
@@ -2689,7 +2689,7 @@ nov : [adj.] new {Portugese 'novo'}
 ----> reanovina : [n.] renewal; renovation
 -> anov : [adj.] anew
 jong : [adj.] young {German 'jung', Dutch}
--> jongein : [n.] youth
+-> jongime : [n.] youth
 au : [adj.] old {Afrikaans 'ou'}
 
 lis : [adj.] smooth {French 'lisse'}
@@ -2724,16 +2724,16 @@ kras : {French 'crasse'}
 
 klar : [adj.] clear; transparent; evident {Latin 'clarus' from English 'clarity', French 'clair'}
 -> aklar : [v.] to clear; to make clear, clarify
--> klarein : [n.] clarity
+-> klarime : [n.] clarity
 -> klarät : [adv.] clearly
 
 rön : [adj.] dull, blunt {Original}
 -> arön : [v.] blunt, dull
--> rönein : [n.] dullness, bluntness
+-> rönime : [n.] dullness, bluntness
 -> rönät : [adv.] dully, bluntly
 sir : [adj.] sharp, acute {Original}
 -> asir : [v.] sharpen
--> sirein : [n.] sharpness
+-> sirime : [n.] sharpness
 -> sirät : [adv.] sharply
 
 bir : [adj.] near, close {Original}
@@ -2741,26 +2741,26 @@ bir : [adj.] near, close {Original}
 ----> abirina : [n.] [f:mathematics] addition
 -> biräs : [adj.] proximal; local
 ----> biräst : [adv.] proximally 
--> birein : [n.] proximity
+-> birime : [n.] proximity
 -> birät : [adv.] closely; nearly, almost
 sal : [adj.] far, distant; remote {Original}
 -> asal : [v.] to drive away, seclude
 -> saläs : [adj.] distal
 ----> saläst : [adv.] distally; remotely
--> salein : [n.] distance; remoteness
+-> salime : [n.] distance; remoteness
 -> salät : [adv.] distantly
 
 vist : [adj.] fast, rapid, quick, swift {French 'vite', Italian 'vista'}
--> vistein : [n.] speed, rapidity, swiftness
+-> vistime : [n.] speed, rapidity, swiftness
 -> avist : [v.] accelerate
 -> vistät : [adv.] rapidly, quickly, swiftly
 ler : [adj.] slow {~ French 'lent'}
--> lerein : [n.] slowness
+-> lerime : [n.] slowness
 -> aler : [v.] slow
 -> lerät : [adv.] slowly
 
 ükin : [adj.] cute {? Japanese '好き')
--> ükinein : [n.] cuteness
+-> ükinime : [n.] cuteness
 -> ükinät : [adv.] cutely
 
 vat : [adj.] good, well {Breton}
@@ -2768,15 +2768,15 @@ vat : [adj.] good, well {Breton}
 ----> avater : [v.] improve
 -------> avaterina : [n.] improvement
 -> vatest : [adj.] best
--> vatein : [n.] goodness, good; wellness
-----> nevatein : [n.] illness, distress
+-> vatime : [n.] goodness, good; wellness
+----> nevatime : [n.] illness, distress
 -> vatät : [adv.] well
 
 liber : [adj.] free {Latin}
--> liberein : [n.] freedom
+-> liberime : [n.] freedom
 -> aliber : [v.] free, liberate
 ----> aliberör : [n.] liberator
-----> aliberein : [n.] liberation
+----> aliberime : [n.] liberation
 -> liberät : [adv.] freely
 
 ort : [adj.] straight, upright {Anc. Greek 'ὀρθός' via English 'Orthodentist'}
@@ -2800,11 +2800,11 @@ rund : {Swedish}
 -- [v.] [f:mathematics] (of a number) to round
 
 san : [adj.] healthy, sound {Latin 'sanus' via English 'sanitary'}
--> sanein : [n.] health, wellbeing
-----> saneinäs : [adj.] sanitary
--------> saneinäst : [adv.] sanitarily
+-> sanime : [n.] health, wellbeing
+----> sanimäs : [adj.] sanitary
+-------> sanimäst : [adv.] sanitarily
 -> nesan : [adj.] unhealthy
-----> nesanein : [n.] illness, unwellness
+----> nesanime : [n.] illness, unwellness
 ----> nesanät : [adv.] unhealthily
 -> asan : [v.] cure, treat
 ----> asanina : [n.] treatment, remedy
@@ -2814,7 +2814,7 @@ san : [adj.] healthy, sound {Latin 'sanus' via English 'sanitary'}
 
 stes : [adj.] sacred, blessed {Russian 'святой'}
 -> astes : [v.] bless
--> stesein : [n.] sanctity
+-> stesime : [n.] sanctity
 -> stesät : [adv.] sacredly
 
 ru : [adj.] raw, crude; bare
@@ -2822,60 +2822,60 @@ ru : [adj.] raw, crude; bare
 -> ruät : [adv.] crudely; barely
 
 ran : [adj.] ready, prepared
--> ranein : [n.] readiness; preparedness
+-> ranime : [n.] readiness; preparedness
 -> aran : [v.] [trans] prepare
 ----> aranina : [n.] preparation
 
 strug : [adj.] without care, secure {Latin 'securus', Swedish 'trygg'}
--> strugein : [n.] security, safety
+-> strugime : [n.] security, safety
 -> astrug : [v.] secure
 -> strugät : [adv.] securely; certainly
 
 guär : [adj.] wild {+ Breton 'gouez'}
--> guärein : [n.] wildness; wilderness
+-> guärime : [n.] wildness; wilderness
 -> guärät : [adv.] wildly
 
 prane : [adj.] weird, odd, strange {Original}
 -> epran : [v.] alienate, estrange
--> pranesein : [n.] weirdness
+-> pranesime : [n.] weirdness
 -> pranät : [adv.] weirdly, oddly, strangely
 kozäv : [adj.] typical, normal; default {? Original}
 -> akozäv : [v.] normalise
--> kozävein : [n.] normalcy
+-> kozävime : [n.] normalcy
 -> kozävät : [adv.] normally
 främt : [adj.] foreign {German 'fremd'}
--> främtein : [n.] foreignness
+-> främtime : [n.] foreignness
 
 fräl : [adj.] weak; fragile, sensitive {French 'frêle'}
 -> afräl : [v.] weaken
--> frälein : [n.] weakness
+-> frälime : [n.] weakness
 -> frälät : [adv.] weakly
 här : [adj.] strong {Proto-Germanic 'harjaz'}
 -> ahär : [v.] strengthen
--> härein : [n.] strength
+-> härime : [n.] strength
 -> härät : [adv.] strongly
 
 fist : [adj.] definite, stable {French 'fixe'}
 -> afist : [v.] stabilize, confirm
-----> afistein : [n.] stabilization, confirmation
--> fistein : [n.] stability
+----> afistime : [n.] stabilization, confirmation
+-> fistime : [n.] stability
 -> fistät : [adv.] certainly, definitely
 -> nefist : [adj.] unstable; unconfirmed
-----> nefistein : [n.] unstability
+----> nefistime : [n.] unstability
 -> defist : [v.] destabilize
 ----> defistina : [n.] destabilization
 dogäl : [adj.] certain, sure {Breton 'diogel'}
--> dogälein : [n.] certainty
+-> dogälime : [n.] certainty
 -> adogäl : [v.] assure
-----> adogälein : [n.] (state of) assurance
+----> adogälime : [n.] (state of) assurance
 ----> adogälina : [n.] assurance
 ----> resadogäl : [v.] reassure
 -------> resadogälina : [n.] reassurance
 -> nedogäl : [adj.] uncertain, unsure
-----> nedogälein : [n.] uncertainty
+----> nedogälime : [n.] uncertainty
 
 moče : [adj.] nice, pleasant {Typo of English 'nice' → 'moce'}
--> močein : [n.] niceness, pleasantness
+-> močime : [n.] niceness, pleasantness
 -> močät : [adv.] nicely, pleasantly
 
 jac : [adj.] great, grand, mighty {Korean '에야차'}
@@ -2888,53 +2888,53 @@ lärt : [adj.] conscious, aware; alert
 -------> ulaalärtin : [n.] [dated] precaution, foreword, warning
 ----------> ullärtin : [n.] precaution, foreword, warning
 -> lärtät : [adv.] consciously
--> lärtein : [n.] consciousness, awareness; alertness
+-> lärtime : [n.] consciousness, awareness; alertness
 -> lärtin : [n.] conscience
 
 ful : [adj.] full ##
 -> aful : [v.] fill
--> fulein : [n.] fullness, fill
+-> fulime : [n.] fullness, fill
 -> fulät : [adv.] fully
 -> fulmät : [v.] fulfill, satisfy
-----> fulmätein : [n.] (state of) fulfillment, satisfaction
+----> fulmätime : [n.] (state of) fulfillment, satisfaction
 ----> fulmätina : [n.] fulfillment, satisfaction
 vid : [adj.] empty {French 'vide'}
 -> avid : [v.] empty
--> videin : [n.] emptiness, void
+-> vidime : [n.] emptiness, void
 -> vidät : [adj.] emptily
 
 frid : [adj.] cold
 -> afrid : [v.] cool, chill
 ----> afridina : [n.] cooling
 -> fridät : [adv.] coldly
--> fridein : [n.] (state of) being cold, coldness
+-> fridime : [n.] (state of) being cold, coldness
 -> fride : [n.] cold
 hoš : [adj.] hot {French 'chaud', English 'hot'}
 -> ahoš : [v.] heat (up)
 ----> ahošina : [n.] heating
 -> hošät : [adv.] hotly
--> hošein : [n.] (state of) being hot, heat
+-> hošime : [n.] (state of) being hot, heat
 -> hoše : [n.] heat
 rosn : [adj.] warm
 -> arosn : [v.] warm, heat up, reheat
 -> rosnät : [adv.] warmly
--> rosnein : [n.] (state of) warmth, warmness
+-> rosnime : [n.] (state of) warmth, warmness
 -> rosne : [n.] warmth
 fris : [adj.] fresh, cool {French 'frais'}
 -> afris : [v.] cool
 -> refris : [v.] refresh
--> frisein : [n.] (state of) freshness
+-> frisime : [n.] (state of) freshness
 -> frise : [n.] cool
 
 lös : [adj.] single, only; alone {French 'seul', English 'lone'}
 -> lös : [cnjc.] only
 -> alös : [v.] single out
--> lösein : [n.] loneliness
+-> lösime : [n.] loneliness
 -> lösät : [adv.] lonelily; singularly
 -> lös- : [prf.] mono-, uni-
 püli : [adj.] multiple, plural
 -> apüli : [v.] to make plural, to multiply; to duplicate
--> pülein : [n.] multiplicity, plurality
+-> pülime : [n.] multiplicity, plurality
 -> pülijät : [adv.] plurally
 -> püli- : [prf.] multi-, plura-, poly-
 
@@ -2950,11 +2950,11 @@ sim : [adj.] correct, valid
 
 nudit : [adj.] naked, nude
 -> anudit : [v.] to strip of protection or clothing
--> nuditein : [n.] nakedness
+-> nuditime : [n.] nakedness
 -> nudität : [adv.] nakedly, nudely
 hoäl : [adj.] lame, limp; boring
 -> ahoäl : [v.] bore
--> hoälein : [n.] boredom
+-> hoälime : [n.] boredom
 -> hoälät : [adv.] lamely, limply
 muzot : [adj.] silly
 -> muzot : [n.] silliness
