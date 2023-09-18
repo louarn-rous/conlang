@@ -1778,7 +1778,8 @@ es : [v.] be {German 'ist', French 'est', English 'is', Spanish}
 si : [v.] fare; be, feel
 
 ev : [v.] have {English 'have', French 'avoir'}
--> evime : [v.] possession
+-> evime : [n.] possession
+----> gevime : [n.] inventory
 ten : [v.] hold, keep {French 'tenir'}
 -> tensime : [n.] custody; storage
 ----> stattensime : [n.] state custody
