@@ -284,7 +284,7 @@ or : [adj.] (the) next, subsequent {Original}
 i : [adj.] (the) current, present {Japanese '今'}   
 -> inat : [n.] today  
 ----> ina : [n.] now  
--> iät : [adv.] currently  
+-> ijät : [adv.] currently  
 -> isät : [adv.] instead {'i' + 'sät'}
 
 alte : [det.] [n.] [adj.] other
@@ -378,8 +378,8 @@ to : [num.] 2 (two)
 -> tosein : [n.] duality
 tri : [num.] 3 (three) {Russian 'три', French 'trois'}
 -> trie : [ord. num.] third
-----> triät : [adv.] thirdly
--> triäs : [adj.] tertiary
+----> trijät : [adv.] thirdly
+-> trijäs : [adj.] tertiary
 kuät : [num.] 4 (four) {French 'quatre', Italian 'quattro'}
 -> kuäte : [ord. num.] fourth
 fän : [num.] 5 (five)
@@ -519,7 +519,7 @@ luzd :
 arän : [n.] spider {Latin 'aranea' + via French 'araignée'}
 -> aränäs : [adj.] Arachnid
 lusi : [n.] slug {~ French 'limace'}
--> lusiäs : [adj.] limacine
+-> lusijäs : [adj.] limacine
 skürne : [n.] snail {~ French 'escargot'}
 apiä : [n.] bee {Latin 'apis'}
 -> apiäs : [n.] apian
@@ -682,7 +682,7 @@ koräl : [m.] coral {French 'corail', English 'coral'}
 perl : [m.] pearl {French 'perle'}
 -> perlät : [n.] pearly
 haj : [n.] shark {Swedish}
--> haiäs : [adj.] selachian
+-> hajäs : [adj.] selachian
 büj : [n.] buoy
 veg : [n.] [v.] wave {French 'vague', English 'wave'}
 -> vegu : [n.] wavelet
@@ -986,7 +986,7 @@ salar : [n.] wage, salary {Latin 'salarium' via French 'salaire'}
 
 polis : {French 'police'}
 -- [n.] police, law enforcement
-----> poliäs : [adj.] police
+----> polisäs : [adj.] police
 -- [v.] police
 
 departina : [n.] department
@@ -1029,8 +1029,8 @@ lön : [m.] wool; woolen {French 'laine'}
 === concepts ===
 učä : [n.] subject, object, item
 -> uči : [n.] concept, idea
-----> učiäs : [adj.] conceptual
--------> učiäst : [adv.] conceptually
+----> učijäs : [adj.] conceptual
+-------> učijäst : [adv.] conceptually
 -> učäträš : [v.] conceptualize
 ----> učäträšin : [n.] concept
 -------> träšin : [n.] project
@@ -1167,6 +1167,9 @@ heer : [n.] [v.] hate
 enor : [n.] [v.] honour {Breton}
 -> enorfär : [adj.] honourable
 ----> enorfärt : [adv.] honourably
+gloria : [n.] glory {Latin}
+-> glorijäs
+-> aglor : [v.] glorify
 spag : [n.] shame {Original}
 -> aspag : [v.] shame
 -> (a)spagver : [adj.] shameful
@@ -1259,8 +1262,8 @@ form : [n.] form {Latin 'forma'}
 
 === fantasy ===
 maži : [n.] magic {French 'magie'}
--> mažiäs : [adj.] magical
-----> mažiäst : [adv.] magically
+-> mažijäs : [adj.] magical
+----> mažijäst : [adv.] magically
 goläm : [n.] golem {English 'golem'}
 zambi : [n.] zombie {Bantu via English 'zombie'}
 dragon : [n.] dragon {English, French}
@@ -1278,8 +1281,8 @@ kastäl : [n.] castle; fort {Breton 'kastell'}
 totäm : [n.] totem {French 'totème', English 'totem'}
 -> totämäs : [adj.] totemic
 räi : [n.] king {Portugese 'rei'}
--> räiäs : [adj.] royal
-----> räiäst : [adv.] royally
+-> räijäs : [adj.] royal
+----> räijäst : [adv.] royally
 -> räin : [n.] queen {+ French 'reine'}
 ----> räinu : [n.] princess
 -> ränu : [n.] prince
@@ -2931,7 +2934,7 @@ lös : [adj.] single, only; alone {French 'seul', English 'lone'}
 püli : [adj.] multiple, plural
 -> apüli : [v.] to make plural, to multiply; to duplicate
 -> pülein : [n.] multiplicity, plurality
--> püliät : [adv.] plurally
+-> pülijät : [adv.] plurally
 -> püli- : [prf.] multi-, plura-, poly-
 
 brat : [adj.] main, principal; central
