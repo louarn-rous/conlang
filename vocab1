@@ -148,7 +148,7 @@ si : [cnjc.] if, in the case/condition that, given/supposing/assuming that {Fren
 -> -in : [suf.] nominative; forms nouns from verbs, describing the result of an action  
 -> -(n)a : [suf.] augmentative
 -(t)ör : [suf.] agentive; forms agent nouns from verbs ('-er')  
--(s)ein : [suf.] forms nouns from adjectives, denoting the condition or state of the suffixed word ('-hood', '-dom', '-ness') {Archaic form: '-esin'}  
+-(s)im : [suf.] forms nouns from adjectives, denoting the condition or state of the suffixed word ('-hood', '-dom', '-ness')
 -(n)äs : [suf.] genitive; forms adjectives from nouns, with the meaning 'of or pertaining to' the suffixed word ('-ic')  
 -(n)ät :  
 -- [suf.] used to form adverbs from adjectives @@ verbs and nouns  ; having the quality of
@@ -3003,6 +3003,9 @@ sipaträ : [n.] [archaic] uncle
 voč : [archaic] {Italian 'voce'}
 -- [n.] voice
 -- [v.] express, voice
+
+-esin : [archaic] [suf.] forms nouns from adjectives, denoting the condition or state of the suffixed word ('-hood', '-dom', '-ness')
+-> -(s)ein : [archaic] [suf.] forms nouns from adjectives, denoting the condition or state of the suffixed word ('-hood', '-dom', '-ness')
 
 mälk : [archaic] {English 'milk', French 'lait', German 'Milch'}
 -- [n.] milk
