@@ -2283,6 +2283,9 @@ rümä : {Japanese '夢', French 'rêve', English 'dream'}
 
 fam : [v.] hunger {Latin 'fames' via French 'faim'} 
 -> famin : [n.] hunger
+----> advam : [v.] [archaic] to break fast
+-------> spadvame : [n.] supper
+-------> 
 -> afam : [v.] [trans] to make hungry
 -> famät : [adj.] hunger
 ----> famätät : [adv.] hungrily
@@ -2587,6 +2590,7 @@ marš : {English 'march', French 'marcher'}
 gust : {Latin 'gustus' via French 'goût' & English 'gustatory'}
 -- [v.] taste
 ----> gustör : [n.] one that tastes
+----> tüngust : [v.] savour, enjoy; dine
 -- [n.] taste
 ----> gustäs : [adj.] gustatory
 
