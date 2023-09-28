@@ -1135,10 +1135,10 @@ pär : [n.] part, piece, share, component {Latin 'partem' via English & French '
 ----------> nesuspärfärt : [adv.] undecidably
 ----------> nesuspärfärime : [n.] undecidability
 -> pärät : [adv.] partly; partially
-säm : [n.] half [adj.] half of {Latin 'semi-'}
--> säm(e)- : [prf.] half of, made of halves('semi-')
--> asäm : [v.] halve, split (in two/into two)
--> sämät : [adv.] halfly, half; kind of, kinda
+sem : [n.] half [adj.] half of {Latin 'semi-'}
+-> sem(e)- : [prf.] half of, made of halves('semi-')
+-> asem : [v.] halve, split (in two/into two)
+-> semät : [adv.] halfly, half; kind of, kinda
 haaf : [n.] half [adj.] hafly [common] {English 'half'}
 
 gove : [n.] voice, (manner of) speech; spirit {Japanese '声', ~? Serbo-Croatian ?}
@@ -2086,6 +2086,8 @@ kos : [v.] hunt; seek {Original}
 dast : [v.] amass, assemble; pick, gather {Breton 'dastum'}
 -> dastin : [n.] bunch
 -> dastina : [n.] gathering, assembly; harvest
+säm : [v.] sow {German 'säen', French 'semer'}
+-> trasäm : [v.] spread
 
 štör : [v.] seem, appear; suggest {Original}
 -> štörina : [n.] suggestion; appearance
