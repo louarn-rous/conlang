@@ -155,7 +155,7 @@ si : [cnjc.] if, in the case/condition that, given/supposing/assuming that {Fren
 -(s)ime : [suf.] forms nouns from adjectives, denoting the condition or state of the suffixed word ('-hood', '-dom', '-ness')
 -(n)äs : [suf.] genitive; forms adjectives from nouns, with the meaning 'of or pertaining to' the suffixed word ('-ic')  
 -(n)ät :  
--- [suf.] used to form adverbs from adjectives @@ verbs and nouns  ; having the quality of
+-- [suf.] used to form adverbs, giving a verb the quality of the suffixed word
 -- [suf.] semblative; used to form adjectives from nouns, meaning resembling the suffixed word (esp. in behaviour)  
 -- [suf.] used to form adjectives from verbs, meaning 'inclined to' ###
 
@@ -551,7 +551,7 @@ onion : [n.] onion {French 'oignon'}
 guso : [n.] garlic {~ French 'gousse'}
 soj : [n.] soy {Satsuma Jp. '醤油' via Dutch 'soja' via French 'soja' & English 'soy'}
 nüs : [n.] nut {French 'noix', English 'nut'}
--> nüskät : [n.] peanut {'nus' + French 'cacahuète'}
+-> nüsket : [n.] peanut {'nus' + French 'cacahuète'}
 -> nüsdat : [n.] [derog.] bag of nuts
 makademia : [n.] macadamia
 frut : {French, English 'fruit'}
@@ -661,7 +661,7 @@ kumul : {Latin 'cumulus'}
 -- [v.] [trans] cloud, obstruct, confuse
 sturm : {German 'Sturm', English 'storm'}
 -- [n.] storm
-----> sturmät : [n.] storm
+----> sturmät : [adj.] stormy
 -- [v.] rush, attack, storm
 glau : {Breton}
 -- [n.] rain
@@ -1028,7 +1028,7 @@ bot : [n.] boot {French 'botte'}
 šömit : [n.] shirt {French 'chemise'}
 käp : [n.] cape {English 'cape'}
 džin : [m.] jean {English 'jeans' via German 'Jeans'}
-poka : [n.] pocket, pouch {Frankish}
+žeb : [n.] pocket, pouch {Hungarian 'zseb'}
 hälm : [n.] helmet {English 'helm'}
 lön : [m.] wool; woolen {French 'laine'}
 
@@ -2452,8 +2452,8 @@ furn : [v.] bake, cook; roast {French 'four', English 'furnace'}
 -> furnör : [n.] oven, furnace
 -> furnina : [n.] baking, cooking
 
-kal : [v.] fit, match, correspond {French 'caler'}
--> kalin : [n.] match @@
+vad : [v.] fit, match, correspond {Original}
+-> vadin : [n.] match
 
 mäl : [v.] mix, blend; combine, fuse; tangle {French 'mêler'}
 -> mälör : [n.] mixer, blender or other apparatus for blending
@@ -2918,13 +2918,15 @@ lärt : [adj.] conscious, aware; alert
 -> lärtime : [n.] consciousness, awareness; alertness
 -> lärtin : [n.] conscience
 
-ful : [adj.] full ##
--> aful : [v.] fill
--> fulime : [n.] fullness, fill
--> fulät : [adv.] fully
--> fulmät : [v.] fulfill, satisfy
-----> fulmätime : [n.] (state of) fulfillment, satisfaction
-----> fulmätina : [n.] fulfillment, satisfaction
+sat : [adj.] full {Original}
+-> asat : [v.] fill
+-> satime : [n.] fullness, fill
+-> satät : [adv.] fully
+-> satmät : [v.] fulfill, satisfy
+----> satmätime : [n.] (state of) fulfillment, satisfaction
+----> satmätina : [n.] fulfillment, satisfaction
+
+
 vid : [adj.] empty {French 'vide'}
 -> avid : [v.] empty
 -> vidime : [n.] emptiness, void
@@ -3033,6 +3035,7 @@ voč : [archaic] {Italian 'voce'}
 -- [n.] voice
 -- [v.] express, voice
 
+poka : [n.] [archaic] pocket, pouch {Frankish}
 ide : [n.] [archaic] idea {French 'idée'}
 
 -esin : [archaic] [suf.] forms nouns from adjectives, denoting the condition or state of the suffixed word ('-hood', '-dom', '-ness')
@@ -3043,6 +3046,17 @@ mälk : [archaic] {English 'milk', French 'lait', German 'Milch'}
 ----> mälkäs : [adj.] dairy
 -- [v.] [usu. of an animal] milk
 -- [v.] exploit excessively
+
+kal : [v.] [archaic] fit, match, correspond {French 'caler'}
+-> kalin : [n.] match @@
+
+ful : [adj.] full
+-> aful : [v.] fill
+-> fulime : [n.] fullness, fill
+-> fulät : [adv.] fully
+-> fulmät : [v.] fulfill, satisfy
+----> fulmätime : [n.] (state of) fulfillment, satisfaction
+----> fulmätina : [n.] fulfillment, satisfaction
 
 dö : [prep.] [dated] ablative, genitive ('from', 'of', authorship) {French 'de'}  
 
