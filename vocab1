@@ -319,10 +319,6 @@ se : [prn.] reflexive pronoun {French 'se'}
 -------> seinuzät : [adv.] selflessly
 -> se(i)- : [prf.] self-, auto-
 
-na : [archaic]  
--- [prep.] succeeds the subject of a sentence, marking it as the passive agent  
--- [prep.] precedes the object of a sentence, marking it as the active agent
-
 === interjections ===  
 halo : [intj.] greeting, call for response ('hello') {German 'Hallo'}  
 häj : [intj.] exclamation, protest or reprimand, expression of surprise; informal greeting ('hey')  
@@ -2454,6 +2450,9 @@ furn : [v.] bake, cook; roast {French 'four', English 'furnace'}
 
 vad : [v.] fit, match, correspond {Original}
 -> vadin : [n.] match
+-> vadina : [n.] fitting
+-> vadime : [n.] fitness
+-> vadesät : [adv.] fittingly
 
 mäl : [v.] mix, blend; combine, fuse; tangle {French 'mêler'}
 -> mälör : [n.] mixer, blender or other apparatus for blending
@@ -2926,7 +2925,6 @@ sat : [adj.] full {Original}
 ----> satmätime : [n.] (state of) fulfillment, satisfaction
 ----> satmätina : [n.] fulfillment, satisfaction
 
-
 vid : [adj.] empty {French 'vide'}
 -> avid : [v.] empty
 -> vidime : [n.] emptiness, void
@@ -3040,6 +3038,10 @@ ide : [n.] [archaic] idea {French 'idée'}
 
 -esin : [archaic] [suf.] forms nouns from adjectives, denoting the condition or state of the suffixed word ('-hood', '-dom', '-ness')
 -> -(s)ein : [archaic] [suf.] forms nouns from adjectives, denoting the condition or state of the suffixed word ('-hood', '-dom', '-ness')
+
+na : [prep.] [archaic]   
+-- succeeds the subject of a sentence, marking it as the passive agent  
+-- precedes the object of a sentence, marking it as the active agent
 
 mälk : [archaic] {English 'milk', French 'lait', German 'Milch'}
 -- [n.] milk
