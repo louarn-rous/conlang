@@ -2133,9 +2133,9 @@ fär : {Swedish '-bar', German 'fähig'}
 ----> nefär : [adj.] unable
 -------> nefärime : [n.] inability
 -------> anefär : [v.] to make unable, to immobilize; to make disabled, to cripple
-----> defär : [adj.] disable(d)
--------> defärime : [n.] disability
--------> adefär : [v.] disable
+----> defär : [v.] disable
+-------> defäret : [adj.] disable(d)
+----------> defäretime : [n.] disability
 ----> afär : [v.] enable
 -- [v.] can, is able to
 -> -fär : [suf.] forms adjectives from verbs, indicating that the action can be performed ('-able')
