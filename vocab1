@@ -932,6 +932,7 @@ brust : [n.] brush {Breton 'broust'}
 torš : [n.] cloth {Breton 'torch'}
 spel : [n.] shovel, spade {French 'pelle', English 'spelunk', ? English 'spade'}
 sajl : [n.] bucket, pail {Breton 'sailh'}
+kuog : [n.] [v.] hoe {Finnish 'kuokka'}
 tamor : {French 'marteau', English 'hammer'}
 -- [n.] hammer
 -- [v.] to strike with a hammer
@@ -1744,16 +1745,11 @@ sol : [n.] sun {Latin 'sol' via French 'solaire'}
 
 == biology : biologik ==
 
-
 lät : {Latin 'lac', + via French 'lait'}
 -- [n.] [v.] milk [v.] exploit
 ----> lätäs : [adj.] lactic
 ----> gelät : [n.] dairy
 ----> alät : [v.] breastfeed
-
-
-
-
 
 ov : [n.] egg {Latin 'ovum'}
 -> oväs : [adj.] of or pertaining to eggs; oval
@@ -2633,6 +2629,7 @@ läg : [v.] select, choose, pick {Latin 'lego' via English 'select'}
 -> lägina : [n.] selection
 -> lägatäs : [adj.] legendary {Latin 'legendus'}
 ----> lägatäst : [adv.] legendarily
+-> ustläg : [v.] pick out; pluck
 
 lav : [v.] wash {French 'laver'}
 -> lavina : [n.] washing
@@ -2735,6 +2732,9 @@ dar : [adj.] hard {French 'dur', English 'hard'}
 mals : [adj.] soft, tender {Dutch}
 -> amals : [v.] soften; tenderize
 -> malsät : [adv.] softly
+
+trum : [adj.] tough, difficult; harsh, stern {~ Finnish 'tuima'}
+-> atrum : [v.] to make difficult
 
 gul : [adj.] wet {Breton 'gleb}
 -> agul : [v.] wet
@@ -2913,7 +2913,10 @@ moče : [adj.] nice, pleasant {Typo of English 'nice' → 'moce'}
 
 jac : [adj.] great, grand, mighty {Korean '에야차'}
 -> ajac : [v.] make great, improve, elevate
--> ijac @@@
+
+säb : [adj.] fine, refined {Hungarian 'szebb'}
+-> asäb : [v.] refine
+----> asäbet : [adj.] refined (of a substance or material)
 
 lärt : [adj.] conscious, aware; alert
 -> alärt : [v.] alert, warn
