@@ -35,7 +35,7 @@ us : [prep.] ablative, genitive ('from', 'of', authorship)
 -> ödvär : [adj.] towards  
 ----> ödvärt : [adv.] towards  
 
-cun : [prep.] made of, composed of
+cun : [prep.] made of, composed of @@
 
 im : [prep.] in (contained by, within the bounds of, part of, into) {German}
 -> im : [prep.] temporal locative ('at', 'in', 'on')
@@ -950,9 +950,9 @@ piano : [n.] piano {Italian}
 toba : [n.] drum {Romanian 'tobă'}
 
 === society, politics, government ===
-nasion : [n.] nation; body of people
--> nasionäs : [adj.] national
-----> nasionäst : [adv.] nationally
+nacion : [n.] nation; body of people
+-> nacionäs : [adj.] national
+----> nacionäst : [adv.] nationally
 stat : [n.] state, government {German 'Staat'}
 strane : [n.] country {Russian 'стране'}
 partit : [n.] (political) party {French 'parti'}
@@ -966,6 +966,7 @@ publik : [n.] crowd, people (collective) {Latin 'publicus' via French & English 
 -> publik : [adj.] public; concerning the public
 ----> publikät : [adv.] publicly
 ----> apublik : [v.] publish; make public
+-------> apublikina : [n.] publication
 republik : [n.] republic {French 'république', also via German 'Republik'}
 -> republikäs : [adj.] republican
 partizan : [n.] partisan {Italian 'partigiane', French, English 'partisan'}
@@ -988,9 +989,9 @@ salar : [n.] wage, salary {Latin 'salarium' via French 'salaire'}
 -> salarör : [n.] salary-man, employee
 -> salaräs : [adj.] salarial
 
-polis : {French 'police'}
+polic : {French 'police'}
 -- [n.] police, law enforcement
-----> polisäs : [adj.] police
+----> policäs : [adj.] police
 -- [v.] police
 
 departina : [n.] department
@@ -1185,7 +1186,6 @@ märs : [n.] pain, harm, suffering
 -> amärs : [v.] cause harm to
 -> märsver : [adj.] painful; harmful
 ----> märsverät : [adv.] painfully
-
 cörg : [v.] hurt
 -> cörgin : [n.] harm
 setör : [v.] (experience) pain [n.] pain
@@ -1204,6 +1204,12 @@ cer : [adj.] sad {Original}
 ----> cerima : [n.] [common] depression
 -> cerin : [n.] sadness; grief
 ----> vältcerin : [n.] weltschmerz
+urt : [v.] envy, be jealous of
+-> urtin : [n.] envy, jealousy
+-> urtina : [n.] envying, jealousy
+-> urtime : [n.] (state of) envy, jealousy
+-> urtäs : [adj.] envious, jealous
+----> urtäst : [adv.] enviously, jealously
 
 stin : {Serbian 'истина'}
 -- [adj.] true
@@ -1502,6 +1508,7 @@ spät : [adj.] late {German}
 den : [n.] human, person {Breton}
 -> denäs : [adj.] human
 ----> denäsime : [n.] humanity
+-> geden : [n.] [collective] people
 jor : [n.] man {Original}
 -> jorät : [adj.] manly, masculine
 ----> jorätät : [adv.] masculinely
@@ -2084,6 +2091,8 @@ särš : [v.] search, seek {French 'chercher', English 'search'}
 kos : [v.] hunt; seek {Original}
 -> kosin : [n.] hunt, search
 -> kosör : [n.] hunter
+stöj : [v.] find {Original}
+-> stöjina : [n.] discovery, finding
 dast : [v.] amass, assemble; pick, gather {Breton 'dastum'}
 -> dastin : [n.] bunch
 -> dastina : [n.] gathering, assembly; harvest
@@ -2424,8 +2433,6 @@ salv : [v.] save {Latin 'salva' via English 'salvation', French 'sauver'}
 -> salvör : [n.] saviour
 -> salvina : [n.] salvation
 
-stöj : [v.] find {Original}
--> stöjina : [n.] discovery, finding
 
 brilj : [v.] shine {Portugese 'brilhar', French 'briller'}
 
