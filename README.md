@@ -64,6 +64,7 @@ else if it precedes a plosive, it is rendered as /x/.
 | Open      | /a/     |      |  
 
 ⟨u⟩ is occasionally realized as \[ʊ], especially after another vowel.  
+/a/ is most often realized as \[ɐ].
  
 ### Semivowels
 
@@ -229,14 +230,14 @@ Ijter Morse is partly influenced by Croatian Morse code.
 
 ### Archaic orthography
 
-|Old |New | IPA |
-|:-: |:-: | :-: |
-| Èè | Ää | /ɛ/ |
-| Éé | Ee | /e/ |
-| Øø | Öö | /ø/ |
-| Yy | Üü | /y/ |
-| Ии | Іі | /i/ |
-| Сс | Ѕѕ | /s/ |
+|Old1|Old1|New | IPA |
+|:-: |:-: |:-: | :-: |
+| Êê | Èè | Ää | /ɛ/ |
+| Ee | Èè | Ee | /e/ |
+| Øø | Øø | Öö | /ø/ |
+| Yy | Yy | Üü | /y/ |
+| -- | Ии | Іі | /i/ |
+| -- | Сс | Ѕѕ | /s/ |
 
 ### Writing systems not in official use
 
@@ -247,30 +248,5 @@ Hangul
 | k | ㄱ | g | ㄲ | t | ㄷ | d | ㄸ | p | ㅂ | b | ㅃ | e | ㅔ |
 | f | ㅋ | v | ㅌ | s | ㅅ | š | ㅆ | z | ㅈ | ž | ㅉ | ⌀ | ㅓ | 
 | m | ㅁ | n | ㄴ | r | ㄹ | l | ᄑ | h | ㅎ | j | ㅊ | ⌀ | ㅇ |
-
-Sanskrit/Devanagari (Incomplete)
-
-| k | क | g | ग | t | त | d | द | p | प | b | ब |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| f | फ़ | v | व | s | स | š | श | z | ज़ | ž | झ़ |
-| h | ह | j | य | m | म | n | न | r | र | l | ल |
-| tš | च | dž | ज | - | - | - | - | - | - | - | - |
-
-| e | ए | पे | a | अ | प | u | उ | पु | o | ओ | पो |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| i | इ | पि | ä | आ | पा | ü | ऊ | पू | ö | औ | पौ |
-
-### Adaptation into Katakana (Incomplete)
-
-| - | * | k | g | t | d | s | z | m | n | 
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| a | ア   | カ  | ガ   | タ   | ダ  | サ | ザ | マ | ナ |
-| i | イ   | キ  | ギ   | チ   | ヂ  | シ | ジ | ミ | ニ |
-| u | ウ   | ク  | グ   | ツ   | ヅ  | ス | ズ | ム | ヌ |
-| e | エ   | ケ  | ゲ   | テ   | デ  | セ | ゼ | メ | ネ |
-| o | オ   | コ  | ゴ   | ト   | ド  | ソ | ゾ | モ | ノ |
-| ä | アャ | カャ | ガャ | タャ | タャ | サャ | ザャ | マャ | ナャ |
-| ü | ウュ | クュ | グュ | ツュ | ヅュ | スュ | ズュ | ムュ | ヌュ |
-| ö | オョ | コョ | ゴョ | トョ | ドョ | ソョ | ゾョ | モョ | ノョ |
 
  	 	 	 	
