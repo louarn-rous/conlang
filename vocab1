@@ -48,7 +48,7 @@ im : [prep.] in (contained by, within the bounds of, part of, into) {German}
 ----> imvärt : [adv.] inwardly
 -> imklöd : [v.] include  
 ----> imklödina : [n.] inclusion
--> imir : [v.] enter  
+-> imir : [v.] enter
 ----> imira : [n.] entry, input  
 ----> imirin : [n.] entry, access
 ----> aimir : [v.] make enter, welcome, bring in
@@ -164,8 +164,7 @@ si : [cnjc.] if, in the case/condition that, given/supposing/assuming that {Fren
 -- used to form nouns from adjectives
 
 -a : [suf.] used to mark a place
--(n)i : [suf.] used to form nouns, indicating someone who is from a place
--(j)an : [suf.] used to form nouns, indicating someone with a connection to the suffixed word (German & English '-ling') {French}
+-(n)i : [suf.] used to form nouns, indicating someone who is from a place or has a connection to the suffixed word (German & English '-ling')
 
 a(s)- : [prf.] {French}   
 -- used to form verbs from adjectives, indicating the gain of the adjectivial property  
@@ -537,6 +536,7 @@ kohl : [n.] cabbage {German 'Kohl'}
 mili : [n.] corn {Afrikaans 'mielie'}
 ris : [n.] rice {French 'riz', English 'rice'}
 abercin : [n.] eggplant {Catalan 'albergínia' via French 'aubergine'}
+kurbite : [n.] gourd, squash; pumpkin {Latin 'cucurbita'}
 melon : [n.] melon {English}
 tomat : [n.] tomato {French 'tomate'}
 sitre : [n.] citrus; lemon {Latin 'citrus' via English, French 'citron'}
@@ -1007,6 +1007,7 @@ dom : [n.] house, home {Russian 'дома'}
 -> domäs : [adj.] domestic
 ----> adomäs : [v.] domesticate
 ----> domäst : [adv.] domestically
+-> -(d)om : [suf.] place
 skol : [n.] school {English 'school', French 'école'. accidental cognate with Breton}
 -> skolör : [n.] student
 -> skoläs : [adj.] scholar
@@ -1052,10 +1053,15 @@ res : [n.] thing, matter {Latin}
 kultur : [n.] culture {German 'Kultur', French 'culture'}
 -> kulturäs : [adj.] cultural
 ----> kulturäst : [adv.] culturally
-värsion : [n.] version {French, English 'version'}
-sistäm : [n.] system {French 'système', English 'system'}
--> sistämäs : [adj.] systemic
-----> sistämäst : [adv.] systemically
+usortine : [n.] system {from 'uz-' + 'sort' + '-in'}
+-> usortinäs : [adj.] systemic
+----> usortinäst : [adv.] systemically; systematically
+
+brec : [n.] task, work; doing, deed; accomplishment, achievement {clipping of 'tröbres' from 'tröb' + 'res'}
+-> brecäs : [adj.] official
+----> brecäst : [adv.] officially
+----> brecäsi : [n.] official
+-> brecom : [n.] office
 
 kanäl : [n.] canal, channel {French 'canal' & English 'channel'}
 
@@ -1440,7 +1446,10 @@ kac : [n.] tower {Original}
 -> kacu : [n.] small tower; turret
 simänt : {French 'ciment', English 'cement'}
 -- [m.] cement
--- [v.] [trans] cement (in) @@
+-- [v.] [trans] cement (in) @@#
+töl : {French 'tuile'}
+-- [n.] tile, pane, plate, square, panel
+-- [v.] to cover with tiles
 
 === games ===
 bal : [n.] ball {French 'balle'}
@@ -1680,7 +1689,7 @@ srit : [v.] {French 'écrire', English 'write'}
 -> sritiletä : [n.] workbook {+ 'letä'}
 -> resrit : [v.] rewrite
 -> obesrit : [v.] overwrite
-
+-> ussrit : [v.] sign {from 'uz' +}
 
 === the sciences : er siencade ===
 sienca : [n.] science {Italian 'scienza', French & English 'science'}
@@ -2072,6 +2081,12 @@ sad : [v.] happen, occur {Latin 'cado'}
 -> asad : [v.] cause, provoke; activate
 ----> asadina : [n.] provocation, cause
 ----> asadör : [n.] activator
+-> ressad : [v.] repeat, reoccur/re-occur
+----> ressadin : [n.] pattern
+----> ressadina : [n.] repetition
+----> ressadime : [n.] (state of) reccurence
+----> ressadest : [adj.] repeated; reccurent
+------> ressadestät : [adv.] repeatedly; reccurently
 
 stag : [v.] start, commence, begin {Breton}
 -> stagin : [n.] start, beginning
@@ -2108,7 +2123,8 @@ tös : [v.] [trans] to make into, turn the subject into
 bau : [v.] to build, construct {German 'bauen'}
 
 värt : [v.] turn {Latin 'verto' via English '-ward'}
--> värtina : [n.] turn
+-> värtin : [n.] turn
+-> värtina : [n.] version
 -> devärt : [v.] divert, redirect; deflect, reflect
 ----> devärtina : [n.] diversion, redirection; deflection, reflection
 -> mevärt : [v.] degenerate, degrade, decline
@@ -2483,10 +2499,6 @@ baes : {Unknown}
 
 konsol : [v.] console
 
-töl : {French 'tuile'}
--- [n.] tile, pane, plate, square, panel
--- [v.] to cover with tiles
-
 gil : [v.] [n.] help {Scottish Gaelic 'gille' via English 'gillie'}
 -> gilör : [n.] helper, aid
 ----> giere : [n.] maid
@@ -2821,6 +2833,7 @@ liber : [adj.] free {Latin}
 ort : [adj.] straight, upright {Anc. Greek 'ὀρθός' via English 'Orthodentist'}
 -> ortät : [adv.] straightly
 -> asort : [v.] erect, set up
+----> sort : [v.] to be standing up
 sut : [adj.] still, down, low, seated {Japanese '座る', English 'sit'}
 -> asut : [v.] sit/lay down
 ----> asutina : [n.] sitting, session
@@ -3052,9 +3065,17 @@ voč : [archaic] {Italian 'voce'}
 
 poka : [n.] [archaic] pocket, pouch {Frankish}
 ide : [n.] [archaic] idea {French 'idée'}
+värsion : [n.] [archaic] version {French, English 'version'}
+
+sistäm : [n.] [archaic] system {French 'système', English 'system'}
+-> sistämäs : [adj.] systemic
+----> sistämäst : [adv.] systemically
 
 -esin : [archaic] [suf.] forms nouns from adjectives, denoting the condition or state of the suffixed word ('-hood', '-dom', '-ness')
 -> -(s)ein : [archaic] [suf.] forms nouns from adjectives, denoting the condition or state of the suffixed word ('-hood', '-dom', '-ness')
+
+-(j)an : [archaic] [suf.] used to form nouns, indicating someone with a connection to the suffixed word (German & English '-ling') {French}
+
 
 na : [prep.] [archaic]   
 -- succeeds the subject of a sentence, marking it as the passive agent  
