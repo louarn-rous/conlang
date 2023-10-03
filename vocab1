@@ -21,7 +21,7 @@ as : [det.] distal demonstrative ('that')
 netä : [det.] any, either  
 -> tošnetä : [det.] whatever, anything {'toš' + 'netä')  
 -> nölletä : [det.] neither  
--> netäa : [adv.] anywhere
+-> netänom : [adv.] anywhere
 ait : [det.] each, every
 -> artu : [det.] all
 ceni : [det.] some 
@@ -34,8 +34,6 @@ us : [prep.] ablative, genitive ('from', 'of', authorship)
 -> öde : [prep.] benefactive ('for', 'in favour/support/the objective of', 'so that')  
 -> ödvär : [adj.] towards  
 ----> ödvärt : [adv.] towards  
-
-cun : [prep.] made of, composed of @@
 
 im : [prep.] in (contained by, within the bounds of, part of, into) {German}
 -> im : [prep.] temporal locative ('at', 'in', 'on')
@@ -83,7 +81,7 @@ uc : [prep.] under(neath) {French 'sous', German 'unter'} @@
 ant : [prep.] between, among {Latin 'inter' via English 'internal', ? French 'entre'}  
 -> antäs : [adj.] internal, interior
 ----> antäst : [adv.] internally  
--> antira : [n.] interior
+-> antirom : [n.] interior
 -> ant(e)- : [suf.] between  
 -> antuz : [cnjc.] in between, with  
 -> antvär : [adj.] towards between  
@@ -104,7 +102,6 @@ ga : [prep.] distributive (per, for each) {Original}
 
 sti : [prep.] as if, like so, similar to  
 -> stit : [adv.] thus, in this way or manner  
--> -sti : [suf.] forms adjectives from nouns, having the sense of resembling or behaving like the suffixed word
 
 === conjunctions === 
 ur : [cnjc.] or {French 'ou', English 'or'}  
@@ -147,6 +144,7 @@ si : [cnjc.] if, in the case/condition that, given/supposing/assuming that {Fren
 === affixes ===  
 -en : [suf.] plural (after closed syllable) {German}  
 -de : [suf.] plural (after open syllable, or one ending with a nasal when there is already a nasal-terminated vowel before it)
+
 -(n)u : [suf.] diminutive {Turkish 'kuzu'}
 -ina : [suf.] verbal nominative; forms verbal nouns (the noun indicating the action of what is denoted by the verb) {Croatian 'batina'}  
 -> -in : [suf.] nominative; forms nouns from verbs, describing the result of an action  
@@ -156,14 +154,18 @@ si : [cnjc.] if, in the case/condition that, given/supposing/assuming that {Fren
 -(n)äs : [suf.] genitive; forms adjectives from nouns, with the meaning 'of or pertaining to' the suffixed word ('-ic')  
 -(n)ät :  
 -- [suf.] used to form adverbs, giving a verb the quality of the suffixed word
--- [suf.] semblative; used to form adjectives from nouns, meaning resembling the suffixed word (esp. in behaviour)  
 -- [suf.] used to form adjectives from verbs, meaning 'inclined to' ###
+
+-sti : [suf.] semblative; forms adjectives from nouns, having the sense of resembling the suffixed word {see 'sti'}
+-sat : [suf.] forms adjectives from nouns, meaning to possess or have the quality of the suffixed noun (English '-ful') {see 'sat'}
+
+-ret : [suf.] used to form nouns, meaning the practice of doing or doing something related to the suffixed word {see 'ret'}
 
 -e : [suf.]
 -- forms ordinal numbers {French '-ème')
 -- used to form nouns from adjectives
 
--a : [suf.] used to mark a place
+-om : [suf.] used to mark a place {Original}
 -(n)i : [suf.] used to form nouns, indicating someone who is from a place or has a connection to the suffixed word (German & English '-ling')
 
 a(s)- : [prf.] {French}   
@@ -249,7 +251,7 @@ uäst : {French 'ouest', English 'west'}
 
 === adverbs ===
 me : [adv.] [det.] much, many; very
--> meruz : [adj.] abundant, plentiful, rich
+-> meruz : [adj.] abundant, bountiful, rich
 ----> meruzät : [adv.] abundantly
 -> amefär : [adj.] fertile
 mer : [adv.] comparative ('more') {Dutch 'meer'}  
@@ -402,6 +404,7 @@ mil : [num.] 1000 (thousand) {French 'mille'}
 === colours : koloren ===
 kolor : {French 'colorer', English 'colour'}
 -- [n.] colour, pigment
+----> kolorsat : [adj.] colourful
 -- [v.] colour
 blo : [m.] blue {Swedish 'blå'}
 brön : [m.] brown {English 'brown' + 'grön'}
@@ -1073,9 +1076,9 @@ kanäl : [n.] canal, channel {French 'canal' & English 'channel'}
 klas : [n.] class {French 'classe'}
 -> aklas : [v.] to put into classes; to sort, categorize
 
-
-
-dača : [n.] chance, luck {Russian 'удача'}
+dače : [n.] chance, luck {Russian 'удача'}
+-> dačesat : [adj.] lucky
+----> dačesät : [adv.] luckily
 
 vet : [n.] age {Latin 'vetus'}
 -> avet : [v.] age
@@ -1444,7 +1447,7 @@ pilar : [n.] pillar; support, foundation {English 'pillar'}
 dal : [n.] slab {French 'dalle'}
 most : [n.] bridge {Serbian 'мост'}
 teg : [n.] roof; ceiling; ceiling (upper limit) {Original}
--> tega : [n.] hut, shack; shelter
+-> tegom : [n.] hut, shack; shelter
 tom : [n.] floor; ground; floor (lower limit) {Original}
 dol : [n.] wall {Original}
 -> dolu : [n.] small wall; barrier, fence
@@ -1684,9 +1687,9 @@ letä : [n.] letter, text, book {Latin 'littera'}
 -------> letenefärt : [adv.] illegibly
 -> letäina : [n.] literature
 ----> letäinäs : [adj.] literary
--> letätemäta : [n.] bookshop, bookstore
--> letäna : [n.] library
----> letänai : [n.] librarian
+-> letätemätom : [n.] bookshop, bookstore
+-> letänom : [n.] library
+---> letänomi : [n.] librarian
 
 srit : [v.] {French 'écrire', English 'write'}
 -> sritör : [n.] writer
@@ -1891,9 +1894,9 @@ mät : [v.] set, change, assign, put {Latin 'mitto' via French 'mettre'}
 ----> ucmätina : [n.] submission
 -> antemät : [v.] exchange, trade, swap
 ----> antemätin(a) : [n.] exchange, transaction; trade, deal
-----> antemäta : [n.] [archaic] shop, hall, plaza, hub
+----> antemätom : [n.] [archaic] shop, hall, plaza, hub
 ----> temät : [v.] sell, deal in, trade, supply
--------> temäta : [n.] shop, store
+-------> temätom : [n.] shop, store
 -------> temätör : [n.] trader, seller, supplier; merchant, shopkeeper; dealer
 -------> temätin(a) : [n.] purchase, sale, deal
 -> remät : [v.] reset
@@ -2063,13 +2066,11 @@ utej : [v.] use
 -------> utejinverät : [adv.] usefully
 -> utejör : [n.] user
 -> autej : [v.] make use
--> uteja : [n.] tool
+-> uteje : [n.] tool
 ret : [v.] do {Breton}
 -> deret : [v.] undo
 ----> deretina : [n.] undoing
 -> retina : [n.] doing; action
--> -ret : [suf.] used to form nouns, meaning the practice of doing or doing something related to the suffixed word
-
 
 sad : [v.] happen, occur {Latin 'cado'}
 -> imsad : [v.] take place; meet, intersect
@@ -2340,8 +2341,8 @@ fatig : [v.] [intrans] to tire, become weary {French 'fatigue'}
 
 leb : {German 'Leben'}
 -- [v.] live
-----> leba : [n.] town, village
--------> lebai : [n.] townsperson, villager
+----> lebom : [n.] town, village
+-------> lebomi : [n.] townsperson, villager
 -- [n.] life
 ----> lebät : [adj.] lively
 -- [adj.] alive
@@ -2843,7 +2844,7 @@ ort : [adj.] straight, upright {Anc. Greek 'ὀρθός' via English 'Orthodenti
 sut : [adj.] still, down, low, seated {Japanese '座る', English 'sit'}
 -> asut : [v.] sit/lay down
 ----> asutina : [n.] sitting, session
--> suta : [n.] seat; city
+-> sutom : [n.] seat; city
 
 striis : [n.] {~'tri' + 'stras', Latin 'trivium'}
 -> striisäs : [adj.] vulgar; trivial
@@ -3026,85 +3027,14 @@ muzot : [adj.] silly
 
 === vulgar ===
 bata : [n.] imbecile, bastard
-lidit : [n.] idiot
--> lidität : [adj.] stupid, dumb
-----> liditätät : [adv.] stupidly
+lidi : [n.] idiot
+-> lidisti : [adj.] stupid, dumb
+----> lidistinät : [adv.] stupidly
 -> liditäs : [adj.] idiotic
 ----> liditäst : [adv.] idiotically
-kus : [intj.] fuck, damn, darn, shit
+ruug : [n.] ass
 smät : [v.] to copulate with
 šiäs : [v.] [n.] shit, crap
-ruug : [n.] ass
-bač : [v.] damn {Original}
+bač : [v.] [intj.] damn {Original}
 -> bačet : [adj.] damned
-
-=== archaic ===
-arb : [n.] [archaic] tree {French 'arbre'}
-taj : [n.] [archaic] day {German 'tag'}
-haim : [n.] [archaic] home {German 'Heim'}
-sübas : [n.] [archaic] wing {Japanese '翼'}
-aur : [n.] [archaic] ear {Latin 'auris'}
-klen : [n.] [archaic] bend, incline {Latin 'clino'}
-zdal : [n.] [archaic] slab {French 'dalle'}
-fas : [n.] [archaic] front {French 'face'} 
-dos : [n.] [archaic] back {French}
-hart : [n.] [archaic] core, centre {Afrikaans}
-busk : [n.] [archaic] bush {English 'bush', ? German 'Busch', ? Finnish 'puska'}
-viv : [n.] [archaic] life [v.] live [adj.] alive {Spanish 'vida', French 'vivre'}
-bov : [n.] [archaic] cow {Late Latin 'bovinus'}
--> boväs : [adj.] [archaic] bovine
--> bovu : [n.] [archaic] calf
-vinj : [n.] [archaic] vine {French 'vigne'}
-jan : [n.] [archaic] person {Toki Pona}
-prom : [v.] [archaic] promise {French 'promettre'}
-gan : [v.] [archaic] can, able to {? English 'can'}
-ovär : [v.] [archaic] open {French 'ouvrir', English 'open'}
-levit : [v.] [archaic] levitate, hover {French 'léviter', English 'levitate'}
-süs : [v.] [archaic] suck, slurp {French 'suçer'}
-lek : [v.] [archaic] lick {English 'lick', French 'lécher'}
-vol : [v.] [archaic] fly {French 'voler'}
-škort : [adj.] [archaic] short {French 'court', English 'short'}
-sipaträ : [n.] [archaic] uncle
--> obesipaträ : [n.] [archaic] great-uncle
-voč : [archaic] {Italian 'voce'}
--- [n.] voice
--- [v.] express, voice
-
-poka : [n.] [archaic] pocket, pouch {Frankish}
-ide : [n.] [archaic] idea {French 'idée'}
-värsion : [n.] [archaic] version {French, English 'version'}
-
-sistäm : [n.] [archaic] system {French 'système', English 'system'}
--> sistämäs : [adj.] systemic
-----> sistämäst : [adv.] systemically
-
--esin : [archaic] [suf.] forms nouns from adjectives, denoting the condition or state of the suffixed word ('-hood', '-dom', '-ness')
--> -(s)ein : [archaic] [suf.] forms nouns from adjectives, denoting the condition or state of the suffixed word ('-hood', '-dom', '-ness')
-
--(j)an : [archaic] [suf.] used to form nouns, indicating someone with a connection to the suffixed word (German & English '-ling') {French}
-
-
-na : [prep.] [archaic]   
--- succeeds the subject of a sentence, marking it as the passive agent  
--- precedes the object of a sentence, marking it as the active agent
-
-mälk : [archaic] {English 'milk', French 'lait', German 'Milch'}
--- [n.] milk
-----> mälkäs : [adj.] dairy
--- [v.] [usu. of an animal] milk
--- [v.] exploit excessively
-
-kal : [v.] [archaic] fit, match, correspond {French 'caler'}
--> kalin : [n.] match @@
-
-ful : [adj.] full
--> aful : [v.] fill
--> fulime : [n.] fullness, fill
--> fulät : [adv.] fully
--> fulmät : [v.] fulfill, satisfy
-----> fulmätime : [n.] (state of) fulfillment, satisfaction
-----> fulmätina : [n.] fulfillment, satisfaction
-
-dö : [prep.] [dated] ablative, genitive ('from', 'of', authorship) {French 'de'}  
-
-süra : [det.] some
+kus : [intj.] fuck, damn, darn, shit
