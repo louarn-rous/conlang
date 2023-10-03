@@ -1061,17 +1061,19 @@ brec : [n.] task, work; doing, deed; accomplishment, achievement {clipping of 't
 -> brecäs : [adj.] official
 ----> brecäst : [adv.] officially
 ----> brecäsi : [n.] official
+----> nebrecäs : [adj.] unofficial
+-------> nebrecäst : [adj.] unofficially
 -> brecom : [n.] office
+-> nesabreces : [adj.] lazy
+----> nesabrecesime : [n.] (state of) laziness
 
 kanäl : [n.] canal, channel {French 'canal' & English 'channel'}
+-> videskanäl : [n.] sewers
 
 klas : [n.] class {French 'classe'}
 -> aklas : [v.] to put into classes; to sort, categorize
 
-tite : [n.] title {Latin 'titulus' + via French 'titre'}
--> atit : [v.] give a title
--> netitet : [adj.] untitled
--> uctite : [n.] subtitle
+
 
 dača : [n.] chance, luck {Russian 'удача'}
 
@@ -1160,6 +1162,10 @@ nam : [n.] name {German 'Name', French 'nom', English 'name'}
 -> namäs : [adj.] nominal
 ----> namäst : [adv.] nominally
 -> anam : [v.] to give/assign a name to
+tite : [n.] title {Latin 'titulus' + via French 'titre'}
+-> atit : [v.] give a title
+-> netitet : [adj.] untitled
+-> uctite : [n.] subtitle
 
 frän :
 -- [n.] mind
@@ -1399,7 +1405,7 @@ ark : [n.] bow, arc; semicircle {Latin 'arcus'}
 -> ark : [n.] [f:archery] bow
 brik : [n.] brick, ingot {French 'brique', English 'brick'} #
 -> brik : [v.] [f:computing] (of a dev) become non-functional
-gan : [n.] hole, pit, chasm {? Original}
+gan : [n.] hole; pit, chasm {? Original}
 -> ganu : [n.] small hole
 krät : [n.] grid {Latin 'cratis'}
 
@@ -2959,6 +2965,7 @@ vid : [adj.] empty {French 'vide'}
 -> avid : [v.] empty
 -> vidime : [n.] emptiness, void
 -> vidät : [adj.] emptily
+-> videsgan : [n.] drain, manhole
 
 frid : [adj.] cold
 -> afrid : [v.] cool, chill
