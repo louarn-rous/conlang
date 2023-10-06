@@ -894,10 +894,11 @@ rai : [n.] rail {French 'rail'}
 -> rajtröbör : [n.] rail-worker {'raj' + 'tröbör'}
 rotu : [n.] wheel
 
-ingän : [n.] engine, machine, contraption {Latin 'ingenium' via French 'engin'}
--> aingän : [v.] engineer
-----> aingänör : [n.] engineer
-----> aingänina : [n.] engineering (of)
+ingäne : [n.] engine, machine, contraption {Latin 'ingenium' via French 'engin'}
+-> ingän : [v.] engineer
+----> ingänör : [n.] engineer
+----> ingänina : [n.] engineering (of)
+-> ingänret : [n.] engineering (field)
 
 mäkane : [n.] machine {Anc. Greek 'μηχανή' via English & French 'machine'}
 
@@ -1001,8 +1002,6 @@ polic : {French 'police'}
 -- [n.] police, law enforcement
 ----> policäs : [adj.] police
 -- [v.] police
-
-departina : [n.] department
 
 prizon : [n.] prison
 -> prizonör : [n.] prisoner
@@ -2378,6 +2377,9 @@ troš : {French 'trancher'}
 -- [v.] [trans] slice, cut
 ----> trošör : [n.] one that cuts
 -- [n.] cut, incision
+sek : [v.] cut, seperate, divide; amputate {Latin 'seccare'}
+-> sekina : [n.] seperation, cutting
+-> sekpärom : [n.] division, department
 štät : [v.] damage {Serbian 'штете'}
 -> štätin : [n.] damage; cost, expense
 -> štätfär : [adj.] damageable
@@ -2773,9 +2775,10 @@ trum : [adj.] tough, difficult; harsh, stern {~ Finnish 'tuima'}
 gul : [adj.] wet {Breton 'gleb}
 -> agul : [v.] wet
 -> gulät : [adv.] wetly
-sek : [adj.] dry {French 'sec'}
--> asek : [v.] dry
--> sekät : [adv.] dryly
+
+sih : [adj.] dry {Latin 'sicco'}
+-> asih : [v.] dry
+-> sihät : [adv.] dryly
 
 nät : [adj.] clean {Breton 'naet'}
 -> anät : [v.] clean
