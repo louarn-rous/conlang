@@ -321,6 +321,13 @@ mäs : [adj.] constant, unmoving, permanent {German '-mals'}
 === other particles === 
 da : [ptcl.] interrogative, marks the preceding clause as a question  
 su : [ptcl.] existential, indicates 'there is/exists' concerning the object of the nominative-only clause it succeeds 
+ze : [ptcl.] affirmative
+
+da + ze --> "isn't it"
+ze --> (reponse) "it is"
+su + da --> "is there?"
+su + da + ze -> "isn't there?"
+su + ze --> "there is" (strong)
 
 se : [prn.] reflexive pronoun {French 'se'}
 -> sei : [n.] self, oneself, own
@@ -852,7 +859,7 @@ läp : {English 'lip', Latin 'labrum' via French 'lèvre'}
 ----> läpäs : [adj.] labial
 -------> läpäst : [adv.] labially
 -- [v.] [informal] to kiss
-pleč : [n.] {Russian 'плечо'}
+pleč : [n.] shoulder {Russian 'плечо'}
 man : {Latin 'manus' via French 'main' & English 'manual'}
 -- [n.] hand
 ----> manäs : [adj.] of or relating to the hand; manual
@@ -2584,7 +2591,7 @@ list : {French 'liste', English}
 tänt : [v.] [n.] stain {French 'teindre'}
 pänt : [v.] [n.] paint {French 'peindre'}
 
-klin : [v.] [n.] incline, bend {Latin 'clino' via English 'incline' & French 'incliner'}
+klin : [v.] [n.] incline; bend, curve {Latin 'clino' via English 'incline' & French 'incliner'}
 
 nos : [v.] [trans] give birth to; [intrans] [passive] be born {Latin 'nascor' via French 'naissance', French 'noces'}
 -> nosina : [n.] birth
