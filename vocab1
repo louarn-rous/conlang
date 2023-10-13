@@ -313,7 +313,7 @@ arü : [adv.] yet, still; thus far {Japanese 'ある'}
 mäs : [adj.] constant, unmoving, permanent {German '-mals'}  
 -> mäst : [adv.] ever; always  
 ----> nemäst : [adv.] never  
-----> dömast : [adv.] forever  
+----> dömäst : [adv.] forever  
 -------> dömastime : [n.] eternity  
 -> mäsime : [n.] permanence, immutability  
 -> mäsäs : [adv.] constantly
@@ -1349,7 +1349,7 @@ skläv : [n.] slave {French 'esclave'}
 släm : [m.] slime, goo, sludge {English 'slime', PIE '*sley-'}
 peluš : [m.] fluff, plush {French 'peluche', English 'plush'}
 silče : [m.] flint {Italian 'selce' via Latin via French 'silex'}
-seträ : [m.] ash(es)
+seträ : [m.] ash(es) {~ French 'cendre'}
 tan : [n.] fire {Breton}
 -> atan : [v.] set fire to, light on fire
 pul : {Latin 'pulvis' via English 'pulverise' & French 'pulvériser'}
@@ -1382,7 +1382,7 @@ glas : {French 'glace'}
 ----> glasät : [adj.] icy
 -- [adj.] frozen
 ----> aglas : [v.] freeze
-uis : [n.] water
+uis : [n.] water {? Original}
 -> uissor : [n.] toilet {+ 'sor'}
 vir : {French 'ver'}
 -- [m.] glass
@@ -1433,7 +1433,15 @@ brik : [n.] brick, ingot {French 'brique', English 'brick'} #
 gan : [n.] hole; pit, chasm {? Original}
 -> ganu : [n.] small hole
 krät : [n.] grid {Latin 'cratis'}
+lemm : [n.] blade; flap; human nail; [f:computing] tab, widget {Latin 'lamina' via French 'lamelle'}
+-> lemmu : [n.] lamella
+sper : [v.] curl, coil {Latin 'spirale' via French, via English 'spiral'}
+-> speret : [adj.] spiral
+-> sperin : [n.] spiral, curl; coil
 
+cär : [n.] reed, stem; straw {Original}
+-> gecär : [m.] straw
+-> sulecär : [n.] drinking straw
 kev : {Anc. Greek 'κύβος' via French & English 'cube'}
 -- [n.] cube
 -- [n.] [f:mathematics] third power of a number or term
@@ -1495,7 +1503,7 @@ lüd : [v.] play {Latin 'ludus' via French 'ludothèque'}
 ----> löslüdör : [f:video games] [n.] [adj.] singeplayer (mode)
 
 === time - tän ===
-nat : [n.] day
+nat : [n.] day {? Breton 'mat'}
 -> natäs : [adj.] diurnal, daily
 ----> natäst : [adv.] diurnally
 -> mitälnat : [n.] afternoon {'mitäl' +}
@@ -1661,7 +1669,7 @@ nar : [n.] capacity; weapon {Original}
 
 passe : [n.] pass; passport {Finnish 'passi'}
 
-furk : [n.] fork (shape, abstract)
+furk : [n.] fork; branch (shape, abstract)
 -> furku : [n.] fork (utensil)
 
 klet : [n.] cage {Russian 'клетка'}
@@ -1681,6 +1689,10 @@ sor : [n.] chest, trunk {Original
 -> sorpros : [n.] shelf, cabinet, cupboard
 
 tukon : [n.] lid, cap; plug {Korean '뚜껑'}
+
+nave : [n.] ship, boat; craft {Latin 'navis'}
+-> navu : [n.] small boat
+-> kosmenave : [n.] spacecraft
 
 maid : [n.] shell, hull
 -> maidu : [n.] case
@@ -1845,6 +1857,12 @@ ten : [v.] hold, keep {French 'tenir'}
 -> esten : [v.] occupy, stay at
 ----> estenime : [n.] (state of) occupation (of a location)
 ----> estenina : [n.] occupation (of a location)
+-> prometen : [v.] borrow
+----> prometin : [n.] borrowing
+----> prometina : [n.] (act of) borrowing
+-> doneten : [v.] loan
+----> donetin : [n.] loan
+----> donetina : [n.] (act of) loaning
 
 bišt : [v.] carry {Original, backform from 'bištir'}
 -> bištir : [v.] bring {Original}
@@ -1876,8 +1894,9 @@ met : [v.] send {Latin 'mitto' +~ 'mät'}
 -> mecer : [v.] message
 ----> mecerin : [n.] message
 -> ustemet : [v.] hurl, cast; send forth, emit, discharge {'ust' +}
-tuš : [v.] [intrans.] touch, reach, attain {French 'toucher'}
--> tušin : [n.] touch, reach
+
+tac : [v.] [intrans.] touch, reach {Latin 'tango' via English 'tactile'}
+-> tacin : [n.] touch, reach
 
 ir : [v.] [intrans] go, move (oneself) {French 'ira'}
 -> irina : [n.] movement
@@ -2570,9 +2589,11 @@ naut : [v.] sail {Latin 'nauta'}
 -> nautör : [n.] sailor
 ----> kosmenautör : [n.] astronaut, cosmonaut
 -> nautäs : [n.] pertaining to sailing
-nave : [n.] ship, boat; craft {Latin 'navis'}
--> navu : [n.] small boat
--> kosmenave : [n.] spacecraft
+mast : [v.] steer, direct
+-> mastina : [n.] (act of) steering
+-> otmast : [v.] to revolt; take control
+----> otmastin : [n.] revolt
+----> otmastina : [n.] revolution
 
 limit : [v.] [trans] limit {French 'limite', English}
 -> limitör : [n.] device that limits
