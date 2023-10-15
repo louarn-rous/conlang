@@ -1673,13 +1673,11 @@ orde : [n.] order, arrangement, series {Latin 'ordo'}
 -> ordeät : [adj.] orderly
 -> desorde : [n.] disorder, disarray
 ----> desordeät : [adj.] disorderly
-guran : [v.] tickle
--> guranin : [n.] tickles
--> guran (ceni den) isän (učä) : [phrase] tease (someone) about (subject)
 
 nar : [n.] capacity; weapon {Original}
 -> genar : [n.] arms, weapons
 -> anar : [v.] [trans] arm (equip with weapons); [v.] [trans] prime, charge with ammunition
+
 
 passe : [n.] pass; passport {Finnish 'passi'}
 
@@ -1693,23 +1691,23 @@ korb : [n.] basket {French 'corbeille'}
 -> korbu : [n.] parcel
 dat : [n.] bag
 -> datu : [n.] small bag
-not : [n.] brief record, usually written; score, mark or grade; [f:music] note
-mod : [n.] style, fashion, way, manner {French 'mode'}
--> -mod : [suf.] used to form verbs from nouns, with the sence of playing the role of, or being the suffixed word
 sor : [n.] chest, trunk {Original
 -> soru : [n.] box
 ----> asor(u) : [v.] [trans] to put in a box
 ----> imsoru : [n.] [f:email] inbox
 -> sorpros : [n.] shelf, cabinet, cupboard
-
+cugot : [n.] bottle; canteen, gourd {Original}
 tukon : [n.] lid, cap; plug {Korean '뚜껑'}
+maid : [n.] shell, hull
+-> maidu : [n.] case
+
+not : [n.] brief record, usually written; score, mark or grade; [f:music] note
+mod : [n.] style, fashion, way, manner {French 'mode'}
+-> -mod : [suf.] used to form verbs from nouns, with the sence of playing the role of, or being the suffixed word
 
 nave : [n.] ship, boat; craft {Latin 'navis'}
 -> navu : [n.] small boat
 -> kosmenave : [n.] spacecraft
-
-maid : [n.] shell, hull
--> maidu : [n.] case
 
 besät : [n.] team, crew {Swedish 'besättning'}
 -> abesät : [v.] team up, group
@@ -1739,15 +1737,6 @@ letä : [n.] letter, text, book {Latin 'littera'}
 -> letätemätom : [n.] bookshop, bookstore
 -> letänom : [n.] library
 ---> letänomi : [n.] librarian
-
-srit : [v.] {French 'écrire', English 'write'}
--> sritör : [n.] writer
--> sritäs : [adj.] scriptory, scriptorial, escritorial
--> sritina : [n.] writing
--> sritiletä : [n.] workbook {+ 'letä'}
--> resrit : [v.] rewrite
--> obesrit : [v.] overwrite
--> ussrit : [v.] sign {from 'uz' +}
 
 === the sciences : er siencade ===
 sienca : [n.] science {Italian 'scienza', French & English 'science'}
@@ -2189,6 +2178,15 @@ söt : [v.] create, make, build, assemble, bring to fruition {Original}
 tös : [v.] [trans] to make into, turn the subject into
 bau : [v.] to build, construct {German 'bauen'}
 
+srit : [v.] write {French 'écrire', English 'write'}
+-> sritör : [n.] writer
+-> sritäs : [adj.] scriptory, scriptorial, escritorial
+-> sritina : [n.] writing
+-> sritiletä : [n.] workbook {+ 'letä'}
+-> resrit : [v.] rewrite
+-> obesrit : [v.] overwrite
+-> ussrit : [v.] sign {from 'uz' +}
+
 värt : [v.] turn {Latin 'verto' via English '-ward'}
 -> värtin : [n.] turn
 -> värtina : [n.] version
@@ -2338,6 +2336,10 @@ träg : [v.] wear {German 'tragenen'}
 
 lig : [v.] tie {Latin 'ligare'}
 -> lige : [n.] knot; tie
+
+guran : [v.] tickle
+-> guranin : [n.] tickles
+-> guran (ceni den) isän (učä) : [phrase] tease (someone) about (subject)
 
 falt : [v.] falter {Portugese 'faltar'}
 -> faltin : [n.] fault
