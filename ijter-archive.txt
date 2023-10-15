@@ -117,6 +117,16 @@ u · Uu  y · Üü   o · Oo  ø · Öö     a · Aa   i · Ii     e · Ee   ɛ 
 thinking of using /is/ as proximal dem. ('this') and to denote proximal location ('here')
 thats an idea ive had since 21st of Feb
 
+`2023-03-22` modified `2023-10-13`
+this is gonna be a list of currently-missing vocab
+contributions are appreciated
+keep in mind: 
+· the language's phonemes
+· the languages it draws from (:flag_fr: :england: :flag_de: , :flag_nl: :flag_it: :flag_se: :flag_ru: :flag_ee: :flag_fi: )
+· the roots it draws from (most often greek and latin roots)
+· despite being mostly based off of french and english, in most cases to have unique words that arent too similar is better
+this is in no way mandatory, though i appreciate any and all effort at participation
+
 `2023/03/23`
 realized that `an` is way too awkward as indef. det.
 its just annoying to make, i think its because of how /a/ is made
