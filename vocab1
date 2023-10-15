@@ -544,7 +544,7 @@ apiä : [n.] bee {Latin 'apis'}
 scarbe : [n.] beetle, scarab {French 'scarabée', English 'scarab'}
 musk : [n.] fly {Latin 'musca' via French 'mouche'}
 
-=== crops, food, drink ===
+=== crops, food, drink, vegetables, produce, fruits ===
 karot : [n.] carrot {French 'carrote'}
 radis : [n.] radish {French}
 biit : [n.] beet {English 'beet'}
@@ -555,6 +555,7 @@ mili : [n.] corn {Afrikaans 'mielie'}
 ris : [n.] rice {French 'riz', English 'rice'}
 abercin : [n.] eggplant {Catalan 'albergínia' via French 'aubergine'}
 kurbite : [n.] gourd, squash; pumpkin {Latin 'cucurbita'}
+sorsti : [n.] capsicum, bell pepper {'soru' + '-sti'}
 melon : [n.] melon {English}
 tomat : [n.] tomato {French 'tomate'}
 pera : [n.] pear {Italian via Latin 'pirum' via English 'pear'}
@@ -958,13 +959,17 @@ telefon : [n.] [v.] telephone
 televis : [v.] televize
 -> televisina : [n.] television
 
-=== tools ===
+=== tools : utejen ===
 fals : [n.] sickle {Catalan 'falç'}
 brust : [n.] brush {Breton 'broust'}
 torš : [n.] cloth {Breton 'torch'}
 spel : [n.] shovel, spade {French 'pelle', English 'spelunk', ? English 'spade'}
 sajl : [n.] bucket, pail {Breton 'sailh'}
 kuog : [n.] [v.] hoe {Finnish 'kuokka'}
+sag : [n.] [v.] saw {Italian 'sega' & Dutch 'zaag' via English 'saw'}
+-> saglemm : [n.] sawblade
+-> sagdänten veg : [n.] sawtooth wave
+-> däntäs sag : [n.] dental saw
 tamor : {French 'marteau', English 'hammer'}
 -- [n.] hammer
 -- [v.] to strike with a hammer
