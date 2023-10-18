@@ -30,7 +30,7 @@ ceni : [det.] some
 us : [prep.] ablative, genitive ('from', 'of', authorship)  
 -> ussa : [prep.] beyond, further than
 -> usam : [prep.] away from, off
-öd : [prep.] allative, benefactive ('to', 'for')  
+öd : [prep.] allative (to, for)  
 -> öduz : [adv.] together  
 -> öde : [prep.] benefactive ('for', 'in favour/support/the objective of', 'so that')  
 -> ödvär : [adj.] towards  
@@ -404,7 +404,7 @@ to : [num.] 2 (two)
 tri : [num.] 3 (three) {Russian 'три', French 'trois'}
 -> trie : [ord. num.] third
 ----> trijät : [adv.] thirdly
--> trijäs : [adj.] tertiary
+-> trinäs : [adj.] tertiary
 kuät : [num.] 4 (four) {French 'quatre', Italian 'quattro'}
 -> kuäte : [ord. num.] fourth
 fän : [num.] 5 (five)
@@ -508,7 +508,15 @@ luter : [n.] otter {Latin 'lutra' + via French 'loutre'}
 -> luteräs : [adj.] lutrine
 ermin : [n.] ermine {French 'hermine', English 'ermine'}
 -> erminäs : [adj.] of or pertaining to ermines
+
+segeti : [n.] insect {'sek(et)' + '-(n)i'}
+-> segetiäs : [adj.] insectile
+-> segetimanžör : [n.] insectivore (+ 'manž' + '-ör')
 mostik : [n.] mosquito {French 'moustique', English 'mosquito'}
+apiä : [n.] bee {Latin 'apis'}
+-> apiäs : [n.] apian
+scarbe : [n.] beetle, scarab {French 'scarabée', English 'scarab'}
+musk : [n.] fly {Latin 'musca' via French 'mouche'}
 
 oris : [n.] bird {Anc. Greek 'ὄρνις'}
 -> orisäs : [adj.] avian
@@ -529,30 +537,33 @@ korvas : [n.] crow, raven {Japanese '烏', Latin 'corvus' via English 'corvid' &
 -> korväs : [adj.] corvine
 parok : [n.] parrot, parrakeet {English 'parrot', French 'perroquet'}
 -> parokäs : [adj.] psittacine
+
 rat : [n.] rat {English, Latin 'rattus' via French 'rat'}
+
 žiraf : [n.] giraffe {French 'giraffe'}
 -> žirafäs : [adj.] giraffine
+
 mono : [n.] monkey {Spanish}
 -> monäs : [adj.] simian
+
 päsk : [n.] fish {Breton 'pesk'}
 -> päsktemätör : [n.] fishmonger
 -> päskäs : [adj.] piscine
 -> rodpäsk : [n.] goldfish {'rod' + }
-luzd :
+
+arän : [n.] spider {Latin 'aranea' + via French 'araignée'}
+-> aränäs : [adj.] Arachnid
+
+malsäd : [n.] mollusk {'mals' + 'maid'}
+lusi : [n.] slug {~ French 'limace'}
+-> lusinäs : [adj.] limacine
+skürne : [n.] snail {~ French 'escargot'}
+luzd : {? French 'lombric'}
 -- [n.] worm
 ----> luzdäs : [adj.] vermicular
 -- [v.] squirm, wriggle, worm, crawl
-arän : [n.] spider {Latin 'aranea' + via French 'araignée'}
--> aränäs : [adj.] Arachnid
-lusi : [n.] slug {~ French 'limace'}
--> lusijäs : [adj.] limacine
-skürne : [n.] snail {~ French 'escargot'}
-apiä : [n.] bee {Latin 'apis'}
--> apiäs : [n.] apian
-scarbe : [n.] beetle, scarab {French 'scarabée', English 'scarab'}
-musk : [n.] fly {Latin 'musca' via French 'mouche'}
+
 ohtfus : [n.] octopus {'oht' + 'fus'}
-malsäd : [n.] mollusk {'mals' + 'maid'}
 
 === crops, food, drink, vegetables, produce, fruits ===
 karot : [n.] carrot {French 'carrote'}
@@ -1081,8 +1092,8 @@ lön : [m.] wool; woolen {French 'laine'}
 === concepts ===
 učä : [n.] subject, object, item
 -> uči : [n.] concept, idea
-----> učijäs : [adj.] conceptual
--------> učijäst : [adv.] conceptually
+----> učinäs : [adj.] conceptual
+-------> učinäst : [adv.] conceptually
 -> učäträš : [v.] conceptualize
 ----> učäträšin : [n.] concept
 -------> träšin : [n.] project
@@ -1355,8 +1366,8 @@ form : [n.] form {Latin 'forma'}
 
 === fantasy ===
 maži : [n.] magic {French 'magie'}
--> mažijäs : [adj.] magical
-----> mažijäst : [adv.] magically
+-> mažinäs : [adj.] magical
+----> mažinäst : [adv.] magically
 goläm : [n.] golem {English 'golem'}
 zambi : [n.] zombie {Bantu via English 'zombie'}
 dragon : [n.] dragon {English, French}
@@ -1374,8 +1385,8 @@ kastäl : [n.] castle; fort {Breton 'kastell'}
 totäm : [n.] totem {French 'totème', English 'totem'}
 -> totämäs : [adj.] totemic
 räi : [n.] king {Portugese 'rei'}
--> räijäs : [adj.] royal
-----> räijäst : [adv.] royally
+-> räinäs : [adj.] royal
+----> räinäst : [adv.] royally
 -> räin : [n.] queen {+ French 'reine'}
 ----> räinu : [n.] princess
 -> ränu : [n.] prince
@@ -2491,7 +2502,7 @@ troš : {French 'trancher'}
 -- [n.] cut, incision
 sek : [v.] cut, seperate, divide; amputate {Latin 'seccare'}
 -> sekina : [n.] seperation, cutting
--> sekpärom : [n.] division, department
+-> sekpärom : [n.] division, department 
 štät : [v.] damage {Serbian 'штете'}
 -> štätin : [n.] damage; cost, expense
 -> štätfär : [adj.] damageable
@@ -2871,8 +2882,11 @@ jong : [adj.] young {German 'jung', Dutch}
 au : [adj.] old {Afrikaans 'ou'}
 
 lis : [adj.] smooth {French 'lisse'}
--> alis : [v.] smooth
+-> alis : [v.] smooth, polish
 -> lisät : [adv.] smoothly
+-> liset : [adj.] polished; polite
+----> neliset : [adj.] impolite
+----> meliset : [adj.] rude
 plat : [adj.] flat {French 'aplatir'}
 -> aplat : [v.] flatten
 
