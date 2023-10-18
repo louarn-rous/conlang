@@ -27,8 +27,8 @@ The Ijter language employs both a Latin and a Cyrillic script.
 | /a/  | 'h**a**t' (Cali, Can) | Aa | Аа | aa | /n/ | '**n**et'               | Nn | Нн | än |
 | /ɛ/  | 'y**e**s'             | Ää | Ӓӓ | ää | /o/ | 'y**aw**n' (SA)         | Oo | Оо | oo |
 | /b/  | '**b**all'            | Bb | Бб | be | /ø/ | 'b**ir**d' (NZ)         | Öö | Ӧӧ | öö |
-| /ts/ | 'klu**tz**'           | Cc | Цц | ce | /p/ | '**p**en'               | Pp | Пп | pe |
-| /tʃ/ | '**ch**um'            | Čč | Чч | če | /ɾ/ | 'be**tt**er' (Aus, NAE) | Rr | Рр | är |
+| /t͡s/ | 'klu**tz**'           | Cc | Цц | ce | /p/ | '**p**en'               | Pp | Пп | pe |
+| /t͡ʃ/ | '**ch**um'            | Čč | Чч | če | /ɾ/ | 'be**tt**er' (Aus, NAE) | Rr | Рр | är |
 | /d/  | '**d**og'             | Dd | Дд | de | /s/ | '**s**un'               | Ss | Сс | äs |
 | /e/  | 'h**a**y'             | Ee | Ее | ee | /ʃ/ | '**sh**oe'              | Šš | Шш | äš |
 | /v/  | '**v**ine'            | Vv | Вв | ve | /t/ | '**t**op'               | Tt | Тт | te |
@@ -42,14 +42,14 @@ The Ijter language employs both a Latin and a Cyrillic script.
 ## Phonology
 
 ### Consonants
-| -                | Labial  | Alveolar  | Postalveolar | Palatal | Velar | Glottal |
-|:---------------- |:-------:|:---------:|:---------:|:---: |:-------:|:---:|
-| Nasal            | /m/     | /n/       |           | _/ɲ/_   | _/ŋ/_     |       |
-| Plosive          | /p/ /b/ | /t/ /d/   |           |       | /k/ /ɡ/ |       |
-| Affricate        |         | /t͜s/ /d͡z/ | /t͡ʃ/ /d͡ʒ/ |       |         |       |
-| Fricative        | /f/ /v/ | /s/ /z/   | /ʃ/ /ʒ/   | /ʝ~j/ | _/x/_     | /h/   |
-| Tap/Flap         |         | /ɾ/       |           |       |         |       |
-| Lat. Approximant |         | /l/       |           |       |         |       |
+| -            | Labial  | Alveolar  | Postalveolar | Palatal | Velar | Glottal |
+|:-----------  |:-----:  |:-------:  |:-------:  |:---:  |:-----:  |:-:  |
+| Nasal        | /m/     | /n/       |           |       |         |     |
+| Plosive      | /p/ /b/ | /t/ /d/   |           |       | /k/ /ɡ/ |     |
+| Affricate    |         | /t͡s/ /d͡z/ | /t͡ʃ/ /d͡ʒ/ |       |         |     |
+| Fricative    | /f/ /v/ | /s/ /z/   | /ʃ/ /ʒ/   | /ʝ~j/ | _/x/_   | /h/ |
+| Tap/Flap     |         | /ɾ/       |           |       |         |     |
+| Lat. Approx. |         | /l/       |           |       |         |     |
 
 if ⟨h⟩ is the onset of a word's first syllable, it is /h/.  
 else if it follows a plosive, it causes that plosive to be aspirated.  
@@ -57,7 +57,7 @@ else if it precedes a plosive, it is rendered as /x/.
 
 ### Vowels 
 | -         | Front   | Back |
-|:--------- |:-------:|:----:|
+|:--------  |:----:   |:--:  |
 | Close     | /i/ /y/ | /u/  |
 | Close-mid | /e/ /ø/ | /o/  |
 | Open-mid  | /ɛ/     |      |
