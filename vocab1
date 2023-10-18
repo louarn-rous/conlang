@@ -2562,11 +2562,9 @@ kräs : [v.] grow {Latin 'crescere' via Portugese 'crescer'}
 -> dekräs : [v.] shrink, decrease
 ----> dekräsin : [n.] decrease
 -> kräsin : [n.] growth
--> akräs : [v.] increase
+-> akräs : [v.] [trans] increase
 ----> akräsin : [n.] increase
-fal : {Swedish 'falla'}
--- [v.] fall; drop, decrease
--- [n.] fall; drop, decrease
+fal : [v.] [n.] fall; drop, decrease {Swedish 'falla'}
 
 bran : [v.] [n.] burn {Swedish 'brann'}
 
@@ -2580,7 +2578,6 @@ skän : {? Latin 'scala'}
 -- [n.] climb
 ----> skänu : [n.] step
 -------> skänude : [n.] steps; stairs
-
 
 plod :
 -- [v.] burst, blow
