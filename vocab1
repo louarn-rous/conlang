@@ -28,7 +28,8 @@ ceni : [det.] some
 
 === prepositions ===
 us : [prep.] ablative, genitive ('from', 'of', authorship)  
--> ussa : [prep.] ('beyond')
+-> ussa : [prep.] beyond, further than
+-> usam : [prep.] away from, off
 öd : [prep.] allative, benefactive ('to', 'for')  
 -> öduz : [adv.] together  
 -> öde : [prep.] benefactive ('for', 'in favour/support/the objective of', 'so that')  
@@ -88,8 +89,8 @@ ant : [prep.] between, among {Latin 'inter' via English 'internal', ? French 'en
 ----> antvär : [adv.] towards between
 -> asant : [v.] join
 
-a : [prep.] at {French 'à'}  
-u : [prep.] at, in, near, by {Russian 'у'}  
+a : [prep.] locative (at, in, on) {French 'à'}  
+u : [prep.] proximitive (at, near, by) {Russian 'у'}  
 gešt : [prep.] against {German 'gegen', English 'against'}  
 -> irgešt : [v.] oppose, go against  
 sär : [prep.] in the form(at) of
@@ -98,6 +99,7 @@ isän : [prep.] ablative (about, concerning)
 urund : [prep.] circumlative (around, about) {from 'u' + 'rund'}
 tra(s) : [prep.] perlocative, perlative (across, through) {Breton 'tra'}
 -> trasal : [prep.] far from, far off; across
+-> tras : [prep.] according to 
 ga : [prep.] distributive (per, for each) {Original}
 
 sti : [prep.] as if, like so, similar to  
@@ -105,7 +107,8 @@ sti : [prep.] as if, like so, similar to
 
 === conjunctions === 
 ur : [cnjc.] or {French 'ou', English 'or'}  
--> nur : [cnjc.] nor; neither  
+-> nur : [cnjc.] nor; neither
+-> netur : [cnjc.] or (exclusive)
 e : [cnjc.] and (before consonant) {Italian, French 'e'}
 -> et : [cnjc.] and (before vowel) {French & Latin 'et'}
 
@@ -115,10 +118,12 @@ uz : [cnjc.] comitative ('with') {Croatian}
 ----> nuzät : [adj.] poor
 -------> nuzätime : [n.] poverty
 ----> -nuz : [suf.] abessive; forms abessive adjectives from nouns ('-less')
+----> anuz : [v.] except
+-------> anuzt : [adj.] excepted
 -> asuz : [v.] join
 ----> asuzt : [adj.] joint
 ----> desuz : [v.] leave, desert
--------> desuztom : [n.] desert
+-------> deztom : [n.] desert
 
 mo : [cnjc.] also, both, as well, again  
 -> omo : [adj.] same, common  
@@ -409,11 +414,11 @@ ses : [num.] 6 (six) {German 'sechs', French 'six'}
 sät : [num.] 7 (seven) {French 'sept'}
 -> säte : [ord. num] seventh
 oht : [num.] 8 (eight) {German 'acht'}
--> ohte : [ord. num] eight
+-> ohte : [ord. num] eighth
 nön : [num.] 9 (nine) {French 'neuf', English 'nine'}
 -> nöne : [ord. num] ninth
 des : [num.] 10 (ten) {French 'dix'}
--> dese : [ord. num] tennth
+-> dese : [ord. num] tenth
 sän : [num.] 100 (hundred) {French 'cent'}
 -> sän : [ord. num] hundredth
 mil : [num.] 1000 (thousand) {French 'mille'}
@@ -546,6 +551,8 @@ apiä : [n.] bee {Latin 'apis'}
 -> apiäs : [n.] apian
 scarbe : [n.] beetle, scarab {French 'scarabée', English 'scarab'}
 musk : [n.] fly {Latin 'musca' via French 'mouche'}
+ohtfus : [n.] octopus {'oht' + 'fus'}
+malsäd : [n.] mollusk {'mals' + 'maid'}
 
 === crops, food, drink, vegetables, produce, fruits ===
 karot : [n.] carrot {French 'carrote'}
@@ -754,7 +761,7 @@ ter : {French 'terre'}
 -------> ucteräs : [adj.] underground, subterreanean
 -- [v.] (of electrical equipment) connect to the ground
 -- [v.] (of aircraft) prevent from flying
-feld : [n.] field {German 'Feld'}
+feld : [n.] field; plains {German 'Feld'}
 -> risfeld : [n.] rice field
 
 kristal : [n.] crystal {French 'cristal'}
@@ -1989,7 +1996,11 @@ ser : {French 'dire', English 'say', German 'sprechen'}
 ----------> serinäst : [adv.] meaningfully
 -> serin : [n.] expression, meaning
 -> antser : [v.] converse
-----> antserin(a) : [n.] conversation, exchange, dialogue
+----> antserin : [n.] conversation, exchange, dialogue
+----> antserine : [n.] dialect
+-------> antserinäs : [adj.] dialectical
+----------> antserinäst : [adv.] dialectically
+-------> antserret : [n.] [singular] dialectics
 klam : [v.] cry out, exclaim; shout, yell; call (out) {Latin 'clamo'}
 -> reklam : [v.] demand; repossess
 ----> reklamina : [n.] repossession
@@ -2870,6 +2881,7 @@ dar : [adj.] hard {French 'dur', English 'hard'}
 mals : [adj.] soft, tender {Dutch}
 -> amals : [v.] soften; tenderize
 -> malsät : [adv.] softly
+-> malsime : [n.] softness
 
 trum : [adj.] tough, difficult; harsh, stern {~ Finnish 'tuima'}
 -> atrum : [v.] to make difficult
