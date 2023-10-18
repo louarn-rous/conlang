@@ -124,6 +124,7 @@ uz : [cnjc.] comitative ('with') {Croatian}
 ----> asuzt : [adj.] joint
 ----> desuz : [v.] leave, desert
 -------> deztom : [n.] desert
+----------> dezt : [adj.] desert (of people), deserted, empty
 
 mo : [cnjc.] also, both, as well, again  
 -> omo : [adj.] same, common  
@@ -346,7 +347,8 @@ se : [prn.] reflexive pronoun {French 'se'}
 === interjections ===  
 halo : [intj.] greeting, call for response ('hello') {German 'Hallo'}  
 häj : [intj.] exclamation, protest or reprimand, expression of surprise; informal greeting ('hey')  
-nö : [intj.] negative; used to show disagreement or disbelief ('no') {German}  
+nö : [intj.] negative; used to show disagreement or disbelief ('no') {German}
+-> naj : [intj.] negative (in response to 'ja?' question)
 ja : {German, Dutch, Swedish}  
 -- [intj.] affirmative; used to show agreement or acceptance ('yes')  
 -- [ptcl.] marks preceding clause as interrogative, prompting affirmation ('isn't it'/'right?')  
