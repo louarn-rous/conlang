@@ -226,7 +226,7 @@ mitäl : [dated] {German 'mittel', English 'middle'}
 -> mi(t)- : [prf.] ('mid-')  
 ----> mit : [n.] middle, centre [adj.] middle, central
 -------> mität : [adj.] mild  
-----------> mitätät : [adv.] mildly
+----------> mitätt : [adv.] mildly
 -> metia : [n.] media
 
 nord : {French & German, English 'north'}  
@@ -1225,6 +1225,7 @@ haaf : [n.] half [adj.] hafly [common] {English 'half'}
 
 gove : [n.] voice, (manner of) speech; spirit {Japanese '声', ~? Serbo-Croatian ?}
 -> utegove : [n.] singing voice, song voice
+ecar : [n.] word; command {Original}
 
 jukos : [n.] monster {Original}
 bäst : [n.] beast, creature {French 'bête', English 'beast'}
@@ -1360,7 +1361,7 @@ son : [n.] sound {Latin 'sono' + via French 'son'}
 ----> sonäst : [adv.] sonically
 -> neson : [n.] silence
 ----> nesonät : [adj.] silent
--------> nesonätät : [adv.] silently
+-------> nesonätt : [adv.] silently
 -------> anesonät : [v.] muffle, dull, hush
 
 form : [n.] form {Latin 'forma'}
@@ -1605,7 +1606,7 @@ var : [adj.] early {Estonian 'vara'}
 -> varäs : [adv.] early
 -> varnat : [n.] morning {+ 'nat'}
 spät : [adj.] late {German}
--> spätät : [adv.] late, later
+-> spätt : [adv.] late, later
 -> spätnat : [n.] evening {+ 'nat'}
 -> aspät : [v.] retard, delay, put off
 ----> aspätin : [n.] delay
@@ -1618,11 +1619,11 @@ uman : [n.] human {Latin 'humanus', +~ Romanian, Italian 'umano'}
 ----> umanäsime : [n.] humanity
 jor : [n.] man {Original}
 -> jorät : [adj.] manly, masculine
-----> jorätät : [adv.] masculinely
+----> jorätt : [adv.] masculinely
 ----> jorätime : [n.] manhood, masculinity
 sar : [n.] woman {Original}
 -> sarät : [adj.] womanly, feminine
-----> sarätät : [adv.] femininely
+----> sarätt : [adv.] femininely
 ----> sarätime : [n.] womanhood, femininity
 daam : [n.] lady {Estonian, French 'dame', German 'Dame'}
 -> daamä : [n.] aunt
@@ -1654,29 +1655,29 @@ sorä : [n.] sister {Latin 'soror'}
 kin : [n.] child {German 'kinder', English}
 -> kinä : [n.] kid
 -> kinät : [adj.] childish
-----> kinätät : [adv.] childishly
+----> kinätt : [adv.] childishly
 -> ucekin : [n.] grandchild
 poj : [n.] boy {Swedish 'pojke', Finnish 'poika'}
 -> pojä : [n.] son
 ----> ucpojä : [n.] grandson
 -> pojät : [adj.] boyish
-----> pojätät : [adv.] boyishly
+----> pojätt : [adv.] boyishly
 fal : [n.] girl {Latin 'filia'}
 -> falä : [n.] daughter
 ----> ucfalä : [n.] granddaughter
 -> falät : [adj.] girly
-----> falätät : [adv.] girlishly
+----> falätt : [adv.] girlishly
 ussor : [n.] cousin {'uz' + 'sorä'}
 usmat : [n.] sibling {'uz' + 'matä'}
  
 fränd : [n.] friend {English 'friend', German 'Freund'}
 -> frändime : [n.] friendship
 -> frändät : [adj.] friendly
-----> frändätät : [adv.] friendlily
+----> frändätt : [adv.] friendlily
 ----> afrändät : [v.] befriend
 fiänd : [n.] enemy, fiend {Swedish 'fiende'}
 -> fiändät : [adj.] hostile
-----> fiändätät : [adv.] hostilely
+----> fiändätt : [adv.] hostilely
 
 klun : [n.] clown {French 'clown'}
 -> klunpäsk : [n.] clownfish { + 'pesk'}
@@ -2005,10 +2006,10 @@ ser : {French 'dire', English 'say', German 'sprechen'}
 -- [v.] say, speak, tell, talk
 ----> serör : [n.] one who speaks
 -- [v.] signifies, represents, means
-----> serina : [n.] meaning
+----> serina : [n.] expression, meaning
 -------> serinäs : [adj.] meaningful
 ----------> serinäst : [adv.] meaningfully
--> serin : [n.] expression, meaning
+-> serin : [n.] parole, speech
 -> antser : [v.] converse
 ----> antserin : [n.] conversation, exchange, dialogue
 ----> antserine : [n.] dialect
@@ -2128,7 +2129,7 @@ vedir : [v.] lead, guide {Serbo-Croatian 'водити', Latin 'dirigo' via Fren
 läž : [v.] obey, serve, be loyal to {English 'liege' via 'allegiance'}
 -> läžime : [n.] loyalty, obedience, servitude, allegience
 ----> läžimät : [adj.] loyal
--------> läžimätät : [adv.] loyally
+-------> läžimätt : [adv.] loyally
 -> deläž : [v.] disobey
 ----> deläžime : [n.] (state of) disobedience
 räg : [v.] rule, govern {Latin 'rego'}
@@ -2355,7 +2356,7 @@ ver : {Latin 'valor' via Italian 'valore' & French 'valeur', Swedish 'värde', E
 ----> vernuz : [adj.] worthless
 -------> vernuzät : [adv.] worthlessly
 -> verät : [adj.] worthy
-----> verätät : [adv.] worthily
+----> verätt : [adv.] worthily
 ----> neverät : [adj.] unworthy
 ----> verätime : [n.] dignity
 -> -ver : [suf.] forms adjectives from nouns, meaning deserving or worthy of the suffixed word ('-worthy', '-some')  
@@ -2363,7 +2364,7 @@ ver : {Latin 'valor' via Italian 'valore' & French 'valeur', Swedish 'värde', E
 heg : [v.] [reflexive] choke
 -> aheg : [v.] [trans] suffocate; disturb, distress, trouble
 ----> ahegät : [adj.] anxious, distressed, troubled
--------> ahegätät : [adv.] anxiously
+-------> ahegätt : [adv.] anxiously
 -------> ahegätime : [n.] anxiety, distress
 -> aseg : [v.] anger
 ----> asegime : [n.] (state of) anger
@@ -2447,14 +2448,14 @@ sul : [n.] drink {Original}
 som : [v.] [intrans] sleep {Latin 'somnus' via French 'sommeil'} 
 -> somin : [n.] sleep
 ----> sominät : [adj.] sleepy
--------> sominätät : [adv.] sleepily
+-------> sominätt : [adv.] sleepily
 -> asom : [v.] [trans] knock out
 -> somäs : [adj.] somnial
 rümä : {Japanese '夢', French 'rêve', English 'dream'}
 -- [v.] dream
 -- [n.] dream
 ----> rümäät : [adj.] dreamy
--------> rümäätät : [adv.] dreamily
+-------> rümäätt : [adv.] dreamily
 
 fam : [v.] hunger {Latin 'fames' via French 'faim'} 
 -> famin : [n.] hunger
@@ -2462,12 +2463,12 @@ fam : [v.] hunger {Latin 'fames' via French 'faim'}
 -------> spadvame : [n.] supper, dinner
 -> afam : [v.] [trans] to make hungry
 -> famät : [adj.] hunger
-----> famätät : [adv.] hungrily
+----> famätt : [adv.] hungrily
 sit : [v.] thirst {? French 'soif', ? English 'thirsty'}
 -> sitin : [n.] thirst
 -> asit : [v.] [trans] to make thirsty
 -> sität : [adj.] thirsty
-----> sitätät : [adv.] thirstily
+----> sitätt : [adv.] thirstily
 fatig : [v.] [intrans] to tire, become weary {French 'fatigue'}
 -> fatigime : [n.] tiredness
 -> afatig : [v.] [trans] to tire, make weary
@@ -2498,7 +2499,7 @@ siät : [v.] wait; expect {Original}
 -> siätina : [n.] waiting; expectation
 -> siätin : [n.] wait
 -> nesiätet : [adj.] unexpected
-----> nesiätät : [adv.] unexpectedly
+----> nesiätt : [adv.] unexpectedly
 
 brit : [v.] break {Swedish 'bryta'}
 -> britin : [n.] fissure, fissuring
@@ -2530,9 +2531,9 @@ pend : [v.] weigh; hang
 räs : [v.] let, allow
 -> aräs : [v.] endure, tolerate
 ----> aräsät : [adj.] tolerant
--------> aräsätät : [adv.] tolerantly
+-------> aräsätt : [adv.] tolerantly
 -------> nearäsät : [adj.] intolerant
-----------> nearäsätät : [adv.] intolerantly
+----------> nearäsätt : [adv.] intolerantly
 ----------> nearäsätime : [n.] intolerance
 ----> aräsfär : [adj.] tolerable
 -------> aräsfärt : [adv.] tolerably
@@ -2916,7 +2917,7 @@ sih : [adj.] dry {Latin 'sicco'}
 
 nät : [adj.] clean {Breton 'naet'}
 -> anät : [v.] clean
--> nätät : [adv.] cleanly
+-> nätt : [adv.] cleanly
 -> nättröbör : [n.] cleaner, janitor
 ----> nätör : [n.] [common] cleaner, janitor
 kras : {French 'crasse'}
