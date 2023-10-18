@@ -721,8 +721,8 @@ kupre : [m. unc.] copper {Late Latin 'cuprum' via French 'cuivre'}
 fer : [m. unc.] iron {French}
 -> feräs : [adj.] ferrous
 argänt : [m. unc.] silver {Latin 'argentum' via French 'argent'}
-or : [m. unc.] gold {French}
--> orät : [adj.] golden
+lüg : [m. unc.] gold {Original}
+-> lügät : [adj.] golden
 platin : [m. unc.] platinum {French 'platine', English 'platinum'}
 granit : [m. unc.] granite {French 'granit' via Russian 'гранит'}
 kvardz : [m. unc.] quartz {German 'Quarz' via French & English 'quartz'}
@@ -1111,6 +1111,17 @@ klas : [n.] class {French 'classe'}
 dače : [n.] chance, luck {Russian 'удача'}
 -> dačesat : [adj.] lucky
 ----> dačesät : [adv.] luckily
+sort : [n.] fate, fortune; destined {Latin 'sors'}
+-> sortäs : [adj.] fatal (pertaining to fate)
+-> asort : [v.] [trans] to assign fate; to doom
+----> asortet : [adj.] fated
+-> sortsat : [adj.] fortunate
+----> sortsät : [adj.] fortunately
+-> mesort : [n.] misfortune
+----> mesortäs : [adj.] unfortunate
+-------> mesortäst : [adj.] unfortunately
+-> sortesö : [n.] fortune-teller; wizard, magician; enchanter, spell-caster
+----> sortesa : [n.] witch
 
 vet : [n.] age {Latin 'vetus'}
 -> avet : [v.] age
@@ -1211,22 +1222,24 @@ frän :
 -------> fränäst : [adv.] mentally
 -- [v.] be aware/conscious of ###
 
-prod : {Latin 'prode' via cogn. with English 'proud'}
--- [n.] pride
-----> prodver : [adj.] prideworthy
--- [adj.] proud
-----> prodät : [adv.] proudly
+prod : [n.] pride [adj.] proud {Latin 'prode' via cogn. with English 'proud'}
+-> prodver : [adj.] prideworthy
+-> prodät : [adv.] proudly
+-> prodsat : [adj.] prideful
+----> prodsät : [adv.] pridefully
 heer : [n.] [v.] hate
 -> heerin : [n.] hatred
 -> heerfär : [adj.] detestable
 ----> heerfärt : [adv.] detestably
 -> heerver : [adj.] hateworthy
+-> heersat : [adj.] hateful
+----> heersät : [adj.] hatefully
 enor : [n.] [v.] honour {Breton}
 -> enorfär : [adj.] honourable
 ----> enorfärt : [adv.] honourably
 gloria : [n.] glory {Latin}
--> glorijäs : [n.] glorious
-----> glorijäst : [v.] gloriously
+-> glorisat : [n.] glorious
+----> glorisät : [v.] gloriously
 -> aglor : [v.] glorify
 spag : [n.] shame {Original}
 -> aspag : [v.] shame
@@ -1977,6 +1990,12 @@ seg : [v.] ask, inquire, question {Original}
 -> segin : [n.] question, query
 val : [v.] lie {Finnish 'valhe'}
 -> valin : [n.] lie
+sih : [v.] screech, yowl {Anc. Greek 'στρίξ'}
+-> sihin : [n.] screen, yowl
+streg : [v.] curse (profane); curse (jinx) {Latin 'striga'}
+-> stregin : [n.] profanity; curse
+-> stregina : [n.] malediction; insult, blasphemy
+-> streget : [adj.] cursed, profaned
 
 rast : [v.] [intrans] reason, reflect, reckon, calculate [trans] consider, judge {Latin 'ratus'}
 -> rastin : [n.] reason
@@ -2915,8 +2934,8 @@ liber : [adj.] free {Latin}
 
 ort : [adj.] straight, upright {Anc. Greek 'ὀρθός' via English 'Orthodentist'}
 -> ortät : [adv.] straightly
--> asort : [v.] erect, set up
-----> sort : [v.] to be standing up
+-> asortes : [v.] erect, set up
+----> ortes : [v.] to be standing up
 sut : [adj.] still, down, low, seated {Japanese '座る', English 'sit'}
 -> asut : [v.] sit/lay down
 ----> asutina : [n.] sitting, session
