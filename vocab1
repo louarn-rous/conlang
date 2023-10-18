@@ -155,8 +155,8 @@ si : [cnjc.] if, in the case/condition that, given/supposing/assuming that {Fren
 -(s)ime : [suf.] forms nouns from adjectives, denoting the condition or state of the suffixed word ('-hood', '-dom', '-ness')
 -(n)äs : [suf.] genitive; forms adjectives from nouns, with the meaning 'of or pertaining to' the suffixed word ('-ic')  
 -(n)ät :  
--- [suf.] used to form adverbs, giving a verb the quality of the suffixed word
--- [suf.] used to form adjectives from verbs, meaning 'inclined to' ###
+-- [suf.] used to form adverbs, giving a verb the quality of the suffixed word ('-ly')
+-- [suf.] used to form adjectives from verbs, meaning 'inclined to' ('-y') ###
 
 -sti : [suf.] semblative; forms adjectives from nouns, having the sense of resembling the suffixed word {see 'sti'}
 -sat : [suf.] forms adjectives from nouns, meaning to possess or have the quality of the suffixed noun (English '-ful') {see 'sat'}
@@ -990,6 +990,7 @@ toba : [n.] drum {Romanian 'tobă'}
 nacion : [n.] nation; body of people
 -> nacionäs : [adj.] national
 ----> nacionäst : [adv.] nationally
+hast : [n.] [singular] people, folk; tribe
 stat : [n.] state, government {German 'Staat'}
 strane : [n.] country {Russian 'стране'}
 partit : [n.] (political) party {French 'parti'}
@@ -1252,6 +1253,12 @@ märs : [n.] pain, harm, suffering
 cörg : [v.] hurt
 -> cörgin : [n.] harm
 setör : [v.] (experience) pain [n.] pain
+ürt : [v.] sting, pinch
+-> ürtin : [n.] sting, pinch
+-> ürtör : [n.] stinger
+-> ürta : [n.] spike
+----> ürtät : [adj.] spiky
+----> ürtsat : [adj.] spiny; (figurative) antisocial
 
 gad : [adj.] happy, glad {~ English 'glad', ? Breton}
 -> gadät : [adv.] happily
@@ -1580,10 +1587,11 @@ spät : [adj.] late {German}
 ----> aspätin : [n.] delay
 
 === people ===
-den : [n.] human, person {Breton}
--> denäs : [adj.] human
-----> denäsime : [n.] humanity
+den : [n.] person {Breton}
 -> geden : [n.] [collective] people
+uman : [n.] human {Latin 'humanus', +~ Romanian, Italian 'umano'}
+-> umanäs : [adj.] human
+----> umanäsime : [n.] humanity
 jor : [n.] man {Original}
 -> jorät : [adj.] manly, masculine
 ----> jorätät : [adv.] masculinely
@@ -2356,6 +2364,10 @@ träg : [v.] wear {German 'tragenen'}
 lig : [v.] tie {Latin 'ligare'}
 -> lige : [n.] knot; tie
 
+čus : [v.] trespass, violate, breach, infringe
+-> čusin : [n.] breach
+-> čusina : [n.] trespassing, violation, infringement
+
 ecar : [v.] behave, act {~ 'es' + 'ret'}
 -> ecarin : [n.] behaviour
 ----> ecarinäs : [adj.] behavioural
@@ -2950,9 +2962,18 @@ sut : [adj.] still, down, low, seated {Japanese '座る', English 'sit'}
 ----> asutina : [n.] sitting, session
 -> sutom : [n.] seat; city
 
-striis : [n.] {~'tri' + 'stras', Latin 'trivium'}
+striis : [n.] ?? {~'tri' + 'stras', Latin 'trivium'}
 -> striisäs : [adj.] vulgar; trivial
 ----> striisäst : [adv.] vulgarly; trivially
+
+šig : [adj.] common, frequent
+-> šigät : [adv.] commonly, frequently
+-> šigime : [n.] frequence; (state of) being common, commonness
+-> nešig : [adj.] uncommon, infrequent
+----> nešigät : [adv.] uncommonly, infrequently
+----> našiga : [adj.] rare, scarce
+-------> našigät : [adv.] rarely, scarcely
+-------> našigime : [n.] rarity, scarcity
 
 rund : {Swedish}
 -- [adj.] round
@@ -3060,6 +3081,7 @@ lärt : [adj.] conscious, aware; alert
 
 sat : [adj.] full {Original}
 -> asat : [v.] fill
+----> asatet : [n.] filled
 -> satime : [n.] fullness, fill
 -> satät : [adv.] fully
 -> satmät : [v.] fulfill, satisfy
