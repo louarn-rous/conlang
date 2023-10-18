@@ -68,11 +68,11 @@ else if it precedes a plosive, it is rendered as /x/.
  
 ### Semivowels
 
-| Letter | Vowel ~ Semivowel |
-|:-: |:-:         |
-| ⟨i⟩ | /i/ ~ \[j] |
-| ⟨u⟩ | /u/ ~ \[w] |
-| ⟨ü⟩ | /y/ ~ \[ɥ] |
+| Letter | Vowel | Semivowel |
+| :-: | :-: | :-: |
+| ⟨i⟩ | /i/ | \[j] |
+| ⟨u⟩ | /u/ | \[w] |
+| ⟨ü⟩ | /y/ | \[ɥ] |
 
 The above vowels are realized as semiconsonants when preceding or proceeding a different vowel.
 When they follow a plosive and precede another vowel, they provoke the palatization, labio-palatization and palatization of the aforementioned plosive, respectively;
