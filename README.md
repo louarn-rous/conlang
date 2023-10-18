@@ -22,7 +22,7 @@ It is synthetic, fusional and mildly inflected. It utilises SVO (Subject-Verb-Ob
 ## Alphabet
 The Ijter language employs both a Latin and a Cyrillic script.
 
-| IPA  | English               |Lat |Cyr | -  | IPA | English                 |Lat |Cyr | -  |
+| IPA  | English               |Lat |Cyr |Nom | IPA | English                 |Lat |Cyr | -  |
 |:---: |:---                   |:-: |:-: |:-: |:---:|:---                     |:-: |:-: |:-: |
 | /a/  | 'h**a**t' (Cali, Can) | Aa | Аа | aa | /n/ | '**n**et'               | Nn | Нн | än |
 | /ɛ/  | 'y**e**s'             | Ää | Ӓӓ | ää | /o/ | 'y**aw**n' (SA)         | Oo | Оо | oo |
@@ -46,7 +46,7 @@ The Ijter language employs both a Latin and a Cyrillic script.
 |:---------------- |:-------:|:---------:|:---------:|:---: |:-------:|:---:|
 | Nasal            | /m/     | /n/       |           | _/ɲ/_   | _/ŋ/_     |       |
 | Plosive          | /p/ /b/ | /t/ /d/   |           |       | /k/ /ɡ/ |       |
-| Affricate        |         | /t͡s/ /d͡z/ | /t͡ʃ/ /d͡ʒ/ |       |         |       |
+| Affricate        |         | /t͜s/ /d͡z/ | /t͡ʃ/ /d͡ʒ/ |       |         |       |
 | Fricative        | /f/ /v/ | /s/ /z/   | /ʃ/ /ʒ/   | /ʝ~j/ | _/x/_     | /h/   |
 | Tap/Flap         |         | /ɾ/       |           |       |         |       |
 | Lat. Approximant |         | /l/       |           |       |         |       |
