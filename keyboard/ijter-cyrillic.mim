@@ -7,7 +7,7 @@
 
 (description "Ijter cyrillic input method for qwerty layout.
 Author: louarn-rous
-Key Summary: v1.2
+Key Summary: v1.3
 ")
 
 (title "Ijter Cyrillic")
@@ -68,8 +68,8 @@ Key Summary: v1.2
   ("y" ?ӱ)
   ("U" ?У)
   ("u" ?у)
-  ("I" ?І)
-  ("i" ?і)
+  ("I" ?И)
+  ("i" ?и)
   ("O" ?О)
   ("o" ?о)
   ("P" ?П)
