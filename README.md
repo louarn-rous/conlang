@@ -17,7 +17,6 @@ It is synthetic, fusional and mildly inflected. It utilises SVO (Subject-Verb-Ob
 6. [Grammar](#Grammar)
 7. [Braille](#Braille)
 8. [Morse](#Morse)
-9. [Other](#Other)
 
 ## Alphabet
 The Ijter language employs both a Latin and a Cyrillic script.
