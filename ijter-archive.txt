@@ -369,3 +369,16 @@ that means 'littera' (letter) is the only remaining option. i can't not also use
 `2023-09-11`
 im working on subtitling a specific sequence of Azumanga Diaoh
 picked it because it was funny and the phrases used were relatively simple
+
+=== README.md ===
+
+`2023-10-19`
+### Writing systems not in official use
+
+Hangul
+
+| a | ㅏ | ä | ㅐ | i | ㅣ | o | ㅗ | ö | ㅚ | u | ㅜ | ü | ㅟ |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| k | ㄱ | g | ㄲ | t | ㄷ | d | ㄸ | p | ㅂ | b | ㅃ | e | ㅔ |
+| f | ㅋ | v | ㅌ | s | ㅅ | š | ㅆ | z | ㅈ | ž | ㅉ | ⌀ | ㅓ | 
+| m | ㅁ | n | ㄴ | r | ㄹ | l | ᄑ | h | ㅎ | j | ㅊ | ⌀ | ㅇ |
