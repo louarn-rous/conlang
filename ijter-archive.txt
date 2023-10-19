@@ -380,6 +380,20 @@ picked it because it was funny and the phrases used were relatively simple
 === README.md ===
 
 `2023-10-19`
+
+## Other  
+
+### Archaic orthography
+
+|Old1|Old1|New | IPA |
+|:-: |:-: |:-: | :-: |
+| Êê | Èè | Ää | /ɛ/ |
+| Ee | Èè | Ee | /e/ |
+| Øø | Øø | Öö | /ø/ |
+| Yy | Yy | Üü | /y/ |
+| Ии | Іі | Ии | /i/ |
+| -- | Сс | Ѕѕ | /s/ | 	
+
 ### Writing systems not in official use
 
 Hangul
