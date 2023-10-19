@@ -224,29 +224,4 @@ Ijter braille is inspired by the French, English, Czech and Scandinavian braille
 | Ll | .-..  | Ff | ..-. |
 | Mm | --    | Hh | .... |
 
-Ijter Morse is partly influenced by Croatian Morse code.  
-
-## Other  
-
-### Archaic orthography
-
-|Old1|Old1|New | IPA |
-|:-: |:-: |:-: | :-: |
-| Êê | Èè | Ää | /ɛ/ |
-| Ee | Èè | Ee | /e/ |
-| Øø | Øø | Öö | /ø/ |
-| Yy | Yy | Üü | /y/ |
-| Ии | Іі | Ии | /i/ |
-| -- | Сс | Ѕѕ | /s/ |
-
-### Writing systems not in official use
-
-Hangul
-
-| a | ㅏ | ä | ㅐ | i | ㅣ | o | ㅗ | ö | ㅚ | u | ㅜ | ü | ㅟ |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| k | ㄱ | g | ㄲ | t | ㄷ | d | ㄸ | p | ㅂ | b | ㅃ | e | ㅔ |
-| f | ㅋ | v | ㅌ | s | ㅅ | š | ㅆ | z | ㅈ | ž | ㅉ | ⌀ | ㅓ | 
-| m | ㅁ | n | ㄴ | r | ㄹ | l | ᄑ | h | ㅎ | j | ㅊ | ⌀ | ㅇ |
-
- 	 	 	 	
+Ijter Morse is partly influenced by Croatian Morse code.   	 	 	
