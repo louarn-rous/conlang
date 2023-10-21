@@ -1365,6 +1365,9 @@ son : [n.] sound {Latin 'sono' + via French 'son'}
 ----> nesonät : [adj.] silent
 -------> nesonätt : [adv.] silently
 -------> anesonät : [v.] muffle, dull, hush
+mujt : [n.] noise {Original}
+-> mujtsat : [adj.] noisy
+----> mujtsät : [adv.] noisily
 
 form : [n.] form {Latin 'forma'}
 -> formäs : [adj.] formal
@@ -1720,12 +1723,13 @@ banier : [n.] banner {French 'banière'}
 orde : [n.] order, arrangement, series {Latin 'ordo'}
 -> ordeät : [adj.] orderly
 -> desorde : [n.] disorder, disarray
-----> desordeät : [adj.] disorderly
+----> desordät : [adj.] disorderly, messy
+-------> desordätime : [n.] (state of) disorderliness
+----> desordime : [n.] (state of) disorder
 
 nar : [n.] capacity; weapon {Original}
 -> genar : [n.] arms, weapons
 -> anar : [v.] [trans] arm (equip with weapons); [v.] [trans] prime, charge with ammunition
-
 
 passe : [n.] pass; passport {Finnish 'passi'}
 
@@ -1734,6 +1738,9 @@ furk : [n.] fork; branch (shape, abstract)
 
 klet : [n.] cage {Russian 'клетка'}
 -> aklet : [v.] cage
+
+ruft : [n.] [v.] rust {Latin 'rufus'}
+-> rufsat : [adj.] rusty
 
 korb : [n.] basket {French 'corbeille'}
 -> korbu : [n.] parcel
