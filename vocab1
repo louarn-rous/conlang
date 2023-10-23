@@ -1133,8 +1133,19 @@ brec : [n.] task, work; doing, deed; accomplishment, achievement {clipping of 't
 -> nesabreces : [adj.] lazy
 ----> nesabrecesime : [n.] (state of) laziness
 
-kanäl : [n.] canal, channel {French 'canal' & English 'channel'}
--> videskanäl : [n.] sewers
+orde : [n.] order, arrangement, series {Latin 'ordo'}
+-> ordeät : [adj.] orderly
+-> desorde : [n.] disorder, disarray
+----> desordät : [adj.] disorderly, messy
+-------> desordätime : [n.] (state of) disorderliness
+----> desordime : [n.] (state of) disorder
+
+mod : [n.] style, fashion, way, manner {French 'mode'}
+-> -mod : [suf.] used to form verbs from nouns, with the sence of playing the role of, or being the suffixed word
+
+nar : [n.] capacity; weapon {Original}
+-> genar : [n.] arms, weapons
+-> anar : [v.] [trans] arm (equip with weapons); [v.] [trans] prime, charge with ammunition
 
 klas : [n.] class {French 'classe'}
 -> aklas : [v.] to put into classes; to sort, categorize
@@ -1171,7 +1182,7 @@ kut : [n.] coat, layer {English 'coat', French 'couche'}
 stras : [n.] road; street {Latin 'strata' via Italian 'strada' & German 'Straße'}
 -> strasu : [n.] alleyway, lane
 läš : [n.] way, path, method
-toš : [n.] thing {French 'chose'}
+toč : [n.] thing {French 'chose'}
 sunog : [n.] edge, boundary, border
 -> sunogime : [n.] state of being on the edge, of being borderline; hesitancy
 -> sunognuz : [adj.] boundless
@@ -1183,15 +1194,15 @@ vine : [n.] domain, realm {Croatian 'domovina'}
 trät : [n.] step [v.] step; trample, tread {German 'Tritt'}
 -> fusträt : [n.] footstep
 
-troke : [n.] location, place {Japanese '所'}
--> estrok : [n.] room, chamber
-----> sommis-estrok : [n.] [dated] bedroom
+trom : [n.] location, place {Japanese '所'}
+-> trom : [n.] room, chamber
+----> sommis-estrom : [n.] [dated] bedroom
 -------> sommistrok : [n.] bedroom {'sommis' +}
 ----> orestrok : [n.] vault {'or' +}
 ----> ucestrok : [n.] basement
 -> -(t)roke : [suf.] used to indicate a place with a purpose relating to the suffixed word ('-place')
--> atrok : [v.] place
-----> resatrok : [v.] replace
+-> atrom : [v.] place
+----> resatrom : [v.] replace
 -------> resatrokin(a) : [n.] replacement
 ----> atrokin(a) : [n.] placement (of)
 
@@ -1479,7 +1490,6 @@ pot : [n.] pole, post; trunk {French 'poteau'}
 ----> manpotu : [n.] handlebar
 -> uisespot : [n.] fire hydrant
 lin : [n.] line, string, cord, rope {French 'ligne'} ##
-bol : [n.] bowl {French}
 lozanž : {French 'losange'}
 -- [n.] rhombus, lozange
 -- [n.] pill or tablet, esp. one shaped like a rhombus
@@ -1540,6 +1550,8 @@ mis : {? French 'nid'}
 tem : [n.] table {Spanish 'mesa', Latin 'tabula' via French & English 'table'}
 -> temsär, temät : [adj.] tabular
 hust : [n.] chair {Original}
+pruc : [n.] plate
+bol : [n.] bowl {French}
 
 === building ===
 pilar : [n.] pillar; support, foundation {English 'pillar'}
@@ -1556,7 +1568,7 @@ simänt : {French 'ciment', English 'cement'}
 -- [m.] cement
 -- [v.] [trans] cement (in) @@#
 töl : {French 'tuile'}
--- [n.] tile, pane, plate, square, panel
+-- [n.] tile, pane, panel, plate
 -- [v.] to cover with tiles
 
 === games ===
@@ -1725,18 +1737,11 @@ pač : [n.] peace {Latin 'pax'}
 ----> apačina : [n.] appeasement
 -> pačime : [n.] peacetime
 banier : [n.] banner {French 'banière'}
-orde : [n.] order, arrangement, series {Latin 'ordo'}
--> ordeät : [adj.] orderly
--> desorde : [n.] disorder, disarray
-----> desordät : [adj.] disorderly, messy
--------> desordätime : [n.] (state of) disorderliness
-----> desordime : [n.] (state of) disorder
-
-nar : [n.] capacity; weapon {Original}
--> genar : [n.] arms, weapons
--> anar : [v.] [trans] arm (equip with weapons); [v.] [trans] prime, charge with ammunition
 
 passe : [n.] pass; passport {Finnish 'passi'}
+
+kanäl : [n.] canal, channel {French 'canal' & English 'channel'}
+-> videskanäl : [n.] sewers
 
 furk : [n.] fork; branch (shape, abstract)
 -> furku : [n.] fork (utensil)
@@ -1761,9 +1766,10 @@ tukon : [n.] lid, cap; plug {Korean '뚜껑'}
 maid : [n.] shell, hull
 -> maidu : [n.] case
 
-not : [n.] brief record, usually written; score, mark or grade; [f:music] note
-mod : [n.] style, fashion, way, manner {French 'mode'}
--> -mod : [suf.] used to form verbs from nouns, with the sence of playing the role of, or being the suffixed word
+tam : [v.] note; indent, make a notch; nick {Original}
+-> tame : [n.] note, mark; notch
+----> tamret : [n.] notation (system of notes)
+-> tamina : [n.] (act of) notation
 
 nave : [n.] ship, boat; craft {Latin 'navis'}
 -> navu : [n.] small boat
@@ -2610,7 +2616,6 @@ salv : [v.] save {Latin 'salva' via English 'salvation', French 'sauver'}
 -> salvör : [n.] saviour
 -> salvina : [n.] salvation
 
-
 brilj : [v.] shine {Portugese 'brilhar', French 'briller'}
 
 danc : {German 'tanz', English 'dance'}
@@ -2627,7 +2632,7 @@ ras : [v.] shear, shave; raze {French 'raser'}
 visär : [v.] aim, target {'vis' + '-vär', French 'viser'}
 -> visärin : [n.] aim
 
-piter : [v.] dig
+piter : [v.] dig {?}
 -> piterin : [n.] dig
 -> piterör : [n.] digger
 
@@ -2652,7 +2657,7 @@ spen : [v.] spy {French 'espion'}
 -> spenör : [n.] spy
 -> spenina : [n.] espionage
 
-naus : [v.] solve
+naus : [v.] solve {? Original} 
 -> nauset : [adj.] solved
 
 baes : {Unknown}
@@ -2682,8 +2687,8 @@ päs : {Original}
 ----> päsin : [n.] meal; nourishment
 -- [n.] food
 
-grafit
--- [v.] scribble; graffiti {Italian 'graffiti' via English & French'}
+grafit : {Italian 'graffiti' via English & French'}
+-- [v.] scribble; graffiti
 -- [n.] scribble; grafitti
 
 sträd : [v.] struggle {Frisian 'striid', Swedish 'strida'}
@@ -2724,7 +2729,7 @@ list : {French 'liste', English}
 tänt : [v.] [n.] stain {French 'teindre'}
 pänt : [v.] [n.] paint {French 'peindre'}
 
-klin : [v.] [n.] incline; bend, curve {Latin 'clino' via English 'incline' & French 'incliner'}
+klin : [v.] [n.] incline; bend, curve {Latin 'clino' via English 'incline' & French 'incliner'} #
 
 nos : [v.] [trans] give birth to; [intrans] [passive] be born {Latin 'nascor' via French 'naissance', French 'noces'}
 -> nosina : [n.] birth
