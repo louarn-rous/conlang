@@ -148,6 +148,13 @@ When the action of the verb is described as a potential without being in a speci
 | Present | -e     | -es    | -et     | -est    |
 | Future  | -a     | -as    | -at     | -ast    |
 
+| - | act | act | pas | pas |
+|:- |:-   |:-   |:-   | :-  |
+| t | s | c | s | c |
+| pst | is | is | it | ist |
+| prs | es | es | set | est |
+| fut | as | as | at | ast |
+
 ## Pronouns
 
 ### Personal
