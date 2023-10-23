@@ -39,7 +39,7 @@ us : [prep.] ablative, genitive ('from', 'of', authorship)
 im : [prep.] in (contained by, within the bounds of, part of, into) {German}
 -> im : [prep.] temporal locative ('at', 'in', 'on')
 -> im- : [prf.] inwards ('in')
--> imtroke : [n.] interior
+-> imtrom : [n.] interior
 -> imäs : [adj.] inner, internal
 ----> imäst : [adv.] internally
 ----> imäsime : [n.] insideness, internality
@@ -56,7 +56,7 @@ im : [prep.] in (contained by, within the bounds of, part of, into) {German}
 
 ust : [prep.] out (outside of, away from, not in) {French 'ouste'}  
 -> ust- : [prf.] outwards ('out-')
--> usttroke : [n.] exterior
+-> usttrom : [n.] exterior
 -> ustäs : [adj.] outer, external
 ----> ustäst : [adv.] externally 
 ----> ustäsin : [n.] [common] foreigner, outsider
@@ -193,6 +193,8 @@ re(s)- : [prf.] again; anew {French & English 're-'}
 -äst : [suf.] [cntrc.] equiv. to -äs and -ät  
 -värt : [suf.] [cntrc.] equiv. to -vär and -ät
 -färt : [suf.] [cntrc.] equiv. to -fär and -ät
+
+ra(s) : [prf.] [cntrc.] equiv. to re(s)- + a(s)-
 
 === pos. nouns ===
 ot : [n.] up, high, top (of) {French 'haut(e)'}  
@@ -1066,7 +1068,7 @@ prizon : [n.] prison
 -> prizonör : [n.] prisoner
 -> imprizon : [v.] imprison {'im' + 'prizon'}
 
-=== places : troken ===
+=== places : tromen ===
 otel : [n.] hotel {French 'hôtel'}
 katädral : [n.] cathedral {French 'catédrale'}
 dom : [n.] house, home {Russian 'дома'}
@@ -1194,17 +1196,16 @@ vine : [n.] domain, realm {Croatian 'domovina'}
 trät : [n.] step [v.] step; trample, tread {German 'Tritt'}
 -> fusträt : [n.] footstep
 
-trom : [n.] location, place {Japanese '所'}
+strom : [n.] location, place {Japanese '所'}
 -> trom : [n.] room, chamber
-----> sommis-estrom : [n.] [dated] bedroom
--------> sommistrok : [n.] bedroom {'sommis' +}
-----> orestrok : [n.] vault {'or' +}
-----> ucestrok : [n.] basement
--> -(t)roke : [suf.] used to indicate a place with a purpose relating to the suffixed word ('-place')
--> atrom : [v.] place
-----> resatrom : [v.] replace
--------> resatrokin(a) : [n.] replacement
-----> atrokin(a) : [n.] placement (of)
+----> sommisstrom : [n.] bedroom {'sommis' +}
+----> lügstrom : [n.] vault {'or' +}
+----> ucestrom : [n.] basement
+-> -(t)rom : [suf.] used to indicate a place with a purpose relating to the suffixed word ('-place')
+-> astrom : [v.] place
+----> rastrom : [v.] replace
+-------> restromin(a) : [n.] replacement
+----> astromin(a) : [n.] placement (of)
 
 skär : [n.] lane, track, channel {Original}
 pros : [n.] sign, board; panel, plaque, plate {?}
@@ -1944,9 +1945,9 @@ don : [v.] give, deal {French 'donner'}
 -> adon : [v.] buy, purchase
 ----> adonör : [n.] buyer
 ----> adonina : [n.] purchase
-----> resadon : [v.] redeem
--------> resadonin(a) : [n.] redemption
--------> resadon štät : [n.] ransom (money)
+----> radon : [v.] redeem
+-------> radonin(a) : [n.] redemption
+-------> radon štät : [n.] ransom (money)
 dräit : [v.] betray; surrender; give up {? Breton 'dreitour'}
 -> dräitör : [n.] betrayer, traitor
 -> dräitin(a) : [n.] betrayal
@@ -2736,7 +2737,7 @@ nos : [v.] [trans] give birth to; [intrans] [passive] be born {Latin 'nascor' vi
 tröb : {German 'Arbeit', French 'travail', English 'labour'}
 -- [v.] work, labour
 ----> tröbör : [n.] worker
-----> tröbestrok : [n.] workplace; office, bureau {+ 'trok'}
+----> tröbestrom : [n.] workplace; office, bureau {+ 'trom'}
 ----> atröb : [v.] operate, maneuver
 -------> atröbina : [n.] operation, maneuvering
 -- [n.] work, labour
@@ -3113,8 +3114,8 @@ dogäl : [adj.] certain, sure {Breton 'diogel'}
 -> adogäl : [v.] assure
 ----> adogälime : [n.] (state of) assurance
 ----> adogälina : [n.] assurance
-----> resadogäl : [v.] reassure
--------> resadogälina : [n.] reassurance
+----> radogäl : [v.] reassure
+-------> radogälina : [n.] reassurance
 -> nedogäl : [adj.] uncertain, unsure
 ----> nedogälime : [n.] uncertainty
 -> dogälät : [adv.] certainly, surely
