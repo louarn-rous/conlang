@@ -139,7 +139,7 @@ mo : [cnjc.] also, both, as well, again
 ----------> neomäsime : [n.] inequality
 -------> omäse : [n.] equal
 
-nä : [cnjc.] [causal] but, however {French 'mais'}  
+nä : [cnjc.] [causal] but, however, whereas, though {French 'mais'}  
 -> sežnä : [cnjc.] [causal] nevertheless, still, despite, anyway (preceding clause)  
 -> näst : [cnjc.] [causal] despite (of)  
 štöda : [cnjc.] [causal] because, since {Original}
@@ -364,6 +364,10 @@ jos : {Japanese 'よし'}
 -------> nejosät : [adv.] unpreparedly  
 -------> nejosime : [n.] unpreparedness  
 ----> josime : [n.] preparedness, readiness
+
+prac : [v.] thank {Original}
+-> prace : [intj.] thanks
+-> pracine : [n.] thanks
 
 tagräm : {Original}  
 -- [intj.] sorry  
@@ -1192,7 +1196,7 @@ troke : [n.] location, place {Japanese '所'}
 ----> atrokin(a) : [n.] placement (of)
 
 skär : [n.] lane, track, channel {Original}
-pros : [n.] sign, board; panel, plaque {?}
+pros : [n.] sign, board; panel, plaque, plate {?}
 
 liäs : [n.] link {? French 'lier'}
 -> aliäs : [v.] link, bind, connect
@@ -2064,7 +2068,7 @@ sen : [v.] know {Latin 'sciens'}
 ----> nesente : [n.] unknown; mystery
 ----> nesentät : [adv.] unknowingly
 ----> nesentäs : [adj.] mysterious
--> asen : [v.] teach
+-> asen : [v.] teach; train
 ----> asenin : [n.] lesson
 ----> asenina : [n.] teaching
 -------> asesinäs : [adj.] pedagogical
