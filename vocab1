@@ -1550,7 +1550,7 @@ mis : {? French 'nid'}
 tem : [n.] table {Spanish 'mesa', Latin 'tabula' via French & English 'table'}
 -> temsär, temät : [adj.] tabular
 hust : [n.] chair {Original}
-pruc : [n.] plate
+pruc : [n.] plate, dish {Original}
 bol : [n.] bowl {French}
 
 === building ===
@@ -1564,9 +1564,8 @@ dol : [n.] wall {Original}
 -> dolu : [n.] small wall; barrier, fence
 kac : [n.] tower {Original}
 -> kacu : [n.] small tower; turret
-simänt : {French 'ciment', English 'cement'}
--- [m.] cement
--- [v.] [trans] cement (in) @@#
+siment : [m.] cement {French 'ciment', English 'cement'}
+-> asiment : [v.] [trans] cement (in)
 töl : {French 'tuile'}
 -- [n.] tile, pane, panel, plate
 -- [v.] to cover with tiles
