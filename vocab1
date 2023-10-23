@@ -13,7 +13,7 @@ as : [det.] distal demonstrative ('that')
 -> ödža : [det.] why {'öd' +}  
 -> läža : [det.] how {'läš' +}  
 -> täna : [det.] when {'tän' +}  
--> aža : [det.] where; wherein {'-a' +}  
+-> žadom : [det.] where; wherein {'-a' +}  
 -> meža : [det.] how many, how much {'me' +}  
 -> žavär : [det.] to/in what direction, towards where {+ '-vär'}
 -> žaden : [det.] who, whose {+ 'den'}
@@ -1518,6 +1518,8 @@ lemm : [n.] blade; flap; human nail; [f:computing] tab, widget {Latin 'lamina' v
 sper : [v.] curl, coil {Latin 'spirale' via French, via English 'spiral'}
 -> speret : [adj.] spiral
 -> sperin : [n.] spiral, curl; coil
+tave : [n.] tube, pipe, barrel [n.] pipe (tobacco) {Romanian 'țeavă'}
+-> tavu : [n.] small pipe
 
 cär : [n.] reed, stem; straw {Original}
 -> gecär : [m.] straw
