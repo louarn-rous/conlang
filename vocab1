@@ -211,7 +211,7 @@ räšt : [n.] right {German 'Rechts'}
 -> räštest : [adj.] rightmost  
 -> räštvär : [adj.] rightwards  
 ----> räštvärt : [adv.] rightwards  
-drän : [n.] front
+drän : [n.] front, face {?}
 -> dränvär : [adj.] frontwards; forwards  
 ----> dränvärt : [adv.] frontwards; forwards  
 -> dränpar : [n.] frontside  
@@ -792,7 +792,8 @@ ravin : [n.] ravine
 kratär : [n.] crater {French 'cratère'}
 lic : [n.] shore {Latin 'litus' via French 'littoral'}
 -> alic : [adj.] ashore
-faas : [n.] cliff
+fast : [n.] cliff
+-> fastdrän : [n.] cliff face
 mont :
 -- [n.] mountain
 ----> montirör : [n.] mountaineer {'mont' + 'ir' + '-ör'}
@@ -2906,7 +2907,7 @@ lis : [adj.] smooth {French 'lisse'}
 plat : [adj.] flat {French 'aplatir'}
 -> aplat : [v.] flatten
 
-dar : [adj.] hard {French 'dur', English 'hard'}
+dar : [adj.] hard, tough {French 'dur', English 'hard'}
 -> adar : [v.] harden
 mals : [adj.] soft, tender {Dutch}
 -> amals : [v.] soften; tenderize
@@ -2915,6 +2916,9 @@ mals : [adj.] soft, tender {Dutch}
 
 trum : [adj.] tough, difficult; harsh, stern {~ Finnish 'tuima'}
 -> atrum : [v.] to make difficult
+-> trumät : [adv.] with difficulty
+sišt : [adj.] easy {Original}
+-> sištät : [adv.] easily
 
 gul : [adj.] wet {Breton 'gleb}
 -> agul : [v.] wet
@@ -3085,9 +3089,11 @@ här : [adj.] strong {Proto-Germanic 'harjaz'}
 -> härime : [n.] strength
 -> härät : [adv.] strongly
 
-fist : [adj.] definite, stable {French 'fixe'}
--> afist : [v.] stabilize, confirm
-----> afistime : [n.] stabilization, confirmation
+fist : [adj.] firm; stable, definite {French 'fixe'}
+-> afist : [v.] stabilize; affirm
+----> afistina : [n.] stabilization; affirmation
+----> rafist : [v.] reaffirm
+-------> rafistina : [n.] reaffirmation
 -> fistime : [n.] stability
 -> fistät : [adv.] certainly, definitely
 -> nefist : [adj.] unstable; unconfirmed
