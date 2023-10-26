@@ -1,7 +1,7 @@
 === determinants ===
 er : [det.] definite ('the') {Breton 'ar'}  
 -> s'er [cntrc.] of the  
-en : [det.] indefinite ('a'/'an') {English 'an', French 'un(e)'}  
+en : [det.] indefinite ('a'/'an', 'some') {English 'an', French 'un(e)'}  
 -> s'en [cntrc.] of a/an/some
 
 is : [det.] proximal demonstrative ('this') {French 'ici'}  
@@ -274,6 +274,7 @@ mer : [adv.] comparative ('more') {Dutch 'meer'}
 mest : [adv.] superlative ('most') {Dutch 'meest'}  
 -> mestäs : [adj.] maximal  
 ----> mestäst : [adv.] maximally  
+le : [adv.] [det.] a few
 ler : [adv.] diminutive comparative ('less')  
 lest : [adv.] diminutive superlative ('least') {English 'least'}  
 -> lestäs : [adj.] minimal  
@@ -312,7 +313,7 @@ i : [adj.] (the) current, present {Japanese '今'}
 -> inat : [n.] today  
 ----> ina : [n.] now  
 -> ijät : [adv.] currently  
--> isät : [adv.] instead {'i' + 'sät'}
+-> isät : [adv.] instead [prep.] instead of {'i' + 'sät'} (joins two clauses)
 
 alte : [det.] [n.] [adj.] other
 -> alt(e)- : [prf.] other
@@ -657,14 +658,11 @@ spagetti : [n.] spaghetti {Italian 'spaghetti'}
 
 === plants & trees ===
 roba : [n.] tree
-mäc : {Estonian}
--- [n. unc.] wood
-----> mäctrošör : [n.] lumberjack {'mec' + 'troš' + '-ör'}
-----> mäctröbör : [n.] woodworker {'mec' + 'tröbör'}
-----> gemäc : [n.] [collective] lumber
--- [adj.] wooden
--- [n.] forest, woods
-----> mäcäs : [adj.] forestal
+mäc : [m.] wood; lumber {Estonian}
+-> mäctrošör : [n.] lumberjack {'mec' + 'troš' + '-ör'}
+-> mäctröbör : [n.] woodworker {'mec' + 'tröbör'}
+-> gemäc [n.] forest, woods
+----> gemäcäs : [adj.] forestal
 burš : [m.] birch {English 'birch', French 'bouleau}
 akašia : [m.] acacia {English, French 'acacia'}
 lilak : [n.] lilac {English 'lilac'}
@@ -689,7 +687,7 @@ flor : {Italian 'fiore', French 'fleur'}
 -- [v.] [intrans] bloom, blossom, flower
 tulip : [n.] tulip {French 'tulipe', English 'tulip'}
 säd : [n.] grain; seed {Swedish}
-har : [n.] shoot, bud
+har : [n.] shoot, bud {backformation}
 -> haru : [n.] blossom
 
 === natural phenomena ===
@@ -1762,6 +1760,9 @@ passe : [n.] pass; passport {Finnish 'passi'}
 kanäl : [n.] canal, channel {French 'canal' & English 'channel'}
 -> videskanäl : [n.] sewers
 
+slif : [n.] tear (crying) {Russian 'слеза'}
+-> slifen : [n.] tears; grief, pain, sadness; crying
+
 furk : [n.] fork; branch (shape, abstract)
 -> furku : [n.] fork (utensil)
 -> furksti : [adj/] forked
@@ -2068,6 +2069,10 @@ ser : {French 'dire', English 'say', German 'sprechen'}
 -------> antserinäs : [adj.] dialectical
 ----------> antserinäst : [adv.] dialectically
 -------> antserret : [n.] [singular] dialectics
+-> usser : [v.] dedicate, consecrate
+----> usserina : [n.] dedication, consecration
+----> usseret : [adj.] dedicated
+-------> usseretime : [n.] (state of) dedication
 klam : [v.] cry out, exclaim; shout, yell; call (out) {Latin 'clamo'}
 -> reklam : [v.] demand; repossess
 ----> reklamina : [n.] repossession
@@ -2436,7 +2441,7 @@ tatlän : [v.] [n.] doubt {Original}
 plän : [v.] to mourn, pity; to bewail, lament for {Latin 'plango' via English 'complain' & French 'plaindre'}
 -> plänina : [n.] lament; complaint
 -> plänfär : [adj.] pitiable
-plor : [v.] to cry; lament, complain {Latin 'ploro' via English 'implore' & French 'pleurer'}
+plor : [v.] [intrans] to cry; lament, complain {Latin 'ploro' via English 'implore' & French 'pleurer'}
 -> plorina : [n.] crying; complaint
 fräj : [v.] fear {French 'effrayer', English 'fear'}
 -> afräj : [v.] scare, spook
@@ -2562,16 +2567,17 @@ brit : [v.] break {Swedish 'bryta'}
 -> britina : [n.] breaking, destruction
 -> britfär : [adj.] breakable
 ----> britnefär : [adj.] unbreakable
-troš : {French 'trancher'}
--- [v.] [trans] slice, cut
-----> trošör : [n.] one that cuts
--- [n.] cut, incision
+troš : [v.] [trans] slice, cut {French 'trancher'}
+-> trošör : [n.] one that cuts
+-> trošin : [n.] cut, incision
 sek : [v.] cut, seperate, divide; amputate {Latin 'seccare'}
 -> sekina : [n.] seperation, cutting
 -> sekpärom : [n.] division, department 
 štät : [v.] damage {Serbian 'штете'}
 -> štätin : [n.] damage; cost, expense
 -> štätfär : [adj.] damageable
+šaff : [v.] rip, tear {~ Japanese '破'}
+-> šaffin : [n.] rip, tear
 
 liäd : [v.] [n.] love {German 'Liebe'}
 -> liädör : [n.] lover; romantic partner
@@ -2902,7 +2908,7 @@ tic : [adj.] tight {Original, ~ English 'tight'}
 ----> detic : [v.] forsake; leave, depart, quit
 -> ticät : [adv.] tightly
 -> teci : [n.] belt
-slet : [adj.] loose {Original}
+slet : [adj.] loose {Original, ? ~ English 'slack'}
 -> aslet : [v.] loosen
 -> sletät : [adv.] loosely
 -> zlace : [n.] leash, lead
