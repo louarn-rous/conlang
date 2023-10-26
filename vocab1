@@ -68,7 +68,8 @@ ust : [prep.] out (outside of, away from, not in) {French 'ouste'}
 -> ustir : [v.] exit, quit
 ----> ustira : [n.] exit, output  
 ----> ustirin : [n.] exit, leave; escape, getaway  
-----> austir : [v.] expel, oust, drive away, kick out  
+----> austir : [v.] expel, oust, drive away, kick out
+-> ustät : [adj.] outer, on the edge
 
 ob : [prep.] on (top of) {German 'ober', ? 'ob'}  
 -> ob(e)- : [prf.] over-, super-  
@@ -101,9 +102,6 @@ tra(s) : [prep.] perlocative, perlative (across, through) {Breton 'tra'}
 -> trasal : [prep.] far from, far off; across
 -> tras : [prep.] according to 
 ga : [prep.] distributive (per, for each) {Original}
-
-sti : [prep.] as if, like so, similar to  
--> stit : [adv.] thus, in this way or manner  
 
 === conjunctions === 
 ur : [cnjc.] or {French 'ou', English 'or'}  
@@ -147,10 +145,13 @@ nä : [cnjc.] [causal] but, however, whereas, though {French 'mais'}
 rösni : [cnjc.] [causal] [formal] therefore, so, thus, hence, consequently {Original}
 -> rö(s) : [cnjc.] [cntrc.] [causal] so, then
 
-ar : [cnjc.] as; than
+ar : [adv.] as [cnjc.] as, than 
 
 gän : [cjnc.] when, during the time that, at the time of the action of the following clause  
 si : [cnjc.] if, in the case/condition that, given/supposing/assuming that {French}
+-> siime : [n.] case, condition
+-> sic : [prep.] as if, like so, similar to {retroactively noted as derivation, originally 'sti'. Latin}
+----> sicet : [adv.] thus, in this way or manner {Originally 'stit'. ~ Latin 'sicut'}
 
 === affixes ===  
 -en : [suf.] plural (after closed syllable) {German}  
@@ -164,8 +165,8 @@ si : [cnjc.] if, in the case/condition that, given/supposing/assuming that {Fren
 -(s)ime : [suf.] forms nouns from adjectives, denoting the condition or state of the suffixed word ('-hood', '-dom', '-ness')
 -(n)äs : [suf.] genitive; forms adjectives from nouns, with the meaning 'of or pertaining to' the suffixed word ('-ic')  
 -(n)ät :  
--- [suf.] used to form adverbs, giving a verb the quality of the suffixed word ('-ly')
--- [suf.] used to form adjectives from verbs, meaning 'inclined to' ('-y') ###
+-- [suf.] used to form adverbs, giving a verb the quality of the suffixed word ('-ly', '-y')
+-- [suf.] used to form adjectives from verbs, meaning 'inclined to' ('-y') #
 
 -sti : [suf.] semblative; forms adjectives from nouns, having the sense of resembling the suffixed word {see 'sti'}
 -sat : [suf.] forms adjectives from nouns, meaning to possess or have the quality of the suffixed noun (English '-ful') {see 'sat'}
@@ -193,6 +194,7 @@ re(s)- : [prf.] again; anew {French & English 're-'}
 -äst : [suf.] [cntrc.] equiv. to -äs and -ät  
 -värt : [suf.] [cntrc.] equiv. to -vär and -ät
 -färt : [suf.] [cntrc.] equiv. to -fär and -ät
+-vert : [suf.] [cntrc.] equiv. to -ver and -ät
 
 ra(s) : [prf.] [cntrc.] equiv. to re(s)- + a(s)-
 
@@ -353,9 +355,6 @@ naj : [intj.] negative; used to show disagreement or disbelief ('no') {German}
 ja : {German, Dutch, Swedish}  
 -- [intj.] affirmative; used to show agreement or acceptance ('yes')  
 -- [ptcl.] marks preceding clause as interrogative, prompting affirmation ('isn't it'/'right?')  
-sievat : [intj.] farewell, goodbye ('sie' + 'vat')  
--> sie : [intj.] bye  
--> sievatin : [n.] farewell, goodbye
 
 jos : {Japanese 'よし'}  
 -- [intj.] confirmation, acknowledgement ('okay')  
@@ -1121,6 +1120,7 @@ res : [n.] thing, matter {Latin}
 kultur : [n.] culture {German 'Kultur', French 'culture'}
 -> kulturäs : [adj.] cultural
 ----> kulturäst : [adv.] culturally
+-> agerkul
 usortine : [n.] system {from 'uz-' + 'sort' + '-in'}
 -> usortinäs : [adj.] systemic
 ----> usortinäst : [adv.] systemically; systematically
@@ -1151,6 +1151,10 @@ nar : [n.] capacity; weapon {Original}
 
 klas : [n.] class {French 'classe'}
 -> aklas : [v.] to put into classes; to sort, categorize
+
+natur : [n.] nature {German 'Natur', French & English 'nature'}
+-> naturäs : [adj.] natural (pertaining to nature)
+-> naturät : [adj.] natural
 
 dače : [n.] chance, luck {Russian 'удача'}
 -> dačesat : [adj.] lucky
@@ -1185,11 +1189,16 @@ stras : [n.] road; street {Latin 'strata' via Italian 'strada' & German 'Straße
 -> strasu : [n.] alleyway, lane
 läš : [n.] way, path, method
 toč : [n.] thing {French 'chose'}
-sunog : [n.] edge, boundary, border
--> sunogime : [n.] state of being on the edge, of being borderline; hesitancy
--> sunognuz : [adj.] boundless
--> sunoguz : [adj.] limited; bounded
--> sunogu : [n.] bordure
+snog : [n.] edge, boundary, border
+-> snogime : [n.] state of being on the edge, of being borderline; hesitancy
+-> snognuz : [adj.] boundless
+-> snoguz : [adj.] limited; bounded
+-> snogu : [n.] bordure
+-> snogät : [adj.] fringe
+----> snogätest : [archaic] [adj.] extreme
+-------> snogec : [adj.] extreme
+----------> snogecät : [adj.] extremely
+
 vine : [n.] domain, realm {Croatian 'domovina'}
 -> vinu : [n.] zone, area
 
@@ -1247,7 +1256,7 @@ ecar : [n.] word; command {Original}
 
 jukos : [n.] monster {Original}
 bäst : [n.] beast, creature {French 'bête', English 'beast'}
--> bästi : [adj.] beastial, beastly
+-> bästi : [adj.] beastial, beastly @
 -> bästu : [n.] bug, critter
 
 nam : [n.] name {German 'Name', French 'nom', English 'name'}
@@ -1285,10 +1294,10 @@ gloria : [n.] glory {Latin}
 -> glorisat : [n.] glorious
 ----> glorisät : [v.] gloriously
 -> aglor : [v.] glorify
-spag : [n.] shame {Original}
--> aspag : [v.] shame
--> (a)spagver : [adj.] shameful
-----> (a)spagverät : [adv.] shamefully
+špag : [n.] shame {Original}
+-> ašpag : [v.] [trans] shame
+-> špagver : [adj.] shameful
+----> špagvert : [adv.] shamefully
 märs : [n.] pain, harm, suffering
 -> amärs : [v.] cause harm to
 -> märsver : [adj.] painful; harmful
@@ -1452,6 +1461,7 @@ flam : {French 'flamme'}
 -- [v.] to deliberately encourage hostility or anger
 lum : {Late Latin 'lūmināria' via French 'lumière'}
 -- [n.] light
+----> lumät : [adv.] light
 -- [v.] cast light onto/throughout
 är : [n.] air {French & English 'air'}
 säht : [m.] silk {Latin 'saeta' via French 'soie'}
@@ -1472,6 +1482,9 @@ gice : [n.] cup; mug; chalice {Original}
 
 fibr : [m.] fibre {French 'fibre'}
 -> fibrät : [adj.] fibrous
+läder : [m.] leather {Swedish, via English 'leather'}
+-> lädersti : [adj.] leathery
+linen : [m.] linen {English}
 papiir : {Anc. Greek 'πάπυρος' via English 'paper' & French 'papier'}
 -- [m.] paper 
 -- [n.] document
@@ -1747,12 +1760,22 @@ kanäl : [n.] canal, channel {French 'canal' & English 'channel'}
 
 furk : [n.] fork; branch (shape, abstract)
 -> furku : [n.] fork (utensil)
+-> furksti : [adj/] forked
 
 klet : [n.] cage {Russian 'клетка'}
 -> aklet : [v.] cage
+-> klett : [adj.] caged
 
 ruft : [n.] [v.] rust {Latin 'rufus'}
 -> rufsat : [adj.] rusty
+-> ruftet : [adj.] rusted
+
+amau : [n.] shadow {Anc. Greek 'ἀμαυρός'}
+-> cemau : [adj.] dark; dim, faint
+----> cemauät : [adv.] dimly, faintly; dark
+----> cemauine : [n.] darkness
+----> ceme : [n.] dark
+-> amaust : [adj.] shadowy
 
 korb : [n.] basket {French 'corbeille'}
 -> korbu : [n.] parcel
@@ -1810,9 +1833,9 @@ letä : [n.] letter, text, book {Latin 'littera'}
 sienca : [n.] science {Italian 'scienza', French & English 'science'}
 -> siencäs : [adj.] scientific
 ----> siencäst : [adv.] scientifically
-matämatik : [n.] mathematics (maths)
--> matämatikäs : [adj.] mathematic, mathematical
-----> matämatikäst : [adv.] mathematically
+matematik : [n.] mathematics (maths)
+-> matematikäs : [adj.] mathematic, mathematical
+----> matematikäst : [adv.] mathematically
 fiziik : [n.] physics
 -> fiziikäs : [adj.] physical
 ----> fiziikäst : [adv.] physically
@@ -1913,7 +1936,10 @@ es : [v.] be {German 'ist', French 'est', English 'is', Spanish}
 ----> esinäs : [adj.] existential
 -------> esinäst : [adv.] existentially
 -> esime : [n.] being
-si : [v.] fare; be, feel
+ci : [v.] fare; be, feel {originally 'si', ? French 'soit'}
+-> cievat : [intj.] farewell, goodbye {'ci' + 'vat'}
+----> cie : [intj.] bye  
+----> cievatin : [n.] farewell, goodbye
 
 ev : [v.] have {English 'have', French 'avoir'}
 -> evime : [n.] possession
@@ -1992,8 +2018,8 @@ pris : [v.] run {? Original}
 -> prisina : [n.] running
 vän : [v.] [intrans.] come {French 'venir'}
 -> ödvän : [v.] arrive
-jun : [v.] jump {Original}
-pas : [v.] pass, go by
+jun : [v.] jump {Original} #
+pas : [v.] pass, go by {French 'passer'} #
 
 mät : [v.] set, change, assign, put {Latin 'mitto' via French 'mettre'}
 -> mätkal : [v.] confirm, verify
@@ -2186,7 +2212,7 @@ utej : [v.] use
 -> tej : [prep.] [cnjc.] instrumentative ('with')
 -> utejin : [n.] use, purpose
 ----> utejinver : [adj.] useful
--------> utejinverät : [adv.] usefully
+-------> utejinvert : [adv.] usefully
 -> utejör : [n.] user
 -> autej : [v.] make use
 -> uteje : [n.] tool
@@ -2248,8 +2274,8 @@ kos : [v.] hunt; seek {Original}
 stöj : [v.] find {Original}
 -> stöjina : [n.] discovery, finding
 dast : [v.] amass, assemble; pick, gather {Breton 'dastum'}
--> dastin : [n.] bunch
--> dastina : [n.] gathering, assembly; harvest
+-> dastin : [n.] bunch; harvest, crop
+-> dastina : [n.] gathering, assembly, amassment
 säm : [v.] sow {German 'säen', French 'semer'}
 -> trasäm : [v.] spread
 
@@ -2454,6 +2480,8 @@ fäns : [v.] strike, thrust, hit {Latin 'fendo' + via 'defensa'}
 bat : [v.] hit, beat {Croatian 'batina', ~ French 'battre'}
 -> batin : [n.] beat
 -> batina : [n.] beating
+ačet : [v.] attack {French 'attaquer', + via English 'attack' & Russian 'атака', ~ Serbo-Croatian 'напад', ? ~ French 'acharné'}
+-> ačetin : [n.] attack
 
 ausk : [v.] [dated] listen, hear; heed, accept, obey {archaic 'aur' + archaic 'klen'}
 -> ausk : [v.] overheard; eavesdrop
@@ -2542,7 +2570,7 @@ sek : [v.] cut, seperate, divide; amputate {Latin 'seccare'}
 liäd : [v.] [n.] love {German 'Liebe'}
 -> liädör : [n.] lover; romantic partner
 -> liädver : [adj.] loveable
-----> liädverät : [adv.] loveably
+----> liädvert : [adv.] loveably
 fir : [v.] like, appreciate
 
 pend : [v.] weigh; hang
@@ -2841,9 +2869,10 @@ sur : [adj.] big, large {Estonian 'suur'}
 -> asur : [v.] [usu. trans] to increase, embiggen, grow
 -> surät : [adv.] largely
 -> surime : [n.] size
-tis : [adj.] small {Breton}
+tis : [adj.] small, little (esp. in size) {Breton}
 -> atis : [v.] to reduce, shrink
--> tisät : [adv.] negligibly
+-> tisät : [adv.] slightly; negligibly
+----> tist : [adj.] slight
 
 lon : [adj.] long {French 'long'}
 -> alon : [v.] lengthen
