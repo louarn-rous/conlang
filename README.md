@@ -23,8 +23,8 @@ The Ijter language employs both a Latin and a Cyrillic script.
 
 | IPA  | English               |Lat |Cyr |Nom | IPA | English                 |Lat |Cyr | -  |
 |:---: |:---                   |:-: |:-: |:-: |:---:|:---                     |:-: |:-: |:-: |
-| /a/  | 'h**a**t' (Cali, Can) | Aa | Аа | aa | /n/ | '**n**et'               | Nn | Нн | än |
-| /ɛ/  | 'y**e**s'             | Ää | Ӓӓ | ää | /o/ | 'y**aw**n' (SA)         | Oo | Оо | oo |
+| /ɑ/  | 'h**a**t' (Gen. Am)   | Aa | Аа | aa | /n/ | '**n**et'               | Nn | Нн | än |
+| /æ/  | 'y**e**s'             | Ää | Ӓӓ | ää | /o/ | 'y**aw**n' (SA)         | Oo | Оо | oo |
 | /b/  | '**b**all'            | Bb | Бб | be | /ø/ | 'b**ir**d' (NZ)         | Öö | Ӧӧ | öö |
 | /t͡s/ | 'klu**tz**'           | Cc | Цц | ce | /p/ | '**p**en'               | Pp | Пп | pe |
 | /t͡ʃ/ | '**ch**um'            | Čč | Чч | če | /ɾ/ | 'be**tt**er' (Aus, NAE) | Rr | Рр | är |
@@ -54,19 +54,14 @@ if ⟨h⟩ is the onset of a word's first syllable, it is /h/.
 else if it follows a plosive, it causes that plosive to be aspirated.  
 else if it precedes a plosive, it is rendered as /x/.
 
-### Vowels 
+### Vowels  
 | -         | Front   | Back |
 |:--------  |:----:   |:--:  |
 | Close     | /i/ /y/ | /u/  |
 | Close-mid | /e/ /ø/ | /o/  |
-| Open-mid  | /ɛ/     |      |
-| Open      | /a/     |      |  
-
-⟨u⟩ is occasionally realized as \[ʊ], especially after another vowel.  
-/a/ is most often realized as \[ɐ].
+| Open      | /æ/     | /ɑ/  |
  
-### Semivowels
-
+### Semivowels  
 | Letter | Vowel | Semivowel |
 | :-: | :-: | :-: |
 | ⟨i⟩ | /i/ | \[j] |
@@ -96,8 +91,8 @@ When they follow a plosive and precede another vowel, they provoke the palatizat
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | e⟩ | \[eː] | \[i̯e] | \[ɐe̞] | - | - | - | \[u̯e] | - |
 | i⟩ | \[e̞ɪ̯] | \[iː] | - | - | - | - | \[u̯i] | - |
-| a⟩ | \[e̞ɐ] | \[i̯a] | \[aː] | \[o̯a] | - | - | \[u̯a] | - |
-| ä⟩ | - | \[i̯ɛ] | - | \[ɛː] | - | - | \[u̯ɛ] | - |
+| a⟩ | \[e̞ɐ] | \[i̯a] | \[ɑː] | \[o̯a] | - | - | \[u̯a] | - |
+| ä⟩ | - | \[i̯æ] | - | \[æː] | - | - | \[u̯æ] | - |
 | o⟩ | - | \[i̯o] | - | - | \[oː] | - | \[u̯o] | - |
 | ö⟩ | - | \[i̯ø] | - | - | - | \[øː] | \[u̯ø] | - |
 | u⟩ | - | \[i̯u] | \[ʌʊ̯] | - | - | - | \[uː] | - |
