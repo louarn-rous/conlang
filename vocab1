@@ -1453,9 +1453,7 @@ fum : {French 'fumée'}
 -- [m.] smoke
 ----> fumu : [n.] whisp
 -- [v.] produce smoke
-----> fumör :
--------- [n.] smoker
--------- [n.] appartus for smoking
+----> fumör : [n.] smoker; appartus for smoking
 flam : {French 'flamme'}
 -- [n.] visible portion of gas undergoing combustion
 -- [v.] to set ablaze, aflame
@@ -1535,6 +1533,10 @@ sper : [v.] curl, coil {Latin 'spirale' via French, via English 'spiral'}
 -> sperin : [n.] spiral, curl; coil
 tave : [n.] tube, pipe, barrel [n.] pipe (tobacco) {Romanian 'țeavă'}
 -> tavu : [n.] small pipe
+
+vapor : [n.] steam, vapor {Latin}
+-> ustvapor : [v.] evaporate
+----> ustvaporina : [n.] evaporation
 
 cär : [n.] reed, stem; straw {Original}
 -> gecär : [m.] straw
