@@ -178,7 +178,7 @@ si : [cnjc.] if, in the case/condition that, given/supposing/assuming that {Fren
 -- used to form nouns from adjectives
 
 -om : [suf.] used to mark a place {Original}
--(n)i : [suf.] used to form nouns, indicating someone who is from a place or has a connection to the suffixed word (German & English '-ling')
+-im : [suf.] used to form nouns, indicating someone who is from a place or has a connection to the suffixed word (German & English '-ling')
 
 a(s)- : [prf.] {French}   
 -- used to form verbs from adjectives, indicating the gain of the adjectivial property  
@@ -518,9 +518,9 @@ luter : [n.] otter {Latin 'lutra' + via French 'loutre'}
 ermin : [n.] ermine {French 'hermine', English 'ermine'}
 -> erminäs : [adj.] of or pertaining to ermines
 
-segeti : [n.] insect {'sek(et)' + '-(n)i'}
--> segetiäs : [adj.] insectile
--> segetimanžör : [n.] insectivore (+ 'manž' + '-ör')
+segetim : [n.] insect {'sek(et)' + '-im'}
+-> segetimäs : [adj.] insectile
+-> segetimmanžör : [n.] insectivore (+ 'manž' + '-ör')
 mostik : [n.] mosquito {French 'moustique', English 'mosquito'}
 apiä : [n.] bee {Latin 'apis'}
 -> apiäs : [n.] apian
@@ -1043,6 +1043,10 @@ ministrina : [n.] ministry
 ~> administrina : [n.] adiministration
 ----> administrinäs : [adj.] administrative
 -------> administrinäst : [adv.] administratively
+
+tieb : [n.] tribe {Latin 'tribus' via French 'tribu' & English 'tribe'}
+-> tiebäs : [adj.] tribal (pertaining to tribes)
+-> tiebsti : [adj.] tribal (tribe-like)
 
 ratne : [n.] war {Serbo-Croatian 'рат'}
 ----> ratnemätör : [n.] warmonger
@@ -2284,6 +2288,8 @@ säm : [v.] sow {German 'säen', French 'semer'}
 
 söt : [v.] create, make, build, assemble, bring to fruition {Original}
 -> sötina : [n.] creation
+-> acöt : [v.] produce {from 'öd' +}
+----> acötim : [n.] progeny, offspring
 tös : [v.] [trans] to make into, turn the subject into
 bau : [v.] to build, construct {German 'bauen'}
 
