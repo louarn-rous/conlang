@@ -124,18 +124,18 @@ uz : [cnjc.] comitative ('with') {Croatian}
 -------> deztom : [n.] desert
 ----------> dezt : [adj.] desert (of people), deserted, empty
 
-mo : [cnjc.] also, both, as well, again  
--> omo : [adj.] same, common  
-----> omotänäs : [adj.] simultaneous  
--------> omotänäst : [adv.] simultaneously  
-----> omoät : [adv.] samely, commonly  
-----> omäs : [adj.] equal  
--------> omäst : [adv.] equally  
--------> omäsime : [n.] equality  
--------> neomäs : [adj.] inequal, unequal  
-----------> neomäst : [adv.] inequally, unequally  
-----------> neomäsime : [n.] inequality
--------> omäse : [n.] equal
+mo : [cnjc.] also, both, as well, again {Japanese 'も', Anc. Greek 'ὁμός'}
+-> mos(e) : [adj.] same, common  
+----> mostänäs : [adj.] simultaneous  
+-------> mostänäst : [adv.] simultaneously  
+----> mosät : [adv.] samely, commonly  
+----> mosäs : [adj.] equal  
+-------> mosäst : [adv.] equally  
+-------> mosäsime : [n.] equality  
+-------> nemosäs : [adj.] inequal, unequal  
+----------> nemosäst : [adv.] inequally, unequally  
+----------> nemosäsime : [n.] inequality
+-------> mosim : [n.] equal
 
 nä : [cnjc.] [causal] but, however, whereas, though {French 'mais'}  
 -> sežnä : [cnjc.] [causal] nevertheless, still, despite, anyway (preceding clause)  
@@ -1536,7 +1536,7 @@ ark : [n.] bow, arc; semicircle {Latin 'arcus'}
 -> ark : [n.] [f:archery] bow
 brik : [n.] brick, ingot {French 'brique', English 'brick'} #
 -> brik : [v.] [f:computing] (of a dev) become non-functional
-gan : [n.] hole; pit, chasm {? Original}
+gan : [n.] hole, gap, opening; pit, chasm {? Original}
 -> ganu : [n.] small hole
 krät : [n.] grid {Latin 'cratis'}
 lemm : [n.] blade; flap; human nail; [f:computing] tab, widget {Latin 'lamina' via French 'lamelle'}
@@ -1602,6 +1602,8 @@ siment : [m.] cement {French 'ciment', English 'cement'}
 töl : {French 'tuile'}
 -- [n.] tile, pane, panel, plate
 -- [v.] to cover with tiles
+fraj : [n.] window, opening; glimpse; opportunity {Original}
+-> frajsnog : [n.] windowsill {+ 'snog'}
 
 === games ===
 bal : [n.] ball {French 'balle'}
@@ -2216,6 +2218,8 @@ sänt : [v.] [trans] sense, smell [intrans] smell of {Latin 'sentio' via French 
 -> säntin : [n.] smell, scent
 -> säntäs : [n.] sensory
 paskäl : [v.] notice, spot, remark
+mjecr : [v.] measure {Anc. Greek 'μέτρον'}
+
 
 vedir : [v.] lead, guide {Serbo-Croatian 'водити', Latin 'dirigo' via French 'diriger' & Spanish 'dirigir'}
 -> vedirör : [n.] guide, leader
