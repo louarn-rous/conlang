@@ -946,6 +946,13 @@ disk : [n.] disk, disc, record, CD, CD-ROM {French 'disque', English 'disc'/'dis
 kasät : [n.] cassette, cartridge {French, English 'cassette'}
 donät : [n.] data {French 'donées'}
 pilul : [n.] pill, pastule {French 'pilule'}
+medic : [v.] heal, cure {Latin 'medicus'}
+-> medicör : [n.] doctor
+----> medicöräs : [adj.] doctoral (pertaining to doctors)
+-> medicäs : [adj.] medical
+----> medicäst : [adv.] medically
+-> medicin : [n.] medicine; cure, treatment, healing
+----> medicinäs : [adj.] medicinal
 mjok : [n.] truck {French 'camion', English 'truck'}
 -> mjokör : [n.] truck driver
 rai : [n.] rail {French 'rail'}
@@ -1900,8 +1907,8 @@ astär : [n.] star {Latin 'astrum' + via French 'astre'}
 ----> astärfiziikäs : [adj.] astrophysical
 -------> astärfiziikäst : [adv.] astrophysically
 lun : [n.] moon {Latin 'luna'}
--> lunäs : [adj.] lunar
-----> lunäs : [adj.] lunatic
+-> lunäs : [adj.] lunar (of or pertaining to the moon)
+----> lunäs : [adj.] lunatic, crazy, insane
 -------> lunäsime : [n.] lunacy, insanity
 -------> lunäst : [adv.] insanely
 -> lunlum : [n.] moonlight {+ 'lum'}
@@ -2119,6 +2126,10 @@ rast : [v.] [intrans] reason, reflect, reckon, calculate [trans] consider, judge
 -------> navisrastefärt : [adj.] [dated] probably
 ----------> navistefärt : [adv.] probably
 ----------> navistefärime : [n.] probability
+-> rastfär : [adj.] reasonable
+----> rastfärt : [adv.] reasonably
+----> nerastfär : [adj.] unreasonable
+-------> nerastfärt : [adv.] reasonably
 sen : [v.] know {Latin 'sciens'}
 -> senime : [n.] knowledge
 ----> senimfär : [adj.] knowledgeable
@@ -2996,6 +3007,8 @@ lis : [adj.] smooth {French 'lisse'}
 ----> meliset : [adj.] rude
 plat : [adj.] flat {French 'aplatir'}
 -> aplat : [v.] flatten
+-> asplat : [v.] make level, spread out; explain
+----> asplatina : [n.] explanation
 
 dar : [adj.] hard, tough {French 'dur', English 'hard'}
 -> adar : [v.] harden
@@ -3212,7 +3225,7 @@ säb : [adj.] fine, refined {Hungarian 'szebb'}
 -> asäb : [v.] refine
 ----> asäbet : [adj.] refined (of a substance or material)
 
-lärt : [adj.] conscious, aware; alert
+lärt : [adj.] conscious, aware; alert {? English 'alert' & French 'alerte'}
 -> alärt : [v.] alert, warn
 ----> alärtin : [n.] alert, warning, caution
 -------> ulaalärtin : [n.] [dated] precaution, foreword, warning
@@ -3236,7 +3249,17 @@ vid : [adj.] empty {French 'vide'}
 -> vidät : [adj.] emptily
 -> videsgan : [n.] drain, manhole
 
-frid : [adj.] cold
+fol : [adj.] swollen, puffed {Latin 'follis'}
+-> afol : [v.] inflate; swell, puff
+----> afolt : [adj.] inflated, swollen, puffed; exaggerated
+-------> sfoti : [n.] fool {'me(s)-' + 'afolt' + '-im'}
+----------> sfotisti : [adj.] foolish
+-------------> sfotistinät : [adv.] foolishly
+-------------> sfotistiime : [n.] foolishness
+----------> sfotiime : [n.] folly
+----> afolina : [v.] inflation; exaggeration
+
+frid : [adj.] cold {French 'froid'}
 -> afrid : [v.] cool, chill
 ----> afridina : [n.] cooling
 -> fridät : [adv.] coldly
