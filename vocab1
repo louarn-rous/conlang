@@ -10,6 +10,7 @@ as : [det.] distal demonstrative ('that')
 -> asa : [n.] distal locative ('there')
 
 ža : [det.] interrogative ('what', 'which') {Croatian 'za'}  
+-> žaj : [det.] which
 -> ödža : [det.] why {'öd' +}  
 -> läža : [det.] how {'läš' +}  
 -> täna : [det.] when {'tän' +}  
@@ -2666,6 +2667,7 @@ probit : [v.] prohibit, disallow
 las : {French 'laisser'}
 -- [v.] leave, depart
 ----> lasina : [n.] departure
+----> ustlas : [v.] emerge, emanate
 -- [v.] leave behind, let (go of)
 ----> dölas : [v.] discard, dump
 perd : [v.] lose; drop; waste {French 'perdre'}
