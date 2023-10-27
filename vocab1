@@ -165,7 +165,8 @@ si : [cnjc.] if, in the case/condition that, given/supposing/assuming that {Fren
 -> -(n)a : [suf.] augmentative
 -(t)ör : [suf.] agentive; forms agent nouns from verbs ('-er')  
 -(s)ime : [suf.] forms nouns from adjectives, denoting the condition or state of the suffixed word ('-hood', '-dom', '-ness')
--(n)äs : [suf.] genitive; forms adjectives from nouns, with the meaning 'of or pertaining to' the suffixed word ('-ic')  
+-(n)äs : [suf.] genitive; forms adjectives from nouns, with the meaning 'of or pertaining to' the suffixed word ('-ic')
+-> -jäs : [suf.] above when after 'i'
 -(n)ät :  
 -- [suf.] used to form adverbs, giving a verb the quality of the suffixed word ('-ly', '-y')
 -- [suf.] used to form adjectives from verbs, meaning 'inclined to' ('-y') #
@@ -417,7 +418,7 @@ to : [num.] 2 (two)
 tri : [num.] 3 (three) {Russian 'три', French 'trois'}
 -> trie : [ord. num.] third
 ----> trijät : [adv.] thirdly
--> trinäs : [adj.] tertiary
+-> trijäs : [adj.] tertiary
 kuät : [num.] 4 (four) {French 'quatre', Italian 'quattro'}
 -> kuäte : [ord. num.] fourth
 fän : [num.] 5 (five)
@@ -570,7 +571,7 @@ arän : [n.] spider {Latin 'aranea' + via French 'araignée'}
 
 malsäd : [n.] mollusk {'mals' + 'maid'}
 lusi : [n.] slug {~ French 'limace'}
--> lusinäs : [adj.] limacine
+-> lusijäs : [adj.] limacine
 skürne : [n.] snail {~ French 'escargot'}
 luzd : {? French 'lombric'}
 -- [n.] worm
@@ -1120,8 +1121,8 @@ lön : [m.] wool; woolen {French 'laine'}
 === concepts ===
 učä : [n.] subject, object, item
 -> uči : [n.] concept, idea
-----> učinäs : [adj.] conceptual
--------> učinäst : [adv.] conceptually
+----> učijäs : [adj.] conceptual
+-------> učijäst : [adv.] conceptually
 -> učäträš : [v.] conceptualize
 ----> učäträšin : [n.] concept
 -------> träšin : [n.] project
@@ -1272,6 +1273,7 @@ haaf : [n.] half [adj.] hafly [common] {English 'half'}
 gove : [n.] voice, (manner of) speech; spirit {Japanese '声', ~? Serbo-Croatian ?}
 -> utegove : [n.] singing voice, song voice
 ecar : [n.] word; command {Original}
+fras : [n.] phrase, expression, term {Anc. Greek 'φράσις' via English & French 'phrase'}
 
 jukos : [n.] monster {Original}
 bäst : [n.] beast, creature {French 'bête', English 'beast'}
@@ -1418,8 +1420,8 @@ form : [n.] form {Latin 'forma'}
 
 === fantasy ===
 maži : [n.] magic {French 'magie'}
--> mažinäs : [adj.] magical
-----> mažinäst : [adv.] magically
+-> mažijäs : [adj.] magical
+----> mažijäst : [adv.] magically
 goläm : [n.] golem {English 'golem'}
 zambi : [n.] zombie {Bantu via English 'zombie'}
 dragon : [n.] dragon {English, French}
@@ -1437,8 +1439,8 @@ kastäl : [n.] castle; fort {Breton 'kastell'}
 totäm : [n.] totem {French 'totème', English 'totem'}
 -> totämäs : [adj.] totemic
 räi : [n.] king {Portugese 'rei'}
--> räinäs : [adj.] royal
-----> räinäst : [adv.] royally
+-> räijäs : [adj.] royal
+----> räijäst : [adv.] royally
 -> räin : [n.] queen {+ French 'reine'}
 ----> räinu : [n.] princess
 -> ränu : [n.] prince
