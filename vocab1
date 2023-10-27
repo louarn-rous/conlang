@@ -1288,11 +1288,10 @@ tite : [n.] title {Latin 'titulus' + via French 'titre'}
 -> uctite : [n.] subtitle
 -> titäs : [adj.] titular
 
-frän :
--- [n.] mind
-----> fränäs : [adj.] mental
--------> fränäst : [adv.] mentally
--- [v.] be aware/conscious of ###
+frän : [n.] mind {Anc. Greek 'φρήν'}
+-> fränäs : [adj.] mental
+----> fränäst : [adv.] mentally
+-> imfrän : [v.] [trans] know, be aware of, be conscious of
 
 prod : [n.] pride [adj.] proud {Latin 'prode' via cogn. with English 'proud'}
 -> prodver : [adj.] prideworthy
@@ -2278,6 +2277,7 @@ utej : [v.] use
 -> utejör : [n.] user
 -> autej : [v.] make use
 -> uteje : [n.] tool
+-> utin : [n.] use, usage
 ret : [v.] do {Breton}
 -> deret : [v.] undo
 ----> deretina : [n.] undoing
