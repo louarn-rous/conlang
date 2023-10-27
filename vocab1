@@ -1416,13 +1416,14 @@ kärn : [n.] core, centre {German 'Kern'}
 -> kärnäs : [adj.] central
 ----> kärnäst : [adv.] centrally
 
-son : [n.] sound {Latin 'sono' + via French 'son'}
+son : [n.] sound [v.] ring, sound {Latin 'sono' + via French 'son'}
 -> sonäs : [adj.] sonic
 ----> sonäst : [adv.] sonically
 -> neson : [n.] silence
 ----> nesonät : [adj.] silent
 -------> nesonätt : [adv.] silently
 -------> anesonät : [v.] muffle, dull, hush
+-> reson : [v.] resonate
 mujt : [n.] noise {Original}
 -> mujtsat : [adj.] noisy
 ----> mujtsät : [adv.] noisily
@@ -1792,6 +1793,9 @@ pač : [n.] peace {Latin 'pax'}
 ----> apačina : [n.] appeasement
 -> pačime : [n.] peacetime
 banier : [n.] banner {French 'banière'}
+
+kamb : [n.] bell {Latin 'campana'}
+-> kambu : [n.] little bell
 
 diabr : [v.] slander, libel {Anc. Greek 'διαβάλλω'}
 -> diabrör : [n.] slanderer
@@ -2934,6 +2938,8 @@ löv : [v.] [trans] lift [intrans] stand, rise {French 'lever'}
 ----> seilöväst : [adv.] autonomously, independently
 ----> seilöväsime : [n.] autonomy
 -> alöv : [v.] [trans] wake (up)
+-> relöv : [v.] relieve, lighten; alleviate, mitigate
+----> relövin : [n.] relief
 
 spir : [v.] breathe {Latin 'spiro' via French 'inspirer'}
 -> spirina : [n.] breathing
