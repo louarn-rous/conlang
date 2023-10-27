@@ -250,7 +250,8 @@ nord : {French & German, English 'north'}
 -- [adj.] northern  
 ----> nordät : [adv.] northernly  
 ----> nordest : [adj.] northmost  
--> nordäs : [adj.] nordic  
+-> nordäs : [adj.] nordic
+boreal : [adj.] boreal, northern {Latin 'borealis' + via English, French 'boréal.e'}
 äst : {French 'est'}  
 -- [n.] east  
 ----> ästvär : [adj.] eastwards  
@@ -349,7 +350,7 @@ ze : [ptcl.] affirmative
 ja + ze --> "isn't it"
 da + ze --> "is it"
 ze --> (reponse) "it is"
-su + da --> "is there?"
+su + da --> "is there?"/"there's?"
 su + da + ze -> "isn't there?"
 su + ze --> "there is" (strong)
 
@@ -407,7 +408,7 @@ nöl : {German 'Null', English 'null', French 'annuler'}
 -> tün : [adj.] whole, complete, entire
 ----> tünime : [n.] wholeness
 ----> atün : [v.] complete, to make whole
-----> tünät : [adv.] wholly
+----> tünät : [adv.] wholly, completely, entirely
 -> ünäs : [adj.] primary
 ----> ünäst : [adv.] primarily
 -> ünime : [n.] oneness
@@ -1201,6 +1202,9 @@ sort : [n.] fate, fortune; destined {Latin 'sors'}
 -> sortesö : [n.] fortune-teller; wizard, magician; enchanter, spell-caster
 ----> sortesa : [n.] witch
 
+undär : [n.] wonder {Icelandic 'undur'}
+-> undärver : [adj.] wonderful (worthy of wonder
+
 vet : [n.] age {Latin 'vetus'}
 -> avet : [v.] age
 ----> avetina : [n.] aging
@@ -1248,6 +1252,10 @@ strom : [n.] location, place {Japanese '所'}
 ----> rastrom : [v.] replace
 -------> restromin(a) : [n.] replacement
 ----> astromin(a) : [n.] placement (of)
+-> stromäs : [adj.] local (of a place)
+----> stromäst : [adv.] locally
+-> imstrom : [v.] localize
+----> imstromet : [adj.] localized
 
 skär : [n.] lane, track, channel {Original}
 pros : [n.] sign, board; panel, plaque, plate {?}
@@ -1262,7 +1270,7 @@ liäs : [n.] link {? French 'lier'}
 gadäs : [n.] chain, link; channel {Latin 'catena' via Catalan 'cadena'}
 -> gadäsen : [n.] chains, irons, shackles; binds
 
-par : [n.] side {Anc. Greek 'παρά'}
+par : [n.] side, part {Anc. Greek 'παρά'}
 -> apar : [adv.] aside, besides
 
 pär : [n.] part, piece, share, component {Latin 'partem' via English & French 'part'}
@@ -1466,6 +1474,8 @@ skläv : [n.] slave {French 'esclave'}
 -> sklävime : [n.] slavery, slavedom
 -> askläv : [v.] enslave
 ----> asklävina : [n.] enslavement
+barst : [n.] lord {Original}
+-> barstime : [n.] lordship
 
 === substance : resu ===
 släm : [m.] slime, goo, sludge {English 'slime', PIE '*sley-'}
@@ -1569,6 +1579,7 @@ tave : [n.] tube, pipe, barrel [n.] pipe (tobacco) {Romanian 'țeavă'}
 vapor : [n.] steam, vapor {Latin}
 -> ustvapor : [v.] evaporate
 ----> ustvaporina : [n.] evaporation
+-> avapor : [v.] steam
 
 cär : [n.] reed, stem; straw {Original}
 -> gecär : [m.] straw
@@ -1651,6 +1662,8 @@ nošt : [n.] night {Russian 'ночь', German 'Nacht'}
 -> mitenošt : [n.] time of night past midnight {'mitäl' +}
 -> minošt : [n.] midnight {'mi(t)-' +}
 damer : [n.] dusk {German 'Dämmerlicht'}
+aurora : [n.] aurora {Latin via English & via French 'aurore'}
+-> aurora boreal : [n.] aurora borealis
 säkond : [n.] second {French 'seconde', English 'second'}
 minut : [n.] minute {French, English 'minute'}
 uur : [n.] hour {German 'Uhr'}
@@ -1707,6 +1720,7 @@ daam : [n.] lady {Estonian, French 'dame', German 'Dame'}
 sont : [n.] gentleman {Afrikaans 'oom', Japanese '叔父', Estonian 'onu'}
 -> sontä : [n.] uncle
 ----> obesontä : [n.] great-uncle
+-> sontu : [n.] fellow, guy
 paträ : [n.] father (dad) {Latin 'pater'}
 -> obepaträ : [n.] grandfather
 -> paträäs : [adj.] paternal
@@ -1996,6 +2010,7 @@ ci : [v.] fare; be, feel {originally 'si', ? French 'soit'}
 -> cievat : [intj.] farewell, goodbye {'ci' + 'vat'}
 ----> cie : [intj.] bye  
 ----> cievatin : [n.] farewell, goodbye
+-> ciin : [n.] experience, times
 
 ev : [v.] have {English 'have', French 'avoir'}
 -> evime : [n.] possession
@@ -2616,8 +2631,8 @@ sit : [v.] thirst {? French 'soif', ? English 'thirsty'}
 fatig : [v.] [intrans] to tire, become weary {French 'fatigue'}
 -> fatigime : [n.] tiredness
 -> afatig : [v.] [trans] to tire, make weary
--> fatigit : [adj.] tired
-----> fatigität : [adv.] wearily
+-> fatiget : [adj.] tired
+----> fatigät : [adv.] wearily
 -> fatigver : [adj.] tiresome
 -> fatignuz : [adj.] tireless
 ----> fatignuzät : [adv.] tirelessly
@@ -2765,15 +2780,20 @@ piter : [v.] dig {?}
 -> piterin : [n.] dig
 -> piterör : [n.] digger
 
-furn : [v.] bake, cook; roast {French 'four', English 'furnace'}
+furn : [v.] bake, roast {French 'four', English 'furnace'}
 -> furnör : [n.] oven, furnace
--> furnina : [n.] baking, cooking
+-> furnret : [n.] baking (practice)
+-> furnina : [n.] baking (process)
 -> furnom : [n.] bakery
 -> furnet : [adj.] roasted
 ----> furnt : [n.] roast
-
 graj : [v.] grill {Latin 'cratis', + via English 'grill' + French 'griller'}
 -> grajet : [adj.] grilled
+kog : [v.] cook {Latin 'coquo'}
+-> kogret : [n.] cooking (practice)
+-> kogina : [n.] cooking (process)
+-> kogom : [n.] kitchen
+-> kogör : [n.] cook (occupation)
 
 vad : [v.] fit, match, correspond {Original}
 -> vadin : [n.] match
@@ -3049,6 +3069,7 @@ nov : [adj.] new {Portugese 'novo'}
 jong : [adj.] young {German 'jung', Dutch}
 -> jongime : [n.] youth
 au : [adj.] old {Afrikaans 'ou'}
+-> auer : [n.] senior
 
 lis : [adj.] smooth {French 'lisse'}
 -> alis : [v.] smooth, polish
