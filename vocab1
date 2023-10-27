@@ -156,6 +156,7 @@ si : [cnjc.] if, in the case/condition that, given/supposing/assuming that {Fren
 -> siime : [n.] case, condition
 -> sic : [prep.] as if, like so, similar to {retroactively noted as derivation, originally 'sti'. Latin}
 ----> sicet : [adv.] thus, in this way or manner {Originally 'stit'. ~ Latin 'sicut'}
+----> sic bažet : [phrase] 'as needed' ('go ahead', 'as you must', 'of course')
 
 === affixes ===  
 -en : [suf.] plural (after closed syllable) {German}  
@@ -1141,6 +1142,11 @@ res : [n.] thing, matter {Latin}
 -> ares : [v.] compose (be a part of)
 ----> aresin : [n.] composition, makeup
 -> nöres : [n.] nothing
+-> resta : [n.] fact
+----> restäs : [adj.] factual (pertaining to fact)
+----> ressat : [adj.] factual, true
+-------> ressät : [adv.] factually
+
 kultur : [n.] culture {German 'Kultur', French 'culture'}
 -> kulturäs : [adj.] cultural
 ----> kulturäst : [adv.] culturally
@@ -1212,7 +1218,9 @@ kut : [n.] coat, layer {English 'coat', French 'couche'}
 ----> akutin(a) : [n.] coating
 stras : [n.] road; street {Latin 'strata' via Italian 'strada' & German 'Straße'}
 -> strasu : [n.] alleyway, lane
-läš : [n.] way, path, method
+vaj : [n.] way, path, method [prep.] by means of, according to {Latin 'via'}
+-> ödvaj : [adj.] immediate, obvious, accessible
+----> ödväjst : [adv.] obviously
 toč : [n.] thing {French 'chose'}
 snog : [n.] edge, boundary, border
 -> snogime : [n.] state of being on the edge, of being borderline; hesitancy
@@ -2759,6 +2767,9 @@ furn : [v.] bake, cook; roast {French 'four', English 'furnace'}
 -> furnom : [n.] bakery
 -> furnet : [adj.] roasted
 ----> furnt : [n.] roast
+
+graj : [v.] grill {Latin 'cratis', + via English 'grill' + French 'griller'}
+-> grajet : [adj.] grilled
 
 vad : [v.] fit, match, correspond {Original}
 -> vadin : [n.] match
