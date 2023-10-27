@@ -412,7 +412,7 @@ nöl : {German 'Null', English 'null', French 'annuler'}
 -> ünäs : [adj.] primary
 ----> ünäst : [adv.] primarily
 -> ünime : [n.] oneness
--> ünu : [n.] unit; piece
+-> ünu : [n.] unit; piece [n.] episode
 -> ünivärt : [n.] universe
 ----> ünivärtäs : [adj.] universal
 -------> ünivärtäst : [adj.] universally
@@ -1811,6 +1811,19 @@ banier : [n.] banner {French 'banière'}
 kamb : [n.] bell {Latin 'campana'}
 -> kambu : [n.] little bell
 
+kinematografe : [n.] cinematography [dated] moving picture {French 'cinématographe', German 'Kino'}
+-> kinematografäs : [adj.] cinematographic
+-> kinematograför : [n.] cinematographer
+-> kine : [n.] film, motion picture
+----> kina : [n.] cinema
+----> kinu : [n.] movie, flic
+
+theatrom : [n.] theatre; stage; stadium; gallery {Latin 'theatrum'}
+-> theatret : [n.] theatre (practice)
+-> theaträs : [adj.] theatrical (pertaining to theatre)
+----> theaträst : [adv.] theatrically
+-> theatresic : [adj.] theatrical (melodramatic, exaggerated)
+
 diabr : [v.] slander, libel {Anc. Greek 'διαβάλλω'}
 -> diabrör : [n.] slanderer
 -> diabrim : [n.] devil
@@ -1821,6 +1834,9 @@ passe : [n.] pass; passport {Finnish 'passi'}
 
 patent : [n.] [v.] patent {English}
 -> patentt : [adj.] patented
+
+stüs : [n.] show, spectacle {Finnish 'esitys'}
+-> animetstüs : [n.] cartoon; show, series (animated)
 
 kanäl : [n.] canal, channel {French 'canal' & English 'channel'}
 -> videskanäl : [n.] sewers
@@ -2085,6 +2101,8 @@ nim : [v.] walk {Latin 'anima' via French & English 'animal'}
 ----> animäs : [adj.] animal
 -------> animäst : [adv.] animally
 ----> animät : [n.] animal
+----> animetina : [n.] animation
+----> animeret : [n.] animation (practice)
 pris : [v.] run {? Original}
 -> prisina : [n.] running
 vän : [v.] [intrans.] come {French 'venir'}
