@@ -94,7 +94,7 @@ a : [prep.] locative (at, in, on) {French 'à'}
 u : [prep.] proximitive (at, near, by) {Russian 'у'}  
 gešt : [prep.] against {German 'gegen', English 'against'}  
 -> irgešt : [v.] oppose, go against  
-sär : [prep.] in the form(at) of
+sär : [prep.] in the form(at) of, as
 -> -sär : [suf.] in the form of the suffixed word
 isän : [prep.] ablative (about, concerning)  
 urund : [prep.] circumlative (around, about) {from 'u' + 'rund'}
@@ -195,6 +195,7 @@ re(s)- : [prf.] again; anew {French & English 're-'}
 -värt : [suf.] [cntrc.] equiv. to -vär and -ät
 -färt : [suf.] [cntrc.] equiv. to -fär and -ät
 -vert : [suf.] [cntrc.] equiv. to -ver and -ät
+-sät : [suf.] [cntrc.] equiv to -sat and -ät
 
 ra(s) : [prf.] [cntrc.] equiv. to re(s)- + a(s)-
 
@@ -1761,6 +1762,12 @@ pač : [n.] peace {Latin 'pax'}
 -> pačime : [n.] peacetime
 banier : [n.] banner {French 'banière'}
 
+diabr : [v.] slander, libel {Anc. Greek 'διαβάλλω'}
+-> diabrör : [n.] slanderer
+-> diabrim : [n.] devil
+----> diabristi : [adj.] devilish
+-------> diabristiät : [adv.] devilishly
+
 passe : [n.] pass; passport {Finnish 'passi'}
 
 kanäl : [n.] canal, channel {French 'canal' & English 'channel'}
@@ -2149,6 +2156,17 @@ kuet : [v.] count, calculate {Original}
 läc : [v.] lure, deceive; entice, ensnare {Latin 'lacio'}
 -> öläc : [v.] allure, attract; tempt
 ----> öläcin : [n.] temptation, attraction
+-> deläc : [v.] allure, entice
+----> deläces : [adj.] alluring, enticing
+-------> deläcesät : [adv.] alluringly, enticingly
+-------> deläcesime : [n.] (state of) being alluring, enticing
+----> deläcest : [adj.] allured, enticed
+-------> deläcestime : [n.] (state of) being allured, being enticed
+----> deläcin : [n.] allure
+----> deläcina : [n.] enticement
+----> deläcun : [n.] delight
+-------> deläcunsat : [adj.] delightful
+----------> deläcunsät : [adv.] delightfully
 fäl : [v.] trick, deceive, cheat {Latin 'fallo'}
 -> fälin : [n.] trick
 -> fälina : [n.] deception, lie; cheating
@@ -2641,6 +2659,7 @@ kräs : [v.] grow {Latin 'crescere' via Portugese 'crescer'}
 fal : [v.] [n.] fall; drop, decrease {Swedish 'falla'}
 
 bran : [v.] [n.] burn {Swedish 'brann'}
+-> brant : [adj.] burnt
 
 flet : [v.] fly {German 'Flieg', French 'voler', English 'flutter'}
 -> fletin(a) : [n.] flight
