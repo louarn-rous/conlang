@@ -345,7 +345,7 @@ mäs : [adj.] constant, unmoving, permanent {German '-mals'}
 === other particles === 
 da : [ptcl.] interrogative, marks the preceding clause as a question  
 su : [ptcl.] existential, indicates 'there is/exists' concerning the object of the nominative-only clause it succeeds 
-ze : [ptcl.] affirmative
+ze : [ptcl.] affirmative; 'well', 'right', 'yes'
 
 ja + ze --> "isn't it"
 da + ze --> "is it"
@@ -2670,7 +2670,9 @@ troš : [v.] [trans] slice, cut {French 'trancher'}
 -> trošin : [n.] cut, incision
 sek : [v.] cut, seperate, divide; amputate {Latin 'seccare'}
 -> sekina : [n.] seperation, cutting
--> sekpärom : [n.] division, department 
+-> sekpäre : [n.] part, section
+----> sekpärom : [n.] division, department 
+
 štät : [v.] damage {Serbian 'штете'}
 -> štätin : [n.] damage; cost, expense
 -> štätfär : [adj.] damageable
