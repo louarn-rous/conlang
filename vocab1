@@ -345,7 +345,8 @@ da : [ptcl.] interrogative, marks the preceding clause as a question
 su : [ptcl.] existential, indicates 'there is/exists' concerning the object of the nominative-only clause it succeeds 
 ze : [ptcl.] affirmative
 
-da + ze --> "isn't it"
+ja + ze --> "isn't it"
+da + ze --> "is it"
 ze --> (reponse) "it is"
 su + da --> "is there?"
 su + da + ze -> "isn't there?"
@@ -1732,8 +1733,11 @@ fal : [n.] girl {Latin 'filia'}
 ----> ucfalä : [n.] granddaughter
 -> falät : [adj.] girly
 ----> falätt : [adv.] girlishly
-ussor : [n.] cousin {'uz' + 'sorä'}
-usmat : [n.] sibling {'uz' + 'matä'}
+uzsor : [n.] cousin {'uz' + 'sorä'}
+uzmat : [n.] sibling {'uz' + 'matä'}
+famil : [n.] family {Latin 'familia' via French 'famille' & English 'family'}
+-> familäs : [adj.] familial
+-> familät : [adj.] familiar
  
 fränd : [n.] friend {English 'friend', German 'Freund'}
 -> frändime : [n.] friendship
@@ -2823,6 +2827,8 @@ mast : [v.] steer, direct
 -> otmast : [v.] to revolt; take control
 ----> otmastin : [n.] revolt
 ----> otmastina : [n.] revolution
+-> remast : [v.] recieve, accept; take back, regain
+----> remastet : [n.] reciept; recipe
 
 limit : [v.] [trans] limit {French 'limite', English}
 -> limitör : [n.] device that limits
