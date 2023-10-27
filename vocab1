@@ -2140,7 +2140,7 @@ maris : [v.] remember, recall {Original}
 oblis : [v.] forget {Latin 'obliviscor' via French 'oublier'}
 -> oblistfär : [adj.] forgettable
 ----> nesoblistfär : [adj.] unforgettable
-štuz : [v.] pretend, feign {Original}
+štuz : [v.] [intrans] pretend, feign [v.] [trans] disguise {Original}
 kuet : [v.] count, calculate {Original}
 -> kuetin : [n.] count
 -> kuetina : [n.] calculation
@@ -2746,6 +2746,7 @@ päs : {Original}
 -------> pajše : [n.] meal; dinner, lunch
 ----------> pajša : [n.] feast
 -- [n.] food
+----> vistpäs : [n.] fast-food
 
 grafit : {Italian 'graffiti' via English & French'}
 -- [v.] scribble; graffiti
