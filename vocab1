@@ -10,7 +10,7 @@ as : [det.] distal demonstrative ('that')
 -> asa : [n.] distal locative ('there')
 
 ža : [det.] interrogative ('what', 'which') {Croatian 'za'}  
--> žaj : [det.] which
+-> žaj : [det.] (non-interrogative) what, which
 -> ödža : [det.] why {'öd' +}  
 -> läža : [det.] how {'läš' +}  
 -> täna : [det.] when {'tän' +}  
@@ -462,6 +462,7 @@ brin : [n.] cow {Breton 'brini'}
 -> gebrin : [n. unc.] cattle
 bos : [n.] ox, bull {Latin}
 -> gebos : [n.] beef
+-> boslaa
 pors : [n.] pig {Latin 'Porcus' via French 'porc'}
 -> porsäs : [adj.] porcine
 -> porsu : [n.] piglet
@@ -662,6 +663,7 @@ past : [n.] pasta {Italian 'pasta', French 'pâte'}
 spagetti : [n.] spaghetti {Italian 'spaghetti'}
 šam : [n.] ham
 hamburgir : [n.] hamburger {English 'hamburger'}
+patee : [n.] pâté; patty {French 'pâté', + via English 'patty'}
 
 === plants & trees ===
 roba : [n.] tree
@@ -1279,7 +1281,7 @@ bäst : [n.] beast, creature {French 'bête', English 'beast'}
 nam : [n.] name {German 'Name', French 'nom', English 'name'}
 -> namäs : [adj.] nominal
 ----> namäst : [adv.] nominally
--> anam : [v.] to give/assign a name to
+-> denam : [v.] name, denote; designate, nominate
 tite : [n.] title {Latin 'titulus' + via French 'titre'}
 -> atit : [v.] give a title
 -> netitet : [adj.] untitled
@@ -2087,10 +2089,10 @@ ser : {French 'dire', English 'say', German 'sprechen'}
 ----> serina : [n.] expression, meaning
 -------> serinäs : [adj.] meaningful
 ----------> serinäst : [adv.] meaningfully
--> serin : [n.] parole, speech
+-> serin : [n.] parole, speech; expression, dialect
 -> antser : [v.] converse
 ----> antserin : [n.] conversation, exchange, dialogue
-----> antserine : [n.] dialect
+----> antserina : [n.] dialect
 -------> antserinäs : [adj.] dialectical
 ----------> antserinäst : [adv.] dialectically
 -------> antserret : [n.] [singular] dialectics
@@ -2242,6 +2244,9 @@ räg : [v.] rule, govern {Latin 'rego'}
 ----> arträgör : [n.] tyrant
 -> rägime : [n.] governance
 -> rägina : [n.] government
+-> rägom : [n.] region {~ Latin 'regio'}
+----> rägomäs : [adj.] regional
+-------> rägomäst : [adv.] regionally
 talöd : [v.] follow {Korean '따르다'}
 -> talödör : [n.] follower
 -> talödime : [n.] (state of) following
@@ -2577,6 +2582,7 @@ fam : [v.] hunger {Latin 'fames' via French 'faim'}
 -> afam : [v.] [trans] to make hungry
 -> famät : [adj.] hunger
 ----> famätt : [adv.] hungrily
+-> famver : [adj.] mouthwatering
 sit : [v.] thirst {? French 'soif', ? English 'thirsty'}
 -> sitin : [n.] thirst
 -> asit : [v.] [trans] to make thirsty
