@@ -4,9 +4,9 @@ er : [det.] definite ('the') {Breton 'ar'}
 en : [det.] indefinite ('a'/'an', 'some') {English 'an', French 'un(e)'}  
 -> s'en [cntrc.] of a/an/some
 
-is : [det.] proximal demonstrative ('this') {French 'ici'}  
+is : [det.] proximal demonstrative ('this', 'these') {French 'ici'}  
 -> isa : [n.] proximal locative ('here')  
-as : [det.] distal demonstrative ('that')  
+as : [det.] distal demonstrative ('that', 'those')  
 -> asa : [n.] distal locative ('there')
 
 ža : [det.] interrogative ('what', 'which') {Croatian 'za'}  
@@ -25,7 +25,9 @@ netä : [det.] any, either
 -> netänom : [adv.] anywhere
 ait : [det.] each, every
 -> artu : [det.] all
-ceni : [det.] some 
+ceni : [det.] some
+-> cenijät : [adv.] somewhat
+cej : [det.] those, the ones
 
 === prepositions ===
 us : [prep.] ablative, genitive ('from', 'of', authorship)  
@@ -173,7 +175,7 @@ si : [cnjc.] if, in the case/condition that, given/supposing/assuming that {Fren
 -- [suf.] used to form adverbs, giving a verb the quality of the suffixed word ('-ly', '-y')
 -- [suf.] used to form adjectives from verbs, meaning 'inclined to' ('-y') #
 
--sti : [suf.] semblative; forms adjectives from nouns, having the sense of resembling the suffixed word {see 'sti'}
+-sic: [suf.] semblative; forms adjectives from nouns, having the sense of resembling the suffixed word
 -sat : [suf.] forms adjectives from nouns, meaning to possess or have the quality of the suffixed noun (English '-ful') {see 'sat'}
 
 -ret : [suf.] used to form nouns, meaning the practice of doing or doing something related to the suffixed word {see 'ret'}
@@ -595,7 +597,7 @@ mili : [n.] corn {Afrikaans 'mielie'}
 ris : [n.] rice {French 'riz', English 'rice'}
 abercin : [n.] eggplant {Catalan 'albergínia' via French 'aubergine'}
 kurbite : [n.] gourd, squash; pumpkin {Latin 'cucurbita'}
-sorsti : [n.] capsicum, bell pepper {'soru' + '-sti'}
+sorsic: [n.] capsicum, bell pepper {'soru' + '-sic'}
 melon : [n.] melon {English}
 tomat : [n.] tomato {French 'tomate'}
 pera : [n.] pear {Italian via Latin 'pirum' via English 'pear'}
@@ -1063,7 +1065,7 @@ ministrina : [n.] ministry
 
 tieb : [n.] tribe {Latin 'tribus' via French 'tribu' & English 'tribe'}
 -> tiebäs : [adj.] tribal (pertaining to tribes)
--> tiebsti : [adj.] tribal (tribe-like)
+-> tiebsic: [adj.] tribal (tribe-like)
 
 ratne : [n.] war {Serbo-Croatian 'рат'}
 ----> ratnemätör : [n.] warmonger
@@ -1279,7 +1281,7 @@ fras : [n.] phrase, expression, term {Anc. Greek 'φράσις' via English & Fr
 
 jukos : [n.] monster {Original}
 bäst : [n.] beast, creature {French 'bête', English 'beast'}
--> bästi : [adj.] beastial, beastly @
+-> bäsic: [adj.] beastial, beastly
 -> bästu : [n.] bug, critter
 
 nam : [n.] name {German 'Name', French 'nom', English 'name'}
@@ -1503,7 +1505,7 @@ gice : [n.] cup; mug; chalice {Original}
 fibr : [m.] fibre {French 'fibre'}
 -> fibrät : [adj.] fibrous
 läder : [m.] leather {Swedish, via English 'leather'}
--> lädersti : [adj.] leathery
+-> lädersic: [adj.] leathery
 linen : [m.] linen {English}
 papiir : {Anc. Greek 'πάπυρος' via English 'paper' & French 'papier'}
 -- [m.] paper 
@@ -1782,7 +1784,7 @@ banier : [n.] banner {French 'banière'}
 diabr : [v.] slander, libel {Anc. Greek 'διαβάλλω'}
 -> diabrör : [n.] slanderer
 -> diabrim : [n.] devil
-----> diabristi : [adj.] devilish
+----> diabrisic: [adj.] devilish
 -------> diabristiät : [adv.] devilishly
 
 passe : [n.] pass; passport {Finnish 'passi'}
@@ -1795,7 +1797,7 @@ slif : [n.] tear (crying) {Russian 'слеза'}
 
 furk : [n.] fork; branch (shape, abstract)
 -> furku : [n.] fork (utensil)
--> furksti : [adj/] forked
+-> furksic: [adj.] forked
 
 klet : [n.] cage {Russian 'клетка'}
 -> aklet : [v.] cage
@@ -3276,7 +3278,7 @@ fol : [adj.] swollen, puffed {Latin 'follis'}
 -> afol : [v.] inflate; swell, puff
 ----> afolt : [adj.] inflated, swollen, puffed; exaggerated
 -------> sfoti : [n.] fool {'me(s)-' + 'afolt' + '-im'}
-----------> sfotisti : [adj.] foolish
+----------> sfotisic: [adj.] foolish
 -------------> sfotistinät : [adv.] foolishly
 -------------> sfotistiime : [n.] foolishness
 ----------> sfotiime : [n.] folly
@@ -3342,7 +3344,7 @@ muzot : [adj.] silly
 === vulgar ===
 bata : [n.] imbecile, bastard
 lidi : [n.] idiot
--> lidisti : [adj.] stupid, dumb
+-> lidisic: [adj.] stupid, dumb
 ----> lidistinät : [adv.] stupidly
 -> liditäs : [adj.] idiotic
 ----> liditäst : [adv.] idiotically
