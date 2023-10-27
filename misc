@@ -16,11 +16,11 @@ Amerika (Amerikäs) : America (American)
 -> MitälÖropa (MitälÖropäs) : Central Europe (Central European)
 -> VästÖropa (VästÖropäs)   : Western Europe (Western European)
 
-Skadinavia (Skadinaväs) : Scandinavia (Scandinavian)
-Baltija (Baltijäs)      : Baltics (Baltic)
-Iberia (Iberiäs)        : Iberia (Iberian)
-Südoslavia (Südoslaväs) : Yugoslavia (Yugoslav) [region]
-Balkan (Balkanäs)       : Balkans (Balkan)
+Skadinavia (Skadinavijäs) : Scandinavia (Scandinavian)
+Baltia (Baltijäs)         : Baltics (Baltic)
+Iberia (Iberijäs)         : Iberia (Iberian)
+Südoslavia (Südoslavijäs) : Yugoslavia (Yugoslav) [region]
+Balkan (Balkanäs)         : Balkans (Balkan)
 
 Orient (Orientäs) : Asia (Asian)
 -> MitälOrient (MitälOrientäs) : Middle East (Middle Eastern)
@@ -32,58 +32,58 @@ Mahrib (Mahribäs)   : Maghreb (Maghreb)
 == Countries & Territories ==
 
 Istlant (Islantäs)    : Iceland (Icelandic)
-Noregia (Noregiäs)    : Norway (Norwegian)
-Svärjä (Svärjäs)      : Sweden (Swedish)
+Noregia (Noregijäs)    : Norway (Norwegian)
+Sväriä (Svärijäs)      : Sweden (Swedish)
 Tänmak (Tänmäs)       : Denmark (Danish) 
 Krönlant (Krönlantäs) : Greenland (Greenlander, Greenlandic)
-Suomi (Suomäs)        : Finland (Finnish)
+Suomi (Suomijäs)        : Finland (Finnish)
 Olant (Olantäs)       : Åland (Ålandic)
 Förjar (Förjaräs)     : Faroes (Faroese)
 
-Estija (Estiäs)     : Estonia (Estonian)
-Latvija (Latväs)   : Latvia (Latvian)
+Estiia (Estijäs)     : Estonia (Estonian)
+Latviia (Latvijäs)   : Latvia (Latvian)
 Liätuva (Liätuväs) : Lithuania (Lithuanian)
 
 Portugal (Portugäs)            : Portugal (Portugese)
-Espanja (Espanjäs)             : Spain (Spanish)
+Espania (Espanijäs)             : Spain (Spanish)
 Katalunia (Katalunäs)          : Catalonia (Catalonian)
-Euskalia (Euskaläs)            : Basque Country (Basque)
+Euskalia (Euskaljäs)            : Basque Country (Basque)
 
 Žibraltar (Žibraltäs; Lanitäs) : Gibraltar (Gibraltarian)
 
-Slovenia (Slovenäs)           : Slovenia (Slovene, Slovenian)
-Hervacka (Hervatäs)          : Croatia (Croat, Croatian)
+Slovenia (Slovenijäs)        : Slovenia (Slovene, Slovenian)
+Hervacka (Hervackäs)         : Croatia (Croat, Croatian)
 Bosna e Hercegovina (Bosnäs) : Bosnia and Herzegovina (Bosnian)
-Serbija (Serbijäs)            : Serbia (Serb, Serbian)
-Vojvodina (Vojvodinäs)        : Vojvodina (Vojvodinan)
-Kosova (Kosoväs)              : Kosovo (Kosovar, Kosovan)
-CrnaGora (CrnaGoräs)          : Montenegro (Montenegrin)
-NordMakädonia (Makädonäs)     : North Macedonia (Macedonian)
-Helenia (Helenäs)             : Greece (Greek, Hellenic)
-Škiperia (Škiperäs)           : Albania (Albanian, Albanese)
-Belgarija (Belgarijäs)        : Bulgaria (Bulgar, Bulgarian)
-Rominia (Rominiäs)            : Romania (Romanian)
+Serbia (Serbijäs)            : Serbia (Serb, Serbian)
+Vojvodina (Vojvodinäs)       : Vojvodina (Vojvodinan)
+Kosova (Kosoväs)             : Kosovo (Kosovar, Kosovan)
+CrnaGora (CrnaGoräs)         : Montenegro (Montenegrin)
+NordMakädonia (Makädonijäs)  : North Macedonia (Macedonian)
+Helenia (Helenäs)            : Greece (Greek, Hellenic)
+Škiperia (Škiperijäs)        : Albania (Albanian, Albanese)
+Belgaria (Belgarijäs)        : Bulgaria (Bulgar, Bulgarian)
+Rominia (Rominijäs)          : Romania (Romanian)
 
 Doöčlant (Doöčäs)        : Germany (German)
-Helvetia (Helvetäs)      : Switzerland (Swiss)
+Helvetia (Helvetijäs)      : Switzerland (Swiss)
 Listenštain (Listenštäs) : Liechtenstein (Liechtensteiner)
 Östäreic (Östäreitäs)    : Austria (Austrian)
 Magjarosa (Magjaräs)     : Hungary (Hungarian, Magyar)
-Čekia (Čekäs)            : Czech Republic (Czech)
+Čekia (Čekijäs)            : Czech Republic (Czech)
 Slovakia (Slovakäs)      : Slovakia (Slovak)
 Lecebueš (Lecebuešäs)    : Luxembourg (Luxembourgish)
 Nedärlant (Nedärlantäs)  : Netherlands (Dutch)
 Zeelant (Zeelantäs)      : Zeeland (Zeeuw)
 Vlams (Vlamsäs)          : Flanders (Flemish)
 Belžika (Belžäs)         : Belgium (Belgian)
-Walonia (Walonäs)        : Wallonia (Wallonian)
+Walonia (Walonijäs)        : Wallonia (Wallonian)
 Frans (Fransäs)          : France (French)
-Galia (Galäs)            : Gallia (Gallic/Gaul)
+Galia (Galjäs)            : Gallia (Gallic/Gaul)
 Bräjs (Bräjsäs)          : Britanny (Breton)
 Normandia (Normanäs)     : Normandy (Normand)
 Monega (Monegäs)         : Monaco (Monacan)
 Andora (Andoräs)         : Andorra (Andorran)
-Italia (Italäs)          : Italy (Italian)
+Italia (Italijäs)          : Italy (Italian)
 Samarein (Samareinäs)    : San Marino (Sammarinese)
 Malta (Maltäs)           : Malta (Maltese)
 
@@ -91,7 +91,7 @@ Polska (Polskäs)    : Poland (Polish)
 Moldova (Moldoväs)  : Moldova (Moldovan)
 Ukraina (Ukrainäs)  : Ukraine (Ukrainan)
 Belarus (Belarusäs) : Belarus (Belarussian)
-Rossija (Rossijäs)  : Russia (Russian) 
+Rossia (Rossijäs)   : Russia (Russian) 
 
 Britania (Britaniäs) : Great Britain (British)
 -> Britaniäs Ölanten : British Isles
@@ -133,15 +133,15 @@ Sudan (Sudanäs)       : Sudan (Sudanese)
 -> SüdSudan (SüdSudanäs) : South Sudan (South Sudanese)
 
 Rguanda (Rguandäs)     : Rwanda (Rwandan)
-Burundi (Burundiäs)    : Burundi (Burundian)
+Burundi (Burundijäs)   : Burundi (Burundian)
 Uganda (Ugandäs)       : Uganda (Ugandan)
-Känja (Känjäs)         : Kenya (Kenyan)
-Tanzenia (Tanzeniäs)   : Tanzania (Tanzanian)
+Känia (Känjäs)         : Kenya (Kenyan)
+Tanzenia (Tanzenjäs)   : Tanzania (Tanzanian)
 Angola (Angoläs)       : Angola (Angolan)
-Zambia (Zambiäs)       : Zambia (Zambian)
-Namibia (Namibiäs)     : Namibia (Namibian)
+Zambia (Zambijäs)      : Zambia (Zambian)
+Namibia (Namibijäs)    : Namibia (Namibian)
 Zimbabue (Zimbabuäs)   : Zimbabwe (Zimbabwean, Zimbo)
-Maraui (Marauäs)       : Malawi (Malawian)
+Maraui (Marauijäs)     : Malawi (Malawian)
 Mosambik (Mozambikäs)  : Mozambique (Mozambican)
 Bucuana (Bucuanäs)     : Botswana (Motswana, Batswana)
 SüdAfrika (SüdAfrikäs) : South Africa (South African)
@@ -153,21 +153,21 @@ Kebäk (Kebäkäs)  : Quebec (Québécois)
 Mehiko (Mehikäs) : Mexico (Mexican)
 
 NovZeelant (NovZeelantäs)   : New Zealand (New Zealander)
-Austeralia (Austeraliäs)    : Australia (Australian)
+Austeralia (Austeralijäs)   : Australia (Australian)
 
 Guatemala (Guatemaläs)  : Guatemala (Guatemalan)
 Beliiz (Beliizäs)       : Belize (Belizean)
 Onduras (Onduräs)       : Honduras (Honduran)
 Salbador (Salbadoräs)   : El Salvador (Salvadoran)
 Nikaragua (Nikaraguäs)  : Nicaragua (Nicaraguan)
-Kosta Rika (Kosta Rikäs : Costa Rica (Costa Rican)
+KostaRika (KostaRikäs)  : Costa Rica (Costa Rican)
 Panama (Panamäs)        : Panama (Panamanian)
 
-Kolombja (Kolombjäs)   : Colombia (Colombian)
+Kolombia (Kolombijäs)  : Colombia (Colombian)
 Benesuela (Benesueläs) : Venezuela (Venezuelan)
 Peru (Peruväs)         : Peru (Peruvian)
 Ekuador (Ekuadoräs)    : Ecuador (Ecuadorian)
-Bolibja (Bolibjäs)     : Bolivia (Bolivian)
+Bolibia (Bolibijäs)    : Bolivia (Bolivian)
 Čile (Čiläs)           : Chile (Chilean)
 Arhentina (Arhentinäs) : Argentinia (Argentine, Argentinian)
 Paraguai (Paraguajäs)  : Paraguay (Paraguayan)
@@ -180,11 +180,11 @@ Tajlant (Tajäs)        : Thailand (Thai)
 Kampučä (Kampučäs)     : Cambodia (Cambodian)
 VietNam (VietNamäs)    : Vietnam (Vietnamese)
 Lau (Lausäs)           : Laos (Laotian)
-Indonäsia (Indonäsiäs) : Indonesia (Indonesian)
-Malesia (Malesiäs)     : Malaysia (Malay, Malaysian)
+Indonäsia (Indonäsijäs) : Indonesia (Indonesian)
+Malesia (Malesijäs)     : Malaysia (Malay, Malaysian)
 Singapur (Singapuräs)  : Singapore (Singaporean)
 
-Mongožia (Mongožiäs)   : Mongolia (Mongol, Mongolian)
+Mongožia (Mongožijäs)   : Mongolia (Mongol, Mongolian)
 Sine (Sinäs)           : China (Chinese)
 Tajuan (Tajuanäs)      : Taiwan (Taiwanese)
 Čosen (Čosenäs)        : Korea (Korean) {Korean '조선'}
@@ -196,15 +196,16 @@ Oumon (Oumonäs)        : Macau (Macau)
 
 === cities ===
 
-Vien
+NovJark : New York
+Vien (Vienäs) : Vienna
 Varšave (Varšaväs)  : Warsaw
 
 === first names ===
 Alin : 
 Alina : f
-Alja, Alia : f
+Alia : f
 An, Ann, Ana, Anna : f
-Anja, Ania : f
+Ania : f
 Aždän : m
 Gabriel : n
 Jamir : m
@@ -213,9 +214,9 @@ Katrina : f
 Läna : f
 Lines : m
 Lutis : m
-Mikael, Mikhael, Mikaäl, Mikhaäl : m
+Mikael : m
 Nikola : n
-Tanja, Tania : f
+Tania : f
 Värner : m
 Zoë, Zoe : f
 Žan, Žann : f
