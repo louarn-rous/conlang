@@ -100,7 +100,7 @@ isän : [prep.] ablative (about, concerning)
 urund : [prep.] circumlative (around, about) {from 'u' + 'rund'}
 tra(s) : [prep.] perlocative, perlative (across, through) {Breton 'tra'}
 -> trasal : [prep.] far from, far off; across
--> tras : [prep.] according to 
+-> tras : [prep.] according to, by
 ga : [prep.] distributive (per, for each) {Original}
 
 === conjunctions === 
@@ -2079,6 +2079,8 @@ ser : {French 'dire', English 'say', German 'sprechen'}
 ----> usserina : [n.] dedication, consecration
 ----> usseret : [adj.] dedicated
 -------> usseretime : [n.] (state of) dedication
+-> imser : [v.] direct, indicate
+----> imserina : [n.] direction, indication; instructions
 klam : [v.] cry out, exclaim; shout, yell; call (out) {Latin 'clamo'}
 -> reklam : [v.] demand; repossess
 ----> reklamina : [n.] repossession
@@ -2136,6 +2138,8 @@ maris : [v.] remember, recall {Original}
 -> marisfär : [adj.] memorable
 ----> marisfärt : [adv.] memorably
 oblis : [v.] forget {Latin 'obliviscor' via French 'oublier'}
+-> oblistfär : [adj.] forgettable
+----> nesoblistfär : [adj.] unforgettable
 štuz : [v.] pretend, feign {Original}
 kuet : [v.] count, calculate {Original}
 -> kuetin : [n.] count
@@ -2329,7 +2333,6 @@ värt : [v.] turn {Latin 'verto' via English '-ward'}
 -> dövärt : [v.] avoid; avert, prevent
 -> -vär : [suf.] venitive; in the direction of ('-wards')
 
-
 trag : [v.] twist {? Original}
 -> tragöti : [n.] wrench, spanner
 tend : [v.] stretch {Latin 'tendo'}
@@ -2338,6 +2341,7 @@ tend : [v.] stretch {Latin 'tendo'}
 ----> öttendina : [n.] intention
 -------> öttendinäs : [adj.] intentional
 ----------> öttendinäst : [adv.] intentionally
+----> oböttendör : [n.] superintendent
 -> tendime : [n.] (state of) tension
 -> tendina : [n.] tension
 
@@ -2528,6 +2532,7 @@ fam : [v.] hunger {Latin 'fames' via French 'faim'}
 -> famin : [n.] hunger
 ----> advam : [v.] [archaic] to break fast
 -------> spadvame : [n.] supper, dinner
+----------> spadvamu : [n.] luncheon
 -> afam : [v.] [trans] to make hungry
 -> famät : [adj.] hunger
 ----> famätt : [adv.] hungrily
@@ -2736,6 +2741,8 @@ tagär : [v.] meet, encounter, frequent {Original}
 päs : {Original}
 -- [v.] [trans] feed, nourish
 ----> päsin : [n.] meal; nourishment
+-------> pajše : [n.] meal; dinner, lunch
+----------> pajša : [n.] feast
 -- [n.] food
 
 grafit : {Italian 'graffiti' via English & French'}
@@ -3277,3 +3284,4 @@ smät : [v.] to copulate with
 bač : [v.] [intj.] damn {Original}
 -> bačet : [adj.] damned
 kus : [intj.] fuck, damn, darn, shit
+traste : [intj.] egads, by god
