@@ -2911,8 +2911,12 @@ pänt : [v.] [n.] paint {French 'peindre'}
 
 klin : [v.] [n.] incline; bend, curve {Latin 'clino' via English 'incline' & French 'incliner'} #
 
-nos : [v.] [trans] give birth to; [intrans] [passive] be born {Latin 'nascor' via French 'naissance', French 'noces'}
+nos : [v.] [trans] give birth to; [when passive] [intrans] be born {Latin 'nascor' via French 'naissance', French 'noces'}
 -> nosina : [n.] birth
+-> ünnost : [adj.] native, indigenous
+----> ünnostim : [n.] native
+----> ünnostät : [adv.] natively
+----> ünnostime : [n.] nativity, state of being native
 
 tröb : {German 'Arbeit', French 'travail', English 'labour'}
 -- [v.] work, labour
