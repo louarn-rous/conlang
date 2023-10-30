@@ -1749,12 +1749,16 @@ poj : [n.] boy {Swedish 'pojke', Finnish 'poika'}
 -> pojä : [n.] son
 ----> ucpojä : [n.] grandson
 -> pojät : [adj.] boyish
-----> pojätt : [adv.] boyishly
+----> pojätt : [adv.] in a boyish manner
+-> pojsti : [adj.] boy-like, boyish
+----> pojstiät : [adv.] in a boy-like manner
 fal : [n.] girl {Latin 'filia'}
 -> falä : [n.] daughter
 ----> ucfalä : [n.] granddaughter
 -> falät : [adj.] girly
-----> falätt : [adv.] girlishly
+----> falätt : [adv.] in a girly manner
+-> falsti : [adj.] girlish
+----> falstiät : [adv.] girlishly
 uzsor : [n.] cousin {'uz' + 'sorä'}
 uzmat : [n.] sibling {'uz' + 'matä'}
 famil : [n.] family {Latin 'familia' via French 'famille' & English 'family'}
@@ -2193,19 +2197,20 @@ rast : [v.] [intrans] reason, reflect, reckon, calculate [trans] consider, judge
 ----> rastfärt : [adv.] reasonably
 ----> nerastfär : [adj.] unreasonable
 -------> nerastfärt : [adv.] reasonably
-sen : [v.] know {Latin 'sciens'}
--> senime : [n.] knowledge
-----> senimfär : [adj.] knowledgeable
--> nesent : [adj.] unknown
-----> nesente : [n.] unknown; mystery
-----> nesentät : [adv.] unknowingly
-----> nesentäs : [adj.] mysterious
--> asen : [v.] teach; train
-----> asenin : [n.] lesson
-----> asenina : [n.] teaching
--------> asesinäs : [adj.] pedagogical
-----------> asesinäst : [adv.] pedagogically
-----> asenör : [v.] teacher
+sien : [v.] know {Latin 'sciens', later 'sienca'}
+-> sienime : [n.] knowledge
+----> sienimsat : [adj.] knowledgeable
+-> nesient : [adj.] unknown
+----> nesiente : [n.] unknown; mystery
+----> nesientät : [adv.] unknowingly
+----> nesientäs : [adj.] mysterious
+-> asien : [v.] teach; train
+----> asienin : [n.] lesson
+----> asienina : [n.] teaching
+-------> asiesinäs : [adj.] pedagogical
+----------> asiesinäst : [adv.] pedagogically
+----> asienör : [v.] teacher
+----> asienret : [n.] (practice of) teaching
 ren : [v.] believe {Original}
 -> renin : [n.] belief
 ----> derenin : [n.] disbelief
