@@ -1497,10 +1497,9 @@ fum : {French 'fumée'}
 -- [v.] produce smoke
 ----> fumör : [n.] smoker; appartus for smoking
 flam : {French 'flamme'}
--- [n.] visible portion of gas undergoing combustion
--- [v.] to set ablaze, aflame
--- [n.] [figurative] strong passion
--- [v.] to deliberately encourage hostility or anger
+-- [n.] visible portion of gas undergoing combustion [n.] [figurative] strong passion
+-- [v.] to blaze, to flame
+-> aflam : [v.] to set ablaze, aflame [v.] [figurative] to deliberately encourage hostility or anger
 lum : {Late Latin 'lūmināria' via French 'lumière'}
 -- [n.] light
 ----> lumät : [adv.] light
@@ -2105,10 +2104,10 @@ nim : [v.] walk {Latin 'anima' via French & English 'animal'}
 ----> animeret : [n.] animation (practice)
 pris : [v.] run {? Original}
 -> prisina : [n.] running
-vän : [v.] [intrans.] come {French 'venir'}
--> ödvän : [v.] arrive
+komm : [v.] [intrans.] come, arrive {German 'kommen'}
 jun : [v.] jump {Original} #
-pas : [v.] pass, go by {French 'passer'} #
+pas : [v.] [trans] pass, go by {French 'passer'}
+-> obpas : [v.] [trans] surpass
 
 mät : [v.] set, change, assign, put {Latin 'mitto' via French 'mettre'}
 -> mätkal : [v.] confirm, verify
