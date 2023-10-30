@@ -145,10 +145,10 @@ When the action of the verb is described as a potential without being in a speci
 
 | - | act | act | pas | pas |
 |:- |:-   |:-   |:-   | :-  |
-| t | s | c | s | c |
-| pst | is | is | it | ist |
-| prs | es | es | set | est |
-| fut | as | as | at | ast |
+| Tense	  | Simple | Contd. | Simple | Contd. |
+| Past    | vir | is | it | ist |
+| Present | est | sen | sent | senst |
+| Future  | vas | as | at | ast |
 
 ## Pronouns
 
