@@ -27,7 +27,7 @@ ait : [det.] each, every
 -> artu : [det.] all
 ceni : [det.] some, a part of
 -> cenijät : [adv.] somewhat
-cej : [det.] those, the ones
+čej : [det.] those, the ones
 
 === prepositions ===
 us : [prep.] ablative, genitive ('from', 'of', authorship)  
@@ -174,9 +174,9 @@ si : [cnjc.] if, in the case/condition that, given/supposing/assuming that {Fren
 -> -ljäs : [suf.] genitive when after 'lia' or 'lja'
 -(n)ät :  
 -- [suf.] used to form adverbs, giving a verb the quality of the suffixed word ('-ly', '-y')
--- [suf.] used to form adjectives from verbs, meaning 'inclined to' ('-y') #
+-- [suf.] used to form adjectives from verbs, meaning 'inclined to' ('-y')
 
--sic: [suf.] semblative; forms adjectives from nouns, having the sense of resembling the suffixed word
+-sti: [suf.] semblative; forms adjectives from nouns, having the sense of resembling the suffixed word
 -sat : [suf.] forms adjectives from nouns, meaning to possess or have the quality of the suffixed noun (English '-ful') {see 'sat'}
 
 -ret : [suf.] used to form nouns, meaning the practice of doing or doing something related to the suffixed word {see 'ret'}
@@ -1544,7 +1544,7 @@ pot : [n.] pole, post; trunk {French 'poteau'}
 -> potu : [n.] bar, rod
 ----> manpotu : [n.] handlebar
 -> uisespot : [n.] fire hydrant
-lin : [n.] line, string, cord, rope {French 'ligne'} ##
+linn : [n.] line, string, cord, rope {French 'ligne', later ~ Latin 'linea'}
 lozanž : {French 'losange'}
 -- [n.] rhombus, lozange
 -- [n.] pill or tablet, esp. one shaped like a rhombus
@@ -1708,10 +1708,10 @@ jor : [n.] man {Original}
 -> jorät : [adj.] manly, masculine
 ----> jorätt : [adv.] masculinely
 ----> jorätime : [n.] manhood, masculinity
-sar : [n.] woman {Original}
--> sarät : [adj.] womanly, feminine
-----> sarätt : [adv.] femininely
-----> sarätime : [n.] womanhood, femininity
+sair : [n.] woman {Original}
+-> sairät : [adj.] womanly, feminine
+----> sairätt : [adv.] femininely
+----> sairätime : [n.] womanhood, femininity
 daam : [n.] lady {Estonian, French 'dame', German 'Dame'}
 -> daamä : [n.] aunt
 ----> obedaamä : [n.] great-aunt
@@ -1829,7 +1829,7 @@ theatrom : [n.] theatre; stage; stadium; gallery {Latin 'theatrum'}
 -> theatret : [n.] theatre (practice)
 -> theaträs : [adj.] theatrical (pertaining to theatre)
 ----> theaträst : [adv.] theatrically
--> theatresic : [adj.] theatrical (melodramatic, exaggerated)
+-> theatresti : [adj.] theatrical (melodramatic, exaggerated)
 
 diabr : [v.] slander, libel {Anc. Greek 'διαβάλλω'}
 -> diabrör : [n.] slanderer
@@ -2024,11 +2024,11 @@ bit : [n.] [f:computing] bit
 servör : [n.] [f:computing] server
 
 === verbs ===
-es : [v.] be {German 'ist', French 'est', English 'is', Spanish}
--> esin : [n.] existence
-----> esinäs : [adj.] existential
--------> esinäst : [adv.] existentially
--> esime : [n.] being
+ser : [v.] be {Original}
+-> serin : [n.] existence
+----> serinäs : [adj.] existential
+-------> serinäst : [adv.] existentially
+-> serime : [n.] being
 ci : [v.] fare; be, feel {originally 'si', ? French 'soit'}
 -> cievat : [intj.] farewell, goodbye {'ci' + 'vat'}
 ----> cie : [intj.] bye  
@@ -2146,26 +2146,27 @@ mät : [v.] set, change, assign, put {Latin 'mitto' via French 'mettre'}
 -> ulamät : [v.] preset
 ----> ulamätin : [n.] preset (presetting)
 
-ser : {French 'dire', English 'say', German 'sprechen'}
+ster : {French 'dire', English 'say', German 'sprechen'} $$$$
 -- [v.] say, speak, tell, talk
-----> serör : [n.] one who speaks
+----> sterör : [n.] one who speaks
 -- [v.] signifies, represents, means
-----> serina : [n.] expression, meaning
--------> serinäs : [adj.] meaningful
-----------> serinäst : [adv.] meaningfully
--> serin : [n.] parole, speech; expression, dialect
--> antser : [v.] converse
-----> antserin : [n.] conversation, exchange, dialogue
-----> antserina : [n.] dialect
--------> antserinäs : [adj.] dialectical
-----------> antserinäst : [adv.] dialectically
--------> antserret : [n.] [singular] dialectics
--> usser : [v.] dedicate, consecrate
-----> usserina : [n.] dedication, consecration
-----> usseret : [adj.] dedicated
+----> sterina : [n.] expression, meaning
+-------> sterinäs : [adj.] meaningful
+----------> sterinäst : [adv.] meaningfully
+-> sterin : [n.] parole, speech; expression, dialect
+-> anster : [v.] converse
+----> ansterin : [n.] conversation, exchange, dialogue
+----> ansterina : [n.] dialect
+-------> ansterinäs : [adj.] dialectical
+----------> ansterinäst : [adv.] dialectically
+-------> ansterret : [n.] [singular] dialectics
+-> usster : [v.] dedicate, consecrate
+----> ussterina : [n.] dedication, consecration
+----> usstirt : [adj.] dedicated
 -------> usseretime : [n.] (state of) dedication
--> imser : [v.] direct, indicate
-----> imserina : [n.] direction, indication; instructions
+-> imster : [v.] direct, indicate
+----> imsterina : [n.] direction, indication; instructions
+
 klam : [v.] cry out, exclaim; shout, yell; call (out) {Latin 'clamo'}
 -> reklam : [v.] demand; repossess
 ----> reklamina : [n.] repossession
@@ -2580,7 +2581,7 @@ träg : [v.] wear {German 'tragenen'}
 lig : [v.] tie {Latin 'ligare'}
 -> lige : [n.] knot; tie
 
-čus : [v.] trespass, violate, breach, infringe
+čus : [v.] trespass, violate, breach, infringe {Original}
 -> čusin : [n.] breach
 -> čusina : [n.] trespassing, violation, infringement
 
@@ -2594,7 +2595,7 @@ ecar : [v.] behave, act {~ 'es' + 'ret'}
 ----> mecaret : [adj.] badly behaved
 -------> mecaretime : [n.] (state of) being badly behaved
 
-guran : [v.] tickle
+guran : [v.] tickle {? Original}
 -> guranin : [n.] tickles
 -> guran (ceni den) isän (učä) : [phrase] tease (someone) about (subject)
 
@@ -2953,10 +2954,6 @@ mord : {German 'morden'}
 -------> seimordin : [n.] suicide
 -- [n.] murder
 
-šarž : ##
--- [v.] charge, load
--- [n]. charge
-
 kur : {Latin 'cura' via 'securus' via German 'sicher'}
 -- [v.] care
 ----> nekuret : [adj.] unconcerned, nonchalant, carefree
@@ -3240,18 +3237,18 @@ rund : {Swedish}
 -------> rundäst : [adv.] circularly
 -- [v.] [f:mathematics] (of a number) to round
 
-san : [adj.] healthy, sound {Latin 'sanus' via English 'sanitary'}
--> sanime : [n.] health, wellbeing
-----> sanimäs : [adj.] sanitary
--------> sanimäst : [adv.] sanitarily
--> nesan : [adj.] unhealthy
-----> nesanime : [n.] illness, unwellness
-----> nesanät : [adv.] unhealthily
--> asan : [v.] cure, treat
-----> asanina : [n.] treatment, remedy
--------> asaninäs : [adj.] therapeutic
-----------> asaninäst : [adv.] therapeutically
--> sanät : [adv.] healthily
+sant : [adj.] healthy, sound {Latin 'sanus' via English 'sanitary'}
+-> santime : [n.] health, wellbeing
+----> santimäs : [adj.] sanitary
+-------> santimäst : [adv.] sanitarily
+-> nesant : [adj.] unhealthy
+----> nesantime : [n.] illness, unwellness
+----> nesantät : [adv.] unhealthily
+-> asant : [v.] cure, treat
+----> asantina : [n.] treatment, remedy
+-------> asantinäs : [adj.] therapeutic
+----------> asantinäst : [adv.] therapeutically
+-> santät : [adv.] healthily
 
 stes : [adj.] sacred, blessed {Russian 'святой'}
 -> astes : [v.] bless
@@ -3264,8 +3261,9 @@ ru : [adj.] raw, crude; bare
 
 ran : [adj.] ready, prepared
 -> ranime : [n.] readiness; preparedness
--> aran : [v.] [trans] prepare
+-> aran : [v.] [trans] prepare; charge, load
 ----> aranina : [n.] preparation
+-> rane : [n.] charge
 
 strug : [adj.] without care, secure {Latin 'securus', Swedish 'trygg'}
 -> strugime : [n.] security, safety
