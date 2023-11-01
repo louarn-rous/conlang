@@ -29,6 +29,11 @@ voč : {Italian 'voce'}
 -- [n.] voice
 -- [v.] express, voice
 
+es : [v.] be {German 'ist', French 'est', English 'is', Spanish}
+-> esin : [n.] existence
+----> esinäs : [adj.] existential
+-------> esinäst : [adv.] existentially
+-> esime : [n.] being
 
 ser : {French 'dire', English 'say', German 'sprechen'}
 -- [v.] say, speak, tell, talk
