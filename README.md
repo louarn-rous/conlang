@@ -152,13 +152,14 @@ Exception: ster ('speak')
 | Present | ster   | sters  | stert   | sterc   |
 | Future  | star   | stars  | start   | starc   |
 
+Exception: sej ('be')
+
 | Voice   | Active | Active | Passive | Passive |
 | :---:   |:-----: | :----: | :----:  | :----:  |
 | Tense   | Simple | Contd. | Simple  | Contd.  |
-
 | Past    | sein   | seins  | seint   | seinc   |
-| Present | sej   | sejs  | sejt   | sejc   |
-| Future  | ser   | sers  | sert   | serc   |
+| Present | sej    | sejs   | sejt    | sejc    |
+| Future  | sar    | sars   | sart    | sarc    |
 
 ## Pronouns
 
