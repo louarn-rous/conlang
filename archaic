@@ -29,6 +29,41 @@ voč : {Italian 'voce'}
 -- [n.] voice
 -- [v.] express, voice
 
+
+ser : {French 'dire', English 'say', German 'sprechen'}
+-- [v.] say, speak, tell, talk
+----> serör : [n.] one who speaks
+-- [v.] signifies, represents, means
+----> serina : [n.] expression, meaning
+-------> serinäs : [adj.] meaningful
+----------> serinäst : [adv.] meaningfully
+-> serin : [n.] parole, speech; expression, dialect
+-> antser : [v.] converse
+----> antserin : [n.] conversation, exchange, dialogue
+----> antserina : [n.] dialect
+-------> antserinäs : [adj.] dialectical
+----------> antserinäst : [adv.] dialectically
+-------> antserret : [n.] [singular] dialectics
+-> usser : [v.] dedicate, consecrate
+----> usserina : [n.] dedication, consecration
+----> usseret : [adj.] dedicated
+-------> usseretime : [n.] (state of) dedication
+-> imser : [v.] direct, indicate
+----> imserina : [n.] direction, indication; instructions
+
+san : [adj.] healthy, sound {Latin 'sanus' via English 'sanitary'}
+-> sanime : [n.] health, wellbeing
+----> sanimäs : [adj.] sanitary
+-------> sanimäst : [adv.] sanitarily
+-> nesan : [adj.] unhealthy
+----> nesanime : [n.] illness, unwellness
+----> nesanät : [adv.] unhealthily
+-> asan : [v.] cure, treat
+----> asanina : [n.] treatment, remedy
+-------> asaninäs : [adj.] therapeutic
+----------> asaninäst : [adv.] therapeutically
+-> sanät : [adv.] healthily
+
 vän : [v.] [intrans.] come {French 'venir'}
 -> ödvän : [v.] arrive
 tuš : [v.] [intrans.] touch, reach, attain {French 'toucher'}
@@ -59,9 +94,14 @@ te : [n.] tea {German 'Tee'}
 -- [v.] charge, load
 -- [n]. charge
 
+sar : [n.] woman {Original}
+-> sarät : [adj.] womanly, feminine
+----> sarätt : [adv.] femininely
+----> sarätime : [n.] womanhood, femininity
+
+cej : [det.] those, the ones
+
 lin : [n.] line, string, cord, rope {French 'ligne'}
-
-
 
 sti : [prep.] as if, like so, similar to  
 -> stit : [adv.] thus, in this way or manner  
