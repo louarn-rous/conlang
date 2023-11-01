@@ -90,7 +90,7 @@ When they follow a plosive and precede another vowel, they provoke the palatizat
 | - | ⟨e | ⟨i | ⟨a | ⟨ä | ⟨o | ⟨ö | ⟨u | ⟨ü |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | e⟩ | \[eː] | \[i̯e] | \[ɐe̞] | - | - | - | \[u̯e] | - |
-| i⟩ | \[e̞ɪ̯] | \[iː] | - | - | - | - | \[u̯i] | - |
+| i⟩ | \[ɪ] | \[iː] | \[æː] | - | - | - | \[u̯i] | - |
 | a⟩ | \[e̞ɐ] | \[i̯a] | \[ɑː] | \[o̯a] | - | - | \[u̯a] | - |
 | ä⟩ | - | \[i̯æ] | - | \[æː] | - | - | \[u̯æ] | - |
 | o⟩ | - | \[i̯o] | - | - | \[oː] | - | \[u̯o] | - |
@@ -139,16 +139,26 @@ When the action of the verb is described as a potential without being in a speci
 | Voice   | Active | Active | Passive | Passive |
 | :---:   |:-----: | :----: | :----:  | :----:  |
 | Tense   | Simple | Contd. | Simple  | Contd.  |
-| Past    | -i     | -is    | -it     | -ist    |
-| Present | -e     | -es    | -et     | -est    |
-| Future  | -a     | -as    | -at     | -ast    |
+| Past    | -i     | -is    | -it     | -ic     |
+| Present | -e     | -es    | -et     | -ec     |
+| Future  | -a     | -as    | -at     | -ac     |
 
-| - | act | act | pas | pas |
-|:- |:-   |:-   |:-   | :-  |
-| Tense	  | Simple | Contd. | Simple | Contd. |
-| Past    | vir | is | it | ist |
-| Present | est | sen | sent | senst |
-| Future  | vas | as | at | ast |
+Exception: ster ('speak')
+
+| Voice   | Active | Active | Passive | Passive |
+| :---:   |:-----: | :----: | :----:  | :----:  |
+| Tense   | Simple | Contd. | Simple  | Contd.  |
+| Past    | stir   | stirs  | stirt   | stirc   |
+| Present | ster   | sters  | stert   | sterc   |
+| Future  | star   | stars  | start   | starc   |
+
+| Voice   | Active | Active | Passive | Passive |
+| :---:   |:-----: | :----: | :----:  | :----:  |
+| Tense   | Simple | Contd. | Simple  | Contd.  |
+
+| Past    | sein   | seins  | seint   | seinc   |
+| Present | sej   | sejs  | sejt   | sejc   |
+| Future  | ser   | sers  | sert   | serc   |
 
 ## Pronouns
 
