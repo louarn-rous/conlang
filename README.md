@@ -152,6 +152,15 @@ Exception: ster ('speak')
 | Present | ster   | sters  | stert   | sterc   |
 | Future  | star   | stars  | start   | starc   |
 
+Exception: sret ('write')
+
+| Voice   | Active | Active | Passive | Passive |
+| :---:   |:-----: | :----: | :----:  | :----:  |
+| Tense   | Simple | Contd. | Simple  | Contd.  |
+| Past    | srit   | sris   | srist   | sric    |
+| Present | sret   | sres   | srest   | srec    |
+| Future  | srat   | sras   | srast   | srac    |
+
 Exception: sej ('be')
 
 | Voice   | Active | Active | Passive | Passive |
