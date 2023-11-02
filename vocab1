@@ -2027,7 +2027,7 @@ bit : [n.] [f:computing] bit
 servör : [n.] [f:computing] server
 
 === verbs ===
-ser : [v.] be {Original}
+ser : [v.] be {Original} [EXCEPTION]
 -> serin : [n.] existence
 ----> serinäs : [adj.] existential
 -------> serinäst : [adv.] existentially
@@ -2150,7 +2150,7 @@ mät : [v.] set, change, assign, put {Latin 'mitto' via French 'mettre'}
 -> ulamät : [v.] preset
 ----> ulamätin : [n.] preset (presetting)
 
-ster : {French 'dire', English 'say', German 'sprechen'} $$$$
+ster : {French 'dire', English 'say', German 'sprechen'} [EXCEPTION]
 -- [v.] say, speak, tell, talk
 ----> sterör : [n.] one who speaks
 -- [v.] signifies, represents, means
@@ -2425,14 +2425,14 @@ söt : [v.] create, make, build, assemble, bring to fruition {Original}
 tös : [v.] [trans] to make into, turn the subject into
 bau : [v.] to build, construct {German 'bauen'}
 
-srit : [v.] write {French 'écrire', English 'write'}
--> sritör : [n.] writer
--> sritäs : [adj.] scriptory, scriptorial, escritorial
--> sritina : [n.] writing
--> sritiletä : [n.] workbook {+ 'letä'}
--> resrit : [v.] rewrite
--> obesrit : [v.] overwrite
--> ussrit : [v.] sign {from 'uz' +}
+sret : [v.] write {French 'écrire', English 'write'} [EXCEPTION]
+-> sretör : [n.] writer
+-> sretäs : [adj.] scriptory, scriptorial, escritorial
+-> sretina : [n.] writing
+-> sretiletä : [n.] workbook {+ 'letä'}
+-> resret : [v.] rewrite
+-> obesret : [v.] overwrite
+-> ussret : [v.] sign {from 'uz' +}
 
 värt : [v.] turn {Latin 'verto' via English '-ward'}
 -> värtin : [n.] turn
