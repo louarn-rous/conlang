@@ -2981,11 +2981,11 @@ mord : {German 'morden'}
 -------> seimordin : [n.] suicide
 -- [n.] murder
 
-kur : {Latin 'cura' via 'securus' via German 'sicher'}
--- [v.] care
-----> nekuret : [adj.] unconcerned, nonchalant, carefree
-----> kuruz : [v.] nurture, raise; cultivate
--- [n.] care, concern
+kur : [v.] care [n.] care, concern {Latin 'cura' via 'securus' via German 'sicher'}
+-> nekuret : [adj.] unconcerned, nonchalant, carefree
+-> kuruz : [v.] nurture, raise; cultivate
+-> kursat : [adj.] careful
+----> kursät : [adv.] carefully
 
 fel : [v.] flow {English 'flow', ? French 'couler'}
 -> felin : [n.] flow
