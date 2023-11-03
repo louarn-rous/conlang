@@ -12,6 +12,7 @@ as : [det.] distal demonstrative ('that', 'those')
 ža : [det.] interrogative ('what', 'which') {Croatian 'za'}  
 -> žaj : [det.] (non-interrogative) what, which
 -> ödža : [det.] why {'öd' +}  
+----> žadöj : [det.] (non-interrogative) why, the reason for which
 -> läža : [det.] how {'läš' +}  
 -> täna : [det.] when {'tän' +}  
 -> žadom : [det.] where; wherein {'-a' +}  
@@ -2224,6 +2225,7 @@ sien : [v.] know {Latin 'sciens', later 'sienca'}
 ----------> asiesinäst : [adv.] pedagogically
 ----> asienör : [v.] teacher
 ----> asienret : [n.] (practice of) teaching
+-> uzsien : [v.] to know, become aware of
 ren : [v.] believe {Original}
 -> renin : [n.] belief
 ----> derenin : [n.] disbelief
