@@ -190,8 +190,8 @@ Exception: sej ('be')
 |:-:  |:--:  |:--:  |:--:  |
 | 1s  | Iž   | Me   | Men  |
 | 1p  | Ne   | Ne   | Nes  |
-| 2s  | Te   | Tet  | Ten  |
-| 2p  | Ve   | Vet  | Ves  |
+| 2s  | Te   | Te   | Ten  |
+| 2p  | Ve   | Ve   | Ves  |
 | 3s  | Sa   | Sa   | San  |
 | 3p  | He   | He   | Hes  |
 
