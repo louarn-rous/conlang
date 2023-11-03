@@ -185,6 +185,16 @@ Exception: sej ('be')
 | 3ms | So   | So   | Son  |
 | 3p  | Zö   | Zö   | Zön  |
 
+
+|     | Acc. | Dat. | Det. |
+|:-:  |:--:  |:--:  |:--:  |
+| 1s  | Iž   | Me   | Men  |
+| 1p  | Ne   | Ne   | Nes  |
+| 2s  | Te   | Tet  | Ten  |
+| 2p  | Ve   | Vet  | Ves  |
+| 3s  | Sa   | Sa   | San  |
+| 3p  | He   | He   | Hes  |
+
 A unique feature of Ijter is the possibility of combining a personal pronoun with a definite or indefinite determiner.
 
 | Phrase            | English                      | Lit. translation  |
