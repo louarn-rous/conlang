@@ -186,10 +186,10 @@ Exception: sej ('be')
 
 A unique feature of Ijter is the possibility of combining a personal pronoun with a definite or indefinite determiner.
 
-| Phrase            | English                      | Lit. translation  |
-|:---               |:---                          |:---               |
-| menen _colleague_ | a colleague of mine          | my-a(n) colleague |
-| saner fränden     | those friends of theirs (sg) | their-the friends |
+| Phrase        | English                      | Lit. translation  |
+|:---           |:---                          |:---               |
+| menen besätim | a colleague of mine          | my-a(n) colleague |
+| saner fränden | those friends of theirs (sg) | their-the friends |
 
 ## Grammar
 
