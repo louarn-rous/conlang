@@ -172,7 +172,7 @@ Exception: sej ('be')
 |     | Acc. | Dat. | Det. |
 |:-:  |:--:  |:--:  |:--:  |
 | 1s  | Iž   | Me   | Men  |
-| 1p  | Ne   | Ne   | Nes  |
+| 1p  | Na   | Na   | Nes  |
 | 2s  | Te   | Te   | Ten  |
 | 2p  | Ve   | Ve   | Ves  |
 | 3s  | Sa   | Sa   | San  |
