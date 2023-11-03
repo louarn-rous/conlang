@@ -1219,6 +1219,8 @@ vet : [n.] age {Latin 'vetus'}
 -> ötrenäs : [adj.] problematic
 -> ötrenu : [n.] trouble
 
+pajg : [n.] page {Latin 'pagina'}
+
 niväl : [n.] level {English 'level', French 'niveau'}
 strat : [n.] layer {Latin 'stratum' via English}
 -> stratime : [n.] layeredness
@@ -1261,6 +1263,7 @@ strom : [n.] location, place {Japanese '所'}
 ----> stromäst : [adv.] locally
 -> imstrom : [v.] localize
 ----> imstromet : [adj.] localized
+-> strum : [n.] site
 
 skär : [n.] lane, track, channel {Original}
 pros : [n.] sign, board; panel, plaque, plate {?}
