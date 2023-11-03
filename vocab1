@@ -1961,10 +1961,10 @@ biologik : [n.] biology
 genetik : [n.] genetics {Russian & Serbian 'генетика'}
 -> genetikäs : [adj.] genetic
 ----> genetikäst : [adv.] genetically
-kemiš : [n.] chemical {German 'chemisch', French 'chimique', English 'chemical'}
--> kemišret : [n.] chemistry
--> kemišäs : [adj.] chemical
-----> kemišäst : [adv.] chemically
+kemis : [n.] chemical {German 'chemisch', French 'chimique', English 'chemical'}
+-> kemisret : [n.] chemistry
+-> kemisäs : [adj.] chemical
+----> kemisäst : [adv.] chemically
 
 == atomic physics : atomfiziiken ==
 atom : [n.] atom
@@ -2163,6 +2163,7 @@ mät : [v.] set, change, assign, put {Latin 'mitto' via French 'mettre'}
 -------> temätom : [n.] shop, store
 -------> temätör : [n.] trader, seller, supplier; merchant, shopkeeper; dealer
 -------> temätin(a) : [n.] purchase, sale, deal
+-------> uztemätom : [n.] market
 -> remät : [v.] reset
 ----> remätin : [n.] resetting
 -> altemät : [v.] change, switch
@@ -2214,7 +2215,7 @@ streg : [v.] curse (profane); curse (jinx) {Latin 'striga'}
 -> streget : [adj.] cursed, profaned
 rehb : [v.] [n.] spit {Original}
 
-rast : [v.] [intrans] reason, reflect, reckon, calculate [trans] consider, judge {Latin 'ratus'}
+rast : [v.] [intrans] reason, reflect, reckon, calculate [trans] consider, judge, evaluate {Latin 'ratus'}
 -> rastin : [n.] reason
 -> rastina : [n.] reasoning, reflection, justification
 -> visrast : [v.] prove, demonstrate {'vis' +}
@@ -2319,9 +2320,10 @@ sänt : [v.] [trans] sense, smell [intrans] smell of {Latin 'sentio' via French 
 -> säntin : [n.] smell, scent
 -> säntäs : [n.] sensory
 paskäl : [v.] notice, spot, remark
-mjec : [v.] measure {Anc. Greek 'μέτρον'}
+mjec : [v.] measure; judge {Anc. Greek 'μέτρον'}
 -> mjecäs : [adj.] metric (pertaining to measure)
 ----> mosmjecäs : [adj.] isometric
+-> mjecina : [n.] (act of) measurement; judgement
 
 
 vedir : [v.] lead, guide {Serbo-Croatian 'водити', Latin 'dirigo' via French 'diriger' & Spanish 'dirigir'}
@@ -2449,6 +2451,7 @@ söt : [v.] create, make, build, assemble, bring to fruition {Original}
 -> sötina : [n.] creation
 -> acöt : [v.] produce {from 'öd' +}
 ----> acötim : [n.] progeny, offspring
+----> acötin : [n.] product
 tös : [v.] [trans] to make into, turn the subject into
 bau : [v.] to build, construct {German 'bauen'}
 -> bauör : [n.] builder
@@ -2564,17 +2567,18 @@ ut : [v.] sing {Japanese '歌'}
 -> utina : [n.] singing
 ----> utagove : [n.] singing voice {+'gove'}
 
-ver : {Latin 'valor' via Italian 'valore' & French 'valeur', Swedish 'värde', Estonian 'väärt', German 'Wert'}
--- [v.] worth; deserving of
--- [n.] worth, value, merit
-----> aver : [v.] evaluate
-----> vernuz : [adj.] worthless
--------> vernuzät : [adv.] worthlessly
+ver : [n.] worth, value, merit {Latin 'valor' via Italian 'valore' & French 'valeur', Swedish 'värde', Estonian 'väärt', German 'Wert'}
+-> aver : [v.] to be worth; deserving of
+----> averfär : [adj.] available
+-------> averfärime : [n.] (state of) availability
+-> vernuz : [adj.] worthless
+----> vernuzät : [adv.] worthlessly
 -> verät : [adj.] worthy
 ----> verätt : [adv.] worthily
 ----> neverät : [adj.] unworthy
 ----> verätime : [n.] dignity
--> -ver : [suf.] forms adjectives from nouns, meaning deserving or worthy of the suffixed word ('-worthy', '-some')  
+-> -ver : [suf.] forms adjectives from nouns, meaning deserving or worthy of the suffixed word ('-worthy', '-some')
+
 
 heg : [v.] [reflexive] choke
 -> aheg : [v.] [trans] suffocate; disturb, distress, trouble
@@ -2586,8 +2590,10 @@ heg : [v.] [reflexive] choke
 ----> asega : [n.] rage
 ----> asegär : [adj.] angry
 -------> asegärt : [adj.] angrily
--> stheg : [v.] stumble; stutter
-----> sthegina : [n.] stuttering
+-> steg : [v.] stumble; stutter
+----> stegina : [n.] stuttering
+----> nastegfär : [adj.] impeccable
+-------> nastegfärt : [adv.] impeccably
 
 spär : [v.] [n.] hope {Latin 'spero' via French 'espérer'}
 -> späruz : [adj.] hopeful
@@ -2632,11 +2638,15 @@ guran : [v.] tickle {? Original}
 -> guranin : [n.] tickles
 -> guran (ceni den) isän (učä) : [phrase] tease (someone) about (subject)
 
-falt : [v.] falter {Portugese 'faltar'}
--> faltin : [n.] fault
-----> faltinät : [adj.] faulty
+falt : [v.] falter {Portugese 'faltar', French 'faute', English 'fault'}
+-> falte : [n.] fault, flaw
+----> faltenät : [adj.] faulty
+----> faltesat : [adj.] fallacious
+-------> faltesät : [adv.] fallaciously, falsely
+----> faltenuz : [adj.] faultless, flawless, impeccable
 -> faltafär : [adj.] fallible
 ----> faltafärt : [adv.] fallibly
+
 
 fäns : [v.] strike, thrust, hit {Latin 'fendo' + via 'defensa'}
 -> defäns : [v.] defend, guard, protect
@@ -2801,7 +2811,7 @@ ruin : [v.] [n.] ruin {French 'ruine', English 'ruin', German 'Ruin'}
 
 skän : {? Latin 'scala'}
 -- [v.] climb, scale
-----> skänör : [n.] one that climbs
+----> skänör : [n.] climber
 ----> skene : [n.] ladder
 -- [n.] climb
 ----> skänu : [n.] step
@@ -3011,7 +3021,7 @@ marš : {English 'march', French 'marcher'}
 
 gust : {Latin 'gustus' via French 'goût' & English 'gustatory'}
 -- [v.] taste
-----> gustör : [n.] one that tastes
+----> gustör : [n.] taster
 ----> tüngust : [v.] savour, enjoy; dine
 -- [n.] taste
 ----> gustäs : [adj.] gustatory
@@ -3025,6 +3035,8 @@ löv : [v.] [trans] lift [intrans] stand, rise {French 'lever'}
 -> alöv : [v.] [trans] wake (up)
 -> relöv : [v.] relieve, lighten; alleviate, mitigate
 ----> relövin : [n.] relief
+-> ustlöv : [v.] excel, out-do; exceed; overcome
+----> ustlövät : [adj.] excellent
 
 spir : [v.] breathe {Latin 'spiro' via French 'inspirer'}
 -> spirina : [n.] breathing
@@ -3056,7 +3068,7 @@ profit : [v.] profit {English 'profit', French 'profiter'}
 
 regul : [v.] regulate {English 'regulate', French 'reguler'}
 -> regulina : [n.] regulation
--> regulör : [n.] one that regulates
+-> regulör : [n.] regulator
 
 === adjectives ===
 
@@ -3178,6 +3190,8 @@ kras : {French 'crasse'}
 ----> akras : [v.] to dirty, soil
 ----> krasät : [adv.] dirtily
 -- [n.] scum, dirt, grime
+pur : [adj.] pure {Latin 'purus'}
+-> purät : [adv.] purely
 
 klar : [adj.] clear; transparent; evident {Latin 'clarus' from English 'clarity', French 'clair'}
 -> aklar : [v.] to clear; to make clear, clarify
@@ -3257,7 +3271,7 @@ striis : [n.] ?? {~'tri' + 'stras', Latin 'trivium'}
 -> striisäs : [adj.] vulgar; trivial
 ----> striisäst : [adv.] vulgarly; trivially
 
-šig : [adj.] common, frequent
+šig : [adj.] common, frequent; familiar, acquainted
 -> šigät : [adv.] commonly, frequently
 -> šigime : [n.] frequence; (state of) being common, commonness
 -> nešig : [adj.] uncommon, infrequent
@@ -3331,7 +3345,7 @@ här : [adj.] strong {Proto-Germanic 'harjaz'}
 -> härime : [n.] strength
 -> härät : [adv.] strongly
 
-fist : [adj.] firm; stable, definite {French 'fixe'}
+fist : [adj.] firm, sound; stable, definite {French 'fixe'}
 -> afist : [v.] stabilize; affirm
 ----> afistina : [n.] stabilization; affirmation
 ----> rafist : [v.] reaffirm
