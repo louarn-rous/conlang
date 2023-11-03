@@ -143,14 +143,9 @@ When the action of the verb is described as a potential without being in a speci
 | Present | -e     | -es    | -et     | -ec     |
 | Future  | -a     | -as    | -at     | -ac     |
 
-Exception: ster ('speak')
-
-| Voice   | Active | Active | Passive | Passive |
-| :---:   |:-----: | :----: | :----:  | :----:  |
-| Tense   | Simple | Contd. | Simple  | Contd.  |
-| Past    | stir   | stirs  | stirt   | stirc   |
-| Present | ster   | sters  | stert   | sterc   |
-| Future  | star   | stars  | start   | starc   |
+__Exceptions: vowel inflection__
+- ster ('speak')
+- tend ('stretch') -> ustend, öttend
 
 Exception: sret ('write')
 
