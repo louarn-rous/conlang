@@ -176,31 +176,20 @@ Exception: sej ('be')
 
 |     | Acc. | Dat. | Det. |
 |:-:  |:--:  |:--:  |:--:  |
-| 1s  | Iž   | Mö   | Mön  |
-| 1p  | No   | No   | Nos  |
-| 2s  | Tö   | Tö   | Tön  |
-| 2p  | Vo   | Vo   | Vos  |
-| 3s  | Sö   | Sö   | Sön  |
-| 3fs | Sa   | Sa   | San  |
-| 3ms | So   | So   | Son  |
-| 3p  | Zö   | Zö   | Zön  |
-
-
-|     | Acc. | Dat. | Det. |
-|:-:  |:--:  |:--:  |:--:  |
 | 1s  | Iž   | Me   | Men  |
 | 1p  | Ne   | Ne   | Nes  |
 | 2s  | Te   | Te   | Ten  |
 | 2p  | Ve   | Ve   | Ves  |
 | 3s  | Sa   | Sa   | San  |
 | 3p  | He   | He   | Hes  |
+| 3sp | In   | In   | Ine  |
 
 A unique feature of Ijter is the possibility of combining a personal pronoun with a definite or indefinite determiner.
 
 | Phrase            | English                      | Lit. translation  |
 |:---               |:---                          |:---               |
-| mönen _colleague_ | a colleague of mine          | my-a(n) colleague |
-| söner fränden     | those friends of theirs (sg) | their-the friends |
+| menen _colleague_ | a colleague of mine          | my-a(n) colleague |
+| saner fränden     | those friends of theirs (sg) | their-the friends |
 
 ## Grammar
 
