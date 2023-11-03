@@ -356,8 +356,7 @@ da : [ptcl.] interrogative, marks the preceding clause as a question
 su : [ptcl.] existential, indicates 'there is/exists' concerning the object of the nominative-only clause it succeeds 
 ze : [ptcl.] affirmative; 'well', 'right', 'yes'
 
-ja + ze --> "isn't it"
-da + ze --> "is it"
+da + ze --> "isn't it/is it"
 ze --> (reponse) "it is"
 su + da --> "is there?"/"there's?"
 su + da + ze -> "isn't there?"
@@ -1242,6 +1241,7 @@ stras : [n.] road; street {Latin 'strata' via Italian 'strada' & German 'Straße
 vaj : [n.] way, path, method [prep.] by means of, according to {Latin 'via'}
 -> ödvaj : [adj.] immediate, obvious, accessible
 ----> ödväjst : [adv.] obviously
+-> nevaj : [adv.] in any way, at all, whatsoever
 toč : [n.] thing {French 'chose'}
 snog : [n.] edge, boundary, border
 -> snogime : [n.] state of being on the edge, of being borderline; hesitancy
