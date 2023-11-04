@@ -147,7 +147,7 @@ __Exceptions: vowel inflection__
 - ster ('speak')
 - tend ('stretch') -> ustend, öttend
 - suer ('exist')
-- ev ('have')
+- ej ('have')
 
 Exception: sret ('write')
 
