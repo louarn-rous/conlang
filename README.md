@@ -146,6 +146,7 @@ When the action of the verb is described as a potential without being in a speci
 __Exceptions: vowel inflection__
 - ster ('speak')
 - tend ('stretch') -> ustend, öttend
+- suer ('exist')
 
 Exception: sret ('write')
 
