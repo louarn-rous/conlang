@@ -870,7 +870,7 @@ mož : [n.] mouth
 ----> možäst : [adv.] orally
 stom : [n.] [archaic] mouth {Anc. Greek 'στόμα'}
 -> stom : [n.] stomach {Anc. Greek 'στόμαχος'}
--> n'ev er stom (öd) : [expr.] to not have the appetite (for) {lit. 'to not have the stomach (for)'}
+-> n'ej stom (öd) : [expr.] to not have the appetite (for) {lit. 'to not have the stomach (for)'}
 dänt : [n.] tooth {Latin 'dens' via French 'dentiste'/'dentaire', English 'dentist'/'dental'}
 -> däntäs : [adj.] dental
 ----> däntäst : [adv.] dentally
@@ -2063,9 +2063,9 @@ ci : [v.] fare; be, feel {originally 'si', ? French 'soit'}
 ----> cievatin : [n.] farewell, goodbye
 -> ciin : [n.] experience, times
 
-ev : [v.] have {English 'have', French 'avoir'}
--> evime : [n.] possession
-----> gevime : [n.] inventory
+ej : [v.] have; possess; contain {English 'have', French 'avoir'} [EXCEPTION]
+-> ejime : [n.] possession
+----> gejime : [n.] inventory
 tenn : [v.] hold, keep {French 'tenir'}
 -> tennsime : [n.] custody; storage
 ----> stattennsime : [n.] state custody
