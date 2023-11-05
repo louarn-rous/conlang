@@ -404,6 +404,7 @@ nümer : [n.] number; number of, count {French 'numéro'}
 -> anümer [v.] [trans] to assign a number to
 -> nümeräs : [adj.] numerical
 ----> nümeräst : [adv.] numerically
+-> lektrestnümer : [n.] phone number
 nöl : {German 'Null', English 'null', French 'annuler'}
 -- [num.] 0 (zero)
 -- [adj.] none, null, nought
@@ -647,10 +648,9 @@ käbab : {Arabic 'كباب' via English 'kebab' & French 'kébab'}
 -- [n.] kebab
 ----> kebabsötör : [v.] kebab-maker
 -- [v.] [informal] [figurative] to pierce with a sharp rod
-žus : {French 'jus', English 'juice'}
--- [n.] juice
--- [v.] to make into juice
------> žusör : [n.] machine that makes juice
+žus : [n.] juice {French 'jus', English 'juice'}
+-> ažus : [v.] to make into juice
+-> žussötör : [n.] juicer
 sau : [n.] sauce {Old French 'sause' via English & French 'sauce'}
 frit : [n.] [v.] fry {French 'frite'}
 sup : [n.] soup, stew {French 'soupe'}
@@ -2211,14 +2211,12 @@ ster : {French 'dire', English 'say', German 'sprechen'} [EXCEPTION]
 -------> usseretime : [n.] (state of) dedication
 -> imster : [v.] direct, indicate
 ----> imsterina : [n.] direction, indication; instructions
--> lektresterör : [n.] [archaic] phone
-----> lektrester : [v.] [dated] call (on the phone)
+-> lektresterör : [n.] [archaic] telephone
+----> lektrester : [v.] [dated] telephone call
 -------> lektresterin : [n.] [dated] phone call
 ----> lektrestör : [n.] [dated] phone
 -------> lektrest : [v.] call (on the phone)
 ----------> lektrestin : [n.] phone call
--------> lektres
-
 
 klam : [v.] cry out, exclaim; shout, yell; call (out) {Latin 'clamo'}
 -> reklam : [v.] demand; repossess
@@ -2462,6 +2460,10 @@ sed : [v.] yield, withdraw {Latin 'cedo'}
 ----> nesedetime : [n.] inevitability; necessity
 -> cedin : [n.] yield, surrender
 -> cedina : [n.] (act of) yielding, surrendering
+-> ased : [v.] make yield; dominate, control, dictate
+----> asedet : [adj.] controlled, ruled; addicted
+-------> asedet : [n.] slave, captive
+----------> drogasedet : [n.] drug addict
 
 särš : [v.] search, seek {French 'chercher', English 'search'}
 -> säršina : [n.] search
@@ -2947,6 +2949,9 @@ studer : [v.] study {Latin 'studere' via English 'study'}
 
 tagär : [v.] meet, encounter, frequent {Original}
 -> tagärin : [n.] meeting; date
+
+addikt : [v.] be addicted to
+-> addiktime : [n.] (state of) addiction
 
 päs : {Original}
 -- [v.] [trans] feed, nourish
