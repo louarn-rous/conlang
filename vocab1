@@ -2442,8 +2442,9 @@ fin : [v.] finish, end, conclude {Latin 'finio' via French 'finir' & English 'fi
 alt : [v.] stop, cease {German 'Halt'}
 -> altör : [n.] device for stopping
 ced : [v.] yield, withdraw {Latin 'cedo'}
--> necedet : [adj.] unavoidable, inevitable
-----> necedät : [adv.] inevitably
+-> necedet : [adj.] unavoidable, inevitable; necessary
+----> necedät : [adv.] inevitably; necessarily
+----> necedetime : [n.] inevitability; necessity
 -> cedin : [n.] yield, surrender
 -> cedina : [n.] (act of) yielding, surrendering
 
@@ -2530,6 +2531,7 @@ rän : [v.] try {Original}
 
 baž : [v.] need, require {Original}
 -> bažin : [n.] need, requirement
+----> bažinäs : [adj.] needed, necessary
 -> ulabaž : [v.] prerequire
 ----> ulabažin : [n.] prerequisite
 mus : [v.] must, have to (do something) {German 'Muß'}
