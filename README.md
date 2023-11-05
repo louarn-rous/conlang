@@ -89,7 +89,7 @@ When they follow a plosive and precede another vowel, they provoke the palatizat
 **Archaic**
 | IPA |/d͡z/|/d͡ʒ/|/ɲ/ |/ʎ/ |/ŋ/ | 
 | :-  | -  | -  | -  | -  | -  |
-| Lat | ǲǳ | ǅǆ | ǋǌ | -  | -  |
+| Lat | ǲǳ | ǅǆ | ǋǌ | ǈǉ  | -  |
 | Cyr | Ѕѕ | Ӝӝ | Њњ | Љљ | Ҥҥ |
 
 ### Diphtongs
