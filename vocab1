@@ -306,13 +306,13 @@ sei : [adv.] such, so {Original}
 ----> ačundräs : [v.] to make sufficient, to fill, compensate
 
 ül : [adj.] (the) previous, anticedent {Original}  
--> üla : [adj.] before  
-----> ülät : [adv.] previously  
+-> üla : [adj.] before
+----> ülät : [adv.] previously
 -> ülna : [adj.] first, primordial  
 ----> ülnät : [adv.] primordially, firstly
 -> ül(a)- : [prf.] preceding ('pre-')  
 -> ödül : [prep.] [cnjc.] until  
--> ülče : [n.] (the) former
+-> ülče : [n.] (the) former (first mentioned)
 -> ülnat : [n.] yesterday
 or : [adj.] (the) next, subsequent {Original}  
 -> ora : [adj.] after  
@@ -567,6 +567,7 @@ otrüš : [n.] ostrich {French 'otruche'}
 pol : [n.] chicken {Spanish 'pollo'}
 -> polu : [n.] chick
 -> gepol : [n.] poultry
+----> gepoläs : [adj.] relating to poultry
 gal : [n.] rooster, hen {Latin 'gallus'}
 -> galäs : [adj.] gallinaceous
 korvas : [n.] crow, raven {Japanese '烏', Latin 'corvus' via English 'corvid' & French 'corbeau'}
@@ -654,6 +655,7 @@ käbab : {Arabic 'كباب' via English 'kebab' & French 'kébab'}
 -> žussötör : [n.] juicer
 sau : [n.] sauce {Old French 'sause' via English & French 'sauce'}
 frit : [n.] [v.] fry {French 'frite'}
+-> fritt : [adj.] fried
 sup : [n.] soup, stew {French 'soupe'}
 koko : [n.] cocoa {French 'cacao', English 'cocoa'}
 šokola : [m.] chocolate {French 'chocolat', Russian 'шоколад'}
@@ -913,7 +915,7 @@ kap : {Latin 'caput' via English 'captain' & French 'décapiter'}
 -------> kapäst : [adv.] cranially
 ----> dekap : [v.] behead, decapitate
 -------> dekapina : [n.] beheading, decapitation
--- [v.] lead, direct
+-- [v.] lead, direct, run
 ----> kapör : [n.] leader, director
 ----> kapiten : [n.] capitain
 ----> kapäs : [adj.] leading, capital
@@ -3081,6 +3083,9 @@ gust : {Latin 'gustus' via French 'goût' & English 'gustatory'}
 -- [v.] taste
 ----> gustör : [n.] taster
 ----> tüngust : [v.] savour, enjoy; dine
+----> gusttrom : [n.] restaurant
+-------> gusttromör : [n.] restaurateur/restauranteur
+-------> gusttromret : [n.] (field of) catering
 -- [n.] taste
 ----> gustäs : [adj.] gustatory
 
