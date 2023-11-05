@@ -200,6 +200,9 @@ The order of different word classes is as follows:
 e.g. "I want to know why you wouldn't meet with me yesterday"
 would be "I want.PR know why-NOM you NEG would.PST meet (at)yesterday with me"
 
+e.g "You should give me another chance"
+would be "You should give chance another to me"
+
 Note that this is subject to some variation.
 
 When a phrase contains a catenative verb in addition to a regular verb, the former is conjugated while the latter remains in its infinitive/root/unconjugated form.
