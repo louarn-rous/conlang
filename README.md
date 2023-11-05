@@ -193,7 +193,7 @@ A unique feature of Ijter is the possibility of combining a personal pronoun wit
 The order of different word classes is as follows:  
 - (Determiner) (Noun) (Adjective)
 - (Subject) (Verb) (Object)
-- (Verb) (Adverb) (Place/Time)
+- (Verb) (Adverb) (*Place) (*Time)
 
 e.g. "I want to know why you wouldn't meet with me yesterday"
 would be "I want.PR know why-NOM you NEG would.PST meet (at)yesterday with me"
