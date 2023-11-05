@@ -1097,6 +1097,10 @@ salar : [n.] wage, salary {Latin 'salarium' via French 'salaire'}
 -> salarör : [n.] salary-man, employee
 -> salaräs : [adj.] salarial
 
+krimen : [n.] crime, fault, infraction {Latin 'crimen'}
+-> krimenäs : [adj.] criminal
+----> krimenäst : [adv.] criminally
+
 polic : {French 'police'}
 -- [n.] police, law enforcement
 ----> policäs : [adj.] police
@@ -1861,6 +1865,11 @@ theatrom : [n.] theatre; stage; stadium; gallery {Latin 'theatrum'}
 -> theaträs : [adj.] theatrical (pertaining to theatre)
 ----> theaträst : [adv.] theatrically
 -> theatresti : [adj.] theatrical (melodramatic, exaggerated)
+dram : [n.] drama (theatre) {Latin 'drama' via English, French 'drame'}
+-> dramäs : [adj.] dramatic (relating to drama)
+----> dramäst : [adj.] dramatically
+-> dramsti : [adj.] dramatic (exaggerated)
+----> dramstijät : [adv.] dramatically (exaggerated)
 
 diabr : [v.] slander, libel {Anc. Greek 'διαβάλλω'}
 -> diabrör : [n.] slanderer
