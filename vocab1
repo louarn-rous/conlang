@@ -1957,40 +1957,47 @@ letä : [n.] letter, text, book {Latin 'littera'}
 sienca : [n.] science {Italian 'scienza', French & English 'science'}
 -> siencäs : [adj.] scientific
 ----> siencäst : [adv.] scientifically
-matematik : [n.] mathematics (maths)
+matematik : [n.] mathematics, maths {German 'Mathematik'}
 -> matematikäs : [adj.] mathematic, mathematical
 ----> matematikäst : [adv.] mathematically
-fiziik : [n.] physics
+-> matematikret : [n.] [rare] mathematics (field)
+fizik : [n.] physics {German 'Physik'}
 -> fiziikäs : [adj.] physical
 ----> fiziikäst : [adv.] physically
-biologik : [n.] biology
+-> fizikret : [n.] [rare] physics (field)
+biologik : [n.] biology {German 'Biologie' via French 'biology' & English 'biology'}
 -> biologikäs : [adj.] biological
 ----> biologikäst : [adv.] biologically
 genetik : [n.] genetics {Russian & Serbian 'генетика'}
 -> genetikäs : [adj.] genetic
 ----> genetikäst : [adv.] genetically
 kemis : [n.] chemical {German 'chemisch', French 'chimique', English 'chemical'}
--> kemisret : [n.] chemistry
+-> kemisret : [n.] (field of) chemistry
 -> kemisäs : [adj.] chemical
 ----> kemisäst : [adv.] chemically
+lektre : [n.] [unc.] lightning; electricity, electric power {Latin 'electrum'}
+-> lekträs : [adj.] electric; electrical
+----> lekträst : [adv.] electrically
+-> lektretröbör : [n.] electrician
+----> lektröbör : [n.] [common] electrician
 
 == atomic physics : atomfiziiken ==
-atom : [n.] atom
+atom : [n.] atom {Anc. Greek 'ἄτομος' via English 'atom' & French 'atome' & German 'atom' & Russian 'атом'}
 -> atomäs : [adj.] atomic
 ----> atomäst : [adv.] atomically
 ----> ucatomäs : [adj.] subatomic (sub-atomic)
 -------> ucatomäst : [adv.] subatomically
 -> atomfiziik : [n.] atomic physics
-elektron : [n.] electron
+elektron : [n.] electron {English 'electron'}
 -> elektronäs : [adj.] electronic
 ----> elektronäst : [adv.] electronically
-foton : [n.] photon
+foton : [n.] photon {English 'photon'}
 -> fotonäs : [adj.] photonic
-proton : [n.] proton
+proton : [n.] proton {English}
 -> protonäs : [adj.] protonic
-nötron : [n.] neutron
+nötron : [n.] neutron {English & ~ French 'neutron'}
 -> nötronäs : [adj.] neutronic
-nukleus : [n.] nucleus
+nukleus : [n.] nucleus {English 'nucleus'}
 -> nukleas : [adj.] nuclear, nucleic
 
 == cosmological : cosmologikäs ==
@@ -2191,7 +2198,7 @@ ster : {French 'dire', English 'say', German 'sprechen'} [EXCEPTION]
 ----> sterina : [n.] expression, meaning
 -------> sterinäs : [adj.] meaningful
 ----------> sterinäst : [adv.] meaningfully
--> sterin : [n.] parole, speech; expression, dialect
+-> sterin : [n.] parole, speech; expression, dialect; conversation
 -> anster : [v.] converse
 ----> ansterin : [n.] conversation, exchange, dialogue
 ----> ansterina : [n.] dialect
@@ -2204,6 +2211,14 @@ ster : {French 'dire', English 'say', German 'sprechen'} [EXCEPTION]
 -------> usseretime : [n.] (state of) dedication
 -> imster : [v.] direct, indicate
 ----> imsterina : [n.] direction, indication; instructions
+-> lektresterör : [n.] [archaic] phone
+----> lektrester : [v.] [dated] call (on the phone)
+-------> lektresterin : [n.] [dated] phone call
+----> lektrestör : [n.] [dated] phone
+-------> lektrest : [v.] call (on the phone)
+----------> lektrestin : [n.] phone call
+-------> lektres
+
 
 klam : [v.] cry out, exclaim; shout, yell; call (out) {Latin 'clamo'}
 -> reklam : [v.] demand; repossess
@@ -2440,11 +2455,11 @@ fin : [v.] finish, end, conclude {Latin 'finio' via French 'finir' & English 'fi
 -> finäs : [adj.] final
 ----> finäst : [adv.] finally
 alt : [v.] stop, cease {German 'Halt'}
--> altör : [n.] device for stopping
-ced : [v.] yield, withdraw {Latin 'cedo'}
--> necedet : [adj.] unavoidable, inevitable; necessary
-----> necedät : [adv.] inevitably; necessarily
-----> necedetime : [n.] inevitability; necessity
+-> altör : [n.] stopper
+sed : [v.] yield, withdraw {Latin 'cedo'}
+-> nesedet : [adj.] unavoidable, inevitable; necessary
+----> nesedät : [adv.] inevitably; necessarily
+----> nesedetime : [n.] inevitability; necessity
 -> cedin : [n.] yield, surrender
 -> cedina : [n.] (act of) yielding, surrendering
 
@@ -2962,7 +2977,7 @@ mast : [v.] steer, direct
 ----> remastet : [n.] reciept; recipe
 
 limit : [v.] [trans] limit {French 'limite', English}
--> limitör : [n.] device that limits
+-> limitör : [n.] limiter
 -> limitin : [n.] limit
 
 punit : [v.] punish {Latin 'punio' via English 'punish' & French 'punir'} ##
