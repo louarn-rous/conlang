@@ -1022,9 +1022,6 @@ telefon : [n.] [v.] telephone
 -> telefonäs : [adj.] telephonic
 ----> telefonäst : [adv.] telephonically
 
-televis : [v.] televize
--> televisina : [n.] television
-
 === tools : utejen ===
 fals : [n.] sickle {Catalan 'falç'}
 brust : [n.] brush {Breton 'broust'}
@@ -1100,6 +1097,7 @@ salar : [n.] wage, salary {Latin 'salarium' via French 'salaire'}
 krimen : [n.] crime, fault, infraction {Latin 'crimen'}
 -> krimenäs : [adj.] criminal
 ----> krimenäst : [adv.] criminally
+-> krimenör : [n.] criminal (person committing a crime)
 
 polic : {French 'police'}
 -- [n.] police, law enforcement
@@ -2342,8 +2340,16 @@ vis : [v.] see, perceive, view, look, observe {Latin 'visio' via English & Frenc
 -> uzvir : [v.] consult, consider
 ----> uzvirina : [n.] consultation
 -> ülvir : [v.] foresee
--> ödvis
-od : [v.] hear, feel, sense
+-> televis : [v.] televize
+----> televisin : [n.] [dated] television (device)
+-------> televisinäs : [adj.] televisional; related to the television
+-------> tevi : [n.] [common] television (device)
+-------> televisstüs : [n.] television series
+----------> tevistüs : [n.] tv series
+----------> tevisstüs : [n.] [rare] tv series
+----> televisina : [n.] (act of) television, televizing
+----> televisäs : [adj.] televisional
+od : [v.] hear, feel, sense {}
 -> odäs : [adj.] sensory
 ----> odäst : [adv.] sensorially
 -> odör : [n.] sensor
@@ -2351,7 +2357,7 @@ od : [v.] hear, feel, sense
 sänt : [v.] [trans] sense, smell [intrans] smell of {Latin 'sentio' via French 'sentir'}
 -> säntin : [n.] smell, scent
 -> säntäs : [n.] sensory
-paskäl : [v.] notice, spot, remark
+paskäl : [v.] notice, spot, remark {? Original}
 mjec : [v.] measure; judge {Anc. Greek 'μέτρον'}
 -> mjecäs : [adj.] metric (pertaining to measure)
 ----> mosmjecäs : [adj.] isometric
