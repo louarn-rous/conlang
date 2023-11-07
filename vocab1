@@ -789,10 +789,10 @@ granit : [m. unc.] granite {French 'granit' via Russian 'гранит'}
 kvardz : [m. unc.] quartz {German 'Quarz' via French & English 'quartz'}
 diamant : [m.] diamond {French, German 'Diamant'}
 emrod : [m.] emerald {French 'émeraude', English 'emerald'}
-piät : [m.] stone {Italian 'pietra', Latin 'petram'}
--> apiät : [v.] petrify
--> gepiät : [n.] [collective] rock
-tärakota : [m.] terracotta {Italian 'terracotta'}
+piet : [m.] stone {Italian 'pietra', Latin 'petram'}
+-> apiet : [v.] petrify
+-> gepiet : [n.] [collective] rock
+terakota : [m.] terracotta {Italian 'terracotta'}
 magma : [m. unc.] magma {Anc. Greek 'μάγμα' via French, English}
 piäs : [m.] sand {Croatian 'pijesak'}
 graviir : [m.] gravel {French 'gravier', English 'gravel'}
@@ -814,6 +814,7 @@ ter : {French 'terre'}
 -- [v.] (of aircraft) prevent from flying
 feld : [n.] field; plains {German 'Feld'}
 -> risfeld : [n.] rice field
+prad : [n.] meadow; field, grassland {Breton}
 
 kristal : [n.] crystal {French 'cristal'}
 -> akristal : [v.] crystallize
@@ -830,7 +831,7 @@ lic : [n.] shore {Latin 'litus' via French 'littoral'}
 -> alic : [adj.] ashore
 fast : [n.] cliff
 -> fastdrän : [n.] cliff face
-mont :
+mont : {Latin 'montem' via French 'mont'}
 -- [n.] mountain
 ----> montirör : [n.] mountaineer {'mont' + 'ir' + '-ör'}
 ----> montäs : [adj.] mountainous
@@ -868,7 +869,7 @@ ur : [n.] ear {Latin 'auris' via 'ausculto' via Italian 'ascoltare'}
 -------> urodfär : [adj.] audible
 ----------> urodfärt : [adv.] audibly
 ----> uräst : [adv.] aurally
-mož : [n.] mouth
+mož : [n.] mouth {? ~ English 'mouth', French 'bouche'}
 -> možäs : [adj.] oral
 ----> možäst : [adv.] orally
 stom : [n.] [archaic] mouth {Anc. Greek 'στόμα'}
@@ -2352,7 +2353,7 @@ vis : [v.] see, perceive, view, look, observe {Latin 'visio' via English & Frenc
 ----------> tevisstüs : [n.] [rare] tv series
 ----> televisina : [n.] (act of) television, televizing
 ----> televisäs : [adj.] televisional
-od : [v.] hear, feel, sense {}
+od : [v.] hear, feel, sense {? Latin 'odor'}
 -> odäs : [adj.] sensory
 ----> odäst : [adv.] sensorially
 -> odör : [n.] sensor
@@ -2907,7 +2908,7 @@ ras : [v.] shear, shave; raze {French 'raser'}
 visär : [v.] aim, target {'vis' + '-vär', French 'viser'}
 -> visärin : [n.] aim
 
-piter : [v.] dig {?}
+piter : [v.] dig {? rel. to 'piet'}
 -> piterin : [n.] dig
 -> piterör : [n.] digger
 
