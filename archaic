@@ -1,3 +1,5 @@
+=== nouns ===
+
 arb : [n.] tree {French 'arbre'}
 taj : [n.] day {German 'tag'}
 haim : [n.] home {German 'Heim'}
@@ -15,6 +17,59 @@ bov : [n.] cow {Late Latin 'bovinus'}
 -> bovu : [n.] calf
 vinj : [n.] vine {French 'vigne'}
 jan : [n.] person {Toki Pona}
+sipaträ : [n.] uncle
+-> obesipaträ : [n.] great-uncle
+setör : [n.] pain {Original}
+läš : [n.] way, path, method {? Original}
+or : [m. unc.] gold {French}
+-> orät : [adj.] golden
+te : [n.] tea {German 'Tee'}
+toš : [n.] thing {French 'chose'}
+faas : [n.] cliff {? French 'face'}
+departina : [n.] department
+not : [n.] brief record, usually written; score, mark or grade; [f:music] note {French & English 'note'}
+sistäm : [n.] system {French 'système', English 'system'}
+-> sistämäs : [adj.] systemic
+----> sistämäst : [adv.] systemically
+sunog : [n.] edge, boundary, border
+-> sunogime : [n.] state of being on the edge, of being borderline; hesitancy
+-> sunognuz : [adj.] boundless
+-> sunoguz : [adj.] limited; bounded
+-> sunogu : [n.] bordure
+-> sunogät : [adj.] on the edge
+mäc : [n.] forest, woods {from 'mäc' (wood)}
+-> mäcäs : [adj.] forestal
+-> gemäc : [n.] [collective] lumber
+troke : [n.] location, place {Japanese '所'}
+-> estrok : [n.] room, chamber
+----> sommis-estrok : [n.] [dated] bedroom
+-------> sommistrok : [n.] bedroom {'sommis' +}
+----> orestrok : [n.] vault {'or' +}
+----> ucestrok : [n.] basement
+-> -(t)roke : [suf.] used to indicate a place with a purpose relating to the suffixed word ('-place')
+-> atrok : [v.] place
+----> resatrok : [v.] replace
+-------> resatrokin(a) : [n.] replacement
+----> atrokin(a) : [n.] placement (of)
+sar : [n.] woman {Original}
+-> sarät : [adj.] womanly, feminine
+----> sarätt : [adv.] femininely
+----> sarätime : [n.] womanhood, femininity
+lin : [n.] line, string, cord, rope {French 'ligne'}
+poka : [n.] pocket, pouch {Frankish}
+ide : [n.] idea {French 'idée'}
+värsion : [n.] version {French, English 'version'}
+voč : {Italian 'voce'}
+-- [n.] voice
+-- [v.] express, voice
+mälk : {English 'milk', French 'lait', German 'Milch'}
+-- [n.] milk
+----> mälkäs : [adj.] dairy
+-- [v.] [usu. of an animal] milk
+-- [v.] exploit excessively
+
+=== verbs ===
+
 prom : [v.] promise {French 'promettre'}
 gan : [v.] can, able to {? English 'can'}
 ovär : [v.] open {French 'ouvrir', English 'open'}
@@ -22,23 +77,16 @@ levit : [v.] levitate, hover {French 'léviter', English 'levitate'}
 süs : [v.] suck, slurp {French 'suçer'}
 lek : [v.] lick {English 'lick', French 'lécher'}
 vol : [v.] fly {French 'voler'}
-škort : [adj.] short {French 'court', English 'short'}
-sipaträ : [n.] uncle
--> obesipaträ : [n.] great-uncle
-voč : {Italian 'voce'}
--- [n.] voice
--- [v.] express, voice
-
+addikt : [v.] be addicted to
+-> addiktime : [n.] (state of) addiction
 es : [v.] be {German 'ist', French 'est', English 'is', Spanish}
 -> esin : [n.] existence
 ----> esinäs : [adj.] existential
 -------> esinäst : [adv.] existentially
 -> esime : [n.] being
-
 ev : [v.] have {English 'have', French 'avoir'}
 -> evime : [n.] possession
 ----> gevime : [n.] inventory
-
 ser : {French 'dire', English 'say', German 'sprechen'}
 -- [v.] say, speak, tell, talk
 ----> serör : [n.] one who speaks
@@ -59,20 +107,6 @@ ser : {French 'dire', English 'say', German 'sprechen'}
 -------> usseretime : [n.] (state of) dedication
 -> imser : [v.] direct, indicate
 ----> imserina : [n.] direction, indication; instructions
-
-san : [adj.] healthy, sound {Latin 'sanus' via English 'sanitary'}
--> sanime : [n.] health, wellbeing
-----> sanimäs : [adj.] sanitary
--------> sanimäst : [adv.] sanitarily
--> nesan : [adj.] unhealthy
-----> nesanime : [n.] illness, unwellness
-----> nesanät : [adv.] unhealthily
--> asan : [v.] cure, treat
-----> asanina : [n.] treatment, remedy
--------> asaninäs : [adj.] therapeutic
-----------> asaninäst : [adv.] therapeutically
--> sanät : [adv.] healthily
-
 ten : [v.] hold, keep {French 'tenir'}
 -> tensime : [n.] custody; storage
 ----> stattensime : [n.] state custody
@@ -90,14 +124,10 @@ ten : [v.] hold, keep {French 'tenir'}
 -> doneten : [v.] loan
 ----> donetin : [n.] loan
 ----> donetina : [n.] (act of) loaning
-
-setör : [n.] pain {Original}
-
 vän : [v.] [intrans.] come {French 'venir'}
 -> ödvän : [v.] arrive
 tuš : [v.] [intrans.] touch, reach, attain {French 'toucher'}
 -> tušin : [n.] touch, reach
-
 sen : [v.] know {Latin 'sciens'}
 -> senime : [n.] knowledge
 ----> senimfär : [adj.] knowledgeable
@@ -111,14 +141,7 @@ sen : [v.] know {Latin 'sciens'}
 -------> asesinäs : [adj.] pedagogical
 ----------> asesinäst : [adv.] pedagogically
 ----> asenör : [v.] teacher
-
-läš : [n.] way, path, method {? Original}
-
-or : [m. unc.] gold {French}
--> orät : [adj.] golden
-
-te : [n.] tea {German 'Tee'}
-
+anam : [v.] to give/assign a name to
 srit : [v.] write {French 'écrire', English 'write'}
 -> sritör : [n.] writer
 -> sritäs : [adj.] scriptory, scriptorial, escritorial
@@ -127,66 +150,27 @@ srit : [v.] write {French 'écrire', English 'write'}
 -> resrit : [v.] rewrite
 -> obesrit : [v.] overwrite
 -> ussrit : [v.] sign {from 'uz' +}
-
 šarž :
 -- [v.] charge, load
 -- [n]. charge
-
-sar : [n.] woman {Original}
--> sarät : [adj.] womanly, feminine
-----> sarätt : [adv.] femininely
-----> sarätime : [n.] womanhood, femininity
-
-cej : [det.] those, the ones
-
-lin : [n.] line, string, cord, rope {French 'ligne'}
-
-sti : [prep.] as if, like so, similar to  
--> stit : [adv.] thus, in this way or manner  
-
-sievat : [intj.] farewell, goodbye ('sie' + 'vat')  
--> sie : [intj.] bye  
--> sievatin : [n.] farewell, goodbye
-
-poka : [n.] pocket, pouch {Frankish}
-ide : [n.] idea {French 'idée'}
-värsion : [n.] version {French, English 'version'}
-
-toš : [n.] thing {French 'chose'}
-
-faas : [n.] cliff {? French 'face'}
-
-sistäm : [n.] system {French 'système', English 'system'}
--> sistämäs : [adj.] systemic
-----> sistämäst : [adv.] systemically
-
--> anam : [v.] to give/assign a name to
-
-departina : [n.] department
-
-troke : [n.] location, place {Japanese '所'}
--> estrok : [n.] room, chamber
-----> sommis-estrok : [n.] [dated] bedroom
--------> sommistrok : [n.] bedroom {'sommis' +}
-----> orestrok : [n.] vault {'or' +}
-----> ucestrok : [n.] basement
--> -(t)roke : [suf.] used to indicate a place with a purpose relating to the suffixed word ('-place')
--> atrok : [v.] place
-----> resatrok : [v.] replace
--------> resatrokin(a) : [n.] replacement
-----> atrokin(a) : [n.] placement (of)
-
-not : [n.] brief record, usually written; score, mark or grade; [f:music] note {French & English 'note'}
-
-mälk : {English 'milk', French 'lait', German 'Milch'}
--- [n.] milk
-----> mälkäs : [adj.] dairy
--- [v.] [usu. of an animal] milk
--- [v.] exploit excessively
-
 kal : [v.] fit, match, correspond {French 'caler'}
 -> kalin : [n.] match
 
+=== adjectives ===
+
+škort : [adj.] short {French 'court', English 'short'}
+san : [adj.] healthy, sound {Latin 'sanus' via English 'sanitary'}
+-> sanime : [n.] health, wellbeing
+----> sanimäs : [adj.] sanitary
+-------> sanimäst : [adv.] sanitarily
+-> nesan : [adj.] unhealthy
+----> nesanime : [n.] illness, unwellness
+----> nesanät : [adv.] unhealthily
+-> asan : [v.] cure, treat
+----> asanina : [n.] treatment, remedy
+-------> asaninäs : [adj.] therapeutic
+----------> asaninäst : [adv.] therapeutically
+-> sanät : [adv.] healthily
 ful : [adj.] full
 -> aful : [v.] fill
 -> fulime : [n.] fullness, fill
@@ -194,22 +178,11 @@ ful : [adj.] full
 -> fulmät : [v.] fulfill, satisfy
 ----> fulmätime : [n.] (state of) fulfillment, satisfaction
 ----> fulmätina : [n.] fulfillment, satisfaction
-
 sek : [adj.] dry {French 'sec'} #
 -> asek : [v.] dry
 -> sekät : [adv.] dryly
 
-sunog : [n.] edge, boundary, border
--> sunogime : [n.] state of being on the edge, of being borderline; hesitancy
--> sunognuz : [adj.] boundless
--> sunoguz : [adj.] limited; bounded
--> sunogu : [n.] bordure
--> sunogät : [adj.] on the edge
-
-
-mäc : [n.] forest, woods {from 'mäc' (wood)}
--> mäcäs : [adj.] forestal
-gemäc : [n.] [collective] lumber
+=== conjunctions ===
 
 mo : [cnjc.] also, both, as well, again {Japanese 'も', Anc. Greek 'ὁμός'}
 -> omo : [adj.] same, common  
@@ -224,28 +197,34 @@ mo : [cnjc.] also, both, as well, again {Japanese 'も', Anc. Greek 'ὁμός'}
 ----------> neomäsime : [n.] inequality
 -------> omäse : [n.] equal
 
-süra : [det.] some
+=== determiners ===
 
+süra : [det.] some
+cej : [det.] those, the ones
 aža : [det.] where; wherein (interrogative) {'-a' +}  
 
-dö : [prep.] [dated] ablative, genitive ('from', 'of', authorship) {French 'de'}  
+=== preposition ===
 
+dö : [prep.] [dated] ablative, genitive ('from', 'of', authorship) {French 'de'}  
 na : [prep.]   
 -- succeeds the subject of a sentence, marking it as the passive agent  
 -- precedes the object of a sentence, marking it as the active agent
+sti : [prep.] as if, like so, similar to  
+-> stit : [adv.] thus, in this way or manner  
+
+=== affixes ===
 
 -a : [suf.] used to mark a place
-
 -esin : [suf.] forms nouns from adjectives, denoting the condition or state of the suffixed word ('-hood', '-dom', '-ness')
 -> -(s)ein : [suf.] forms nouns from adjectives, denoting the condition or state of the suffixed word ('-hood', '-dom', '-ness')
-
 -(j)an : [suf.] used to form nouns, indicating someone with a connection to the suffixed word (German & English '-ling') {French}
-
 -(n)ät : [suf.] semblative; used to form adjectives from nouns, meaning resembling the suffixed word (esp. in behaviour)  
-
 -(n)i : [suf.] used to form nouns, indicating someone who is from a place or has a connection to the suffixed word (German & English '-ling')
 
+=== interjections ===
 
 häj : [intj.] exclamation, protest or reprimand, expression of surprise; informal greeting ('hey')  
 nö : [intj.] negative; used to show disagreement or disbelief ('no') {German}
-
+sievat : [intj.] farewell, goodbye ('sie' + 'vat')  
+-> sie : [intj.] bye  
+-> sievatin : [n.] farewell, goodbye
