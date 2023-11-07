@@ -231,7 +231,7 @@ räšt : [n.] right {German 'Rechts'}
 -> räštest : [adj.] rightmost  
 -> räštvär : [adj.] rightwards  
 ----> räštvärt : [adv.] rightwards  
-drän : [n.] front, face {?}
+drän : [n.] front, face {? Original}
 -> dränvär : [adj.] frontwards; forwards  
 ----> dränvärt : [adv.] frontwards; forwards  
 -> dränpar : [n.] frontside  
@@ -292,7 +292,7 @@ mest : [adv.] superlative ('most') {Dutch 'meest'}
 -> mestäs : [adj.] maximal  
 ----> mestäst : [adv.] maximally  
 le : [adv.] [det.] a few
-ler : [adv.] diminutive comparative ('less')  
+ler : [adv.] diminutive comparative ('less')
 lest : [adv.] diminutive superlative ('least') {English 'least'}  
 -> lestäs : [adj.] minimal  
 ----> lestäst : [adv.] minimally  
@@ -334,11 +334,11 @@ i : [adj.] (the) current, present {Japanese '今'}
 -> ijät : [adv.] currently  
 -> isät : [adv.] instead [prep.] instead of {'i' + 'sät'} (joins two clauses)
 
-alte : [det.] [n.] [adj.] other
+alte : [det.] [n.] [adj.] other {Latin 'alter' via French 'autre'}
 -> alt(e)- : [prf.] other
 -> altime : [n.] otherness
 
-maci : [det.] one's own
+maci : [det.] one's own {Original}
 -> kur tön maci : [phrase] mind your own business
 
 arü : [adv.] yet, still; thus far {Japanese 'ある'}
@@ -1286,7 +1286,7 @@ strom : [n.] location, place {Japanese '所'}
 -> strum : [n.] site
 
 skär : [n.] lane, track, channel {Original}
-pros : [n.] sign, board; panel, plaque, plate {?}
+pros : [n.] sign, board; panel, plaque, plate {? Original}
 
 liäs : [n.] link {? French 'lier'}
 -> aliäs : [v.] link, bind, connect
@@ -1349,7 +1349,7 @@ prod : [n.] pride [adj.] proud {Latin 'prode' via cogn. with English 'proud'}
 -> prodät : [adv.] proudly
 -> prodsat : [adj.] prideful
 ----> prodsät : [adv.] pridefully
-heer : [n.] [v.] hate
+heer : [n.] [v.] hate {~ English 'hate', ~ German 'Ehre'}
 -> heerin : [n.] hatred
 -> heerfär : [adj.] detestable
 ----> heerfärt : [adv.] detestably
@@ -1367,14 +1367,14 @@ gloria : [n.] glory {Latin}
 -> ašpag : [v.] [trans] shame
 -> špagver : [adj.] shameful
 ----> špagvert : [adv.] shamefully
-märs : [n.] pain, harm, suffering
+märs : [n.] pain, harm, suffering {Original}
 -> amärs : [v.] cause harm to
 -> märsver : [adj.] painful; harmful
 ----> märsverät : [adv.] painfully
-cörg : [v.] hurt
+cörg : [v.] [trans] hurt [v.] [intrans] (experience) pain {Original}
 -> cörgin : [n.] harm
-setör : [v.] (experience) pain [n.] pain
-ürt : [v.] sting, pinch
+-> cörge : [n.] pain
+ürt : [v.] sting, pinch {French 'urticant'}
 -> ürtin : [n.] sting, pinch
 -> ürtör : [n.] stinger
 -> ürta : [n.] spike
@@ -1395,12 +1395,12 @@ cer : [adj.] sad {Original}
 ----> cerima : [n.] [common] depression
 -> cerin : [n.] sadness; grief
 ----> vältcerin : [n.] weltschmerz
-urt : [v.] envy, be jealous of
--> urtin : [n.] envy, jealousy
--> urtina : [n.] envying, jealousy
--> urtime : [n.] (state of) envy, jealousy
--> urtäs : [adj.] envious, jealous
-----> urtäst : [adv.] enviously, jealously
+vurt : [v.] envy, be jealous of
+-> vurtin : [n.] envy, jealousy
+-> vurtina : [n.] envying
+-> vurtime : [n.] (state of) envy, jealousy
+-> vurtäs : [adj.] envious, jealous
+----> vurtäst : [adv.] enviously, jealously
 
 stin : {Serbian 'истина'}
 -- [adj.] true, genuine
@@ -1486,8 +1486,8 @@ posion : [n.] potion {French, English 'potion'}
 === historical ===
 armur : [n.] armor {French 'armure' via English}
 klad : [n.] sword {Proto-Celtic '*kladiwos' via French 'glaive'}
-špea : [n.] spear
-stam : [n.] shield
+špea : [n.] spear {German 'Speer', English 'spear'}
+stam : [n.] shield {?}
 kastäl : [n.] castle; fort {Breton 'kastell'}
 -> kastälu : [n.] fortress
 totäm : [n.] totem {French 'totème', English 'totem'}
@@ -1837,6 +1837,7 @@ post : [n.] mail {English, French 'poste'}
 ----> postäst : [adv.] postally
 -> postdat : [n.] mail bag
 -> lektrepost : [n.] [dated] email/e-mail
+-> e-post : [n.] email/e-mail
 päst : {French 'peste', English 'pester'}
 -- [n.] plague
 -- [v.] spread plague amongst
@@ -1855,7 +1856,7 @@ vampir : [n.] vampire {German 'Vampir' via English & French 'vampire'}
 kamb : [n.] bell {Latin 'campana'}
 -> kambu : [n.] little bell
 
-kinematografe : [n.] cinematography [dated] moving picture {French 'cinématographe', German 'Kino'}
+kinematograf : [n.] cinematography [dated] moving picture {French 'cinématographe', German 'Kino'}
 -> kinematografäs : [adj.] cinematographic
 -> kinematograför : [n.] cinematographer
 -> kine : [n.] film, motion picture
@@ -3238,11 +3239,11 @@ trum : [adj.] tough, difficult; harsh, stern {~ Finnish 'tuima'}
 sišt : [adj.] easy {Original}
 -> sištät : [adv.] easily
 
-gul : [adj.] wet {Breton 'gleb}
+gul : [adj.] wet {Breton 'gleb'}
 -> agul : [v.] wet
 -> gulät : [adv.] wetly
 
-sih : [adj.] dry {Latin 'sicco'}
+sih : [adj.] dry {Latin 'sicco' via French 'sec'}
 -> asih : [v.] dry
 -> sihät : [adv.] dryly
 
