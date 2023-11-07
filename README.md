@@ -69,7 +69,7 @@ else if it precedes a plosive, it is rendered as /x/.
 | ⟨ü⟩ | /y/ | \[ɥ] |
 
 The above vowels are realized as semiconsonants when preceding or proceeding a different vowel.
-When they follow a plosive and precede another vowel, they provoke the palatization, labio-palatization and palatization of the aforementioned plosive, respectively;
+When they follow a plosive and precede another vowel, they provoke the palatization, labio-palatization and labialization of the aforementioned plosive, respectively;
 
 | -  | -i⟩    | -ü⟩   | -u⟩   |
 | -  | :-:   | :-:   | :-:   |
@@ -106,7 +106,14 @@ When they follow a plosive and precede another vowel, they provoke the palatizat
 
 ### Phonotactics
 
-Syllable structure is (C)(C)V(C)(C).
+Syllable structure is (C)(H)V(C)(C).
+
+In an conset (C)(H):
+- (t) can be followed by (s), (š), (r), or (j)
+- (d) can be followed by (z), (ž), (r), or (j)
+- (p), (b), (k) and (g) can be followed by (r), (l), or (j)
+- (s) and (š) can be followed by (t), (p), (k), (m), (n), or (j)
+-  
 
 if ⟨si⟩ is the body of a first syllable, it is realized as \[çi].  
 
