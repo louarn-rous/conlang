@@ -186,7 +186,7 @@ si : [cnjc.] if, in the case/condition that, given/supposing/assuming that {Fren
 -sti: [suf.] semblative; forms adjectives from nouns, having the sense of resembling the suffixed word
 -sat : [suf.] forms adjectives from nouns, meaning to possess or have the quality of the suffixed noun (English '-ful') {see 'sat'}
 
--ret : [suf.] used to form nouns, meaning the practice of doing or doing something related to the suffixed word {see 'ret'}
+-ret : [suf.] used to form nouns, meaning the practice of doing or doing something related to the suffixed word (English '-ry') {see 'ret'}
 
 -e : [suf.]
 -- forms ordinal numbers {French '-ème')
@@ -551,6 +551,7 @@ segetim : [n.] insect {'sek(et)' + '-im'}
 mostik : [n.] mosquito {French 'moustique', English 'mosquito'}
 apiä : [n.] bee {Latin 'apis'}
 -> apiäs : [n.] apian
+-> apiäretom : [n.] apiary
 scarbe : [n.] beetle, scarab {French 'scarabée', English 'scarab'}
 musk : [n.] fly {Latin 'musca' via French 'mouche'}
 
@@ -607,11 +608,11 @@ ohtfus : [n.] octopus {'oht' + 'fus'}
 === crops, food, drink, vegetables, produce, fruits ===
 karot : [n.] carrot {French 'carrote'}
 radis : [n.] radish {French}
-biit : [n.] beet {English 'beet'}
--> rodbiit : [n.] beetroot {'rod' + }
+bijt : [n.] beet {English 'beet'}
+-> rodbijt : [n.] beetroot {'rod' + }
 patat : [n.] potato {French 'patate'}
 kohl : [n.] cabbage {German 'Kohl'}
-mili : [n.] corn {Afrikaans 'mielie'}
+mijl : [n.] corn {Afrikaans 'mielie'}
 ris : [n.] rice {French 'riz', English 'rice'}
 abercin : [n.] eggplant {Catalan 'albergínia' via French 'aubergine'}
 kurbite : [n.] gourd, squash; pumpkin {Latin 'cucurbita'}
@@ -808,8 +809,9 @@ ter : {French 'terre'}
 ----> ater : [v.] (of aircraft) to land @
 ----> teräs : [adj.] earthly
 -------> teräst : [adv.] earthily
-----> ucter : [n.] underground
--------> ucteräs : [adj.] underground, subterreanean
+----> ucter : [adj.] underground
+-------> ucteräs : [adj.] subterreanean
+-------> ucterom : [n.] underground
 -- [v.] (of electrical equipment) connect to the ground
 -- [v.] (of aircraft) prevent from flying
 feld : [n.] field; plains {German 'Feld'}
@@ -1132,6 +1134,7 @@ ferm : [n.] [v.] farm {Latin 'firma' + via French 'ferme'}
 -> fermör : [n.] farmer
 -> fermlant : [n.] farmland
 -> fermina : [n.] farming
+laboratom : [n.] laboratory {Latin 'laboratorium' via English 'laboratory' & French 'laboratoire'}
 
 === clothes : getälen ===
 šos : [n.] shoe {French 'chaussure'}
@@ -1145,7 +1148,7 @@ hälm : [n.] helmet {English 'helm'}
 lön : [m.] wool; woolen {French 'laine'}
 
 === concepts ===
-učä : [n.] subject, object, item
+učä : [n.] subject, object, item {?}
 -> uči : [n.] concept, idea
 ----> učijäs : [adj.] conceptual
 -------> učijäst : [adv.] conceptually
@@ -1206,11 +1209,6 @@ natur : [n.] nature {German 'Natur', French & English 'nature'}
 -> naturäs : [adj.] natural (pertaining to nature)
 -> naturät : [adj.] natural
 
-kaus : [v.] care, precaution, guard {Latin 'caveo'}
--> kause : [n.] guard, care, precaution
--> kaussat : [adj.] cautious, suspicious, wary
--> kausina : [n.] caution, warning
-
 dače : [n.] chance, luck {Russian 'удача'}
 -> dačesat : [adj.] lucky
 ----> dačesät : [adv.] luckily
@@ -1237,8 +1235,6 @@ vet : [n.] age {Latin 'vetus'}
 -> ötrena : [n.] crisis
 -> ötrenäs : [adj.] problematic
 -> ötrenu : [n.] trouble
-
-pajg : [n.] page {Latin 'pagina'}
 
 niväl : [n.] level {English 'level', French 'niveau'}
 strat : [n.] layer {Latin 'stratum' via English}
@@ -1284,9 +1280,6 @@ strom : [n.] location, place {Japanese '所'}
 -> imstrom : [v.] localize
 ----> imstromet : [adj.] localized
 -> strum : [n.] site
-
-skär : [n.] lane, track, channel {Original}
-pros : [n.] sign, board; panel, plaque, plate {? Original}
 
 liäs : [n.] link {? French 'lier'}
 -> aliäs : [v.] link, bind, connect
@@ -1549,15 +1542,17 @@ glas : {French 'glace'}
 ----> aglas : [v.] freeze
 uis : [n.] water {? Original}
 -> uissor : [n.] toilet {+ 'sor'}
-vir : {French 'ver'}
--- [m.] glass
----> avir : [v.] to turn into glass
----> virtöl : [n.] window, window pane, glass pane {+ 'töl'}
+vir : [m.] glass {French 'ver'}
+-> avir : [v.] turn into glass
+-> virtöl : [n.] window, window pane, glass pane {+ 'töl'}
+-> ölvir : [n.] eyeglass, lens
+----> ölviren : [n.] glasses, spectacles
 gice : [n.] cup; mug; chalice {Original}
 -> gicu : [n.] small cup or glass
 
 fibr : [m.] fibre {French 'fibre'}
 -> fibrät : [adj.] fibrous
+žut : [m.] jute {French 'jute'}
 läder : [m.] leather {Swedish, via English 'leather'}
 -> lädersic: [adj.] leathery
 linen : [m.] linen {English}
@@ -1567,11 +1562,8 @@ papiir : {Anc. Greek 'πάπυρος' via English 'paper' & French 'papier'}
 ----> gepapiir : [n.] [collective] documentation
 ----> apapiir : [v.] to summarize; document, create a report on
 ----> papiirsor : [n.] filing cabinet
-gärt : {Anc. Greek 'χάρτης' via Latin 'charta' via French 'carte' & English 'card'}
--- [n.] card
-----> monetgärt : [n.] debit card
--- [n.] map
--- [m.] card
+gärt : [n.] card [n.] map [n.] [adj.] card (material) {Anc. Greek 'χάρτης' via Latin 'charta' via French 'carte' & English 'card'}
+-> monetgärt : [n.] debit card
 
 === form ===
 štok : [n.] stick, branch; handle, rod {German 'Stock'}
@@ -1580,6 +1572,8 @@ pot : [n.] pole, post; trunk {French 'poteau'}
 ----> manpotu : [n.] handlebar
 -> uisespot : [n.] fire hydrant
 linn : [n.] line, string, cord, rope {French 'ligne', later ~ Latin 'linea'}
+-> lektrestörlinn : [n.] telephone line
+-> linna : [n.] cable, wire
 lozanž : {French 'losange'}
 -- [n.] rhombus, lozange
 -- [n.] pill or tablet, esp. one shaped like a rhombus
@@ -1596,6 +1590,7 @@ näät : [n.] net, mesh {English 'net'}
 -> näätime : [n.] netting; network
 -> näätvine : [n.] cyberspace, virtual place
 -> näät : [n.] [adj.] net (internet)
+----> näätpajg : [n.] website {+ 'pajg'}
 ark : [n.] bow, arc; semicircle {Latin 'arcus'}
 -> ark : [n.] [f:archery] bow
 brik : [n.] brick, ingot {French 'brique', English 'brick'} #
@@ -1610,12 +1605,6 @@ sper : [v.] curl, coil {Latin 'spirale' via French, via English 'spiral'}
 -> sperin : [n.] spiral, curl; coil
 tave : [n.] tube, pipe, barrel [n.] pipe (tobacco) {Romanian 'țeavă'}
 -> tavu : [n.] small pipe
-
-vapor : [n.] steam, vapor {Latin}
--> ustvapor : [v.] evaporate
-----> ustvaporina : [n.] evaporation
--> avapor : [v.] steam
-
 cär : [n.] reed, stem; straw {Original}
 -> gecär : [m.] straw
 -> sulecär : [n.] drinking straw
@@ -1623,6 +1612,18 @@ kev : {Anc. Greek 'κύβος' via French & English 'cube'}
 -- [n.] cube
 -- [n.] [f:mathematics] third power of a number or term
 ----> akev : [v.] [f:mathematics] to multiply a number by itself twice
+
+skär : [n.] lane, track, channel {Original}
+pros : [n.] sign, board; panel, plaque, plate {? Original}
+pajg : [n.] page {Latin 'pagina'}
+
+vapor : [n.] steam, vapor {Latin}
+-> ustvapor : [v.] evaporate
+----> ustvaporina : [n.] evaporation
+-> avapor : [v.] steam
+-> vaporfum : [v.] vape
+----> vaporfumör : [n.] vaporizer/vape (device)
+----> vaporfumret : [n.] (practice of) vaping
 
 === house ===
 kav : [n.] basement {French 'cave'}
@@ -2085,7 +2086,7 @@ ci : [v.] fare; be, feel {originally 'si', ? French 'soit'}
 -> cievat : [intj.] farewell, goodbye {'ci' + 'vat'}
 ----> cie : [intj.] bye  
 ----> cievatin : [n.] farewell, goodbye
--> ciin : [n.] experience, times
+-> cijn : [n.] experience, times
 
 ej : [v.] have; possess; contain {English 'have', French 'avoir'} [EXCEPTION]
 -> ejime : [n.] possession
@@ -2107,6 +2108,10 @@ tenn : [v.] hold, keep {French 'tenir'}
 -> donetenn : [v.] loan
 ----> donetinn : [n.] loan
 ----> donetinna : [n.] (act of) loaning
+kaus : [v.] care, precaution, guard {Latin 'caveo'}
+-> kause : [n.] guard, care, precaution
+-> kaussat : [adj.] cautious, suspicious, wary
+-> kausina : [n.] caution, warning
 
 bišt : [v.] carry, bear {Original, backform from 'bištir'}
 -> bištir : [v.] bring {Original}
@@ -2676,6 +2681,7 @@ grom : [v.] groan, rumble {Serbian 'гром'}
 -> groma : [n.] thunder
 
 träg : [v.] wear {German 'tragenen'}
+-> aträg : [v.] dress; make wear
 
 lig : [v.] tie {Latin 'ligare'}
 -> lige : [n.] knot; tie
@@ -2694,7 +2700,7 @@ ecar : [v.] behave, act {~ 'es' + 'ret'}
 ----> mecaret : [adj.] badly behaved
 -------> mecaretime : [n.] (state of) being badly behaved
 
-guran : [v.] tickle {? Original}
+guran : [v.] tickle {Original}
 -> guranin : [n.] tickles
 -> guran (ceni den) isän (učä) : [phrase] tease (someone) about (subject)
 
@@ -2877,7 +2883,7 @@ skän : {? Latin 'scala'}
 ----> skänu : [n.] step
 -------> skänude : [n.] steps; stairs
 
-plod :
+plod : {Latin 'plodo' via English 'explode', 'implode'}
 -- [v.] burst, blow
 ----> ustplod : [v.] explode
 -------> ustplodina : [n.] explosion
@@ -2971,9 +2977,6 @@ studer : [v.] study {Latin 'studere' via English 'study'}
 
 tagär : [v.] meet, encounter, frequent {Original}
 -> tagärin : [n.] meeting; date
-
-addikt : [v.] be addicted to
--> addiktime : [n.] (state of) addiction
 
 päs : {Original}
 -- [v.] [trans] feed, nourish
@@ -3334,9 +3337,9 @@ sut : [adj.] still, down, low, seated {Japanese '座る', English 'sit'}
 -> sutom : [n.] city
 -> sute : [n.] seat
 
-striis : [n.] ?? {~'tri' + 'stras', Latin 'trivium'}
--> striisäs : [adj.] vulgar; trivial
-----> striisäst : [adv.] vulgarly; trivially
+strijs : [n.] ?? {~'tri' + 'stras', Latin 'trivium'}
+-> strijsäs : [adj.] vulgar; trivial
+----> strijsäst : [adv.] vulgarly; trivially
 
 šig : [adj.] common, frequent; familiar, acquainted
 -> šigät : [adv.] commonly, frequently
