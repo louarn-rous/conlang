@@ -111,9 +111,10 @@ Syllable structure is (C)(H)V(C)(C).
 In an conset (C)(H):
 - (t) can be followed by (s), (š), (r), or (j)
 - (d) can be followed by (z), (ž), (r), or (j)
-- (p), (b), (k) and (g) can be followed by (r), (l), or (j)
+- (p), (b), (k), (g), (f), and (v) can be followed by (r), (l), or (j)
 - (s) and (š) can be followed by (t), (p), (k), (m), (n), or (j)
--  
+- (z), (ž), (l), (m), and (n) can be followed by (j)
+- (r), (h), (j) cannot be followed by any medial
 
 if ⟨si⟩ is the body of a first syllable, it is realized as \[çi].  
 
