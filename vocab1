@@ -802,8 +802,8 @@ erc : [n.] ore {German 'Erz'}
 lant : [n.] land, domain {German 'Land'}
 -> alant : [v.] [intrans] make contact/arrive at land surface from air or sea
 -> ölant : [n.] island, isle {Swedish 'ö', English 'island'}
--> ustlant : [n.] foreign land
-----> ustlantör : [n.] person from foreign land, foreigner
+-> ustäslant : [n.] foreign land
+----> ustäslantör : [n.] person from foreign land, foreigner
 ter : {French 'terre'}
 -- [n.] earth, ground, dirt
 ----> ater : [v.] (of aircraft) to land @
@@ -1691,7 +1691,7 @@ nat : [n.] day {? Breton 'mat'}
 -> minat : [n.] midday {'mi(t)-' +}
 -> sätänat : [n.] week {'sät' +}
 ----> sätänatäs : [n.] weekly
--> natlum : [n.] daylight
+-> natäslum : [n.] daylight
 nošt : [n.] night {Russian 'ночь', German 'Nacht'}
 -> noštäs : [adj.] nocturnal, nightly
 ----> noštäst : [adv.] nocturnally
@@ -2618,6 +2618,8 @@ klöd : [v.] fasten, secure, lock; contain, surround {Latin 'claudo'}
 -> imklöd : [v.] imprison
 ----> imklödime : [n.] (state of) imprisonment
 ----> imklödina : [n.] imprisonment
+lig : [v.] tie {Latin 'ligare'}
+-> lige : [n.] knot; tie
 
 plis : [v.] fold {French 'plisser', Latin 'plicare' via French 'plier'}
 -> plisin : [n.] fold
@@ -2644,7 +2646,6 @@ ver : [n.] worth, value, merit {Latin 'valor' via Italian 'valore' & French 'val
 ----> verätime : [n.] dignity
 -> -ver : [suf.] forms adjectives from nouns, meaning deserving or worthy of the suffixed word ('-worthy', '-some')
 
-
 heg : [v.] [reflexive] choke
 -> aheg : [v.] [trans] suffocate; disturb, distress, trouble
 ----> ahegät : [adj.] anxious, distressed, troubled
@@ -2663,8 +2664,8 @@ heg : [v.] [reflexive] choke
 spär : [v.] [n.] hope {Latin 'spero' via French 'espérer'}
 -> späruz : [adj.] hopeful
 ----> späruzät : [adv.] hopefully
-tatlän : [v.] [n.] doubt {Original}
--> tatlänver : [adj.] doubtsome, doubtful
+taträn : [v.] [n.] doubt {Original}
+-> tatränver : [adj.] doubtsome, doubtful
 plän : [v.] to mourn, pity; to bewail, lament for {Latin 'plango' via English 'complain' & French 'plaindre'}
 -> plänina : [n.] lament; complaint
 -> plänfär : [adj.] pitiable
@@ -2683,8 +2684,9 @@ grom : [v.] groan, rumble {Serbian 'гром'}
 träg : [v.] wear {German 'tragenen'}
 -> aträg : [v.] dress; make wear
 
-lig : [v.] tie {Latin 'ligare'}
--> lige : [n.] knot; tie
+merg : [v.] dip, plunge, sink {Latin 'mergo'}
+-> ustmerg : [v.] emerge
+-> immerg : [v.] immerse
 
 čus : [v.] trespass, violate, breach, infringe {Original}
 -> čusin : [n.] breach
@@ -2712,7 +2714,6 @@ falt : [v.] falter {Portugese 'faltar', French 'faute', English 'fault'}
 ----> faltenuz : [adj.] faultless, flawless, impeccable
 -> faltafär : [adj.] fallible
 ----> faltafärt : [adv.] fallibly
-
 
 fäns : [v.] strike, thrust, hit {Latin 'fendo' + via 'defensa'}
 -> defäns : [v.] defend, guard, protect
@@ -2839,7 +2840,7 @@ räs : [v.] let, allow
 ----------> nearäsfärt : [adv.] intolerantly
 ----------> nearäsfärime : [n.] intolerability
 -> aräsime : [n.] tolerance, endurance
--> usträs : [v.] release
+-> usträs : [v.] release, emanate
 ----> usträsin : [n.] release
 -> imräs : [v.] invite
 ----> imräsin : [n.] invitation
@@ -2851,7 +2852,7 @@ probit : [v.] prohibit, disallow
 las : {French 'laisser'}
 -- [v.] leave, depart
 ----> lasina : [n.] departure
-----> ustlas : [v.] emerge, emanate
+
 -- [v.] leave behind, let (go of)
 ----> dölas : [v.] discard, dump
 perd : [v.] lose; drop; waste {French 'perdre'}
@@ -3104,9 +3105,8 @@ löv : [v.] [trans] lift [intrans] stand, rise {French 'lever'}
 -> alöv : [v.] [trans] wake (up)
 -> relöv : [v.] relieve, lighten; alleviate, mitigate
 ----> relövin : [n.] relief
--> ustlöv : [v.] excel, out-do; exceed; overcome
-----> ustlövät : [adj.] excellent
-
+-> uslöv : [v.] excel, out-do; exceed; overcome {'ust-' +}
+----> uslövät : [adj.] excellent
 spir : [v.] breathe {Latin 'spiro' via French 'inspirer'}
 -> spirina : [n.] breathing
 -> spirin : [n.] breath
@@ -3123,7 +3123,7 @@ läg : [v.] select, choose, pick {Latin 'lego' via English 'select'}
 -> lägina : [n.] selection
 -> lägatäs : [adj.] legendary {Latin 'legendus'}
 ----> lägatäst : [adv.] legendarily
--> ustläg : [v.] pick out; pluck
+-> usläg : [v.] pick out; pluck {'ust-' +}
 
 lav : [v.] wash {French 'laver'}
 -> lavina : [n.] washing
