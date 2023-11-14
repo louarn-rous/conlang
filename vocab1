@@ -10,7 +10,7 @@ as : [det.] distal demonstrative ('that', 'those')
 -> asa : [n.] distal locative ('there')
 
 ža : [det.] interrogative ('what', 'which') {Croatian 'za'}  
--> žaj : [det.] (non-interrogative) what, which
+-> žaj : [det.] [prn.] (relative) what, which
 -> ödža : [det.] why {'öd' +}  
 ----> žadöj : [det.] (non-interrogative) why, the reason for which
 -> läža : [det.] how {'läš' +}  
@@ -183,8 +183,11 @@ si : [cnjc.] if, in the case/condition that, given/supposing/assuming that {Fren
 -- [suf.] used to form adverbs, giving a verb the quality of the suffixed word ('-ly', '-y')
 -- [suf.] used to form adjectives from verbs, meaning 'inclined to' ('-y')
 
+-et or -it : [suf.] past participle {see README.md#Verbs}
+-es : [suf.] present participle {see README.md#Verbs}
+
 -sti: [suf.] semblative; forms adjectives from nouns, having the sense of resembling the suffixed word
--sat : [suf.] forms adjectives from nouns, meaning to possess or have the quality of the suffixed noun (English '-ful') {see 'sat'}
+-sat : [suf.] forms adjectives from nouns, meaning to possess or have the quality of the suffixed noun (English '-ful', -'ous') {see 'sat'}
 
 -ret : [suf.] used to form nouns, meaning the practice of doing or doing something related to the suffixed word (English '-ry') {see 'ret'}
 
@@ -545,6 +548,10 @@ luter : [n.] otter {Latin 'lutra' + via French 'loutre'}
 -> luteräs : [adj.] lutrine
 ermin : [n.] ermine {French 'hermine', English 'ermine'}
 -> erminäs : [adj.] of or pertaining to ermines
+mustel : [n.] weasel {Latin 'mustela'}
+-> musteläs : [adj.] of or pertaining to weasels
+-> mustelsti : [adj.] cunning, sneaky, devious
+----> mustelstijät : [adv.] cunningly, sneakily, deviously
 
 segetim : [n.] insect {'sek(et)' + '-im'}
 -> segetimäs : [adj.] insectile
@@ -1033,7 +1040,6 @@ telefon : [n.] [v.] telephone
 === tools : utejen ===
 fals : [n.] sickle {Catalan 'falç'}
 brust : [n.] brush {Breton 'broust'}
-torš : [n.] cloth {Breton 'torch'}
 spel : [n.] shovel, spade {French 'pelle', English 'spelunk', ? English 'spade'}
 sajl : [n.] bucket, pail {Breton 'sailh'}
 kuog : [n.] [v.] hoe {Finnish 'kuokka'}
@@ -1196,6 +1202,10 @@ orde : [n.] order, arrangement, series {Latin 'ordo'}
 ----> desordät : [adj.] disorderly, messy
 -------> desordätime : [n.] (state of) disorderliness
 ----> desordime : [n.] (state of) disorder
+
+virte : [n.] virtue {Latin 'virtus'}
+-> virtsat : [adj.] virtuous
+----> virtsät : [adv.] virtuously
 
 mod : [n.] style, fashion, way, manner {French 'mode'}
 -> -mod : [suf.] used to form verbs from nouns, with the sence of playing the role of, or being the suffixed word
@@ -1585,9 +1595,12 @@ guip : [n.] drop {French 'goutte', English 'drop'}
 rad : [n.] ray {Latin 'radius' via English 'radio'}
 -> erad : [v.] irradiate
 täl : [n.] fabric, canvas; (spider's) web {Latin 'tela' via French 'toile'}
--> getäl : [n.] cloth
+-> getäl : [m.] cloth
 ----> getälen : [n.] clothes, garments
 -------> getälensor : [n.] wardrobe, closet
+----> getälu : [n.] cloth, serviette, napkin
+----> temstäl : [n.] tablecloth {'tem' +}
+-------> temstälu : [n.] apron
 näät : [n.] net, mesh {English 'net'}
 -> antenäät : [n.] internet
 ----> antenääcor : [n.] router, modem {+ 'sor'}
@@ -1674,6 +1687,8 @@ töl : {French 'tuile'}
 -- [v.] to cover with tiles
 fraj : [n.] window, opening; glimpse; opportunity {Original}
 -> frajsnog : [n.] windowsill {+ 'snog'}
+-> frajtäl : [n.] curtain
+----> frajtälen : [n.] curtains
 
 === games ===
 bal : [n.] ball {French 'balle'}
@@ -2619,7 +2634,7 @@ präm : [v.] [trans] [n.] press
 -> prämin : [n.] pressure; stress
 -> apräm : [v.] pressure
 träš : [v.] [trans] throw {Original}
--> trešör : [n.] one who throws
+-> träšör : [n.] one who throws
 -> träšin : [n.] throw
 trös : [v.] [trans] catch {Original}
 -> trösör : [n.] one who catches
@@ -2695,6 +2710,7 @@ grom : [v.] groan, rumble {Serbian 'гром'}
 
 träg : [v.] wear {German 'tragenen'}
 -> aträg : [v.] dress; make wear
+-> träge : [n.] dress, outfit
 
 merg : [v.] dip, plunge, sink {Latin 'mergo'}
 -> ustmerg : [v.] emerge
@@ -2817,6 +2833,9 @@ brit : [v.] break {Swedish 'bryta'}
 troš : [v.] [trans] slice, cut {French 'trancher'}
 -> trošör : [n.] one that cuts
 -> trošin : [n.] cut, incision
+-> trošte : [n.] dresses, robes, skirts, jupes or similar
+---> lontrošte : [n.] dress, robe
+---> šuttrošte : [n.] skirt
 sek : [v.] cut, seperate, divide; amputate {Latin 'seccare'}
 -> sekina : [n.] seperation, cutting
 -> sekpäre : [n.] part, section
