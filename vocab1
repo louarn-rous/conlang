@@ -652,9 +652,8 @@ sukar : {Arabic 'سكر' via French 'sucre' & English 'sugar'}
 -- [adj.] sweet
 ----> sukarät : [adv.] sweetly
 ----> asukar : [v.] sweeten {'-a' + 'sukar'}
-kräm : {French 'crème'}
--- [n.] cream
--- [v.] to fill or cover with cream
+kräm : [n.] cream [v.] to fill or cover with cream {French 'crème'}
+-> krämglas : [n.] ice cream, gelato
 käbab : {Arabic 'كباب' via English 'kebab' & French 'kébab'}
 -- [n.] kebab
 ----> kebabsötör : [v.] kebab-maker
@@ -1549,11 +1548,10 @@ lum : {Late Latin 'lūmināria' via French 'lumière'}
 är : [n.] air {French & English 'air'}
 säht : [m.] silk {Latin 'saeta' via French 'soie'}
 kotun : [m.] cotton {Arabic 'قطن' via French 'coton' & English 'cotton'}
-glas : {French 'glace'}
--- [n.] ice
-----> glasät : [adj.] icy
--- [adj.] frozen
-----> aglas : [v.] freeze
+glas : [n.] ice [v.] freeze {French 'glace'} 
+-> glasät : [adj.] icy, iced
+-> glasäs : [adj.] glacial
+-> glast : [adj.] frozen
 uis : [n.] [v.] water {? Original}
 -> uissor : [n.] toilet {+ 'sor'}
 vir : [m.] glass {French 'ver'}
