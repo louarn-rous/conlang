@@ -2094,6 +2094,7 @@ kanton : [n.] [f:vexillology] canton {English 'canton'}
 ulagarda : [n.] [f:marxism] vanguard {'ula' + 'garda'}
 bit : [n.] [f:computing] bit
 servör : [n.] [f:computing] server
+adjektiv : [n.] adjective {Latin 'adiectivus'}
 
 === verbs ===
 ser : [v.] be {Original} [EXCEPTION]
@@ -2631,7 +2632,7 @@ prös : [v.] [trans] [n.] push
 präm : [v.] [trans] [n.] press
 -> prämin : [n.] pressure; stress
 -> apräm : [v.] pressure
-träš : [v.] [trans] throw {Original}
+träš : [v.] [trans] throw, hurl {Original}
 -> träšör : [n.] one who throws
 -> träšin : [n.] throw
 trös : [v.] [trans] catch {Original}
