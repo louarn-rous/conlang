@@ -558,7 +558,7 @@ segetim : [n.] insect {'sek(et)' + '-im'}
 -> segetimmanžör : [n.] insectivore (+ 'manž' + '-ör')
 mostik : [n.] mosquito {French 'moustique', English 'mosquito'}
 apiä : [n.] bee {Latin 'apis'}
--> apiäs : [n.] apian
+-> apijäs : [n.] apian
 -> apiäretom : [n.] apiary
 scarbe : [n.] beetle, scarab {French 'scarabée', English 'scarab'}
 musk : [n.] fly {Latin 'musca' via French 'mouche'}
@@ -1331,7 +1331,7 @@ fras : [n.] phrase, expression, term {Anc. Greek 'φράσις' via English & Fr
 
 jukos : [n.] monster {Original}
 bäst : [n.] beast, creature {French 'bête', English 'beast'}
--> bäsic: [adj.] beastial, beastly
+-> bästi : [adj.] beastial, beastly
 -> bästu : [n.] bug, critter
 
 nam : [n.] name {German 'Name', French 'nom', English 'name'}
@@ -1922,7 +1922,7 @@ klet : [n.] cage {Russian 'клетка'}
 -> klett : [adj.] caged
 
 ruft : [n.] [v.] rust {Latin 'rufus'}
--> rufsat : [adj.] rusty
+-> ruftsat : [adj.] rusty
 -> ruftet : [adj.] rusted
 
 amau : [n.] shadow {Anc. Greek 'ἀμαυρός'}
@@ -2469,13 +2469,13 @@ ret : [v.] do {Breton}
 sad : [v.] happen, occur {Latin 'cado'}
 -> imsad : [v.] take place; meet, intersect
 ----> imsadina : [n.] incident
--------> imsadinaäs : [adj.] incidental
-----------> imsadinaäst : [adv.] incidentally
+-------> imsadinäs : [adj.] incidental
+----------> imsadinäst : [adv.] incidentally
 ----> imsadime : [n.] incidence
 ----> uzimsad : [v.] to coincide
 -------> uzimsadina : [n.] (a) coincidence
-----------> uzimsadinaäs : [adj.] coincidental
--------------> uzimsadinaäst : [adv.] coincidentally
+----------> uzimsadinäs : [adj.] coincidental
+-------------> uzimsadinäst : [adv.] coincidentally
 -------> uzimsadime : [n.] (state of) coincidence
 -> sadina : [n.] happening, event
 -> sadime : [n.] occurence
