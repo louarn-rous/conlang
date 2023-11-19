@@ -621,6 +621,7 @@ bijt : [n.] beet {English 'beet'}
 -> rodbijt : [n.] beetroot {'rod' + }
 patat : [n.] potato {French 'patate'}
 kohl : [n.] cabbage {German 'Kohl'}
+läts : [n.] lettuce {French 'laitue', English 'lettuce'}
 mijl : [n.] corn {Afrikaans 'mielie'}
 ris : [n.] rice {French 'riz', English 'rice'}
 abercin : [n.] eggplant {Catalan 'albergínia' via French 'aubergine'}
@@ -628,6 +629,7 @@ kurbite : [n.] gourd, squash; pumpkin {Latin 'cucurbita'}
 sorsic: [n.] capsicum, bell pepper {'soru' + '-sic'}
 melon : [n.] melon {English}
 tomat : [n.] tomato {French 'tomate'}
+pomegrenaat : [n.] pomegranate {Italian 'pomogranato' + via English 'pomegranate'} 
 pera : [n.] pear {Italian via Latin 'pirum' via English 'pear'}
 sitre : [n.] citrus; lemon {Latin 'citrus' via English, French 'citron'}
 -> grönsitre : lime {'grön' + }
@@ -2966,11 +2968,11 @@ furn : [v.] bake, roast {French 'four', English 'furnace'}
 ----> furnt : [n.] roast
 graj : [v.] grill {Latin 'cratis', + via English 'grill' + French 'griller'}
 -> grajet : [adj.] grilled
-kog : [v.] cook {Latin 'coquo'}
--> kogret : [n.] cooking (practice)
--> kogina : [n.] cooking (process)
--> kogom : [n.] kitchen
--> kogör : [n.] cook (occupation)
+kag : [v.] cook {Latin 'coquo'}
+-> kagret : [n.] cooking (practice)
+-> kagina : [n.] cooking (process)
+-> kagom : [n.] kitchen
+-> kagör : [n.] cook (occupation)
 
 vad : [v.] fit, match, correspond {Original}
 -> vadin : [n.] match
