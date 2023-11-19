@@ -753,10 +753,8 @@ sturm : {German 'Sturm', English 'storm'}
 -- [n.] storm
 ----> sturmät : [adj.] stormy
 -- [v.] rush, attack, storm
-glau : {Breton}
--- [n.] rain
-----> glauät : [adj.] rainy
--- [v.] [intrans] (of a liquid) rain
+glau : [n.] rain [v.] [intrans] (of a liquid) rain {Breton}
+-> glauät : [adj.] rainy
 snež : {English 'snow', French 'neige'}
 -- [n.] snow
 ----> snežät : [adj.] snowy
