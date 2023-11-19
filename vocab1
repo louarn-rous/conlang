@@ -1584,10 +1584,11 @@ gärt : [n.] card [n.] map [n.] [adj.] card (material) {Anc. Greek 'χάρτης
 
 === form ===
 štok : [n.] stick, branch; handle, rod {German 'Stock'}
-pot : [n.] pole, post; trunk {French 'poteau'}
--> potu : [n.] bar, rod
-----> manpotu : [n.] handlebar
--> uisespot : [n.] fire hydrant
+post : [n.] pole, post; trunk {French 'poteau', English 'post'}
+-> postu : [n.] bar, rod
+----> manpostu : [n.] handlebar
+-> uisespost : [n.] fire hydrant
+pot : [n.] pot, vase {French & English}
 linn : [n.] line, string, cord, rope {French 'ligne', later ~ Latin 'linea'}
 -> lektrestörlinn : [n.] telephone line
 -> linna : [n.] cable, wire
@@ -1595,6 +1596,7 @@ lozanž : {French 'losange'}
 -- [n.] rhombus, lozange
 -- [n.] pill or tablet, esp. one shaped like a rhombus
 guip : [n.] drop {French 'goutte', English 'drop'}
+-> guipu : [n.] droplet
 rad : [n.] ray {Latin 'radius' via English 'radio'}
 -> erad : [v.] irradiate
 täl : [n.] fabric, canvas; (spider's) web {Latin 'tela' via French 'toile'}
@@ -1630,6 +1632,7 @@ cär : [n.] reed, stem; straw {Original}
 -> sulecär : [n.] drinking straw
 kev : {Anc. Greek 'κύβος' via French & English 'cube'}
 -- [n.] cube
+----> kevsti : [adj.] cubic
 -- [n.] [f:mathematics] third power of a number or term
 ----> akev : [v.] [f:mathematics] to multiply a number by itself twice
 
@@ -2402,7 +2405,6 @@ mjec : [v.] measure; judge {Anc. Greek 'μέτρον'}
 ----> mosmjecäs : [adj.] isometric
 -> mjecina : [n.] (act of) measurement; judgement
 -> mjece : [n.] measure, price, scale, rate
-
 
 vedir : [v.] lead, guide {Serbo-Croatian 'водити', Latin 'dirigo' via French 'diriger' & Spanish 'dirigir'}
 -> vedirör : [n.] guide, leader
