@@ -1974,7 +1974,7 @@ sor : [n.] chest, trunk {Original
 ----> imsoru : [n.] [f:email] inbox
 -> sorpros : [n.] shelf, cabinet, cupboard
 cugot : [n.] bottle; canteen, gourd {Original}
-tukon : [n.] lid, cap; plug {Korean '뚜껑'}
+tukon : [n.] lid, cap, top; plug {Korean '뚜껑'}
 maid : [n.] shell, hull
 -> maidu : [n.] case
 
@@ -2942,6 +2942,9 @@ flet : [v.] fly {German 'Flieg', French 'voler', English 'flutter'}
 -> fletin(a) : [n.] flight
 
 ruin : [v.] [n.] ruin {French 'ruine', English 'ruin', German 'Ruin'}
+
+pug : [v.] plug, seal {Hungarian 'dugó', English 'plug'}
+bistug : [n.] plug, seal {Finnish 'pistoke', ~ 'pug'}
 
 skän : {? Latin 'scala'}
 -- [v.] climb, scale
