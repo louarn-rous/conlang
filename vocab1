@@ -500,9 +500,9 @@ kuz : [n.] sheep {Turkish 'kuzu'}
 bok : [n.] goat {Afrikaans}
 -> bokäs : [adj.] caprine
 -> boku : [n.] kid
-eküs : [n.] horse {Latin 'equus'}
--> eküsäs : [adj.] equine
--> eküsu : [n.] foal
+ekus : [n.] horse {Latin 'equus'}
+-> ekusäs : [adj.] equine
+-> ekusu : [n.] foal
 az : [n.] donkey {Breton 'azen'}
 -> azäs : [adj.] asinine
 -> azu : [n.] donkey foal
@@ -2767,6 +2767,8 @@ ecar : [v.] behave, act {~ 'es' + 'ret'}
 guran : [v.] tickle {Original}
 -> guranin : [n.] tickles
 -> guran (ceni den) isän (učä) : [phrase] tease (someone) about (subject)
+
+küs : [v.] kiss {German 'küss'}
 
 falt : [v.] falter {Portugese 'faltar', French 'faute', English 'fault'}
 -> falte : [n.] fault, flaw
