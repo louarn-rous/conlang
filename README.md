@@ -106,6 +106,8 @@ When they follow a plosive and precede another vowel, they provoke the palatizat
 
 ### Phonotactics
 
+Stress is always on the first syllable.
+
 Syllable structure is (C)(H)V(C)(C).
 
 In an conset (C)(H):
