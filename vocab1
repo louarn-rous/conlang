@@ -1243,6 +1243,11 @@ sort : [n.] fate, fortune; destined {Latin 'sors'}
 undär : [n.] wonder {Icelandic 'undur'}
 -> undärver : [adj.] wonderful (worthy of wonder
 
+fogu : [n.] [f:optics] focus {English 'focus'}
+-> afogu : [v.] [trans] put into focus, focus on
+-> fogut : [adj.] focused; subject of focus
+----> nefogut : [adj.] unfocused; not the subject of focus
+
 vet : [n.] age {Latin 'vetus'}
 -> avet : [v.] age
 ----> avetina : [n.] aging
@@ -2407,6 +2412,7 @@ mjec : [v.] measure; judge {Anc. Greek 'μέτρον'}
 ----> mosmjecäs : [adj.] isometric
 -> mjecina : [n.] (act of) measurement; judgement
 -> mjece : [n.] measure, price, scale, rate
+-> mjecime : [n.] scaling
 
 vedir : [v.] lead, guide {Serbo-Croatian 'водити', Latin 'dirigo' via French 'diriger' & Spanish 'dirigir'}
 -> vedirör : [n.] guide, leader
