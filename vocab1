@@ -301,7 +301,7 @@ lest : [adv.] diminutive superlative ('least') {English 'least'}
 ----> lestäst : [adv.] minimally  
 te : [adv.] too, too much, too many {English 'too', French 'trop'}  
 jus : [adv.] just, only, simply, merely {French 'juste'}
-sei : [adv.] such, so {Original}
+sej : [adv.] such, so {Original}
 
 čundr : [v.] suffice {Korean '충분'}
 -> čundräs : [adj.] sufficient, enough 
@@ -496,6 +496,7 @@ pors : [n.] pig {Latin 'Porcus' via French 'porc'}
 kuz : [n.] sheep {Turkish 'kuzu'}
 -> kuzäs : [adj.] ovine
 -> kuzu : [n.] lamb
+-> kuztennör : [n.] shepherd {+ 'tenn' + '-ör'}
 bok : [n.] goat {Afrikaans}
 -> bokäs : [adj.] caprine
 -> boku : [n.] kid
@@ -593,13 +594,15 @@ rat : [n.] rat {English, Latin 'rattus' via French 'rat'}
 mono : [n.] monkey {Spanish}
 -> monäs : [adj.] simian
 
-päsk : [n.] fish {Breton 'pesk'}
+päsk : [n.] [v.] fish {Breton 'pesk'}
 -> päsktemätör : [n.] fishmonger
 -> päskäs : [adj.] piscine
 -> rodpäsk : [n.] goldfish {'rod' + }
+-> päskret : [n.] (practice of) fishing
+-> päskör : [n.] angler, fisherman
 
 arän : [n.] spider {Latin 'aranea' + via French 'araignée'}
--> aränäs : [adj.] Arachnid
+-> aränäs : [adj.] arachnid
 
 malsäd : [n.] mollusk {'mals' + 'maid'}
 lusi : [n.] slug {~ French 'limace'}
@@ -835,7 +838,7 @@ säl : [n.] salt {French}
 -> säläs : [adj.] saline
 -> asäl : [v.] [trans] salt
 kav : [n.] cave, basement {French 'cave'}
--> kavör : [n.] one who explores caves {'kav' + '-ör'} 
+-> kavör : [n.] spelunker {'kav' + '-ör'} 
 ravin : [n.] ravine
 kratär : [n.] crater {French 'cratère'}
 lic : [n.] shore {Latin 'litus' via French 'littoral'}
@@ -859,7 +862,7 @@ min : {French 'mine'}
 tunäl : {French 'tunnel'}
 -- [n.] tunnel
 -- [v.] (to make a) tunnel through
-----> tunelör : [n.] one who tunnels
+----> tunelör : [n.] tunneler
 
 === körp : body ===
 pil : [n.] hair {Latin 'pilus' via French 'épiler'}
@@ -1225,6 +1228,11 @@ natur : [n.] nature {German 'Natur', French & English 'nature'}
 -> naturäs : [adj.] natural (pertaining to nature)
 -> naturät : [adj.] natural
 
+terror : [n.] terror {Latin}
+-> terrorist : [adj.] terrorist
+----> terroristör : [n.] terrorist
+-> terroräs : [adj.] pertaining to terror
+
 dače : [n.] chance, luck {Russian 'удача'}
 -> dačesat : [adj.] lucky
 ----> dačesät : [adv.] luckily
@@ -1237,8 +1245,8 @@ sort : [n.] fate, fortune; destined {Latin 'sors'}
 -> mesort : [n.] misfortune
 ----> mesortäs : [adj.] unfortunate
 -------> mesortäst : [adj.] unfortunately
--> sortesö : [n.] fortune-teller; wizard, magician; enchanter, spell-caster
-----> sortesa : [n.] witch
+-> sortesör : [n.] fortune-teller; wizard, magician; enchanter, spell-caster
+----> sortesar : [n.] witch
 
 undär : [n.] wonder {Icelandic 'undur'}
 -> undärver : [adj.] wonderful (worthy of wonder
@@ -1627,6 +1635,7 @@ brik : [n.] brick, ingot {French 'brique', English 'brick'} #
 gan : [n.] hole, gap, opening; pit, chasm {? Original}
 -> ganu : [n.] small hole
 krät : [n.] grid {Latin 'cratis'}
+kest : [n.] frame {Finnish 'kehys' & Hungarian 'keret'}
 lemm : [n.] blade; flap; human nail; [f:computing] tab, widget {Latin 'lamina' via French 'lamelle'}
 -> lemmu : [n.] lamella
 sper : [v.] curl, coil {Latin 'spirale' via French, via English 'spiral'}
@@ -2250,7 +2259,7 @@ mät : [v.] set, change, assign, put {Latin 'mitto' via French 'mettre'}
 
 ster : {French 'dire', English 'say', German 'sprechen'} [EXCEPTION]
 -- [v.] say, speak, tell, talk
-----> sterör : [n.] one who speaks
+----> sterör : [n.] speaker (one who speaks)
 -- [v.] signifies, represents, means
 ----> sterina : [n.] expression, meaning
 -------> sterinäs : [adj.] meaningful
@@ -2555,8 +2564,12 @@ söt : [v.] create, make, build, assemble, bring to fruition {Original}
 ----> acötim : [n.] progeny, offspring
 ----> acötin : [n.] product
 ----> acötör : [n.] producer
-tös : [v.] [trans] to make into, turn the subject into
-bau : [v.] to build, construct {German 'bauen'}
+-> sötäs : [adj.] creative (pertaining to creation)
+-> sötsat : [adj.] creative
+----> sötsatime : [n.] creativity
+----> sötsatät : [n.] creatively
+tös : [v.] [trans] to make into, turn the subject into #
+bau : [v.] to build, construct {German 'bauen'} #
 -> bauör : [n.] builder
 
 sret : [v.] write {French 'écrire', English 'write'} [EXCEPTION]
@@ -2648,10 +2661,10 @@ präm : [v.] [trans] [n.] press
 -> prämin : [n.] pressure; stress
 -> apräm : [v.] pressure
 träš : [v.] [trans] throw, hurl {Original}
--> träšör : [n.] one who throws
+-> träšör : [n.] pitcher (one who throws)
 -> träšin : [n.] throw
 trös : [v.] [trans] catch {Original}
--> trösör : [n.] one who catches
+-> trösör : [n.] catcher
 -> trösin : [n.] catch
 
 klöd : [v.] fasten, secure, lock; contain, surround {Latin 'claudo'}
@@ -2778,7 +2791,7 @@ manž : [v.] eat {Italian 'mangiare', French 'manger'}
 -> manžfär : [adj.] edible, comestible
 -> manžin : [n.] meal
 sul : [n.] drink {Original}
--> sulör : [n.] one who drinks (usu. alcohol)
+-> sulör : [n.] drinker (usu. alcohol)
 -> sulin : [n.] drink
 
 som : [v.] [intrans] sleep {Latin 'somnus' via French 'sommeil'} 
@@ -2802,11 +2815,11 @@ fam : [v.] hunger {Latin 'fames' via French 'faim'}
 -> famät : [adj.] hunger
 ----> famätt : [adv.] hungrily
 -> famver : [adj.] mouthwatering
-sit : [v.] thirst {? French 'soif', ? English 'thirsty'}
--> sitin : [n.] thirst
--> asit : [v.] [trans] to make thirsty
--> sität : [adj.] thirsty
-----> sitätt : [adv.] thirstily
+sijt : [v.] thirst {? French 'soif', ? English 'thirsty'}
+-> sijtin : [n.] thirst
+-> asijt : [v.] [trans] to make thirsty
+-> sijtät : [adj.] thirsty
+----> sijtätt : [adv.] thirstily
 fatig : [v.] [intrans] to tire, become weary {French 'fatigue'}
 -> fatigime : [n.] tiredness
 -> afatig : [v.] [trans] to tire, make weary
@@ -2817,14 +2830,17 @@ fatig : [v.] [intrans] to tire, become weary {French 'fatigue'}
 ----> fatignuzät : [adv.] tirelessly
 ----> fatignuzime : [n.] tirelessness
 
-leb : {German 'Leben'}
--- [v.] live
-----> lebom : [n.] town, village
--------> lebomi : [n.] townsperson, villager
--- [n.] life
-----> lebät : [adj.] lively
--- [adj.] alive
-----> releb : [v.] to revive
+leb : [v.] live {German 'Leben'}
+-> lebom : [n.] town, village
+----> lebomi : [n.] townsperson, villager
+-> lebin : [n.] life
+----> lebinsat : [adj.] lively
+-> lebes : [adj.] alive
+----> ralebes : [v.] to revive
+-> obeleb : [v.] survive; outlive
+----> obelebin : [n.] survival
+----> obelebes : [adj.] surviving, remaining
+----> obelebime : [n.] (state of) survival
 mur : {French 'mourir'}
 -- [n.] death, end
 -- [n.] dead (person)
@@ -3075,6 +3091,9 @@ list : {French 'liste', English}
 
 tänt : [v.] [n.] stain {French 'teindre'}
 pänt : [v.] [n.] paint {French 'peindre'}
+-> päntte : [n.] painting
+-> päntret : [n.] (practice of) painting 
+-> päntet : [adj.] painted
 
 klin : [v.] [n.] incline; bend, curve {Latin 'clino' via English 'incline' & French 'incliner'} #
 
@@ -3284,6 +3303,7 @@ mals : [adj.] soft, tender {Dutch}
 trum : [adj.] tough, difficult; harsh, stern {~ Finnish 'tuima'}
 -> atrum : [v.] to make difficult
 -> trumät : [adv.] with difficulty
+-> trumime : [n.] difficulty
 sišt : [adj.] easy {Original}
 -> sištät : [adv.] easily
 
@@ -3506,9 +3526,8 @@ lärt : [adj.] conscious, aware; alert {? English 'alert' & French 'alerte'}
 -> lärtime : [n.] consciousness, awareness; alertness
 -> lärtin : [n.] conscience
 
-sat : [adj.] full {Original}
--> asat : [v.] fill
-----> asatet : [n.] filled
+sat : [adj.] full [v.] fill {Original}
+-> satt : [adj.] filled
 -> satime : [n.] fullness, fill
 -> satät : [adv.] fully
 -> satmät : [v.] fulfill, satisfy
