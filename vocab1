@@ -758,7 +758,7 @@ sturm : {German 'Sturm', English 'storm'}
 -- [v.] rush, attack, storm
 glau : [n.] rain [v.] [intrans] (of a liquid) rain {Breton}
 -> glauät : [adj.] rainy
-snež : {English 'snow', French 'neige'}
+snež : {English 'snow', French 'neige'} #
 -- [n.] snow
 ----> snežät : [adj.] snowy
 -- [v.] [intrans] (of a powder or snow-like substance) snow 
@@ -1580,6 +1580,8 @@ vir : [m.] glass {French 'ver'}
 -> ölvir : [n.] eyeglass, lens
 ----> ölviren : [n.] glasses, spectacles
 obsidien : [m.] obsidian {Latin 'obsidianus'}
+duro : [m.] mud {Japanese '泥'}
+argje : [m.] clay {Latin 'argilla'}
 fibr : [m.] fibre {French 'fibre'}
 -> fibrät : [adj.] fibrous
 žut : [m.] jute {French 'jute'}
@@ -1655,6 +1657,10 @@ kev : {Anc. Greek 'κύβος' via French & English 'cube'}
 skär : [n.] lane, track, channel {Original}
 pros : [n.] sign, board; panel, plaque, plate {? Original}
 pajg : [n.] page {Latin 'pagina'}
+
+pont : [n.] point [v.] [intrans] point {Latin 'punctum'}
+-> ustpont : [v.] [trans] point out
+-> ödpont : [v.] point to, point towards
 
 vapor : [n.] steam, vapor {Latin}
 -> ustvapor : [v.] evaporate
