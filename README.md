@@ -178,7 +178,7 @@ Exception: sej ('be')
 | :---:   |:-----: | :----: | :----:  | :----:  |
 | Tense   | Simple | Contd. | Simple  | Contd.  |
 | Past    | sein   | seins  | seint   | seinc   |
-| Present | sej    | sejs   | sejt    | sejc    |
+| Present | sei    | seis   | seit    | seic    |
 | Future  | sar    | sars   | sart    | sarc    |
 
 ## Pronouns
