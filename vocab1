@@ -1255,6 +1255,7 @@ vet : [n.] age {Latin 'vetus'}
 niväl : [n.] level {English 'level', French 'niveau'}
 strat : [n.] layer {Latin 'stratum' via English}
 -> stratime : [n.] layeredness
+-> astrat : [v.] cover
 kut : [n.] coat, layer {English 'coat', French 'couche'}
 -> akut : [v.] coat
 ----> akutin(a) : [n.] coating
@@ -1304,6 +1305,7 @@ liäs : [n.] link {? French 'lier'}
 -> deliäs : [n.] disconnect
 ----> deiliäsina : [n.] disconnection
 -> liäsime : [n.] relation, togetherness
+-> näätliäs : [n.] web link
 
 gadäs : [n.] chain, link; channel {Latin 'catena' via Catalan 'cadena'}
 -> gadäsen : [n.] chains, irons, shackles; binds
@@ -1564,9 +1566,7 @@ vir : [m.] glass {French 'ver'}
 -> virtöl : [n.] window, window pane, glass pane {+ 'töl'}
 -> ölvir : [n.] eyeglass, lens
 ----> ölviren : [n.] glasses, spectacles
-gice : [n.] cup; mug; chalice {Original}
--> gicu : [n.] small cup or glass
-
+obsidien : [m.] obsidian {Latin 'obsidianus'}
 fibr : [m.] fibre {French 'fibre'}
 -> fibrät : [adj.] fibrous
 žut : [m.] jute {French 'jute'}
@@ -1613,6 +1613,8 @@ näät : [n.] net, mesh {English 'net'}
 -> näätvine : [n.] cyberspace, virtual place
 -> näät : [n.] [adj.] net (internet)
 ----> näätpajg : [n.] website {+ 'pajg'}
+gice : [n.] cup; mug; chalice {Original}
+-> gicu : [n.] small cup or glass
 ark : [n.] bow, arc; semicircle {Latin 'arcus'}
 -> ark : [n.] [f:archery] bow
 brik : [n.] brick, ingot {French 'brique', English 'brick'} #
@@ -3583,6 +3585,9 @@ hoäl : [adj.] lame, limp; boring
 muzot : [adj.] silly
 -> muzot : [n.] silliness
 -> amuzot : [v.] ridicule
+
+opag : [adj.] opaque {Latin 'opacus'}
+-> opagime : [n.] opacity
 
 === vulgar ===
 bata : [n.] imbecile, bastard
