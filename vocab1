@@ -79,7 +79,7 @@ ust : [prep.] out (outside of, away from, not in) {French 'ouste'}
 -> ustom : [n.] outside
 
 ob : [prep.] on (top of) {German 'ober', ? 'ob'}  
--> ob(e)- : [prf.] over-, super-  
+-> ob(e)- : [prf.] over-, super-, sur-
 -> štob : [prep.] above, over  
 -> obpar : [n.] overside, top, surface  
 uc : [prep.] under(neath) {French 'sous', German 'unter'} @@ 
@@ -825,6 +825,7 @@ ter : {French 'terre'}
 ----> ucter : [adj.] underground
 -------> ucteräs : [adj.] subterreanean
 -------> ucterom : [n.] underground
+----> geter : [n.] [collective] terrain
 -- [v.] (of electrical equipment) connect to the ground
 -- [v.] (of aircraft) prevent from flying
 feld : [n.] field; plains {German 'Feld'}
@@ -1500,9 +1501,9 @@ mujt : [n.] noise {Original}
 -> mujtsat : [adj.] noisy
 ----> mujtsät : [adv.] noisily
 
-form : [n.] form {Latin 'forma'}
--> formäs : [adj.] formal
-----> formäst : [adv.] formally
+väm : [n.] form, shape; figure, outline {~ Latin 'forma'}
+-> vämäs : [adj.] formal
+----> vämäst : [adv.] formally
 
 === fantasy ===
 maži : [n.] magic {French 'magie'}
@@ -3027,11 +3028,13 @@ vad : [v.] fit, match, correspond {Original}
 -> vadime : [n.] fitness
 -> vadesät : [adv.] fittingly
 
-mäl : [v.] mix, blend; combine, fuse; tangle {French 'mêler'}
+mäl : [v.] mix, combine, fuse {French 'mêler'}
 -> mälör : [n.] mixer, blender or other apparatus for blending
 -> mälin : [n.] mixture, combination, blend
 -> uzmäl : [v.] confuse
 ----> uzmält : [adj.] confused
+fis : [v.] blur, blend; tangle {~ French 'fondre'}
+-> ufis : [v.] blend in
 
 trem : [v.] shake, tremble, wobble {French 'trembler', Croatian 'tresti'}
 -> tremin : [n.] trembling
