@@ -46,13 +46,13 @@ The Ijter language employs both a Latin and a Cyrillic script.
 | Nasal        | /m/     | /n/       |           |       |         |     |
 | Plosive      | /p/ /b/ | /t/ /d/   |           |       | /k/ /ɡ/ |     |
 | Affricate    |         | /t͡s/ /d͡z/ | /t͡ʃ/ /d͡ʒ/ |       |         |     |
-| Fricative    | /f/ /v/ | /s/ /z/   | /ʃ/ /ʒ/   | /ʝ~j/ | _/x/_   | /h/ |
+| Fricative    | /f/ /v/ | /s/ /z/   | /ʃ/ /ʒ/   | /ʝ~j/ | _/χ/_   | /h/ |
 | Tap/Flap     |         | /ɾ/       |           |       |         |     |
 | Lat. Approx. |         | /l/       |           |       |         |     |
 
 if ⟨h⟩ is the onset of a word's first syllable, it is /h/.  
 else if it follows a plosive, it causes that plosive to be aspirated.  
-else if it precedes a plosive, it is rendered as /x/.
+else if it precedes a plosive, it is rendered as /χ/.
 
 ### Vowels  
 | -         | Front   | Back |
