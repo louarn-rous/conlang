@@ -58,6 +58,7 @@ im : [prep.] in (locative: contained by, within the bounds of, part of, into) ('
 ----> aimir : [v.] make enter, welcome, bring in
 -------> aimiret : [intj.] [greeting] welcome (in)
 -> imöd : [prep.] into
+-> inom : [n.] inside
 
 ust : [prep.] out (outside of, away from, not in) {French 'ouste'}  
 -> ust- : [prf.] outwards ('out-')
@@ -75,6 +76,7 @@ ust : [prep.] out (outside of, away from, not in) {French 'ouste'}
 ----> ustirin : [n.] exit, leave; escape, getaway  
 ----> austir : [v.] expel, oust, drive away, kick out
 -> ustät : [adj.] outer, on the edge
+-> ustom : [n.] outside
 
 ob : [prep.] on (top of) {German 'ober', ? 'ob'}  
 -> ob(e)- : [prf.] over-, super-  
@@ -2048,6 +2050,9 @@ lektre : [n.] [unc.] lightning; electricity, electric power {Latin 'electrum'}
 -> lektretröbör : [n.] electrician
 ----> lektröbör : [n.] [common] electrician
 
+kurrant : [n.] [f:physics] electric current
+
+
 == atomic physics : atomfiziiken ==
 atom : [n.] atom {Anc. Greek 'ἄτομος' via English 'atom' & French 'atome' & German 'atom' & Russian 'атом'}
 -> atomäs : [adj.] atomic
@@ -2187,6 +2192,9 @@ don : [v.] give, deal {French 'donner'}
 -------> radonin(a) : [n.] redemption
 -------> radon štät : [n.] ransom (money)
 -> imdon : [v.] submit
+-> öddon : [v.] provide, supply
+----> öddonör : [n.] provider, supplier
+-------> mahtöddonör : [n.] [f:electronics] power supply
 dräit : [v.] betray; surrender; give up {? Breton 'dreitour'}
 -> dräitör : [n.] betrayer, traitor
 -> dräitin(a) : [n.] betrayal
@@ -2620,7 +2628,7 @@ tend : [v.] stretch {Latin 'tendo'} [EXCEPTION]
 ----------> öttendinäst : [adv.] intentionally
 ----> oböttendör : [n.] superintendent
 -> tendime : [n.] (state of) tension
--> tendina : [n.] tension
+-> tendina : [n.] tension; [f:physics] voltage
 
 fär : {Swedish '-bar', German 'fähig'}
 -- [adj.] able
@@ -2687,6 +2695,7 @@ lig : [v.] tie {Latin 'ligare'}
 
 plis : [v.] fold {French 'plisser', Latin 'plicare' via French 'plier'}
 -> plisin : [n.] fold
+-> deplis : [v.] unfold; deploy
 rol : [v.] roll {English 'roll', French 'rouler'}
 -> rolin : [n.] roll
 flot : [v.] float {French 'flotter', English 'float'}
@@ -3082,6 +3091,7 @@ mast : [v.] steer, direct
 ----> otmastina : [n.] revolution
 -> remast : [v.] recieve, accept; take back, regain
 ----> remastet : [n.] reciept; recipe
+maht : [v.] fuel, power [n.] force; might; power {German 'Macht'}
 
 limit : [v.] [trans] limit {French 'limite', English}
 -> limitör : [n.] limiter
