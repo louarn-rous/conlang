@@ -3185,8 +3185,9 @@ fel : [v.] flow {English 'flow', ? French 'couler'}
 ----> obefelin : [n.] overflow
 -> imfel : [v.] flow in
 ----> imfelin : [n.] influx
-sorb : [v.] soak, absorb {Latin 'sorbeo'}
-
+sorb : [v.] [trans] soak, absorb {Latin 'sorbeo'}
+-> sorbät : [adj.] absorbant
+-> asorb : [v.] [distransitive] make absorb
 
 fors : [v.] [n.] force {English and French 'force'} ##
 marš : [v.] [n.] march {English 'march', French 'marcher'}
