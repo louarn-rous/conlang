@@ -353,7 +353,8 @@ alte : [det.] [n.] [adj.] other {Latin 'alter' via French 'autre'}
 maci : [det.] one's own {Original}
 -> kur tön maci : [phrase] mind your own business
 
-arü : [adv.] yet, still; thus far {Japanese 'ある'}
+arü : [adv.] yet, still {Japanese 'ある'}
+nja : [adv.] already; thus far {Original}
 
 mäs : [adj.] constant, unmoving, permanent {German '-mals'}  
 -> mäst : [adv.] ever; always  
@@ -424,7 +425,6 @@ nöl : {German 'Null', English 'null', French 'annuler'}
 ---> anöl : [v.] cancel, make null
 ün : [num.] 1 (one) {French 'une'}
 -> ünit : [v.] unite, unify
-----> ünitime : [n.] unity 
 -> üne : [ord. num.] first
 ----> ünät : [adv.] firstly
 -> tün : [adj.] whole, complete, entire
@@ -434,7 +434,7 @@ nöl : {German 'Null', English 'null', French 'annuler'}
 -> ünäs : [adj.] primary
 ----> ünäst : [adv.] primarily
 ----> ünäsden : [n.] protagonist
--> ünime : [n.] oneness
+-> ünime : [n.] unity, oneness
 -> ünu : [n.] unit; piece [n.] episode
 -> ünivärt : [n.] universe
 ----> ünivärtäs : [adj.] universal
@@ -1783,12 +1783,13 @@ nat : [n.] day {? Breton 'mat'}
 -> sätänat : [n.] week {'sät' +}
 ----> sätänatäs : [n.] weekly
 -> natäslum : [n.] daylight
+-> anat : [v.] [n.] dawn
 nošt : [n.] night {Russian 'ночь', German 'Nacht'}
 -> noštäs : [adj.] nocturnal, nightly
 ----> noštäst : [adv.] nocturnally
 -> mitenošt : [n.] time of night past midnight {'mitäl' +}
 -> minošt : [n.] midnight {'mi(t)-' +}
-damer : [n.] dusk {German 'Dämmerlicht'}
+damer : [n.] [v.] dusk {German 'Dämmerlicht'}
 aurora : [n.] aurora {Latin via English and via French 'aurore'}
 -> aurora boreal : [n.] aurora borealis
 säkond : [n.] second {French 'seconde', English 'second'}
@@ -1820,6 +1821,7 @@ tän : {French 'temps', Italian 'tempo', English 'time'}
 var : [adj.] early {Estonian 'vara'}
 -> varäs : [adv.] early
 -> varnat : [n.] morning {+ 'nat'}
+----> avarnat : [v.] [n.] dawn
 spät : [adj.] late {German}
 -> spätt : [adv.] late, later
 -> spätnat : [n.] evening {+ 'nat'}
@@ -2321,6 +2323,9 @@ ster : {French 'dire', English 'say', German 'sprechen'} [EXCEPTION]
 ----> lektrestör : [n.] [dated] phone
 -------> lektrest : [v.] call (on the phone)
 ----------> lektrestin : [n.] phone call
+
+nunc : [v.] relay, declare {Latin 'nuntio'}
+-> anunc : [v.] announce
 
 klam : [v.] cry out, exclaim; shout, yell; call (out) {Latin 'clamo'}
 -> reklam : [v.] demand; repossess
@@ -3319,7 +3324,7 @@ muž : [adj.] light {Original}
 
 nov : [adj.] new {Portugese 'novo'}
 -> novime : [n.] novelty
--> novänt : [n.] news { + 'vänt'} {+ Breton 'neventi'}
+-> novvänt : [n.] news { + 'vänt'} {+ Breton 'neventi'}
 -> novät : [adv.] newly
 -> reanov : [v.] update, renovate, renew
 ----> reanovin : [n.] update, renewal
