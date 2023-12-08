@@ -186,7 +186,7 @@ si : [cnjc.] if, in the case/condition that, given/supposing/assuming that {Fren
 -> -ljäs : [suf.] genitive when after 'lia' or 'lja'
 -(n)ät :  
 -- [suf.] used to form adverbs, giving a verb the quality of the suffixed word ('-ly', '-y')
--- [suf.] used to form adjectives from verbs, meaning 'inclined to' ('-y')
+-- [suf.] used to form adjectives from verbs, meaning inclined/liable to do the suffixed verb  ('-y')
 
 -et or -it : [suf.] past participle {see README.md#Verbs}
 -es : [suf.] present participle {see README.md#Verbs}
@@ -1687,8 +1687,8 @@ sper : [v.] curl, coil {Latin 'spirale' via French, via English 'spiral'}
 tave : [n.] tube, pipe, barrel [n.] pipe (tobacco) {Romanian 'țeavă'}
 -> tavu : [n.] small pipe
 cär : [n.] reed, stem; straw {Original}
--> gecär : [m.] straw
--> sulecär : [n.] drinking straw
+-> gecär : [m.] straw (bulk)
+-> sulcär : [n.] drinking straw {'sul' +}
 kev : {Anc. Greek 'κύβος' via French and English 'cube'}
 -- [n.] cube
 ----> kevsti : [adj.] cubic
@@ -3183,14 +3183,13 @@ fel : [v.] flow {English 'flow', ? French 'couler'}
 -> felin : [n.] flow
 -> obefel : [v.] overflow
 ----> obefelin : [n.] overflow
--> imfel : [v.] suck, slurp
-----> imfelin : [n.] suck, slurp
-fors : {English and French 'force'}
--- [v.] force
--- [n.] force
-marš : {English 'march', French 'marcher'}
--- [v.] march
--- [n.] march
+-> imfel : [v.] flow in
+----> imfelin : [n.] influx
+sorb : [v.] soak, absorb {Latin 'sorbeo'}
+
+
+fors : [v.] [n.] force {English and French 'force'} ##
+marš : [v.] [n.] march {English 'march', French 'marcher'}
 
 gust : {Latin 'gustus' via French 'goût' and English 'gustatory'}
 -- [v.] taste
