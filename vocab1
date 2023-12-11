@@ -952,12 +952,10 @@ läp : {English 'lip', Latin 'labrum' via French 'lèvre'}
 -- [v.] [informal] to kiss
 pleč : [n.] shoulder {Russian 'плечо'}
 -> plečäs : [adj.] pertaining to the shoulder
-man : {Latin 'manus' via French 'main' and English 'manual'}
--- [n.] hand
-----> manäs : [adj.] of or relating to the hand; manual
--------> manäst : [adv.] manually
-----> mana : [n.] handle
--- [v.] [trans] handle, control, manage
+man : [n.] hand {Latin 'manus' via French 'main' and English 'manual'} 
+-> manäs : [adj.] of or relating to the hand; manual
+----> manäst : [adv.] manually
+-> mana : [n.] handle
 dist : [n.] finger, digit {Latin 'digitus' via English 'digit' and French 'doigt'}
 -> distu : [n.] (numerical) digit
 ----> distunäs : [adj.] digital
@@ -2192,6 +2190,11 @@ kaus : [v.] care, precaution, guard {Latin 'caveo'}
 -> kause : [n.] guard, care, precaution
 -> kaussat : [adj.] cautious, suspicious, wary
 -> kausina : [n.] caution, warning
+ger : [v.] manage
+-> reger : [v.] register
+----> areger : [v.] record; [f:computer] to save
+----> regerom : [n.] registry
+-> gerrägör : [n.] manager
 
 bišt : [v.] carry, bear {Original, backform from 'bištir'}
 -> bištir : [v.] bring {Original}
@@ -2398,7 +2401,8 @@ oblis : [v.] forget {Latin 'obliviscor' via French 'oublier'}
 kuet : [v.] count, calculate {Original}
 -> kuetin : [n.] count
 -> kuetina : [n.] calculation
--> kuecor : [n.] computer {+ 'sor'}
+-> kuetsor : [n.] computer {+ 'sor'}
+----> kuetsoräs : [adj.] pertaining to computers
 
 läc : [v.] lure, deceive; entice, ensnare {Latin 'lacio'}
 -> öläc : [v.] allure, attract; tempt
