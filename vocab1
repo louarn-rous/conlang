@@ -2795,8 +2795,9 @@ plän : [v.] to mourn, pity; to bewail, lament for {Latin 'plango' via English '
 plor : [v.] [intrans] to cry; lament, complain {Latin 'ploro' via English 'implore' and French 'pleurer'}
 -> plorina : [n.] crying; complaint
 fräj : [v.] fear {French 'effrayer', English 'fear'}
--> afräj : [v.] scare, spook
--> fräjime : [n.] (state of) fear
+-> afräj : [v.] scare, spook, frighten
+----> afräjät : [adj.] scary, spooky, frightening
+-> fräjime : [n.] (state of) fear, fright
 ----> fräjimver : [adj.] fearful, fearsome
 
 grom : [v.] groan, rumble {Serbian 'гром'}
@@ -3183,6 +3184,7 @@ nos : [v.] [trans] give birth to; [when passive] [intrans] be born {Latin 'nasco
 -> nosin : [n.] birth
 ----> nosinnat : [n.] birthday
 -------> nosinnatfäst : [n.] birthday party
+-------> nosinnatdontu
 -> ünnost : [adj.] native, indigenous
 ----> ünnostim : [n.] native
 ----> ünnostät : [adv.] natively
