@@ -904,6 +904,7 @@ mož : [n.] mouth {? ~ English 'mouth', French 'bouche'}
 stom : [n.] [archaic] mouth {Anc. Greek 'στόμα'}
 -> stom : [n.] stomach {Anc. Greek 'στόμαχος'}
 -> n'ej stom (öd) : [expr.] to not have the appetite (for) {lit. 'to not have the stomach (for)'}
+guru : [n.] throat {Original, onomatopeic
 dänt : [n.] tooth {Latin 'dens' via French 'dentiste'/'dentaire', English 'dentist'/'dental'}
 -> däntäs : [adj.] dental
 ----> däntäst : [adv.] dentally
@@ -1366,12 +1367,9 @@ liäs : [n.] link {? French 'lier'}
 gadäs : [n.] chain, link; channel {Latin 'catena' via Catalan 'cadena'}
 -> gadäsen : [n.] chains, irons, shackles; binds
 
-par : [n.] side, part {Anc. Greek 'παρά'}
--> apar : [adv.] aside, besides
-
-pär : [n.] part, piece, share, component {Latin 'partem' via English and French 'part'}
--> apär : [v.] divide, seperate, split
-----> apärime : [n.] apartness, seperation, division; polarization
+pär : [n.] side; part, share; piece, component {Latin 'partem' via English and French 'part', Anc. Greek 'παρά'}
+-> aspär : [v.] divide, seperate, split
+----> aspärime : [n.] apartness, seperation, division; polarization
 ----> usapär : [v.] decide
 -------> usapärin : [n.] decision
 ----> usapärfär : [adj.] decidable
@@ -1381,6 +1379,7 @@ pär : [n.] part, piece, share, component {Latin 'partem' via English and French
 ----------> nesuspärfärt : [adv.] undecidably
 ----------> nesuspärfärime : [n.] undecidability
 -> pärät : [adv.] partly; partially
+-> apär : [adv.] aside, besides
 sem : [n.] half [adj.] half of {Latin 'semi-'}
 -> sem(e)- : [prf.] half of, made of halves('semi-')
 -> asem : [v.] halve, split (in two/into two)
@@ -2857,6 +2856,10 @@ bat : [v.] hit, beat {Croatian 'batina', ~ French 'battre'}
 -> batina : [n.] beating
 ačet : [v.] attack {French 'attaquer', + via English 'attack' and Russian 'атака', ~ Serbo-Croatian 'напад', ? ~ French 'acharné'}
 -> ačetin : [n.] attack
+par : [v.] shoot {Original}
+-> parör : [n.] shooter
+-> parin : [n.] shot
+-> parina : [n.] shooting
 
 ausk : [v.] [dated] listen, hear; heed, accept, obey {archaic 'aur' + archaic 'klen'}
 -> ausk : [v.] overheard; eavesdrop
