@@ -62,16 +62,16 @@ else if it precedes a plosive, it is rendered as /χ/.
 | Open      | /æ/     | /ɑ/  |
  
 ### Semivowels  
-| Letter | Vowel | Semivowel |
-| :-: | :-: | :-: |
-| ⟨i⟩ | /i/ | \[j] |
-| ⟨u⟩ | /u/ | \[w] |
-| ⟨ü⟩ | /y/ | \[ɥ] |
+| Vowel | Semivowel |
+| :-: | :-: |
+| i | \[j] |
+| u | \[w] |
+| y | \[ɥ] |
 
 The above vowels are realized as semiconsonants when preceding or proceeding a different vowel.
 When they follow a plosive and precede another vowel, they provoke the palatization, labio-palatization and labialization of the aforementioned plosive, respectively;
 
-| -  | -i⟩    | -ü⟩   | -u⟩   |
+| -  | -i⟩    | -y⟩   | -u⟩   |
 | -  | :-:   | :-:   | :-:   |
 | ⟨p- | \[pʲ] | \[pᶣ] | \[pʷ] |
 | ⟨b- | \[bʲ] | \[bᶣ] | \[bʷ] |
@@ -90,10 +90,9 @@ When they follow a plosive and precede another vowel, they provoke the palatizat
 | IPA |/d͡z/|/d͡ʒ/|/ɲ/ |/ʎ/ |/ŋ/ | 
 | :-  | -  | -  | -  | -  | -  |
 | Lat | ǲǳ | ǅǆ | ǋǌ | ǈǉ  | -  |
-| Cyr | Ѕѕ | Ӝӝ | Њњ | Љљ | Ҥҥ |
 
 ### Diphtongs
-| - | ⟨e | ⟨i | ⟨a | ⟨ä | ⟨o | ⟨ö | ⟨u | ⟨ü |
+| - | ⟨e | ⟨i | ⟨a | ⟨ä | ⟨o | ⟨ö | ⟨u | ⟨y |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | e⟩ | \[eː] | \[i̯e] | \[ɐe̞] | - | - | - | \[u̯e] | - |
 | i⟩ | \[ɪː] | \[iː] | \[æː] | - | - | - | \[u̯i] | - |
@@ -102,7 +101,7 @@ When they follow a plosive and precede another vowel, they provoke the palatizat
 | o⟩ | - | \[i̯o] | - | - | \[oː] | - | \[u̯o] | - |
 | ö⟩ | - | \[i̯ø] | - | - | - | \[øː] | \[u̯ø] | - |
 | u⟩ | - | \[i̯u] | \[ʌʊ̯] | - | - | - | \[uː] | - |
-| ü⟩ | - | \[i̯y] | - | - | - | - | \[u̯y] | \[yː] |
+| y⟩ | - | \[i̯y] | - | - | - | - | \[u̯y] | \[yː] |
 
 ### Phonotactics
 
@@ -233,7 +232,7 @@ Ijter braille is inspired by the French, English, Czech and Scandinavian braille
 | -  | -  | - | - | - | - | - | - | - | - |
 | Aa ⠁ | Bb ⠃ | Cc ⠉ | Dd ⠙ | Ee ⠑ | Ff ⠋ | Gg ⠛ | Hh ⠓ | Ii ⠊ | Jj ⠚ |
 | Kk ⠅ | Ll ⠇ | Mm ⠍ | Nn ⠝ | Oo ⠕ | Pp ⠏ |      | Rr ⠗ | Ss ⠎ | Tt ⠞ |
-| Uu ⠥ | Vv ⠧ |      | Üü ⠽ | Zz ⠵ |       |      |      | Žž ⠮ |      |
+| Uu ⠥ | Vv ⠧ |      | Yy ⠽ | Zz ⠵ |       |      |      | Žž ⠮ |      |
 |      | Ää ⠣ | Čč ⠩ |       | Šš ⠱ |      |      |       | Öö ⠪ |      |
 
 | Punc. | Br. | Punc. | Br. |
@@ -260,7 +259,7 @@ Ijter braille is inspired by the French, English, Czech and Scandinavian braille
 | Ee | .     | Šš | ---- |
 | Vv | ...-  | Tt | -    |
 | Gg | --.   | Uu | ..-  |
-| Ii | ..    | Üü | ..-- |
+| Ii | ..    | Yy | ..-- |
 | Jj | .---  | Zz | --.. |
 | Kk | -.-   | Žž | --..-|
 | Ll | .-..  | Ff | ..-. |
