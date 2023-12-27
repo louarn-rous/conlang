@@ -19,24 +19,24 @@ It is synthetic, fusional and mildly inflected. It utilises SVO (Subject-Verb-Ob
 8. [Morse](#Morse)
 
 ## Alphabet
-The Ijter language employs both a Latin and a Cyrillic script.
+The Ijter language employs a modified version of the Latin script.
 
-| IPA  | English               |Lat |Cyr |Nom | IPA | English                 |Lat |Cyr | -  |
-|:---: |:---                   |:-: |:-: |:-: |:---:|:---                     |:-: |:-: |:-: |
-| /ɑ/  | 'h**o**t' (Gen. Am)   | Aa | Аа | aa | /n/ | '**n**et'               | Nn | Нн | än |
-| /æ/  | 'y**e**s'             | Ää | Ӓӓ | ää | /o/ | 'y**aw**n' (SA)         | Oo | Оо | oo |
-| /b/  | '**b**all'            | Bb | Бб | be | /ø/ | 'b**ir**d' (NZ)         | Öö | Ӧӧ | öö |
-| /t͡s/ | 'klu**tz**'           | Cc | Цц | ce | /p/ | '**p**en'               | Pp | Пп | pe |
-| /t͡ʃ/ | '**ch**um'            | Čč | Чч | če | /ɾ/ | 'be**tt**er' (Aus, NAE) | Rr | Рр | är |
-| /d/  | '**d**og'             | Dd | Дд | de | /s/ | '**s**un'               | Ss | Сс | äs |
-| /e/  | 'h**a**y'             | Ee | Ее | ee | /ʃ/ | '**sh**oe'              | Šš | Шш | äš |
-| /v/  | '**v**ine'            | Vv | Вв | ve | /t/ | '**t**op'               | Tt | Тт | te |
-| /g/  | '**g**oat'            | Gg | Гг | ge | /u/ | 'fr**u**it'             | Uu | Уу | uu |
-| /i/  | 'b**ee**'             | Ii | Ии | ii | /y/ | 'f**ew**' (Gen. SA)     | Üü | Ӱӱ | üü |
-| /j/  | '**y**ak'             | Jj | Јј | je | /z/ | '**z**oo'               | Zz | Зз | ze |
-| /k/  | '**k**ey'             | Kk | Кк | ke | /ʒ/ | 'vi**si**on'            | Žž | Жж | že |
-| /l/  | '**l**eg'             | Ll | Лл | äl | /f/ | '**f**ish'              | Ff | Фф | äf |
-| /m/  | '**m**ail'            | Mm | Мм | äm | /h/ | '**h**ome'              | Hh | Хх | he |
+| IPA  | English               |Lat |Nom | IPA | English                 |Lat | -  |
+|:---: |:---                   |:-: |:-: |:---:|:---                     |:-: |:-: |
+| /ɑ/  | 'h**o**t' (Gen. Am)   | Aa | aa | /n/ | '**n**et'               | Nn | än |
+| /æ/  | 'y**e**s'             | Ää | ää | /o/ | 'y**aw**n' (SA)         | Oo | oo |
+| /b/  | '**b**all'            | Bb | be | /ø/ | 'b**ir**d' (NZ)         | Öö | öö |
+| /t͡s/ | 'klu**tz**'           | Cc | ce | /p/ | '**p**en'               | Pp | pe |
+| /t͡ʃ/ | '**ch**um'            | Čč | če | /ɾ/ | 'be**tt**er' (Aus, NAE) | Rr | är |
+| /d/  | '**d**og'             | Dd | de | /s/ | '**s**un'               | Ss | äs |
+| /e/  | 'h**a**y'             | Ee | ee | /ʃ/ | '**sh**oe'              | Šš | äš |
+| /v/  | '**v**ine'            | Vv | ve | /t/ | '**t**op'               | Tt | te |
+| /g/  | '**g**oat'            | Gg | ge | /u/ | 'fr**u**it'             | Uu | uu |
+| /i/  | 'b**ee**'             | Ii | ii | /y/ | 'f**ew**' (Gen. SA)     | Yy | yy |
+| /j/  | '**y**ak'             | Jj | je | /z/ | '**z**oo'               | Zz | ze |
+| /k/  | '**k**ey'             | Kk | ke | /ʒ/ | 'vi**si**on'            | Žž | že |
+| /l/  | '**l**eg'             | Ll | äl | /f/ | '**f**ish'              | Ff | äf |
+| /m/  | '**m**ail'            | Mm | äm | /h/ | '**h**ome'              | Hh | he |
 
 ## Phonology
 
