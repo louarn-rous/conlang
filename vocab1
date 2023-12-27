@@ -490,6 +490,7 @@ nor : [m.] black {French 'noir', ? Italian 'notte'}
 oranž : [m.] orange {French, English 'orange'}
 -> oranž : [n.] orange (fruit)
 rod : [m.] red {German 'rot', English 'red'}
+ros : [n.] [adj.] red, crimson {Italian 'rosse'}
 roz : [m.] pink {French 'rose'}
 rus : [m.] reddish-brown {French 'rousse'}
 
@@ -532,10 +533,10 @@ luv : [n.] wolf {Latin 'lupus' via French 'louve'}
 lapin : [n.] rabbit {French}
 -> lapinäs : [adj.] leporine
 -> lapu : [n.] kitten (rabbit)
-müz : [n.] mouse {English 'mouse', French 'souris'}
--> müz : [n.] computer mouse
--> müzu : [n.] mouse pup
--> müzäs : [adj.] musine
+myz : [n.] mouse {English 'mouse', French 'souris'}
+-> myz : [n.] computer mouse
+-> myzu : [n.] mouse pup
+-> myzäs : [adj.] musine
 leo : [n.] lion {Latin}
 -> leonäs : [adj.] leonine
 -> leonu : [n.] lion cub
@@ -555,8 +556,8 @@ torte : [n.] tortoise, turtle {English 'toirtoise', French 'tortue'}
 serpe : [n.] snake {Latin 'serpens' via French 'serpent'}
 -> serpäs : [adj.] ophidian
 -> serpät : [adj.] serpentine
-lemür : [n.] ring-tailed lemur (lemur catta)
--> lemüräs : [adj.] lemurine, lemurian
+lemyr : [n.] ring-tailed lemur (lemur catta)
+-> lemyräs : [adj.] lemurine, lemurian
 luter : [n.] otter {Latin 'lutra' + via French 'loutre'}
 -> luteräs : [adj.] lutrine
 ermin : [n.] ermine {French 'hermine', English 'ermine'}
@@ -585,7 +586,7 @@ falk : [n.] falcon; hawk
 alar : [n.] swan {Breton "alarc'h"}
 -> alaräs : [adj.] cygnine
 stor : [n.] stork {German 'Storch'}
-otrüš : [n.] ostrich {French 'otruche'}
+otryš : [n.] ostrich {French 'otruche'}
 pol : [n.] chicken {Spanish 'pollo'}
 -> polu : [n.] chick
 -> gepol : [n.] poultry
@@ -596,6 +597,7 @@ korvas : [n.] crow, raven {Japanese '烏', Latin 'corvus' via English 'corvid' a
 -> korväs : [adj.] corvine
 parok : [n.] parrot, parrakeet {English 'parrot', French 'perroquet'}
 -> parokäs : [adj.] psittacine
+haafu : [n.] owl {Original, onomatopoeic}
 
 rat : [n.] rat {English, Latin 'rattus' via French 'rat'}
 
@@ -618,7 +620,7 @@ arän : [n.] spider {Latin 'aranea' + via French 'araignée'}
 malsäd : [n.] mollusk {'mals' + 'maid'}
 lusi : [n.] slug {~ French 'limace'}
 -> lusijäs : [adj.] limacine
-skürne : [n.] snail {~ French 'escargot'}
+skyrne : [n.] snail {~ French 'escargot'}
 luzd : {? French 'lombric'}
 -- [n.] worm
 ----> luzdäs : [adj.] vermicular
@@ -654,9 +656,9 @@ onion : [n.] onion {French 'oignon'}
 por : [n.] leek {Latin 'porrum' and Polish}
 guso : [n.] garlic {~ French 'gousse'}
 soj : [n.] soy {Satsuma Jp. '醤油' via Dutch 'soja' via French 'soja' and English 'soy'}
-nüs : [n.] nut {French 'noix', English 'nut'}
--> nüsket : [n.] peanut {'nus' + French 'cacahuète'}
--> nüsdat : [n.] [derog.] bag of nuts
+nys : [n.] nut {French 'noix', English 'nut'}
+-> nysket : [n.] peanut {'nus' + French 'cacahuète'}
+-> nysdat : [n.] [derog.] bag of nuts
 makademia : [n.] macadamia
 frut : {French, English 'fruit'}
 -- [n.] fruit
@@ -729,14 +731,14 @@ föl : {French 'feuille'}
 -- [n.] leaf
 -- [n.] feather
 -> fölu : [n.] leaflet, strip of paper
-büis : [n.] bush {Dutch, Afrikaans}
+byis : [n.] bush {Dutch, Afrikaans}
 vit : [n.] vine {Latin 'vitis'}
 härb : [n.] grass, herb {French 'herbe', English 'herb'}
 -> härbäs : [adj.] herbal
 ----> härbäst : [adv.] herbally
 trav : [n.] lawn {Russian 'трава'}
 bambu : [m.] bamboo {French 'bambou'}
-kaktüs : [n.] cactus {French 'cactus'}
+kaktys : [n.] cactus {French 'cactus'}
 flor : {Italian 'fiore', French 'fleur'}
 -- [n.] flower
 ----> floräs : [adj.] floral
@@ -791,7 +793,7 @@ perl : [m.] pearl {French 'perle'}
 -> perlät : [n.] pearly
 haj : [n.] shark {Swedish}
 -> hajäs : [adj.] selachian
-büj : [n.] buoy
+byj : [n.] buoy
 veg : [n.] [v.] wave {French 'vague', English 'wave'}
 -> vegu : [n.] wavelet
 
@@ -807,8 +809,8 @@ fer : [m. unc.] iron {French}
 -> feräs : [adj.] ferrous
 aseir : [m. unc] steel {Spanish 'acero' and French 'acier'}
 argänt : [m. unc.] silver {Latin 'argentum' via French 'argent'}
-lüg : [m. unc.] gold {Original}
--> lügät : [adj.] golden
+lyg : [m. unc.] gold {Original}
+-> lygät : [adj.] golden
 platin : [m. unc.] platinum {French 'platine', English 'platinum'}
 granit : [m. unc.] granite {French 'granit' via Russian 'гранит'}
 kvardz : [m. unc.] quartz {German 'Quarz' via French and English 'quartz'}
@@ -904,7 +906,7 @@ mož : [n.] mouth {? ~ English 'mouth', French 'bouche'}
 stom : [n.] [archaic] mouth {Anc. Greek 'στόμα'}
 -> stom : [n.] stomach {Anc. Greek 'στόμαχος'}
 -> n'ej stom (öd) : [expr.] to not have the appetite (for) {lit. 'to not have the stomach (for)'}
-guru : [n.] throat {Original, onomatopeic
+gyru : [n.] throat {Original, onomatopeic}
 dänt : [n.] tooth {Latin 'dens' via French 'dentiste'/'dentaire', English 'dentist'/'dental'}
 -> däntäs : [adj.] dental
 ----> däntäst : [adv.] dentally
@@ -983,9 +985,7 @@ geb : [n.] leg {Original}
 -> trigeb : [n.] tripod [adj.] three-legged
 brac : [n.] arm {Latin 'bracchium'}
 -> bracäs : [adj.] pertaining to the arm
-süt : {French 'suant'}
--- [v.] sweat
--- [n.] sweat; residue
+syt : [v.] sweat [n.] sweat; residue {French 'suant'}
 fus : [n.] foot {German 'Fuß'}
 -> fusäs : [adj.] pedal
 kint : [n.] cheek {Swedish}
@@ -1092,8 +1092,8 @@ dram : [n.] drama (theatre) {Latin 'drama' via English, French 'drame'}
 ----> dramäst : [adj.] dramatically
 -> dramsti : [adj.] dramatic (exaggerated)
 ----> dramstijät : [adv.] dramatically (exaggerated)
-stüs : [n.] show, spectacle {Finnish 'esitys'}
--> animetstüs : [n.] cartoon; show, series (animated)
+stys : [n.] show, spectacle {Finnish 'esitys'}
+-> animetstys : [n.] cartoon; show, series (animated)
 
 == music : muzik ==
 muzik : [n.] music {German 'Musik', French 'musique'}
@@ -1160,6 +1160,7 @@ krimen : [n.] crime, fault, infraction {Latin 'crimen'}
 polic : {French 'police'}
 -- [n.] police, law enforcement
 ----> policäs : [adj.] police
+----> policdom : [n.] police station 
 -- [v.] police
 
 prizon : [n.] prison
@@ -1168,7 +1169,7 @@ prizon : [n.] prison
 
 === places : tromen ===
 otel : [n.] hotel {French 'hôtel'}
-katädral : [n.] cathedral {French 'catédrale'}
+katedral : [n.] cathedral {French 'catédrale'}
 dom : [n.] house, home {Russian 'дома'}
 -> domäs : [adj.] domestic
 ----> adomäs : [v.] domesticate
@@ -1323,7 +1324,7 @@ vaj : [n.] way, path, method [prep.] by means of, according to {Latin 'via'}
 ----> ödväjst : [adv.] obviously
 -> nevaj : [adv.] in any way, at all, whatsoever
 toč : [n.] thing {French 'chose'}
-snog : [n.] edge, boundary, border {? Original}
+snog : [n.] edge, boundary, border {? Original} ##
 -> snogime : [n.] state of being on the edge, of being borderline; hesitancy
 -> snognuz : [adj.] boundless
 -> snoguz : [adj.] limited; bounded
@@ -1384,7 +1385,6 @@ sem : [n.] half [adj.] half of {Latin 'semi-'}
 -> sem(e)- : [prf.] half of, made of halves('semi-')
 -> asem : [v.] halve, split (in two/into two)
 -> semät : [adv.] halfly, half; kind of, kinda
-haaf : [informal] [n.] half [adj.] hafly [common] {English 'half'}
 
 gove : [n.] voice, (manner of) speech; spirit {Japanese '声', ~? Serbo-Croatian ?}
 -> utegove : [n.] singing voice, song voice
@@ -1442,12 +1442,12 @@ märs : [n.] pain, harm, suffering {Original}
 cörg : [v.] [trans] hurt [v.] [intrans] (experience) pain {Original}
 -> cörgin : [n.] harm
 -> cörge : [n.] pain
-ürt : [v.] sting, pinch {French 'urticant'}
--> ürtin : [n.] sting, pinch
--> ürtör : [n.] stinger
--> ürta : [n.] spike
-----> ürtät : [adj.] spiky
-----> ürtsat : [adj.] spiny; (figurative) antisocial
+yrt : [v.] sting, pinch {French 'urticant'}
+-> yrtin : [n.] sting, pinch
+-> yrtör : [n.] stinger
+-> yrta : [n.] spike
+----> yrtät : [adj.] spiky
+----> yrtsat : [adj.] spiny; (figurative) antisocial
 
 gad : [adj.] happy, glad {~ English 'glad', ? Breton}
 -> gadät : [adv.] happily
@@ -1475,10 +1475,10 @@ stin : {Serbian 'истина'}
 -- [adj.] true, genuine
 ----> stinät : [adv.] truly 
 -- [n.] truth
-trüg : [v.] trust {Swedish 'trygg'}
--> trügina : [n.] trust
--> trügin : [n.] treaty, pact
--> trügver : [adj.] trustworthy
+tryg : [v.] trust {Swedish 'trygg'}
+-> trygina : [n.] trust
+-> trygin : [n.] treaty, pact
+-> trygver : [adj.] trustworthy
 kön : {Original}
 -- [adj.] false
 ----> könäs : [adv.] falsely
@@ -1609,6 +1609,7 @@ lum : {Late Latin 'lūmināria' via French 'lumière'}
 ----> lumät : [adv.] light
 -- [v.] cast light onto/throughout
 är : [n.] air {French and English 'air'}
+-> ärodrom : [n.] aerodrome, airport
 säht : [m.] silk {Latin 'saeta' via French 'soie'}
 kotun : [m.] cotton {Arabic 'قطن' via French 'coton' and English 'cotton'}
 glas : [n.] ice [v.] freeze {French 'glace'} 
@@ -1720,7 +1721,7 @@ vapor : [n.] steam, vapor {Latin}
 kav : [n.] basement {French 'cave'}
 käl : [n.] key {French 'clé', English 'key'}
 -> kältröbör : [n.] locksmith
-tür : [n.] door, gate {German 'Tür'}
+tor : [n.] door, gate {German 'Tür'}
 tapir : {French 'tapis'}
 -- [n.] carpet
 -- [v.] to cover with carpet
@@ -1770,11 +1771,11 @@ bal : [n.] ball {French 'balle'}
 doš : [n.] die/dice {Original}
 ešäk : [n. unc.] chess {French 'échecs', English 'chess'}
 uegä : [n.] game {Spanish 'juego'}
-lüd : [v.] play {Latin 'ludus' via French 'ludothèque'}
--> lüdo : [dated] [n.] game
--> lüdör : [n.] player
-----> pülilüdör : [f:video games] [n.] [adj.] multiplayer (mode)
-----> löslüdör : [f:video games] [n.] [adj.] singeplayer (mode)
+lyd : [v.] play {Latin 'ludus' via French 'ludothèque'}
+-> lydo : [dated] [n.] game
+-> lydör : [n.] player
+----> pylilydör : [f:video games] [n.] [adj.] multiplayer (mode)
+----> löslydör : [f:video games] [n.] [adj.] singeplayer (mode)
 
 === time : tän ===
 nat : [n.] day {? Breton 'mat'}
@@ -2834,7 +2835,7 @@ guran : [v.] tickle {Original}
 -> guranin : [n.] tickles
 -> guran (ceni den) isän (učä) : [phrase] tease (someone) about (subject)
 
-küs : [v.] kiss {German 'küss'}
+kys : [v.] kiss {German 'küss'}
 
 falt : [v.] falter {Portugese 'faltar', French 'faute', English 'fault'}
 -> falte : [n.] fault, flaw
@@ -2879,11 +2880,9 @@ som : [v.] [intrans] sleep {Latin 'somnus' via French 'sommeil'}
 -------> sominätt : [adv.] sleepily
 -> asom : [v.] [trans] knock out
 -> somäs : [adj.] somnial
-rümä : {Japanese '夢', French 'rêve', English 'dream'}
--- [v.] dream
--- [n.] dream
-----> rümäät : [adj.] dreamy
--------> rümäätt : [adv.] dreamily
+rymä : [v.] [n.] dream {Japanese '夢', French 'rêve', English 'dream'}
+-> rymäät : [adj.] dreamy
+----> rymäätt : [adv.] dreamily
 
 fam : [v.] hunger {Latin 'fames' via French 'faim'} 
 -> famin : [n.] hunger
@@ -3459,9 +3458,9 @@ ler : [adj.] slow {~ French 'lent'}
 -> aler : [v.] slow
 -> lerät : [adv.] slowly
 
-ükin : [adj.] cute {? Japanese '好き')
--> ükinime : [n.] cuteness
--> ükinät : [adv.] cutely
+ykin : [adj.] cute {? Japanese '好き')
+-> ykinime : [n.] cuteness
+-> ykinät : [adv.] cutely
 
 vat : [adj.] good, well {Breton}
 -> vater : [adj.] better
@@ -3677,11 +3676,11 @@ lös : [adj.] single, only; alone {French 'seul', English 'lone'}
 -> lösime : [n.] loneliness
 -> lösät : [adv.] lonelily; singularly
 -> lös- : [prf.] mono-, uni-
-püli : [adj.] multiple, plural
--> apüli : [v.] to make plural, to multiply; to duplicate
--> pülime : [n.] multiplicity, plurality
--> pülijät : [adv.] plurally
--> püli- : [prf.] multi-, plura-, poly-
+pyli : [adj.] multiple, plural
+-> apyli : [v.] to make plural, to multiply; to duplicate
+-> pylime : [n.] multiplicity, plurality
+-> pylijät : [adv.] plurally
+-> pyli- : [prf.] multi-, plura-, poly-
 
 brat : [adj.] main, principal; central
 -> bratät : [adv.] mainly, principally
