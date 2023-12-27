@@ -8,7 +8,7 @@ Afrika (Afrikäs)   : Africa (African)
 Amerika (Amerikäs) : America (American)
 -> NordAmerika (NordAmerikäs)   : North America (North American)
 -> MitälAmerika (MitälAmerikäs) : Central America (Central American)
--> SüdAmerika (SüdAmerikäs)     : South America (South American)
+-> SydAmerika (SüdAmerikäs)     : South America (South American)
 
 Öropa (Öropäs) : Europe (European)
 -> NordÖropa (NordÖropäs)   : Northern Europe (Northern European)
@@ -19,7 +19,7 @@ Amerika (Amerikäs) : America (American)
 Skadinavia (Skadinavijäs) : Scandinavia (Scandinavian)
 Baltia (Baltijäs)         : Baltics (Baltic)
 Iberia (Iberijäs)         : Iberia (Iberian)
-Südoslavia (Südoslavijäs) : Yugoslavia (Yugoslav) [region]
+Sydoslavia (Sydoslavijäs) : Yugoslavia (Yugoslav) [region]
 Balkan (Balkanäs)         : Balkans (Balkan)
 
 Orient (Orientäs) : Asia (Asian)
@@ -106,12 +106,12 @@ Armenia (Armeniäs)          : Armenia (Armenian)
 Azärbajdžan (Azärbajdžanäs) : Azerbaijan (Azerbaijani, Azer)
 
 Kazakhstan (Kazakhstäs)    : Kazakhstan (Kazakhstani, Kazakh)
-Türkmönüstan (Türkmönüsäs) : Turkmenistan (Turkmenistani, Turkmen)
+Tyrkmönüstan (Tyrkmönüsäs) : Turkmenistan (Turkmenistani, Turkmen)
 Kurguzstan (Kurguzstäs)    : Kyrgyzstan (Kyrgyzstani, Kyrgyz)
 Ozbekistan (Ozbekistäs)    : Uzbekistan (Uzbekistani, Uzbek)
 Todžikistan (Todžikistäs)  : Tajikistan (Tajikistani, Tajik)
 
-Türkia (Türkijäs)    : Turkey (Turk, Turkish)
+Tyrkia (Tyrkijäs)    : Turkey (Turk, Turkish)
 Suria (Suriäs)        : Syria (Syrian)
 Libnen (Libnäs)       : Lebanon (Lebanese)
 Palestin (Palestinäs) : Palestine (Palestinian)
@@ -191,8 +191,8 @@ Sine (Sinäs)           : China (Chinese)
 Tajuan (Tajuanäs)      : Taiwan (Taiwanese)
 Čosen (Čosenäs)        : Korea (Korean) {Korean '조선'}
 -> NordČosen (NordČosenäs) : North Korea (North Korean)
--> SüdČosen (SüdČosenäs)   : South Korea (South Korean)
-Yamate (Yamatäs)       : Japanese (Japanese)
+-> SydČosen (SydČosenäs)   : South Korea (South Korean)
+Ippan (Ippanäs)       : Japanese (Japanese)
 HänGong (HänGongäs)    : Hong Kong (Hong Konger, Hong Kongese)
 Oumon (Oumonäs)        : Macau (Macau)
 
