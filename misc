@@ -8,7 +8,7 @@ Afrika (Afrikäs)   : Africa (African)
 Amerika (Amerikäs) : America (American)
 -> NordAmerika (NordAmerikäs)   : North America (North American)
 -> MitälAmerika (MitälAmerikäs) : Central America (Central American)
--> SydAmerika (SüdAmerikäs)     : South America (South American)
+-> SydAmerika (SydAmerikäs)     : South America (South American)
 
 Öropa (Öropäs) : Europe (European)
 -> NordÖropa (NordÖropäs)   : Northern Europe (Northern European)
@@ -105,7 +105,7 @@ Sakartvälo (Sakartväläs)    : Georgia (Georgian)
 Armenia (Armeniäs)          : Armenia (Armenian)
 Azärbajdžan (Azärbajdžanäs) : Azerbaijan (Azerbaijani, Azer)
 
-Kazakhstan (Kazakhstäs)    : Kazakhstan (Kazakhstani, Kazakh)
+Kazakstan (Kazakstäs)    : Kazakhstan (Kazakhstani, Kazakh)
 Tyrkmönüstan (Tyrkmönüsäs) : Turkmenistan (Turkmenistani, Turkmen)
 Kurguzstan (Kurguzstäs)    : Kyrgyzstan (Kyrgyzstani, Kyrgyz)
 Ozbekistan (Ozbekistäs)    : Uzbekistan (Uzbekistani, Uzbek)
@@ -144,14 +144,14 @@ Zimbabue (Zimbabuäs)   : Zimbabwe (Zimbabwean, Zimbo)
 Maraui (Marauijäs)     : Malawi (Malawian)
 Mosambik (Mozambikäs)  : Mozambique (Mozambican)
 Bucuana (Bucuanäs)     : Botswana (Motswana, Batswana)
-SüdAfrika (SüdAfrikäs) : South Africa (South African)
+SydAfrika (SydAfrikäs) : South Africa (South African)
 
-Najgeria (Najgerijäs) : Nigeria (Nigerian)
+Naigeria (Naigerijäs) : Nigeria (Nigerian)
 
 Kanada (Kanadäs) : Canada (Canadian)
 Kebäk (Kebäkäs)  : Quebec (Québécois)
-Üniti Staten dö Amerika (Amerikäs) : United States of America (American)
--> ÜSAmerika (ÜSAmerikäs) : USAmerica (USAmerican)
+Eniti Staten us Amerika (Amerikäs) : United States of America (American)
+-> ESAmerika (ESAmerikäs) : USAmerica (USAmerican)
 Mehiko (Mehikäs) : Mexico (Mexican)
 
 NovZeelant (NovZeelantäs)   : New Zealand (New Zealander)
@@ -199,7 +199,7 @@ Oumon (Oumonäs)        : Macau (Macau)
 === cities ===
 
 Blumfontäin : Bloemfontein
-Budapest : Budapest
+Budapešt : Budapest
 Bukarest : Bucharest
 Dakar : Dakar
 Dublin : Dublin
@@ -215,6 +215,7 @@ Sarajevo : Sarajevo
 Sofia : Sofia
 Tehran : Tehran
 Tokjo : Tokyo
+Osaka : Osaka 
 Toronto : Toronto
 Vien (Vienäs) : Vienna
 Varšave (Varšaväs)  : Warsaw
@@ -224,18 +225,24 @@ Alin :
 Alina : f
 Alia : f
 An, Ann, Ana, Anna : f
-Ania : f
+Ania, Anja : f
+Anita : f
 Aždän : m
 Gabriel : n
 Jamir : m
-Jüsko : m
+Julia, Julya : f
+Jyn : n
+Jysko : m
 Katrina : f
 Läna : f
 Lines : m
 Lutis : m
+Matti: m
+Mäj : f
 Mikael : m
 Nikola : n
 Tania : f
+Toma, Tuoma : m
 Värner : m
 Zoë, Zoe : f
 Žan, Žann : f
@@ -246,12 +253,13 @@ Rena : f
 Henek
 Kolänto
 Salänro
+Torinsej, Torinsei
 
 === onomatopoeia ===
-miaa : meow
+mja, mau : meow
 möö  : moo
 oaa  : yawn
-orf  : bark,woof
+orf, bau, au  : bark,woof
 klik : click
 kren : crack
 aii  : ow, ouch
@@ -259,3 +267,4 @@ sss  : hiss
 čo  : tock, step, tap
 tram : step, tramp, march
 öhr : erm, uhh, umm
+ronn : snore
