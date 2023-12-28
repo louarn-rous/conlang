@@ -195,12 +195,16 @@ si : [cnjc.] if, in the case/condition that, given/supposing/assuming that {Fren
 -en : [suf.] plural (after closed syllable) {German}  
 -de : [suf.] plural (after open syllable, or one ending with a nasal when there is already a nasal-terminated vowel before it)
 
--(n)u : [suf.] diminutive {Turkish 'kuzu'}
--ina : [suf.] verbal nominative; forms verbal nouns (the noun indicating the action of what is denoted by the verb) {Croatian 'batina'}  
--> -in : [suf.] nominative; forms nouns from verbs, describing the result of an action  
--> -(n)a : [suf.] augmentative
--(t)ör : [suf.] agentive; forms agent nouns from verbs ('-er')  
--(s)ime : [suf.] forms nouns from adjectives, denoting the condition or state of the suffixed word ('-hood', '-dom', '-ness')
+-(n)u : [suf.] diminutive {Turkish 'kuzu'} @
+
+-(s)em : resultative nominative $$
+
+-ina : [suf.] verbal nominative; forms verbal nouns (the noun indicating the action of what is denoted by the verb) {Croatian 'batina'} #
+-> -in : [suf.] nominative; forms nouns from verbs, describing the result of an action #
+-> -(n)a : [suf.] augmentative #
+
+-(t)o/ör : [suf.] agentive; forms agent nouns from verbs ('-er') $
+-(s)ime : [suf.] forms nouns from adjectives, denoting the condition or state of the suffixed word ('-hood', '-dom', '-ness') #
 -(n)äs : [suf.] genitive; forms adjectives from nouns, with the meaning 'of or pertaining to' the suffixed word ('-ic')
 -> -jäs : [suf.] genitive when after 'i' or 'ia'
 -> -njäs : [suf.] genitive when after 'nia' or 'nja'
@@ -221,7 +225,7 @@ si : [cnjc.] if, in the case/condition that, given/supposing/assuming that {Fren
 -- forms ordinal numbers {French '-ème')
 -- used to form nouns from adjectives
 
--om : [suf.] used to mark a place {Original}
+-o/öm : [suf.] used to mark a place {Original} $
 -im : [suf.] used to form nouns, indicating someone who is from a place or has a connection to the suffixed word (German and English '-ling')
 
 a(s)- : [prf.] {French}   
