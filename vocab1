@@ -21,7 +21,6 @@ en : [det.] indefinite ('a'/'an', 'some') [num.] 1 (one) {English 'an', French '
 -> enat : [adv.] once
 -> envär : [adj.] unidirectional
 
-
 is : [det.] proximal demonstrative ('this', 'these') {French 'ici'}  
 -> isa : [n.] proximal locative ('here')  
 as : [det.] distal demonstrative ('that', 'those')  
@@ -906,7 +905,7 @@ mož : [n.] mouth {? ~ English 'mouth', French 'bouche'}
 stom : [n.] [archaic] mouth {Anc. Greek 'στόμα'}
 -> stom : [n.] stomach {Anc. Greek 'στόμαχος'}
 -> n'ej stom (öd) : [expr.] to not have the appetite (for) {lit. 'to not have the stomach (for)'}
-gyru : [n.] throat {Original, onomatopeic}
+gury : [n.] throat {Original, onomatopeic}
 dänt : [n.] tooth {Latin 'dens' via French 'dentiste'/'dentaire', English 'dentist'/'dental'}
 -> däntäs : [adj.] dental
 ----> däntäst : [adv.] dentally
@@ -1075,7 +1074,6 @@ flis : {Frisian 'fluitsje', French 'siffle(t)'}
 ----> flisör : [n.] whistle (device)
 
 === the arts ===
-
 kinematograf : [n.] cinematography [dated] moving picture {French 'cinématographe', German 'Kino'}
 -> kinematografäs : [adj.] cinematographic
 -> kinematograför : [n.] cinematographer
@@ -1801,9 +1799,9 @@ uur : [n.] hour {German 'Uhr'}
 -> uuräs : [adj.] hourly
 -> mitäl uur : [n.] noon {'mitäl' + }
 -> uurdrän : [n.] watch, clock, timepiece {+ 'drän'}
-mäns : [n.] month {Latin 'mensis' via French 'mensuel'}
--> mänsäs : [adj.] mensual, monthly
-----> mänsäst : [adv.] mensually
+mänt : [n.] month {Latin 'mensis' via French 'mensuel', formerly 'mäns'}
+-> mäntäs : [adj.] mensual, monthly
+----> mäntäst : [adv.] mensually
 an : [n.] year {French 'an', + Latin 'annum'}
 -> anäs : [adj.] annual
 ----> anäst : [adv.] annually
@@ -2939,6 +2937,7 @@ mur : {French 'mourir'}
 -- [v.] die, end
 ----> murin : [n.] death, end
 ----> murfär : [adj.] mortal
+öjr : [v.] thrive, prosper {Original}
 
 siät : [v.] wait; expect {Original}
 -> siätina : [n.] waiting; expectation
