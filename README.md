@@ -86,11 +86,6 @@ When they follow a plosive and precede another vowel, they provoke the palatizat
 |⟨šh⟩ → \[ɕ]|⟨dz⟩ → \[d͡z]|⟨lj⟩ → \[ʎ] |⟨ng⟩ → \[ŋ]|⟨tj⟩ → \[c]|
 |⟨žh⟩ → \[ʑ]|⟨dž⟩ → \[d͡ʒ]|⟨ht⟩ → \[xt]|⟨nj⟩ → \[ɲ]|⟨dj⟩ → \[ɟ]|
 
-**Archaic**
-| IPA |/d͡z/|/d͡ʒ/|/ɲ/ |/ʎ/ |/ŋ/ | 
-| :-  | -  | -  | -  | -  | -  |
-| Lat | ǲǳ | ǅǆ | ǋǌ | ǈǉ  | -  |
-
 ### Diphtongs
 | - | ⟨e | ⟨i | ⟨a | ⟨ä | ⟨o | ⟨ö | ⟨u | ⟨y |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
