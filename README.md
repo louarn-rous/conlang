@@ -186,21 +186,21 @@ Exception: sej ('be')
 
 ### Personal
 
-|     | Acc. | Dat. | Det. |
-|:-:  |:--:  |:--:  |:--:  |
-| 1s  | Iž   | Me   | Men  |
-| 1p  | Na   | Na   | Nes  |
-| 2s  | Te   | Te   | Ten  |
-| 2p  | Ve   | Ve   | Ves  |
-| 3s  | Sa   | Sa   | San  |
-| 3p  | He   | He   | Hes  |
-| 3sp | In   | In   | Ine  |
+|     | Nom. | Det. |
+|:-:  |:--:  |:--:  |
+| 1s  | Je   | Jen  |
+| 1p  | Na   | Nes  |
+| 2s  | Te   | Ten  |
+| 2p  | Ve   | Ves  |
+| 3s  | Sa   | San  |
+| 3p  | He   | Hes  |
+| 3sp | In   | Ine  |
 
 A unique feature of Ijter is the possibility of combining a personal pronoun with a definite or indefinite determiner.
 
 | Phrase        | English                      | Lit. translation  |
 |:---           |:---                          |:---               |
-| menen besätim | a colleague of mine          | my-a(n) colleague |
+| jenen besätim | a colleague of mine          | my-a(n) colleague |
 | saner fränden | those friends of theirs (sg) | their-the friends |
 
 ## Grammar
