@@ -1,3 +1,5 @@
 em,suf,resultative
-nad,v,('give','offer')
+nad,v,('give','offer'),(hu:'ad',fr:'donner')
 nadem,n,('gift','donation')
+stöd,v,('help','aid')
+stödem,n,('help','aid')
