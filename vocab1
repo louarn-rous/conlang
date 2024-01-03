@@ -195,7 +195,7 @@ si : [cnjc.] if, in the case/condition that, given/supposing/assuming that {Fren
 -en : [suf.] plural (after closed syllable) {German}  
 -de : [suf.] plural (after open syllable, or one ending with a nasal when there is already a nasal-terminated vowel before it)
 
--(n)u : [suf.] diminutive {Turkish 'kuzu'} @
+-(n)u/y : [suf.] diminutive {Turkish 'kuzu'} @
 
 -(s)em : resultative nominative $$
 
@@ -205,11 +205,11 @@ si : [cnjc.] if, in the case/condition that, given/supposing/assuming that {Fren
 
 -(t)o/ör : [suf.] agentive; forms agent nouns from verbs ('-er') $
 -(s)ime : [suf.] forms nouns from adjectives, denoting the condition or state of the suffixed word ('-hood', '-dom', '-ness') #
--(n)äs : [suf.] genitive; forms adjectives from nouns, with the meaning 'of or pertaining to' the suffixed word ('-ic')
+-(n/l)(j)a/äs : [suf.] genitive; forms adjectives from nouns, with the meaning 'of or pertaining to' the suffixed word ('-ic')
 -> -jäs : [suf.] genitive when after 'i' or 'ia'
 -> -njäs : [suf.] genitive when after 'nia' or 'nja'
 -> -ljäs : [suf.] genitive when after 'lia' or 'lja'
--(n)ät :  
+-(n)a/ät :  
 -- [suf.] used to form adverbs, giving a verb the quality of the suffixed word ('-ly', '-y')
 -- [suf.] used to form adjectives from verbs, meaning inclined/liable to do the suffixed verb  ('-y')
 
@@ -223,7 +223,7 @@ si : [cnjc.] if, in the case/condition that, given/supposing/assuming that {Fren
 
 -e : [suf.]
 -- forms ordinal numbers {French '-ème')
--- used to form nouns from adjectives
+-- used to form nouns from adjectives ###
 
 -o/öm : [suf.] used to mark a place {Original} $
 -im : [suf.] used to form nouns, indicating someone who is from a place or has a connection to the suffixed word (German and English '-ling')
@@ -541,12 +541,12 @@ myz : [n.] mouse {English 'mouse', French 'souris'}
 -> myzu : [n.] mouse pup
 -> myzäs : [adj.] musine
 leo : [n.] lion {Latin}
--> leonäs : [adj.] leonine
+-> leonas : [adj.] leonine
 -> leonu : [n.] lion cub
 pantär : [n.] panther {French 'panthère', Serbian 'пантери'}
--> pantäru : [n.] panther cub
+-> pantäry : [n.] panther cub
 urs : [n.] bear {Latin 'ursus'}
--> ursäs : [adj.] ursine
+-> ursas : [adj.] ursine
 -> ursu : [n.] bear cub
 blär : [n.] badger {French 'blaireau'}
 -> bläräs : [adj.] meline
