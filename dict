@@ -1,5 +1,7 @@
 em,suf,resultative
-nad,v,('give','offer'),(hu:'ad',fr:'donner')
-nadem,n,('gift','donation')
-stöd,v,('help','aid')
-stödem,n,('help','aid')
+let,v,(en:'live',fr:'vivre'),(hu:'életem')
+letem,n,(en:'life',fr:'vie')
+nad,v,(en:'give','offer',fr:'donner','offrir'),(hu:'ad',fr:'donner')
+nadem,n,(en:'gift','donation','offering',fr:'cadeau','offrande')
+stöd,v,(en:'help','aid',fr:'aider'),(se:'stöd')
+stödem,n,('help','aid',fr:'aide')
