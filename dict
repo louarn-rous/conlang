@@ -1,4 +1,5 @@
 em,suf,resultative
+en,suf,plural
 let,v,(en:'live',fr:'vivre'),(hu:'életem')
 letem,n,(en:'life',fr:'vie')
 nad,v,(en:'give','offer',fr:'donner','offrir'),(hu:'ad',fr:'donner')
