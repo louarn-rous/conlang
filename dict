@@ -8,3 +8,5 @@ nadem,n,('gift','donation','offering')
 präjs,n,('price','cost'),(de:'Preise',lux:'präis')
 stöd,v,('help','aid'),(se:'stöd')
 stödem,n,('help','aid')
+top,v,('stop','cease'),(fr:'top')
+
