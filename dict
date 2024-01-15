@@ -1,9 +1,9 @@
 em,suf,resultative
 en,suf,plural
-let,v,(en:'live',fr:'vivre'),(hu:'életem')
-letem,n,(en:'life',fr:'vie')
-nad,v,(en:'give','offer',fr:'donner','offrir'),(hu:'ad',fr:'donner')
-nadem,n,(en:'gift','donation','offering',fr:'cadeau','offrande')
-präjs,n,(en:'price','cost',fr:'prix'),(de:'Preise',lux:'präis')
-stöd,v,(en:'help','aid',fr:'aider'),(se:'stöd')
-stödem,n,('help','aid',fr:'aide')
+let,v,('live'),(hu:'életem')
+letem,n,('life')
+nad,v,('give','offer'),(hu:'ad',fr:'donner')
+nadem,n,('gift','donation','offering')
+präjs,n,('price','cost'),(de:'Preise',lux:'präis')
+stöd,v,('help','aid'),(se:'stöd')
+stödem,n,('help','aid')
