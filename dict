@@ -1,12 +1,19 @@
+bäs,v,('bite',colloq:'tease'),(unknown)
+bäsem,n,('bite',colloq:'teasing','joke'),('bäs'+'em')
+(d)en,suf,plural
 em,suf,resultative
-en,suf,plural
-o/öm,suf,nominalizer,'forms place noun'
 let,v,('live'),(hu:'életem')
-letem,n,('life')
+letem,n,('life'),('let'+'em')
+lyg,n,('gold'),(original)
 nad,v,('give','offer'),(hu:'ad',fr:'donner')
-nadem,n,('gift','donation','offering')
+nadem,n,('gift','donation','offering'),('nad'+'em')
+naj,intj,('no')
+om/öm,suf,nominalizer,'forms place noun'
 präjs,n,('price','cost'),(de:'Preise',lux:'präis')
+stag,v,('start','begin','commence'),(br:'stag')
+stagem,n,('start','beginning'),('stag'+'em')
 stöd,v,('help','aid'),(se:'stöd')
-stödem,n,('help','aid')
-top,v,('stop','cease'),(fr:'top')
-
+stödem,n,('help','aid'),('stöd'+'em')
+top,v,('stop','cease','end','complete','conclude','finish'),(fr:'top')
+topem,n,('end','conclusion'),('top'+'em')
+(u/y)ti,suf,diminutive
