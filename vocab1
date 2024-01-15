@@ -192,12 +192,12 @@ si : [cnjc.] if, in the case/condition that, given/supposing/assuming that {Fren
 ----> sic muset : [phrase] 'i insist' ('please')
 
 === affixes ===  
--en : [suf.] plural (after closed syllable) {German}  
--de : [suf.] plural (after open syllable, or one ending with a nasal when there is already a nasal-terminated vowel before it)
+-en : [suf.] plural (after closed syllable) {German} &&&
+-de : [suf.] plural (after open syllable, or one ending with a nasal when there is already a nasal-terminated vowel before it) &&&
 
--(n)u/y : [suf.] diminutive {Turkish 'kuzu'} @
+-(n)u/y : [suf.] diminutive {Turkish 'kuzu'} &&&
 
--(s)em : resultative nominative $$
+-(s)em : resultative nominative &&&
 
 -ina : [suf.] verbal nominative; forms verbal nouns (the noun indicating the action of what is denoted by the verb) {Croatian 'batina'} #
 -> -in : [suf.] nominative; forms nouns from verbs, describing the result of an action #
@@ -223,9 +223,9 @@ si : [cnjc.] if, in the case/condition that, given/supposing/assuming that {Fren
 
 -e : [suf.]
 -- forms ordinal numbers {French '-ème')
--- used to form nouns from adjectives ###
+-- used to form nouns from adjectives ### &&&
 
--o/öm : [suf.] used to mark a place {Original} $
+-o/öm : [suf.] used to mark a place {Original} $ &&&
 -im : [suf.] used to form nouns, indicating someone who is from a place or has a connection to the suffixed word (German and English '-ling')
 
 a(s)- : [prf.] {French}   
@@ -407,7 +407,7 @@ se : [prn.] reflexive pronoun {French 'se'}
 === interjections ===  
 halo : [intj.] greeting, call for response ('hello') {German 'Hallo'}  
 hej : [intj.] exclamation, protest or reprimand, expression of surprise; informal greeting ('hey')  
-naj : [intj.] negative; used to show disagreement or disbelief ('no') {German}
+naj : [intj.] negative; used to show disagreement or disbelief ('no') {German} &&&
 ja : {German, Dutch, Swedish}  
 -- [intj.] affirmative; used to show agreement or acceptance ('yes')  
 -- [ptcl.] marks preceding clause as interrogative, prompting affirmation ('isn't it'/'right?')
@@ -812,7 +812,7 @@ fer : [m. unc.] iron {French}
 -> feräs : [adj.] ferrous
 aseir : [m. unc] steel {Spanish 'acero' and French 'acier'}
 argänt : [m. unc.] silver {Latin 'argentum' via French 'argent'}
-lyg : [m. unc.] gold {Original}
+lyg : [m. unc.] gold {Original} &&&
 -> lygät : [adj.] golden
 platin : [m. unc.] platinum {French 'platine', English 'platinum'}
 granit : [m. unc.] granite {French 'granit' via Russian 'гранит'}
@@ -2591,11 +2591,11 @@ sad : [v.] happen, occur {Latin 'cado'}
 ----> sadätt : [adv.] probably
 -> ucsad : [v.] undertake, partake (in)
 
-stag : [v.] start, commence, begin {Breton}
--> stagin : [n.] start, beginning
+stag : [v.] start, commence, begin {Breton} &&&
+-> stagin : [n.] start, beginning &&&
 
-top : [v.] finish, end, complete, conclude; stop, cease {French}
--> tope : [n.] end
+top : [v.] finish, end, complete, conclude; stop, cease {French} &&&
+-> tope : [n.] end &&&
 ----> atope : [adv.] finally, at last {'a' +}
 -> topina : [n.] conclusion
 -> topäs : [adj.] final
@@ -3120,7 +3120,7 @@ spen : [v.] spy {French 'espion'}
 naus : [v.] solve {? Original} 
 -> nauset : [adj.] solved
 
-bäs : {Unknown, ? ~ English 'bite', formerly 'baes'}
+bäs : {Unknown, ? ~ English 'bite', formerly 'baes'} &&&
 -- [v.] [n.] bite
 -- [v.] [colloq.] kid, fool around
 
