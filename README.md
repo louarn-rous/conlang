@@ -46,7 +46,7 @@ The Ijter language employs a modified version of the Latin script.
 | Nasal        | /m/     | /n/       |           |       |         |     |
 | Plosive      | /p/ /b/ | /t/ /d/   |           |       | /k/ /ɡ/ |     |
 | Affricate    |         | /t͡s/ /d͡z/ | /t͡ʃ/ /d͡ʒ/ |       |         |     |
-| Fricative    | /f/ /v/ | /s/ /z/   | /ʃ/ /ʒ/   | /ʝ~j/ | _/χ/_   | /h/ |
+| Fricative    | /f/ /v/ | /s/ /z/   | /ʃ/ /ʒ/   | /ʝ~j/ | (/χ/)   | /h/ |
 | Tap/Flap     |         | /ɾ/       |           |       |         |     |
 | Lat. Approx. |         | /l/       |           |       |         |     |
 
@@ -154,19 +154,8 @@ When the action of the verb is described as a potential without being in a speci
 | Future  | -a     | -as    | -at     | -ac     |
 
 __Exceptions: vowel inflection__
-- ster ('speak')
-- tend ('stretch') -> ustend, öttend
 - suer ('exist')
 - ej ('have')
-
-Exception: sret ('write')
-
-| Voice   | Active | Active | Passive | Passive |
-| :---:   |:-----: | :----: | :----:  | :----:  |
-| Tense   | Simple | Contd. | Simple  | Contd.  |
-| Past    | srit   | sris   | srist   | sric    |
-| Present | sret   | sres   | srest   | srec    |
-| Future  | srat   | sras   | srast   | srac    |
 
 Exception: sej ('be')
 
