@@ -1,5 +1,6 @@
 em,suf,resultative
 en,suf,plural
+o/öm,suf,nominalizer,'forms place noun'
 let,v,('live'),(hu:'életem')
 letem,n,('life')
 nad,v,('give','offer'),(hu:'ad',fr:'donner')
