@@ -23,4 +23,7 @@ $ stöd,v,('help','aid'),(se:'stöd')
 $ stödem,n,('help','aid'),('stöd'+'em')
 $ top,v,('stop','cease','end','complete','conclude','finish'),(fr:'top')
 $ topem,n,('end','conclusion'),('top'+'em')
+$ tröb,v,('work')
+$ tröbem,n,('work','task'),('tröb'+'em')
+$ tröbör,n,('worker'),('tröb'+'or')
 (u/y)ti,suf,diminutive
