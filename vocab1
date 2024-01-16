@@ -1728,7 +1728,7 @@ tapir : {French 'tapis'}
 -- [n.] carpet
 -- [v.] to cover with carpet
 mis : {? French 'nid'}
--- [n.] home, nest
+-- [n.] home, nest $$$
 ----> sommis : [n.] bed {'som' + 'mis'}
 ----> misät : [adj.] cozy; homely
 -- [v.] host
@@ -1742,7 +1742,7 @@ mis : {? French 'nid'}
 ----> štogör : [n.] polluter
 tem : [n.] table {Spanish 'mesa', Latin 'tabula' via French and English 'table'}
 -> temsär, temät : [adj.] tabular
-hust : [n.] chair {Original}
+hust : [n.] chair {Original} $$$
 pruc : [n.] plate, dish {Original}
 bol : [n.] bowl {French}
 
@@ -1753,14 +1753,14 @@ most : [n.] bridge {Serbian 'мост'}
 teg : [n.] roof; ceiling; ceiling (upper limit) {Original}
 -> tegom : [n.] hut, shack; shelter
 tom : [n.] floor; ground; floor (lower limit) {Original}
-dol : [n.] wall {Original}
+dol : [n.] wall {Original} $$$
 -> dolu : [n.] small wall; barrier, fence
 kac : [n.] tower {Original}
 -> kacu : [n.] small tower; turret
 siment : [m.] cement {French 'ciment', English 'cement'}
 -> asiment : [v.] [trans] cement (in)
 töl : {French 'tuile'}
--- [n.] tile, pane, panel, plate
+-- [n.] tile, pane, panel, plate $$$
 -- [v.] to cover with tiles
 fraj : [n.] window, opening; glimpse; opportunity {Original}
 -> frajsnog : [n.] windowsill {+ 'snog'}
@@ -2948,8 +2948,8 @@ siät : [v.] wait; expect {Original}
 -> nesiätet : [adj.] unexpected
 ----> nesiätt : [adv.] unexpectedly
 
-brit : [v.] break {Swedish 'bryta'}
--> britin : [n.] fissure, fissuring
+brit : [v.] break {Swedish 'bryta'} $
+-> britin : [n.] fissure, fissuring $
 -> britina : [n.] breaking, destruction
 -> britfär : [adj.] breakable
 ----> britnefär : [adj.] unbreakable
@@ -3022,8 +3022,8 @@ kräs : [v.] grow {Latin 'crescere' via Portugese 'crescer'}
 ----> akräsin : [n.] increase
 fal : [v.] [n.] fall; drop, decrease {Swedish 'falla'}
 
-bran : [v.] [n.] burn {Swedish 'brann'}
--> brant : [adj.] burnt
+bran : [v.] [n.] burn {Swedish 'brann'} $$$
+-> brant : [adj.] burnt $$$
 
 flet : [v.] fly {German 'Flieg', French 'voler', English 'flutter'}
 -> fletin(a) : [n.] flight
@@ -3055,8 +3055,6 @@ kul : {French 'colle', English 'glue'}
 salv : [v.] save {Latin 'salva' via English 'salvation', French 'sauver'}
 -> salvör : [n.] saviour
 -> salvina : [n.] salvation
-
-brilj : [v.] shine {Portugese 'brilhar', French 'briller'}
 
 danc : {German 'tanz', English 'dance'}
 -- [v.] [intrans] dance
@@ -3354,8 +3352,8 @@ goš : [adj.] tall {? Original}
 ruš : [adj.] short {Original}
 -> aruš : [v.] to shorten (vertically)
 
-dost : [adj.] deep {Original}
--> adost : [v.] deepen
+dost : [adj.] deep {Original} $$$
+-> adost : [v.] deepen $$$
 -> dostime : [n.] depth
 nir : [adj.] shallow {Original}
 
