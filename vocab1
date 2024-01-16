@@ -3211,13 +3211,13 @@ nos : [v.] [trans] give birth to; [when passive] [intrans] be born {Latin 'nasco
 ----> ünnostät : [adv.] natively
 ----> ünnostime : [n.] nativity, state of being native
 
-tröb : {German 'Arbeit', French 'travail', English 'labour'}
--- [v.] work, labour
+tröb : {German 'Arbeit', French 'travail', English 'labour'} $$$
+-- [v.] work, labour $$$
 ----> tröbör : [n.] worker
 ----> tröbestrom : [n.] workplace; office, bureau {+ 'trom'}
 ----> atröb : [v.] operate, maneuver
 -------> atröbina : [n.] operation, maneuvering
--- [n.] work, labour
+-- [n.] work, labour $$$
 ----> tröbnuz : [adj.] unemployed
 -------> tröbnuzör : [n.] unemployed person
 ----> seitröbuz : [adj.] self-employed
@@ -3300,19 +3300,19 @@ lav : [v.] wash {French 'laver'}
 -> lavina : [n.] washing
 -> lavör : [n.] person or machine that washes
 
-profit : [v.] profit {English 'profit', French 'profiter'}
+profit : [v.] profit {English 'profit', French 'profiter'} ##
 -> profitina : [n.] profit
 -> profitör : [n.] profiteer
 ----> ratneprofitör : [n.] war profiteer
 ----> ratneprofitina : [n.] war profiteering
 
-regul : [v.] regulate {English 'regulate', French 'reguler'}
+regul : [v.] regulate {English 'regulate', French 'reguler'} ###
 -> regulina : [n.] regulation
 -> regulör : [n.] regulator
 
 === adjectives ===
 
-sur : [adj.] big, large {Estonian 'suur'}
+sur : [adj.] big, large {Estonian 'suur'} $$$
 -> asur : [v.] [usu. trans] to increase, embiggen, grow
 -> surät : [adv.] largely
 -> surime : [n.] size
