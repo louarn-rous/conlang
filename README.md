@@ -31,7 +31,7 @@ The Ijter language employs a modified version of the Latin script.
 | /d/  | '**d**og'             | Dd | de | /s/ | '**s**un'               | Ss | äs |
 | /e/  | 'h**a**y'             | Ee | ee | /ʃ/ | '**sh**oe'              | Šš | äš |
 | /v/  | '**v**ine'            | Vv | ve | /t/ | '**t**op'               | Tt | te |
-| /g/  | '**g**oat'            | Gg | ge | /u/ | 'fr**u**it'             | Uu | uu |
+| /ɡ/  | '**g**oat'            | Gg | ge | /u/ | 'fr**u**it'             | Uu | uu |
 | /i/  | 'b**ee**'             | Ii | ii | /y/ | 'f**ew**' (Gen. SA)     | Yy | yy |
 | /j/  | '**y**ak'             | Jj | je | /z/ | '**z**oo'               | Zz | ze |
 | /k/  | '**k**ey'             | Kk | ke | /ʒ/ | 'vi**si**on'            | Žž | že |
