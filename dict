@@ -4,6 +4,8 @@ $ asen,v,('unite','unify'),('a(s)'+'en')
 $ asenem,n,('union'),('asen'+'em')
 $ bäs,v,('bite',colloq:'tease'),(unknown)
 $ bäsem,n,('bite',colloq:'teasing','joke'),('bäs'+'em')
+$ brit,v,('break')
+$ britem,n,('break','fissure'),('brit'+'em')
 $ drän,n:('face','front')
 (d)en,suf,plural
 $ em,suf,resultative
