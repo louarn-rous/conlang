@@ -15,7 +15,7 @@ lyg,n,('gold'),(original)
 $ nad,v,('give','offer'),(hu:'ad',fr:'donner')
 $ nadem,n,('gift','donation','offering'),('nad'+'em')
 naj,intj,('no')
-om/öm,suf,nominalizer,'forms place noun'
+$ om/öm,suf,nominalizer,'forms place noun'
 präjs,n,('price','cost'),(de:'Preise',lux:'präis')
 $ stag,v,('start','begin','commence'),(br:'stag')
 $ stagem,n,('start','beginning'),('stag'+'em')
