@@ -1754,7 +1754,7 @@ teg : [n.] roof; ceiling; ceiling (upper limit) {Original}
 -> tegom : [n.] hut, shack; shelter
 tom : [n.] floor; ground; floor (lower limit) {Original}
 dol : [n.] wall {Original} $$$
--> dolu : [n.] small wall; barrier, fence
+-> dolu : [n.] small wall; barrier, fence $$$
 kac : [n.] tower {Original}
 -> kacu : [n.] small tower; turret
 siment : [m.] cement {French 'ciment', English 'cement'}
@@ -2001,14 +2001,14 @@ korb : [n.] basket {French 'corbeille'}
 -> korbu : [n.] parcel
 dat : [n.] bag
 -> datu : [n.] small bag
-sor : [n.] chest, trunk {Original
+sor : [n.] chest, trunk {Original}
 -> soru : [n.] box
 ----> asor(u) : [v.] [trans] to put in a box
 ----> imsoru : [n.] [f:email] inbox
 -> sorpros : [n.] shelf, cabinet, cupboard
 cugot : [n.] bottle; canteen, gourd {Original}
-tukon : [n.] lid, cap, top; plug {Korean '뚜껑'}
-maid : [n.] shell, hull
+tukon : [n.] lid, cap, top; plug {Korean '뚜껑'} $$$
+maid : [n.] shell, hull {? Original}
 -> maidu : [n.] case
 
 tam : [v.] note; indent, make a notch; nick {Original}
