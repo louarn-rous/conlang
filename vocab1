@@ -1618,7 +1618,7 @@ glas : [n.] ice [v.] freeze {French 'glace'}
 -> glasät : [adj.] icy, iced
 -> glasäs : [adj.] glacial
 -> glast : [adj.] frozen
-uis : [n.] [v.] water {? Original}
+uis : [n.] [v.] water {? Original} &&
 -> uissor : [n.] toilet {+ 'sor'}
 vir : [m.] glass {French 'ver'}
 -> avir : [v.] turn into glass
@@ -1659,8 +1659,8 @@ linn : [n.] line, string, cord, rope {French 'ligne', later ~ Latin 'linea'}
 lozanž : {French 'losange'}
 -- [n.] rhombus, lozange
 -- [n.] pill or tablet, esp. one shaped like a rhombus
-guip : [n.] drop {French 'goutte', English 'drop'}
--> guipu : [n.] droplet
+guip : [n.] drop {French 'goutte', English 'drop'} &&&
+-> guipu : [n.] droplet &&&
 rad : [n.] ray {Latin 'radius' via English 'radio'}
 -> erad : [v.] irradiate
 täl : [n.] fabric, canvas; (spider's) web {Latin 'tela' via French 'toile'}
@@ -1686,7 +1686,7 @@ brik : [n.] brick, ingot {French 'brique', English 'brick'} #
 gan : [n.] hole, gap, opening; pit, chasm {? Original}
 -> ganu : [n.] small hole
 krät : [n.] grid {Latin 'cratis'}
-kest : [n.] frame {Finnish 'kehys' and Hungarian 'keret'}
+kest : [n.] frame {Finnish 'kehys' and Hungarian 'keret'} $
 lemm : [n.] blade; flap; human nail; [f:computing] tab, widget {Latin 'lamina' via French 'lamelle'}
 -> lemmu : [n.] lamella
 sper : [v.] curl, coil {Latin 'spirale' via French, via English 'spiral'}
@@ -1694,7 +1694,7 @@ sper : [v.] curl, coil {Latin 'spirale' via French, via English 'spiral'}
 -> sperin : [n.] spiral, curl; coil
 tave : [n.] tube, pipe, barrel [n.] pipe (tobacco) {Romanian 'țeavă'}
 -> tavu : [n.] small pipe
-cär : [n.] reed, stem; straw {Original}
+cär : [n.] reed, stem; straw {Original} &
 -> gecär : [m.] straw (bulk)
 -> sulcär : [n.] drinking straw {'sul' +}
 kev : {Anc. Greek 'κύβος' via French and English 'cube'}
@@ -1723,7 +1723,7 @@ vapor : [n.] steam, vapor {Latin}
 kav : [n.] basement {French 'cave'}
 käl : [n.] key {French 'clé', English 'key'}
 -> kältröbör : [n.] locksmith
-tor : [n.] door, gate {German 'Tür'}
+tor : [n.] door, gate {German 'Tür'} &
 tapir : {French 'tapis'}
 -- [n.] carpet
 -- [v.] to cover with carpet
@@ -2418,7 +2418,7 @@ maris : [v.] remember, recall {Original}
 oblis : [v.] forget {Latin 'obliviscor' via French 'oublier'}
 -> oblistfär : [adj.] forgettable
 ----> nesoblistfär : [adj.] unforgettable
-štuz : [v.] [intrans] pretend, feign [v.] [trans] disguise {Original}
+štuz : [v.] [intrans] pretend, feign [v.] [trans] disguise {Original} $
 kuet : [v.] count, calculate {Original}
 -> kuetin : [n.] count
 -> kuetina : [n.] calculation
@@ -2603,8 +2603,8 @@ top : [v.] finish, end, complete, conclude; stop, cease {French} &&&
 -> topet : [adj.] finished, over
 -> topör : [n.] stopper
 
-fin : [v.] finish, end, conclude {Latin 'finio' via French 'finir' and English 'finish'}
--> fine : [n.] end
+fin : [v.] finish, end, conclude {Latin 'finio' via French 'finir' and English 'finish'} &&&
+-> fine : [n.] end &&&
 ----> afine : [adv.] finally, at last {'a' +}
 -> finina : [n.] conclusion
 -> finäs : [adj.] final
@@ -2658,8 +2658,8 @@ tös : [v.] [trans] to make into, turn the subject into #
 bau : [v.] to build, construct {German 'bauen'} #
 -> bauör : [n.] builder
 
-sret : [v.] write {French 'écrire', English 'write'}
--> sretör : [n.] writer
+sret : [v.] write {French 'écrire', English 'write'} &
+-> sretör : [n.] writer &
 -> sretäs : [adj.] scriptory, scriptorial, escritorial
 -> srete : [n.] script
 -> sretina : [n.] (practice of) writing
@@ -2736,14 +2736,14 @@ avis : [v.] show, uncover, demonstrate, discover
 lus : [v.] open {Original}
 -> lusör : [n.] thing which opens; opener
 usät : [v.] close
-tör : [v.] pull, draw
+tör : [v.] pull, draw {? Original ~ French 'tirer'} &&
 -> törör : [n.] trigger
 -> törsoru : [n.] drawer {+ 'soru'}
-prös : [v.] [trans] [n.] push
+prös : [v.] [trans] [n.] push {? Original ~ French 'pousser'}
 -> prösir : [v.] (usu. of a vehicle) drive
 -> seiprösäs : [adj.] automatic, automobile
 ----> seiprösäst : [adv.] automatically
-präm : [v.] [trans] [n.] press
+präm : [v.] [trans] [n.] press {? Original ~ English 'press'}
 -> prämin : [n.] pressure; stress
 -> apräm : [v.] pressure
 träš : [v.] [trans] throw, hurl {Original}
@@ -2768,7 +2768,7 @@ rol : [v.] roll {English 'roll', French 'rouler'}
 -> rolin : [n.] roll
 flot : [v.] float {French 'flotter', English 'float'}
 -> flotina : [n.] fleet {Russian 'флот', French 'flotte'}
-pust : [v.] blow; puff, wheeze, pant {Serbo-Croatian 'puhati'}
+pust : [v.] blow; puff, wheeze, pant {Serbo-Croatian 'puhati'} $
 frot : [v.] rub {French 'frotter'}
 ut : [v.] sing {Japanese '歌'}
 -> utin : [n.] song
@@ -2871,9 +2871,9 @@ bat : [v.] hit, beat {Croatian 'batina', ~ French 'battre'}
 -> batina : [n.] beating
 ačet : [v.] attack {French 'attaquer', + via English 'attack' and Russian 'атака', ~ Serbo-Croatian 'напад', ? ~ French 'acharné'}
 -> ačetin : [n.] attack
-par : [v.] shoot {Original}
--> parör : [n.] shooter
--> parin : [n.] shot
+par : [v.] shoot {Original} $
+-> parör : [n.] shooter $
+-> parin : [n.] shot $
 -> parina : [n.] shooting
 
 ausk : [v.] [dated] listen, hear; heed, accept, obey {archaic 'aur' + archaic 'klen'}
