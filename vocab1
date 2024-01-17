@@ -1535,11 +1535,11 @@ son : [n.] sound [v.] ring, sound {Latin 'sono' + via French 'son'}
 -------> nesonätt : [adv.] silently
 -------> anesonät : [v.] muffle, dull, hush
 -> reson : [v.] resonate
-mujt : [n.] noise {Original}
+mujt : [n.] noise {Original} &&
 -> mujtsat : [adj.] noisy
 ----> mujtsät : [adv.] noisily
 
-väm : [n.] form, shape; figure, outline {~ Latin 'forma'}
+väm : [n.] form, shape; figure, outline {~ Latin 'forma'} &&
 -> vämäs : [adj.] formal
 ----> vämäst : [adv.] formally
 
@@ -1694,7 +1694,7 @@ sper : [v.] curl, coil {Latin 'spirale' via French, via English 'spiral'}
 -> sperin : [n.] spiral, curl; coil
 tave : [n.] tube, pipe, barrel [n.] pipe (tobacco) {Romanian 'țeavă'}
 -> tavu : [n.] small pipe
-cär : [n.] reed, stem; straw {Original} &
+cär : [n.] reed, stem; straw {Original} &&
 -> gecär : [m.] straw (bulk)
 -> sulcär : [n.] drinking straw {'sul' +}
 kev : {Anc. Greek 'κύβος' via French and English 'cube'}
@@ -1742,7 +1742,7 @@ mis : {? French 'nid'}
 ----> štogör : [n.] polluter
 tem : [n.] table {Spanish 'mesa', Latin 'tabula' via French and English 'table'}
 -> temsär, temät : [adj.] tabular
-hust : [n.] chair {Original} $$$
+hust : [n.] chair {Original} &&&
 pruc : [n.] plate, dish {Original}
 bol : [n.] bowl {French}
 
@@ -1750,9 +1750,9 @@ bol : [n.] bowl {French}
 pilar : [n.] pillar; support, foundation {English 'pillar'}
 dal : [n.] slab {French 'dalle'}
 most : [n.] bridge {Serbian 'мост'}
-teg : [n.] roof; ceiling; ceiling (upper limit) {Original}
+teg : [n.] roof; ceiling; ceiling (upper limit) {Original} &&
 -> tegom : [n.] hut, shack; shelter
-tom : [n.] floor; ground; floor (lower limit) {Original}
+tom : [n.] floor; ground; floor (lower limit) {Original} &&
 dol : [n.] wall {Original} $$$
 -> dolu : [n.] small wall; barrier, fence $$$
 kac : [n.] tower {Original}
@@ -1760,7 +1760,7 @@ kac : [n.] tower {Original}
 siment : [m.] cement {French 'ciment', English 'cement'}
 -> asiment : [v.] [trans] cement (in)
 töl : {French 'tuile'}
--- [n.] tile, pane, panel, plate $$$
+-- [n.] tile, pane, panel, plate &&
 -- [v.] to cover with tiles
 fraj : [n.] window, opening; glimpse; opportunity {Original}
 -> frajsnog : [n.] windowsill {+ 'snog'}
@@ -1995,7 +1995,7 @@ amau : [n.] shadow {Anc. Greek 'ἀμαυρός'}
 ----> ceme : [n.] dark
 -> amaust : [adj.] shadowy
 
-štafe : [n.] flag, banner {Original ~ Romanian 'steag', German 'Fahne'}
+štafe : [n.] flag, banner {Original ~ Romanian 'steag', German 'Fahne'} &&&
 
 korb : [n.] basket {French 'corbeille'}
 -> korbu : [n.] parcel
@@ -2011,8 +2011,8 @@ tukon : [n.] lid, cap, top; plug {Korean '뚜껑'} $$$
 maid : [n.] shell, hull {? Original}
 -> maidu : [n.] case
 
-tam : [v.] note; indent, make a notch; nick {Original}
--> tame : [n.] note, mark; notch
+tam : [v.] note; indent, make a notch; nick {Original} &&
+-> tame : [n.] note, mark; notch &&
 ----> tamret : [n.] notation (system of notes)
 -> tamina : [n.] (act of) notation
 
@@ -3314,8 +3314,8 @@ sur : [adj.] big, large {Estonian 'suur'} $$$
 -> asur : [v.] [usu. trans] to increase, embiggen, grow
 -> surät : [adv.] largely
 -> surime : [n.] size
-tis : [adj.] small, little (esp. in size) {Breton}
--> atis : [v.] to reduce, shrink
+tis : [adj.] small, little (esp. in size) {Breton} &&
+-> atis : [v.] to reduce, shrink &&
 -> tisät : [adv.] slightly; negligibly
 ----> tist : [adj.] slight
 
