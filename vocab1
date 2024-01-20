@@ -21,10 +21,10 @@ en : [det.] indefinite ('a'/'an', 'some') [num.] 1 (one) {English 'an', French '
 -> enat : [adv.] once
 -> envär : [adj.] unidirectional
 
-is : [det.] proximal demonstrative ('this', 'these') {French 'ici'}  
--> isa : [n.] proximal locative ('here')  
-as : [det.] distal demonstrative ('that', 'those')  
--> asa : [n.] distal locative ('there')
+is : [det.] proximal demonstrative ('this', 'these') {French 'ici'} &&&
+-> isa : [n.] proximal locative ('here') &&&
+as : [det.] distal demonstrative ('that', 'those') &&&
+-> asa : [n.] distal locative ('there') &&&
 
 ža : [det.] interrogative ('what', 'which') {Croatian 'za'}  
 -> žaj : [det.] [prn.] (relative) what, which
