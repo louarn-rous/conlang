@@ -73,3 +73,7 @@ $ tyl,n,('tile'),(old:'töl')
 $ (u/y)ti,suf,diminutive
 väm,('form','shape','figure','outline')
 vyjs,n,('water'),(old:'uis')
+yr,det,(proximal demonstrative,'this','these')
+yrom,n,('here'),('yr'+'-om')
+ner,det,(distal demonstrative,'that,'those')
+nerom,n,('there'),('ner'+'-om')
