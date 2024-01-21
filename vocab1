@@ -53,7 +53,7 @@ ceni : [det.] some, a part of
 us : [prep.] ablative, genitive ('from', 'of', authorship)  
 -> ussa : [prep.] beyond, further than
 -> usam : [prep.] away from, off
-öd : [prep.] allative (to, for)  
+öd : [prep.] allative (to, for) &&&
 -> öduz : [adv.] together  
 -> öde : [prep.] benefactive ('for', 'in favour/support/the objective of', 'so that')
 ----> öde : [n.] pro (reason in favour of something)
@@ -2644,8 +2644,8 @@ säm : [v.] sow {German 'säen', French 'semer'}
 štör : [v.] seem, appear; suggest {Original}
 -> štörina : [n.] suggestion; appearance
 
-söt : [v.] create, make, build, assemble, bring to fruition {Original}
--> sötina : [n.] creation
+söt : [v.] create, make, build, assemble, bring to fruition {Original} &&&
+-> sötina : [n.] creation &&&
 -> acöt : [v.] produce {from 'öd' +}
 ----> acötim : [n.] progeny, offspring
 ----> acötin : [n.] product
@@ -2658,10 +2658,10 @@ tös : [v.] [trans] to make into, turn the subject into #
 bau : [v.] to build, construct {German 'bauen'} #
 -> bauör : [n.] builder
 
-sret : [v.] write {French 'écrire', English 'write'} &
--> sretör : [n.] writer &
+sret : [v.] write {French 'écrire', English 'write'} &&&
+-> sretör : [n.] writer &&&
 -> sretäs : [adj.] scriptory, scriptorial, escritorial
--> srete : [n.] script
+-> srete : [n.] script &&&
 -> sretina : [n.] (practice of) writing
 -> sretiletä : [n.] workbook {+ 'letä'}
 -> resret : [v.] rewrite
@@ -2739,13 +2739,13 @@ usät : [v.] close
 tör : [v.] pull, draw {? Original ~ French 'tirer'} &&
 -> törör : [n.] trigger
 -> törsoru : [n.] drawer {+ 'soru'}
-prös : [v.] [trans] [n.] push {? Original ~ French 'pousser'}
+prös : [v.] [trans] [n.] push {? Original ~ French 'pousser'} 
 -> prösir : [v.] (usu. of a vehicle) drive
 -> seiprösäs : [adj.] automatic, automobile
 ----> seiprösäst : [adv.] automatically
-präm : [v.] [trans] [n.] press {? Original ~ English 'press'}
--> prämin : [n.] pressure; stress
--> apräm : [v.] pressure
+präm : [v.] [trans] [n.] press {? Original ~ English 'press'} &&
+-> prämin : [n.] pressure; stress &&
+-> apräm : [v.] pressure &&
 träš : [v.] [trans] throw, hurl {Original}
 -> träšör : [n.] pitcher (one who throws)
 -> träšin : [n.] throw
