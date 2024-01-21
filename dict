@@ -41,6 +41,7 @@ naj,intj,('no')
 & narom,n,('there'),('ner'+'-om')
 nja,adv,('already','thus far'),(original)
 & om,suf,nominalizer,'forms place noun'
+o(t),prep,(allative,'to','for'),(old:'öd')
 par,v,('shoot'),(original)
 parem,n,('shot'),('par'+'em')
 paror,n,('shooter'),('par'+'-or')
