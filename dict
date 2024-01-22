@@ -15,6 +15,7 @@ cär,n,('reed','stem','straw','stalk'),(original)
 (d)en,suf,plural
 & em,suf,resultative
 & en,det:('a/an','some'),num:('one')
+enna,intj,('now','well','oh'),(original)
 & fyst,v,('blow','puff'),(old:'pust')
 & fystem,n,('puff'),('fyst'+'em')
 & gešt,prep,('against')
