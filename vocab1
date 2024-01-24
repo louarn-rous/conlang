@@ -33,6 +33,7 @@ as : [det.] distal demonstrative ('that', 'those') &&&
 -> läža : [det.] how {'läš' +}
 -> täna : [det.] [cnjc.] when {'tän' +}  
 -> žadom : [det.] where; wherein {'-a' +}  
+---> žadoj : [det.] (not-interrogative) where
 -> meža : [det.] how many, how much {'me' +}  
 -> žavär : [det.] to/in what direction, towards where {+ '-vär'}
 -> žaden : [det.] who, whose {+ 'den'}
@@ -1275,6 +1276,7 @@ klass : [n.] class {French 'classe'}
 natur : [n.] nature {German 'Natur', French and English 'nature'}
 -> naturäs : [adj.] natural (pertaining to nature)
 -> naturät : [adj.] natural
+-> naturmaht : [n.] natural force, force of nature
 
 terror : [n.] terror {Latin}
 -> terrorist : [adj.] terrorist
@@ -2283,7 +2285,7 @@ pris : [v.] run {? Original}
 -> prisina : [n.] running
 -> prisät : [n.] [adj.] cursive (writing)
 ----> prissrete : [n.] cursive script
-komm : [v.] [intrans.] come, arrive {German 'kommen'}
+vök : [v.] [intrans.] come, arrive {Original}
 jun : [v.] jump {Original} #
 pas : [v.] [trans] pass, go by {French 'passer'}
 -> obpas : [v.] [trans] surpass
