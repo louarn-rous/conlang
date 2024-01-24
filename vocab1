@@ -582,6 +582,7 @@ musk : [n.] fly {Latin 'musca' via French 'mouche'}
 
 oris : [n.] bird {Anc. Greek 'ὄρνις'}
 -> orisäs : [adj.] avian
+taub : [n.] dove {Swedish 'duva', German 'Taube'} 
 agräl : [n.] eagle {Latin 'aquila' via French 'aigle and English 'eagle'}
 -> agräläs : [adj.] aquiline
 falk : [n.] falcon; hawk
@@ -589,7 +590,7 @@ falk : [n.] falcon; hawk
 alar : [n.] swan {Breton "alarc'h"}
 -> alaräs : [adj.] cygnine
 stor : [n.] stork {German 'Storch'}
-otryš : [n.] ostrich {French 'otruche'}
+otrus : [n.] ostrich {Old 'otryš'}
 pol : [n.] chicken {Spanish 'pollo'}
 -> polu : [n.] chick
 -> gepol : [n.] poultry
@@ -1942,10 +1943,11 @@ päst : {French 'peste', English 'pester'}
 -- [v.] spread plague amongst
 -- [n.] annoyance
 -- [v.] plague, pester, annoy
-pač : [n.] peace {Latin 'pax'}
--> apač : [v.] appease
-----> apačina : [n.] appeasement
--> pačime : [n.] peacetime
+fred : [n.] peace {Swedish 'fred', German 'frieden'}
+-> afred : [v.] appease
+----> afredina : [n.] appeasement
+-> fredime : [n.] (state of) peace, peacetime
+-> fredsat : [adj.] peaceful
 
 orrör : [n.] horror {Latin 'horror' via English 'horror' and French 'horreur'}
 
