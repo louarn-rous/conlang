@@ -3,8 +3,8 @@ er : [det.] definite ('the') {Breton 'ar'}
 -> s'er [cntrc.] of the  
 en : [det.] indefinite ('a'/'an', 'some') [num.] 1 (one) {English 'an', French 'un(e)'} &&&
 -> s'en [cntrc.] of a/an/some
--> asen : [v.] unite, unify
-----> asenem : [n.] union
+-> asen : [v.] unite, unify &&&
+----> asenem : [n.] union &&&
 -> ene : [ord. num.] first
 ----> enät : [adv.] firstly
 -> ten : [adj.] whole, complete, entire
@@ -22,14 +22,14 @@ en : [det.] indefinite ('a'/'an', 'some') [num.] 1 (one) {English 'an', French '
 -> enat : [adv.] once
 -> envär : [adj.] unidirectional
 
-is : [det.] proximal demonstrative ('this', 'these') {French 'ici'} &&&
--> isa : [n.] proximal locative ('here') &&&
-as : [det.] distal demonstrative ('that', 'those') &&&
--> asa : [n.] distal locative ('there') &&&
+yr : [det.] proximal demonstrative ('this', 'these') {French 'ici'} &&&
+-> yrom : [n.] proximal locative ('here') &&&
+nar : [det.] distal demonstrative ('that', 'those') &&&
+-> narom : [n.] distal locative ('there') &&&
 
 ža : [det.] interrogative ('what', 'which') {Croatian 'za'}  
 -> žaj : [det.] [prn.] (relative) what, which
--> ödža : [det.] why {'öd' +}  
+-> otža : [det.] why {'öd' +}  
 ----> žadöj : [det.] (non-interrogative) why, the reason for which
 -> läža : [det.] how {'läš' +}
 -> täna : [det.] [cnjc.] when {'tän' +}  
@@ -55,12 +55,12 @@ ceni : [det.] some, a part of
 us : [prep.] ablative, genitive ('from', 'of', authorship)  
 -> ussa : [prep.] beyond, further than
 -> usam : [prep.] away from, off
-öd : [prep.] allative (to, for) &&&
--> öduz : [adv.] together  
--> öde : [prep.] benefactive ('for', 'in favour/support/the objective of', 'so that')
-----> öde : [n.] pro (reason in favour of something)
--> ödvär : [adj.] towards  
-----> ödvärt : [adv.] towards  
+o(t) : [prep.] allative (to, for) {Old 'öd'}
+-> otuz : [adv.] together  
+-> ote : [prep.] benefactive ('for', 'in favour/support/the objective of', 'so that')
+----> ote : [n.] pro (reason in favour of something)
+-> otvär : [adj.] towards  
+----> otvärt : [adv.] towards  
 
 im : [prep.] in (locative: contained by, within the bounds of, part of, into) ('at', 'in') {German} &&&
 -> im- : [prf.] inwards ('in')
@@ -78,7 +78,7 @@ im : [prep.] in (locative: contained by, within the bounds of, part of, into) ('
 ----> aimir : [v.] make enter, welcome, bring in
 -------> aimiret : [intj.] [greeting] welcome (in)
 -> imöd : [prep.] into
--> inom : [n.] inside
+-> inom : [n.] inside &&&
 
 ust : [prep.] out (outside of, away from, not in) {French 'ouste'}  
 -> ust- : [prf.] outwards ('out-')
@@ -120,9 +120,11 @@ ant : [prep.] between, among {Latin 'inter' via English 'internal', ? French 'en
 a : [prep.] locative (chiefly temporal: at, in, on) {French 'à'}  
 -> am : [prep.] above (before vowel)
 u : [prep.] proximitive (at, near, by) {Russian 'у'}  
-gešt : [prep.] against; in exchange for {German 'gegen', English 'against'}  
--> irgešt : [v.] oppose, go against
+gešt : [prep.] against; in exchange for {German 'gegen', English 'against'} &&&
+-> agešt : [v.] oppose, go against
+----> ageštem : [n.] opposition, contrast
 -> gešt : [n.] con (reason against something)
+
 sär : [prep.] in the form(at) of, as
 -> -sär : [suf.] in the form of the suffixed word
 isän : [prep.] ablative (about, concerning)  
@@ -194,18 +196,16 @@ si : [cnjc.] if, in the case/condition that, given/supposing/assuming that {Fren
 ----> sic muset : [phrase] 'i insist' ('please')
 
 === affixes ===  
--en : [suf.] plural (after closed syllable) {German} &&&
--de : [suf.] plural (after open syllable, or one ending with a nasal when there is already a nasal-terminated vowel before it) &&&
+-(d)en : [suf.] pluralizer {German} &&&
+-(u/y)ti : [suf.] diminutive {Old '-(n)u', 'tis'}
 
--(n)u/y : [suf.] diminutive {Turkish 'kuzu'} &&&
-
--(s)em : resultative nominative &&&
+-(s)em : resultative nominative {Hungarian}
 
 -ina : [suf.] verbal nominative; forms verbal nouns (the noun indicating the action of what is denoted by the verb) {Croatian 'batina'} #
 -> -in : [suf.] nominative; forms nouns from verbs, describing the result of an action #
 -> -(n)a : [suf.] augmentative #
 
--(t)o/ör : [suf.] agentive; forms agent nouns from verbs ('-er') $
+-(t)o/ör : [suf.] agentive nominalizer; forms agent nouns from verbs ('-er') &&&
 -(s)ime : [suf.] forms nouns from adjectives, denoting the condition or state of the suffixed word ('-hood', '-dom', '-ness') #
 -(n/l)(j)a/äs : [suf.] genitive; forms adjectives from nouns, with the meaning 'of or pertaining to' the suffixed word ('-ic')
 -> -jäs : [suf.] genitive when after 'i' or 'ia'
@@ -227,10 +227,10 @@ si : [cnjc.] if, in the case/condition that, given/supposing/assuming that {Fren
 -- forms ordinal numbers {French '-ème')
 -- used to form nouns from adjectives ### &&&
 
--o/öm : [suf.] used to mark a place {Original} $ &&&
+-o/öm : [suf.] used to mark a place {Original} &&&
 -im : [suf.] used to form nouns, indicating someone who is from a place or has a connection to the suffixed word (German and English '-ling')
 
-a(s)- : [prf.] {French}   
+a(s)- : [prf.] verbalizer {French} &&&
 -- used to form verbs from adjectives, indicating the gain of the adjectivial property  
 -- used to form verbs from verbs, indicating the action of making an object do an action  
 -- used to form verbs from nouns, meaning to make into or create the prefixed noun
@@ -250,33 +250,32 @@ re(s)- : [prf.] again; anew {French and English 're-'}
 ra(s) : [prf.] [cntrc.] equiv. to re(s)- + a(s)-
 
 === pos. nouns ===
-ot : [n.] up, high, top (of) {French 'haut(e)'} $ 
--> otät : [adj.] highly  
--> otvär : [adj.] upwards  
-----> otvärt : [adv.] upwards  
+ast : [n.] top [adj.] high [prep.] up {Unknown} 
+-> astät : [adj.] highly  
+-> astvär : [adj.] upwards  
+----> astvärt : [adv.] upwards  
 ös : [n.] down, low, bottom (of)  
 -> ösät : [adj.] lowly  
 -> ösvär : [adj.] downwards  
 ----> ösvärt : [adv.] downwards  
-let : [n.] left {German 'links', English 'left'}  
--> letest : [adj.] leftmost  
--> letvär : [adj.] leftwards  
-----> letvärt : [adv.] leftwards  
+lejt : [n.] left {Old 'let'}  
+-> lejtest : [adj.] leftmost  
+-> lejtvär : [adj.] leftwards  
+----> lejtvärt : [adv.] leftwards  
 räšt : [n.] right {German 'Rechts'}  
 -> räštest : [adj.] rightmost  
 -> räštvär : [adj.] rightwards  
 ----> räštvärt : [adv.] rightwards  
-drän : [n.] front, face {? Original} $$
+drän : [n.] front, face {Original} &&&
 -> dränvär : [adj.] frontwards; forwards  
 ----> dränvärt : [adv.] frontwards; forwards  
 -> dränpar : [n.] frontside
 -> öddrän : [adj.] [adv.] forwards
-täg : [n.] back {Original} $$
--> tägvär : [adj.] backwards  
-----> tägvärt : [adv.] backwards  
--> tägpar : [n.] backside
-treg : [adv.] back {Afrikaans, Dutch 'terug'}
--> tregir : [v.] return
+träg : [n.] [adv.] back {Old 'täg', Old 'treg'} &&&
+-> trägvär : [adj.] backwards  
+----> trägvärt : [adv.] backwards  
+-> trägpar : [n.] backside
+-> trägir : [v.] return
 mitäl : [dated] {German 'mittel', English 'middle'}  
 -- [n.] middle, centre [adj.] middle, central   
 ----> mitälät : [dated] [adv.] centrally  
@@ -414,6 +413,8 @@ ja : {German, Dutch, Swedish}
 -- [intj.] affirmative; used to show agreement or acceptance ('yes')  
 -- [ptcl.] marks preceding clause as interrogative, prompting affirmation ('isn't it'/'right?')
 ura : [intj.] hooray {French 'hourra', Russian 'ура}
+un : [intj.] mhm, okay {Japanese 'うん'} &&&
+enna : [intj.] oh, well, now, let's see &&&
 
 jos : {Japanese 'よし'}  
 -- [intj.] confirmation, acknowledgement ('okay')  
@@ -1000,8 +1001,8 @@ hepas : [n.] liver {Latin 'hepaticus'}
 -> hepasäs : [adj.] hepatic
 ment : [n.] chin {Latin 'mentum' + via French 'menton'}
 -> mentäs : [adj.] of or pertaining to the chin
-hačeg : [n.] jaw {Original} &&
--> hačegäs : [adj.] pertaining to the jaw
+hačeg : [n.] jaw {Original} &&&
+-> hačegas : [adj.] pertaining to the jaw
 siän : [n.] breast {Latin 'sinus', + via French 'sein'}
 -> siänäs : [adj.] mammary; pertaining to the breast
  
@@ -1175,11 +1176,10 @@ prizon : [n.] prison
 === places : tromen ===
 otel : [n.] hotel {French 'hôtel'}
 katedral : [n.] cathedral {French 'catédrale'}
-dom : [n.] house, home {Russian 'дома'}
--> domäs : [adj.] domestic
-----> adomäs : [v.] domesticate
-----> domäst : [adv.] domestically
--> -(d)om : [suf.] place
+tom : [n.] house, home {Old 'dom'}
+-> tomas : [adj.] domestic
+----> atomas : [v.] domesticate
+----> tomast : [adv.] domestically
 skol : [n.] school {English 'school', French 'école'. accidental cognate with Breton}
 -> skolör : [n.] student
 -> skoläs : [adj.] scholar
@@ -1267,9 +1267,9 @@ virte : [n.] virtue {Latin 'virtus'}
 mod : [n.] style, fashion, way, manner {French 'mode'}
 -> -mod : [suf.] used to form verbs from nouns, with the sence of playing the role of, or being the suffixed word
 
-nar : [n.] capacity; weapon {Original}
--> genar : [n.] arms, weapons
--> anar : [v.] [trans] arm (equip with weapons); [v.] [trans] prime, charge with ammunition
+nart : [n.] capacity; weapon {Old 'nar'}
+-> genart : [n.] arms, weapons
+-> anart : [v.] [trans] arm (equip with weapons); [v.] [trans] prime, charge with ammunition
 
 klass : [n.] class {French 'classe'}
 -> aklass : [v.] to put into classes; to sort, categorize
@@ -1539,13 +1539,18 @@ son : [n.] sound [v.] ring, sound {Latin 'sono' + via French 'son'}
 -------> nesonätt : [adv.] silently
 -------> anesonät : [v.] muffle, dull, hush
 -> reson : [v.] resonate
-mujt : [n.] noise {Original} &&
--> mujtsat : [adj.] noisy
-----> mujtsät : [adv.] noisily
 
-väm : [n.] form, shape; figure, outline {~ Latin 'forma'} &&
+mujt : [v.] to verbalise, mutter, make noise {Original} &&&
+-> mujtem : [n.] noise
+----> mujtemsat : [adj.] noisy
+-------> mujtemsatät : [adv.] noisily
+
+väm : [n.] form, shape, figure, outline {~ Latin 'forma'} &&&
 -> vämäs : [adj.] formal
 ----> vämäst : [adv.] formally
+-> lumväm : [n.] photograph
+----> lumvämret : [n.] photography
+----> lumvämretör : [n.] photographer
 
 === fantasy ===
 maži : [n.] magic {French 'magie'}
@@ -1622,8 +1627,8 @@ glas : [n.] ice [v.] freeze {French 'glace'}
 -> glasät : [adj.] icy, iced
 -> glasäs : [adj.] glacial
 -> glast : [adj.] frozen
-uis : [n.] [v.] water {? Original} &&
--> uissor : [n.] toilet {+ 'sor'}
+vyjs : [n.] [v.] water {Old 'uis'} &&&
+-> vyjssor : [n.] toilet {+ 'sor'}
 vir : [m.] glass {French 'ver'}
 -> avir : [v.] turn into glass
 -> virtöl : [n.] window, window pane, glass pane {+ 'töl'}
@@ -1663,8 +1668,6 @@ linn : [n.] line, string, cord, rope {French 'ligne', later ~ Latin 'linea'}
 lozanž : {French 'losange'}
 -- [n.] rhombus, lozange
 -- [n.] pill or tablet, esp. one shaped like a rhombus
-guip : [n.] drop {French 'goutte', English 'drop'} &&&
--> guipu : [n.] droplet &&&
 rad : [n.] ray {Latin 'radius' via English 'radio'}
 -> erad : [v.] irradiate
 täl : [n.] fabric, canvas; (spider's) web {Latin 'tela' via French 'toile'}
@@ -1690,17 +1693,30 @@ brik : [n.] brick, ingot {French 'brique', English 'brick'} #
 gan : [n.] hole, gap, opening; pit, chasm {? Original}
 -> ganu : [n.] small hole
 krät : [n.] grid {Latin 'cratis'}
-kest : [n.] frame {Finnish 'kehys' and Hungarian 'keret'} &&&
+
 lemm : [n.] blade; flap; human nail; [f:computing] tab, widget {Latin 'lamina' via French 'lamelle'}
 -> lemmu : [n.] lamella
 sper : [v.] curl, coil {Latin 'spirale' via French, via English 'spiral'}
 -> speret : [adj.] spiral
 -> sperin : [n.] spiral, curl; coil
-tave : [n.] tube, pipe, barrel [n.] pipe (tobacco) {Romanian 'țeavă'}
--> tavu : [n.] small pipe
-cär : [n.] reed, stem; straw {Original} &&
+
+
+cär : [n.] reed, stem, stalk, straw {Original} &&&
 -> gecär : [m.] straw (bulk)
 -> sulcär : [n.] drinking straw {'sul' +}
+guip : [n.] drop {French 'goutte', English 'drop'} &&&
+-> guiputi : [n.] droplet &&&
+hust : [n.] chair {Original} &&&
+kest : [n.] frame {Finnish 'kehys' and Hungarian 'keret'} &&&
+pros : [n.] sign, board; panel, plaque, plate {? Original} &&&
+tav : [n.] tube, pipe, barrel [n.] pipe (tobacco) {Old 'tave'} &&&
+-> tavuti : [n.] small pipe
+tol : [n.] wall {Old 'dol'} &&&
+-> toluti : [n.] small wall, barrier, fence &&&
+tor : [n.] door, gate {German 'Tür'} &&&
+tyl : [n.] tile, pane, panel, plate {Old 'töl'} &&&
+-> atyl : [v.] to cover with tiles
+
 kev : {Anc. Greek 'κύβος' via French and English 'cube'}
 -- [n.] cube
 ----> kevsti : [adj.] cubic
@@ -1708,7 +1724,6 @@ kev : {Anc. Greek 'κύβος' via French and English 'cube'}
 ----> akev : [v.] [f:mathematics] to multiply a number by itself twice
 
 skär : [n.] lane, track, channel {Original}
-pros : [n.] sign, board; panel, plaque, plate {? Original}
 pajg : [n.] page {Latin 'pagina'}
 
 pont : [n.] point [v.] [intrans] point {Latin 'punctum'}
@@ -1727,16 +1742,15 @@ vapor : [n.] steam, vapor {Latin}
 kav : [n.] basement {French 'cave'}
 käl : [n.] key {French 'clé', English 'key'}
 -> kältröbör : [n.] locksmith
-tor : [n.] door, gate {German 'Tür'} &
 tapir : {French 'tapis'}
 -- [n.] carpet
 -- [v.] to cover with carpet
-mis : {? French 'nid'}
--- [n.] home, nest $$$
-----> sommis : [n.] bed {'som' + 'mis'}
-----> misät : [adj.] cozy; homely
--- [v.] host
-----> misör : [n.] host
+mis : [n.] home, nest {? French 'nid'} &&&
+-> sommis : [n.] bed {'som' + 'mis'}
+-> misät : [adj.] cozy; homely
+-> amis : [v.] host
+----> amisor : [n.] host
+
 štog : {Original}
 -- [n.] trash, garbage, rubbish
 ----> štogtröbör : [n.] garbage collector
@@ -1746,7 +1760,6 @@ mis : {? French 'nid'}
 ----> štogör : [n.] polluter
 tem : [n.] table {Spanish 'mesa', Latin 'tabula' via French and English 'table'}
 -> temsär, temät : [adj.] tabular
-hust : [n.] chair {Original} &&&
 pruc : [n.] plate, dish {Original}
 bol : [n.] bowl {French}
 
@@ -1754,18 +1767,13 @@ bol : [n.] bowl {French}
 pilar : [n.] pillar; support, foundation {English 'pillar'}
 dal : [n.] slab {French 'dalle'}
 most : [n.] bridge {Serbian 'мост'}
-teg : [n.] roof; ceiling; ceiling (upper limit) {Original} &&
--> tegom : [n.] hut, shack; shelter
-tom : [n.] floor; ground; floor (lower limit) {Original} &&
-dol : [n.] wall {Original} $$$
--> dolu : [n.] small wall; barrier, fence $$$
+teg : [n.] roof, ceiling, maximum {Original} &&&
+-> tegom : [n.] hut, shack; shelter &&&
+nost : [n.] floor; ground; floor (lower limit) {Original} &&
 kac : [n.] tower {Original}
 -> kacu : [n.] small tower; turret
 siment : [m.] cement {French 'ciment', English 'cement'}
 -> asiment : [v.] [trans] cement (in)
-töl : {French 'tuile'}
--- [n.] tile, pane, panel, plate &&
--- [v.] to cover with tiles
 fraj : [n.] window, opening; glimpse; opportunity {Original}
 -> frajsnog : [n.] windowsill {+ 'snog'}
 -> frajtäl : [n.] curtain
@@ -2012,14 +2020,13 @@ sor : [n.] chest, trunk {Original}
 ----> imsoru : [n.] [f:email] inbox
 -> sorpros : [n.] shelf, cabinet, cupboard
 cugot : [n.] bottle; canteen, gourd {Original}
-tukon : [n.] lid, cap, top; plug {Korean '뚜껑'} $$$
-maid : [n.] shell, hull {? Original}
--> maidu : [n.] case
+majd : [n.] shell, hull {Old 'maid'}
+-> majduti : [n.] case
 
-tam : [v.] note; indent, make a notch; nick {Original} &&
--> tame : [n.] note, mark; notch &&
-----> tamret : [n.] notation (system of notes)
--> tamina : [n.] (act of) notation
+tim : [v.] note, indent, make a notch, nick {Old 'tam'} &&&
+-> timem : [n.] note, mark, notch &&&
+----> timemret : [n.] notation (system of notes)
+-> timina : [n.] (act of) notation
 
 nave : [n.] ship, boat; craft {Latin 'navis'}
 -> navu : [n.] small boat
@@ -2360,17 +2367,14 @@ klam : [v.] cry out, exclaim; shout, yell; call (out) {Latin 'clamo'}
 -> deklam : [v.] renounce, disavow, reject, disown
 ----> deklamina : [n.] disavowal, rejection
 ----> deklamime : [n.] (state of) renounciation
-seg : [v.] ask, inquire, question {Original}
--> segin : [n.] question, query
-val : [v.] lie {Finnish 'valhe'}
--> valin : [n.] lie
 sih : [v.] screech, yowl {Anc. Greek 'στρίξ'}
 -> sihin : [n.] screen, yowl
 streg : [v.] curse (profane); curse (jinx) {Latin 'striga'}
 -> stregin : [n.] profanity; curse
 -> stregina : [n.] malediction; insult, blasphemy
 -> streget : [adj.] cursed, profaned
-rehb : [v.] [n.] spit {Original} &&&
+reb : [v.] spit {Old 'rehb'} &&&
+-> rebem : [n.] spit &&&
 cit : [v.] summon, call; [intrans] move, stir, shake; cite {Latin 'cieo'}
 -> recit : [v.] recite {re(s)- +}
 -> acit : [v.] [trans] rouse, stimulate, excite, awake
@@ -2409,12 +2413,12 @@ sien : [v.] know {Latin 'sciens', later 'sienca'} &&&
 ----> asienret : [n.] (practice of) teaching
 -> uzsien : [v.] to know, become aware of
 ren : [v.] believe {Original}
--> renin : [n.] belief
-----> derenin : [n.] disbelief
+-> renem : [n.] belief
+----> nerenem : [n.] disbelief
 -> aren : [v.] convince
 per : [v.] think, ponder; consider {Original}
--> perin : [n.] thought
-----> perinäs : [adj.] of or pertaining to thought
+-> perem : [n.] thought
+----> peremäs : [adj.] of or pertaining to thought
 -> perina : [n.] thinking
 maris : [v.] remember, recall {Original}
 -> marisime : [n.] rememberance
@@ -2423,7 +2427,8 @@ maris : [v.] remember, recall {Original}
 oblis : [v.] forget {Latin 'obliviscor' via French 'oublier'}
 -> oblistfär : [adj.] forgettable
 ----> nesoblistfär : [adj.] unforgettable
-štuz : [v.] [intrans] pretend, feign [v.] [trans] disguise {Original} $
+štus : [v.] pretend, feign, disguise {Old 'štus'} &&&
+-> štusem : [n.] ruse, trick, disguise &&&
 kuet : [v.] count, calculate {Original}
 -> kuetin : [n.] count
 -> kuetina : [n.] calculation
@@ -2497,6 +2502,7 @@ mjec : [v.] measure; judge {Anc. Greek 'μέτρον'}
 -> mjecina : [n.] (act of) measurement; judgement
 -> mjece : [n.] measure, price, scale, rate
 -> mjecime : [n.] scaling
+präjs : [n.] price, cost {German 'Preise', Luxembourgish 'präis'}
 
 vedir : [v.] lead, guide {Serbo-Croatian 'водити', Latin 'dirigo' via French 'diriger' and Spanish 'dirigir'}
 -> vedirör : [n.] guide, leader
@@ -2597,28 +2603,12 @@ sad : [v.] happen, occur {Latin 'cado'}
 ----> sadätt : [adv.] probably
 -> ucsad : [v.] undertake, partake (in)
 
-stag : [v.] start, commence, begin {Breton} &&&
--> stagin : [n.] start, beginning &&&
-
-top : [v.] finish, end, complete, conclude; stop, cease {French} &&&
--> tope : [n.] end &&&
-----> atope : [adv.] finally, at last {'a' +}
--> topina : [n.] conclusion
--> topäs : [adj.] final
-----> topäst : [adv.] finally
+top : [v.] stop, cease, end, finish, complete, conclude {French} &&&
+-> topem : [n.] end, conclusion
+-> topas : [adj.] final
+----> topast : [adv.] finally
 -> topet : [adj.] finished, over
--> topör : [n.] stopper
-
-fin : [v.] finish, end, conclude {Latin 'finio' via French 'finir' and English 'finish'} &&&
--> fine : [n.] end &&&
-----> afine : [adv.] finally, at last {'a' +}
--> finina : [n.] conclusion
--> finäs : [adj.] final
-----> finäst : [adv.] finally
--> finet : [adj.] finished, over
-alt : [v.] stop, cease {German 'Halt'}
--> altör : [n.] stopper
-
+-> topor : [n.] stopper
 
 sed : [v.] yield, withdraw {Latin 'cedo'}
 -> nesedet : [adj.] unavoidable, inevitable; necessary
@@ -2651,7 +2641,8 @@ säm : [v.] sow {German 'säen', French 'semer'}
 -> štörina : [n.] suggestion; appearance
 
 söt : [v.] create, make, build, assemble, bring to fruition {Original} &&&
--> sötina : [n.] creation &&&
+-> sötem : [n.] creation &&&
+-> sötör : [n.] creator, maker &&&
 -> acöt : [v.] produce {from 'öd' +}
 ----> acötim : [n.] progeny, offspring
 ----> acötin : [n.] product
@@ -2667,8 +2658,7 @@ bau : [v.] to build, construct {German 'bauen'} #
 sret : [v.] write {French 'écrire', English 'write'} &&&
 -> sretör : [n.] writer &&&
 -> sretäs : [adj.] scriptory, scriptorial, escritorial
--> srete : [n.] script &&&
--> sretina : [n.] (practice of) writing
+-> sretem : [n.] script, written work
 -> sretiletä : [n.] workbook {+ 'letä'}
 -> resret : [v.] rewrite
 -> obesret : [v.] overwrite
@@ -2745,13 +2735,15 @@ usät : [v.] close
 tör : [v.] pull, draw {? Original ~ French 'tirer'} &&
 -> törör : [n.] trigger
 -> törsoru : [n.] drawer {+ 'soru'}
-prös : [v.] [trans] [n.] push {? Original ~ French 'pousser'} 
--> prösir : [v.] (usu. of a vehicle) drive
--> seiprösäs : [adj.] automatic, automobile
-----> seiprösäst : [adv.] automatically
-präm : [v.] [trans] [n.] press {? Original ~ English 'press'} &&
--> prämin : [n.] pressure; stress &&
--> apräm : [v.] pressure &&
+
+pröt : [v.] [trans] push, press {Old 'prös', Old 'präm'}
+-> prötem : [n.] pressure, stress
+-> prötör : [n.] press
+-> prötir : [v.] (usu. of a vehicle) drive
+-> seiprötäs : [adj.] automatic, automobile
+----> seiprötäst : [adv.] automatically
+-> apröt : [v.] pressure
+
 träš : [v.] [trans] throw, hurl {Original}
 -> träšör : [n.] pitcher (one who throws)
 -> träšin : [n.] throw
@@ -2774,7 +2766,8 @@ rol : [v.] roll {English 'roll', French 'rouler'}
 -> rolin : [n.] roll
 flot : [v.] float {French 'flotter', English 'float'}
 -> flotina : [n.] fleet {Russian 'флот', French 'flotte'}
-pust : [v.] blow; puff, wheeze, pant {Serbo-Croatian 'puhati'} $
+fyst : [v.] blow; puff {Old 'pust'} &&&
+-> fystem : [n.] puff &&&
 frot : [v.] rub {French 'frotter'}
 ut : [v.] sing {Japanese '歌'}
 -> utin : [n.] song
@@ -2877,9 +2870,9 @@ bat : [v.] hit, beat {Croatian 'batina', ~ French 'battre'}
 -> batina : [n.] beating
 ačet : [v.] attack {French 'attaquer', + via English 'attack' and Russian 'атака', ~ Serbo-Croatian 'напад', ? ~ French 'acharné'}
 -> ačetin : [n.] attack
-par : [v.] shoot {Original} $
--> parör : [n.] shooter $
--> parin : [n.] shot $
+par : [v.] shoot {Original} &&&
+-> paror : [n.] shooter &&&
+-> parem : [n.] shot &&&
 -> parina : [n.] shooting
 
 ausk : [v.] [dated] listen, hear; heed, accept, obey {archaic 'aur' + archaic 'klen'}
@@ -2928,17 +2921,21 @@ fatig : [v.] [intrans] to tire, become weary {French 'fatigue'}
 ----> fatignuzät : [adv.] tirelessly
 ----> fatignuzime : [n.] tirelessness
 
-leb : [v.] live {German 'Leben'}
--> lebom : [n.] town, village
-----> lebomi : [n.] townsperson, villager
--> lebin : [n.] life
-----> lebinsat : [adj.] lively
--> lebes : [adj.] alive
-----> ralebes : [v.] to revive
--> obeleb : [v.] survive; outlive
-----> obelebin : [n.] survival
-----> obelebes : [adj.] surviving, remaining
-----> obelebime : [n.] (state of) survival
+let : [v.] live {Old 'leb', Hungarian 'lét'} &&&
+-> letom : [n.] home, town, village &&&
+----> letomi : [n.] townsperson, villager
+-> letem : [n.] life &&&
+----> lebemsat : [adj.] lively
+-> letes : [adj.] alive
+----> raletes : [v.] to revive
+-> obelet : [v.] survive; outlive
+----> obeletem : [n.] survival
+----> obeletes : [adj.] surviving, remaining
+----> obeletime : [n.] (state of) survival
+lys : [v.] shine, sparkle {Swedish} &&&
+-> lysem : [n.] shine, sparkle &&&
+
+
 mur : {French 'mourir'}
 -- [n.] death, end
 -- [n.] dead (person)
@@ -3030,13 +3027,18 @@ brit : [v.] break {Swedish 'bryta'} &&&
 -> britina : [n.] breaking, destruction
 -> britfär : [adj.] breakable
 ----> britnefär : [adj.] unbreakable
+flet : [v.] fly {German 'Flieg', French 'voler', English 'flutter'} &&&
+-> fletem : [n.] flight &&&
+seg : [v.] ask, inquire, question {Original} &&&
+-> segem : [n.] question, query &&&
+val : [v.] lie {Finnish 'valhe'} &&&
+-> valem : [n.] lie &&&
 
-flet : [v.] fly {German 'Flieg', French 'voler', English 'flutter'}
--> fletem : [n.] flight
+ruin : [v.] ruin {French 'ruine', English 'ruin', German 'Ruin'}
+-> ruinom : [n.] ruin, ruins
 
-ruin : [v.] [n.] ruin {French 'ruine', English 'ruin', German 'Ruin'}
-
-pug : [v.] [n.] plug, seal {Hungarian 'dugó', English 'plug'}
+pug : [v.] plug, seal {Hungarian 'dugó', English 'plug'} &&&
+-> pugem : [n.] lid, cap, top, plug &&&
 
 skän : {? Latin 'scala'}
 -- [v.] climb, scale
@@ -3124,16 +3126,17 @@ spen : [v.] spy {French 'espion'}
 naus : [v.] solve {? Original} 
 -> nauset : [adj.] solved
 
-bäs : [v.] bite [colloq.] kid, fool around {Old 'baes'}
--> bäsem : [n.] bite; joke, tease
+bäs : [v.] bite [colloq.] kid, fool around {Old 'baes'} &&&
+-> bäsem : [n.] bite; joke, tease &&&
 
 konsol : [v.] console {English 'console', French 'consoler'}
 
-gil : [v.] [n.] help {Scottish Gaelic 'gille' via English 'gillie'}
--> gilör : [n.] helper, aid
-----> giere : [n.] maid
-----> giräs : [adj.] auxiliary
--> gilin : [n.] aid, help
+stag : [v.] start, commence, begin {Breton} &&&
+-> stagem : [n.] start, beginning &&&
+stöd : [v.] help {Swedish} &&&
+-> stödem : [n.] aid, help &&&
+-> stödör : [n.] helper; maid
+-> stödäs : [adj.] auxiliary
 
 živ : [v.] persist, continue; stay {Croatian 'živi'}
 -> aživ : [v.] to preserve, uphold, perpetuate
@@ -3209,22 +3212,21 @@ nos : [v.] [trans] give birth to; [when passive] [intrans] be born {Latin 'nasco
 ----> nosinnat : [n.] birthday
 -------> nosinnatfäst : [n.] birthday party
 -------> nosinnatdontu
--> ünnost : [adj.] native, indigenous
-----> ünnostim : [n.] native
-----> ünnostät : [adv.] natively
-----> ünnostime : [n.] nativity, state of being native
+-> ennost : [adj.] native, indigenous
+----> ennostim : [n.] native
+----> ennostät : [adv.] natively
+----> ennostime : [n.] nativity, state of being native
 
-tröb : {German 'Arbeit', French 'travail', English 'labour'} $$$
--- [v.] work, labour $$$
-----> tröbör : [n.] worker
-----> tröbestrom : [n.] workplace; office, bureau {+ 'trom'}
-----> atröb : [v.] operate, maneuver
--------> atröbina : [n.] operation, maneuvering
--- [n.] work, labour $$$
-----> tröbnuz : [adj.] unemployed
--------> tröbnuzör : [n.] unemployed person
-----> seitröbuz : [adj.] self-employed
-----> tröbu : [n.] job
+tröb : [v.] work, labour {German 'Arbeit', French 'travail', English 'labour'} &&&
+-> tröbem : [n.] work, labour, job, task &&&
+----> tröbemnuz : [adj.] unemployed
+-------> tröbemnuzör : [n.] unemployed person
+----> seitröbemuz : [adj.] self-employed
+----> tröbemyti : [n.] part-time job
+-> tröbör : [n.] worker, labourer &&&
+-> tröbestrom : [n.] workplace; office, bureau {+ 'trom'}
+-> atröb : [v.] operate, maneuver
+----> atröbina : [n.] operation, maneuvering
 
 štut : [v.] support {? German 'stützen'}
 -> štutör : [n.] supporter
@@ -3357,8 +3359,8 @@ goš : [adj.] tall {? Original}
 ruš : [adj.] short {Original}
 -> aruš : [v.] to shorten (vertically)
 
-dost : [adj.] deep {Original} $$$
--> adost : [v.] deepen $$$
+dost : [adj.] deep {Original} &&&
+-> adost : [v.] deepen &&&
 -> dostime : [n.] depth
 nir : [adj.] shallow {Original}
 
