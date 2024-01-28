@@ -78,9 +78,63 @@ mälk : {English 'milk', French 'lait', German 'Milch'}
 -- [v.] [usu. of an animal] milk
 -- [v.] exploit excessively
 
+uis : [n.] [v.] water {? Original}
+-> uissor : [n.] toilet {+ 'sor'}
+
+-(n)u/y : [suf.] diminutive {Turkish 'kuzu'}
+
+tave : [n.] tube, pipe, barrel [n.] pipe (tobacco) {Romanian 'țeavă'}
+-> tavu : [n.] small pipe
+
+tom : [n.] floor; ground; floor (lower limit) {Original}
+dom : [n.] house, home {Russian 'дома'}
+-> domäs : [adj.] domestic
+----> adomäs : [v.] domesticate
+----> domäst : [adv.] domestically
+
+öd : [prep.] allative (to, for)
+-> öduz : [adv.] together  
+-> öde : [prep.] benefactive ('for', 'in favour/support/the objective of', 'so that')
+----> öde : [n.] pro (reason in favour of something)
+-> ödvär : [adj.] towards  
+----> ödvärt : [adv.] towards  
+-> ödža : [det.] why {'öd' +}  
+
+täg : [n.] back {Original}
+-> tägvär : [adj.] backwards  
+----> tägvärt : [adv.] backwards  
+-> tägpar : [n.] backside
+treg : [adv.] back {Afrikaans, Dutch 'terug'}
+-> tregir : [v.] return
+
+prös : [v.] [trans] [n.] push {? Original ~ French 'pousser'} 
+-> prösir : [v.] (usu. of a vehicle) drive
+-> seiprösäs : [adj.] automatic, automobile
+----> seiprösäst : [adv.] automatically
+präm : [v.] [trans] [n.] press {? Original ~ English 'press'} &&
+-> prämin : [n.] pressure; stress &&
+-> apräm : [v.] pressure &&
+
+mujt : [n.] noise {Original} &&
+-> mujtsat : [adj.] noisy
+----> mujtsät : [adv.] noisily
+
+štuz : [v.] [intrans] pretend, feign [v.] [trans] disguise {Original}
+
+maid : [n.] shell, hull {? Original}
+-> maidu : [n.] case
+
+tukon : [n.] lid, cap, top; plug {Korean '뚜껑'}
+
+tam : [v.] note; indent, make a notch; nick {Original} &&
+-> tame : [n.] note, mark; notch &&
+----> tamret : [n.] notation (system of notes)
+-> tamina : [n.] (act of) notation
+
+
 rotu : [n.] wheel {?}
 otryš : [n.] ostrich {French 'otruche'}
-
+rehb : [v.] [n.] spit {Original}
 pač : [n.] peace {Latin 'pax'}
 -> apač : [v.] appease
 ----> apačina : [n.] appeasement
@@ -89,8 +143,56 @@ härb : [n.] grass, herb {French 'herbe', English 'herb'}
 -> härbäs : [adj.] herbal
 ----> härbäst : [adv.] herbally
 trav : [n.] lawn {Russian 'трава'}
+pust : [v.] blow; puff, wheeze, pant {Serbo-Croatian 'puhati'}
+
+dol : [n.] wall {Original}
+-> dolu : [n.] small wall; barrier, fence
+
+let : [n.] left {German 'links', English 'left'}  
+-> letest : [adj.] leftmost  
+-> letvär : [adj.] leftwards  
+----> letvärt : [adv.] leftwards  
+
+ot : [n.] up, high, top (of) {French 'haut(e)'}
+-> otät : [adj.] highly  
+-> otvär : [adj.] upwards  
+----> otvärt : [adv.] upwards  
+
+is : [det.] proximal demonstrative ('this', 'these') {French 'ici'}
+-> isa : [n.] proximal locative ('here')
+as : [det.] distal demonstrative ('that', 'those')
+-> asa : [n.] distal locative ('there')
+
+fin : [v.] finish, end, conclude {Latin 'finio' via French 'finir' and English 'finish'}
+-> fine : [n.] end
+----> afine : [adv.] finally, at last {'a' +}
+-> finina : [n.] conclusion
+-> finäs : [adj.] final
+----> finäst : [adv.] finally
+-> finet : [adj.] finished, over
+alt : [v.] stop, cease {German 'Halt'}
+-> altör : [n.] stopper
+
+leb : [v.] live {German 'Leben'}
+-> lebom : [n.] town, village
+----> lebomi : [n.] townsperson, villager
+-> lebin : [n.] life
+----> lebinsat : [adj.] lively
+-> lebes : [adj.] alive
+----> ralebes : [v.] to revive
+-> obeleb : [v.] survive; outlive
+----> obelebin : [n.] survival
+----> obelebes : [adj.] surviving, remaining
+----> obelebime : [n.] (state of) survival
+
+nar : [n.] capacity; weapon {Original}
+-> genar : [n.] arms, weapons
+-> anar : [v.] [trans] arm (equip with weapons); [v.] [trans] prime, charge with ammunition
 
 štafe : [n.] flag, banner {Original ~ Romanian 'steag', German 'Fahne'}
+töl : {French 'tuile'}
+-- [n.] tile, pane, panel, plate &&
+-- [v.] to cover with tiles
 
 === verbs ===
 brilj : [v.] shine {Portugese 'brilhar', French 'briller'}
@@ -108,6 +210,13 @@ don : [v.] give, deal {French 'donner'}
 ----> öddonör : [n.] provider, supplier
 -------> mahtöddonör : [n.] [f:electronics] power supply
 -> dontu : [n.] gift, present
+
+
+gil : [v.] [n.] help {Scottish Gaelic 'gille' via English 'gillie'}
+-> gilör : [n.] helper, aid
+----> giere : [n.] maid
+----> giräs : [adj.] auxiliary
+-> gilin : [n.] aid, help
 
 baes : {Unknown, ? ~ English 'bite'}
 -- [v.] [n.] bite
