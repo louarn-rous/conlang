@@ -3,7 +3,8 @@ er : [det.] definite ('the') {Breton 'ar'}
 -> s'er [cntrc.] of the  
 en : [det.] indefinite ('a'/'an', 'some') [num.] 1 (one) {English 'an', French 'un(e)'} &&&
 -> s'en [cntrc.] of a/an/some
--> enit : [v.] unite, unify &&&
+-> asen : [v.] unite, unify
+----> asenem : [n.] union
 -> ene : [ord. num.] first
 ----> enät : [adv.] firstly
 -> ten : [adj.] whole, complete, entire
@@ -1689,7 +1690,7 @@ brik : [n.] brick, ingot {French 'brique', English 'brick'} #
 gan : [n.] hole, gap, opening; pit, chasm {? Original}
 -> ganu : [n.] small hole
 krät : [n.] grid {Latin 'cratis'}
-kest : [n.] frame {Finnish 'kehys' and Hungarian 'keret'} $
+kest : [n.] frame {Finnish 'kehys' and Hungarian 'keret'} &&&
 lemm : [n.] blade; flap; human nail; [f:computing] tab, widget {Latin 'lamina' via French 'lamelle'}
 -> lemmu : [n.] lamella
 sper : [v.] curl, coil {Latin 'spirale' via French, via English 'spiral'}
@@ -1999,7 +2000,7 @@ amau : [n.] shadow {Anc. Greek 'ἀμαυρός'}
 ----> ceme : [n.] dark
 -> amaust : [adj.] shadowy
 
-štafe : [n.] flag, banner {Original ~ Romanian 'steag', German 'Fahne'} &&&
+štaf : [n.] flag, banner {Old 'štafe'} &&&
 
 korb : [n.] basket {French 'corbeille'}
 -> korbu : [n.] parcel
@@ -2222,19 +2223,19 @@ bišt : [v.] carry, bear {Original, backform from 'bištir'}
 ----> bištine : [n.] vehicle, carriage
 -------> bištinäs : [adj.] vehicular
 
-don : [v.] give, deal {French 'donner'} &&&
--> donina : [n.] donation &&&
--> adon : [v.] buy, purchase
-----> adonör : [n.] buyer, customer
-----> adonina : [n.] purchase
-----> radon : [v.] redeem
--------> radonin(a) : [n.] redemption
--------> radon štät : [n.] ransom (money)
--> imdon : [v.] submit
--> öddon : [v.] provide, supply
-----> öddonör : [n.] provider, supplier
--------> mahtöddonör : [n.] [f:electronics] power supply
--> dontu : [n.] gift, present
+nad : [v.] give, deal, offer {Old 'don' + Hungarian 'ad'} &&&
+-> nadem : [n.] gift, donation, offering &&&
+-> anad : [v.] buy, purchase
+----> anador : [n.] buyer, customer
+----> anadem : [n.] purchase
+----> ranad : [v.] redeem
+-------> ranadin(a) : [n.] redemption
+-------> ranad štät : [n.] ransom (money)
+-> imnad : [v.] submit
+-> ödnad : [v.] provide, supply
+----> ödnador : [n.] provider, supplier
+-------> mahtödnador : [n.] [f:electronics] power supply
+
 dräjt : [v.] betray; surrender; give up {? Breton 'dreitour'}
 -> dräjtör : [n.] betrayer, traitor
 -> dräjtin(a) : [n.] betrayal
@@ -2392,19 +2393,19 @@ rast : [v.] [intrans] reason, reflect, reckon, calculate [trans] consider, judge
 ----> rastfärt : [adv.] reasonably
 ----> nerastfär : [adj.] unreasonable
 -------> nerastfärt : [adv.] reasonably
-sien : [v.] know {Latin 'sciens', later 'sienca'}
--> sienime : [n.] knowledge
+sien : [v.] know {Latin 'sciens', later 'sienca'} &&&
+-> sienem : [n.] knowledge, idea &&&
 ----> sienimsat : [adj.] knowledgeable
 -> nesient : [adj.] unknown
 ----> nesiente : [n.] unknown; mystery
 ----> nesientät : [adv.] unknowingly
 ----> nesientäs : [adj.] mysterious
--> asien : [v.] teach; train
-----> asienin : [n.] lesson
+-> asien : [v.] teach; train &&&
+----> asienem : [n.] lesson &&&
 ----> asienina : [n.] teaching
 -------> asiesinäs : [adj.] pedagogical
 ----------> asiesinäst : [adv.] pedagogically
-----> asienör : [v.] teacher
+----> asienor : [v.] teacher
 ----> asienret : [n.] (practice of) teaching
 -> uzsien : [v.] to know, become aware of
 ren : [v.] believe {Original}
@@ -2953,11 +2954,6 @@ siät : [v.] wait; expect {Original}
 -> nesiätet : [adj.] unexpected
 ----> nesiätt : [adv.] unexpectedly
 
-brit : [v.] break {Swedish 'bryta'} $
--> britin : [n.] fissure, fissuring $
--> britina : [n.] breaking, destruction
--> britfär : [adj.] breakable
-----> britnefär : [adj.] unbreakable
 troš : [v.] [trans] slice, cut {French 'trancher'}
 -> trošör : [n.] one that cuts
 -> trošin : [n.] cut, incision
@@ -3027,8 +3023,13 @@ kräs : [v.] grow {Latin 'crescere' via Portugese 'crescer'}
 ----> akräsin : [n.] increase
 fal : [v.] [n.] fall; drop, decrease {Swedish 'falla'}
 
-bran : [v.] [n.] burn {Swedish 'brann'} $$$
--> brant : [adj.] burnt $$$
+bran : [v.] burn {Swedish 'brann'} &&&
+-> branem : [n.] burn &&&
+brit : [v.] break {Swedish 'bryta'} &&&
+-> britem : [n.] break; fissure &&&
+-> britina : [n.] breaking, destruction
+-> britfär : [adj.] breakable
+----> britnefär : [adj.] unbreakable
 
 flet : [v.] fly {German 'Flieg', French 'voler', English 'flutter'}
 -> fletem : [n.] flight
@@ -3123,9 +3124,8 @@ spen : [v.] spy {French 'espion'}
 naus : [v.] solve {? Original} 
 -> nauset : [adj.] solved
 
-bäs : {Unknown, ? ~ English 'bite', formerly 'baes'} &&&
--- [v.] [n.] bite
--- [v.] [colloq.] kid, fool around
+bäs : [v.] bite [colloq.] kid, fool around {Old 'baes'}
+-> bäsem : [n.] bite; joke, tease
 
 konsol : [v.] console {English 'console', French 'consoler'}
 
@@ -3315,12 +3315,12 @@ regul : [v.] regulate {English 'regulate', French 'reguler'} ###
 
 === adjectives ===
 
-sur : [adj.] big, large {Estonian 'suur'} $$$
--> asur : [v.] [usu. trans] to increase, embiggen, grow
+sur : [adj.] big, large {Estonian 'suur'} &&&
+-> asur : [v.] to increase, embiggen, grow &&&
 -> surät : [adv.] largely
 -> surime : [n.] size
-tis : [adj.] small, little (esp. in size) {Breton} &&
--> atis : [v.] to reduce, shrink &&
+tis : [adj.] small, little {Breton} &&&
+-> atis : [v.] to reduce, shrink &&&
 -> tisät : [adv.] slightly; negligibly
 ----> tist : [adj.] slight
 
