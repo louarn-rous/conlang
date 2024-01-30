@@ -3249,12 +3249,12 @@ kur : [v.] care [n.] care, concern {Latin 'cura' via 'securus' via German 'siche
 -> kursat : [adj.] careful
 ----> kursät : [adv.] carefully
 
-fel : [v.] flow {English 'flow', ? French 'couler'}
--> felin : [n.] flow
+fel : [v.] flow {English 'flow', ? French 'couler'} &&
+-> felem : [n.] flow &&&
 -> obefel : [v.] overflow
-----> obefelin : [n.] overflow
+----> obefelem : [n.] overflow
 -> imfel : [v.] flow in
-----> imfelin : [n.] influx
+----> imfelem : [n.] influx
 sorb : [v.] [trans] soak, absorb {Latin 'sorbeo'}
 -> sorbät : [adj.] absorbant
 -> asorb : [v.] [distransitive] make absorb
