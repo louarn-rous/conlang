@@ -760,9 +760,9 @@ har : [n.] shoot, bud {backformation}
 velt : [n.] world {German 'Welt'}
 -> veltäs : [adj.] wordly; actual, material
 ----> veltäst : [adv.] actually; materially
-säls : [n.] sky {Italian 'cielo', French and English 'celestial'}
--> selsäs : [adj.] celestial
-----> selsäst : [adv.] celestially
+siln : [n.] sky {Russian 'синий', Old 'säls'} &&&
+-> silnäs : [adj.] celestial
+----> silnäst : [adv.] celestially
 vänt : [n.] wind {Latin 'ventus'}
 -> väntät : [adj.] windy
 -> väntäs : [adj.] aeolian
@@ -3682,12 +3682,11 @@ rosn : [adj.] warm
 -> arosn : [v.] warm, heat up, reheat
 -> rosnät : [adv.] warmly
 -> rosnime : [n.] (state of) warmth, warmness
--> rosne : [n.] warmth
-fris : [adj.] fresh, cool {French 'frais'}
--> afris : [v.] cool
--> refris : [v.] refresh
--> frisime : [n.] (state of) freshness
--> frise : [n.] cool
+-> rosnem : [n.] warmth
+frisk : [adj.] fresh, cool; chilly, cold {French 'frisquet', Old 'fris'}
+-> afrisk : [v.] cool
+-> refrisk : [v.] refresh
+-> friskime : [n.] (state of) freshness
 
 lös : [adj.] single, alone [adv.] only, just, simply, merely [prf.] mono-, uni- {French 'seul', English 'lone'}
 -> alös : [v.] single out
