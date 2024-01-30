@@ -332,7 +332,6 @@ lest : [adv.] diminutive superlative ('least') {English 'least'}
 -> lestäs : [adj.] minimal  
 ----> lestäst : [adv.] minimally  
 te : [adv.] too, too much, too many {English 'too', French 'trop'}  
-jus : [adv.] just, only, simply, merely {French 'juste'}
 sei : [adv.] such, so {Original}
 
 čundr : [v.] suffice {Korean '충분'}
@@ -3690,17 +3689,14 @@ fris : [adj.] fresh, cool {French 'frais'}
 -> frisime : [n.] (state of) freshness
 -> frise : [n.] cool
 
-lös : [adj.] single, only; alone {French 'seul', English 'lone'}
--> lös : [cnjc.] only
+lös : [adj.] single, alone [adv.] only, just, simply, merely [prf.] mono-, uni- {French 'seul', English 'lone'}
 -> alös : [v.] single out
 -> lösime : [n.] loneliness
 -> lösät : [adv.] lonelily; singularly
--> lös- : [prf.] mono-, uni-
-pyli : [adj.] multiple, plural
+pyli : [adj.] multiple, plural [prf.] multi-, plura-, poly- {Anc. Greek 'πολύς'}
 -> apyli : [v.] to make plural, to multiply; to duplicate
 -> pylime : [n.] multiplicity, plurality
 -> pylijät : [adv.] plurally
--> pyli- : [prf.] multi-, plura-, poly-
 
 brat : [adj.] main, principal; central
 -> bratät : [adv.] mainly, principally
@@ -3720,7 +3716,7 @@ hoäl : [adj.] lame, limp; boring
 -> ahoäl : [v.] bore
 -> hoälime : [n.] boredom
 -> hoälät : [adv.] lamely, limply
-muzot : [adj.] silly
+muzot : [adj.] silly {Original}
 -> muzot : [n.] silliness
 -> amuzot : [v.] ridicule
 
