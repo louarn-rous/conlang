@@ -2911,15 +2911,15 @@ sijt : [v.] thirst {? French 'soif', ? English 'thirsty'}
 -> asijt : [v.] [trans] to make thirsty
 -> sijtät : [adj.] thirsty
 ----> sijtätt : [adv.] thirstily
-fatig : [v.] [intrans] to tire, become weary {French 'fatigue'}
--> fatigime : [n.] tiredness
--> afatig : [v.] [trans] to tire, make weary
--> fatiget : [adj.] tired
-----> fatigät : [adv.] wearily
--> fatigver : [adj.] tiresome
--> fatignuz : [adj.] tireless
-----> fatignuzät : [adv.] tirelessly
-----> fatignuzime : [n.] tirelessness
+vareg : [v.] [intrans] to tire, become weary {~ Old 'fatigue'}
+-> varegime : [n.] tiredness
+-> avareg : [v.] [trans] to tire, make weary
+-> vareget : [adj.] tired
+----> varegät : [adv.] wearily
+-> varegver : [adj.] tiresome
+-> varegnuz : [adj.] tireless
+----> varegnuzät : [adv.] tirelessly
+----> varegnuzime : [n.] tirelessness
 
 let : [v.] live {Old 'leb', Hungarian 'lét'} &&&
 -> letom : [n.] home, town, village &&&
