@@ -185,8 +185,7 @@ ar : [adv.] as [cnjc.] as, than
 
 i : [cnjc.] seperates direct object and indirect object
 
-gän : [cjnc.] when, during the time that, at the time of the action of the following clause  
-va : [cnjc.] on; at the instant of, at the moment of; exactly when [num.] two {Original}
+gän : [cjnc.] when, during the time that, at the time of the action of the following clause
 si : [cnjc.] if, in the case/condition that, given/supposing/assuming that {French}
 -> siime : [n.] case, condition
 ----> majsiime : [adv.] often
@@ -448,21 +447,21 @@ nöl : {German 'Null', English 'null', French 'annuler'}
 -- [num.] 0 (zero)
 -- [adj.] none, null, nought
 ---> anöl : [v.] cancel, make null
-to : [num.] 2 (two)
--> tose : [ord. num.] second
-----> tosäs : [adv.] secondly
--> tonäs : [adj.] secondary
-----> toäst : [adv.] secondarily
--> tosime : [n.] duality
--> tonät : [adv.] twice
-tri : [num.] 3 (three) {Russian 'три', French 'trois'}
--> trie : [ord. num.] third
-----> trijät : [adv.] thirdly
--> trijäs : [adj.] tertiary
--> trijät : [adv.] thrice
-kuät : [num.] 4 (four) {French 'quatre', Italian 'quattro'}
--> kuäte : [ord. num.] fourth
--> kuätt : [adv.] four times
+sjan : [num.] 2 (two) {Original}
+-> sjane : [ord. num.] second
+----> sjaneläs : [adv.] secondly
+-> sjanäs : [adj.] secondary
+----> sjanäst : [adv.] secondarily
+-> sjanime : [n.] duality
+-> sjanät : [adv.] twice
+drej : [num.] 3 (three) {Old 'tri', German 'Drei'}
+-> dreje : [ord. num.] third
+----> drejenät : [adv.] thirdly
+-> drejäs : [adj.] tertiary
+-> drejät : [adv.] thrice
+kyr : [num.] 4 (four) {Original}
+-> kyre : [ord. num.] fourth
+-> kyrät : [adv.] four times
 fän : [num.] 5 (five)
 -> fäne : [ord. num] fifth
 ses : [num.] 6 (six) {German 'sechs', French 'six'}
@@ -473,8 +472,8 @@ oht : [num.] 8 (eight) {German 'acht'}
 -> ohte : [ord. num] eighth
 nön : [num.] 9 (nine) {French 'neuf', English 'nine'}
 -> nöne : [ord. num] ninth
-des : [num.] 10 (ten) {French 'dix'}
--> dese : [ord. num] tenth
+sejd : [num.] 10 (ten) {Original}
+-> sejde : [ord. num] tenth
 sän : [num.] 100 (hundred) {French 'cent'}
 -> sän : [ord. num] hundredth
 mil : [num.] 1000 (thousand) {French 'mille'}
