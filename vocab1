@@ -553,8 +553,8 @@ blär : [n.] badger {French 'blaireau'}
 -> bläräs : [adj.] meline
 -> bläru : [n.] badger cub
 -> stamblär : [n.] pangolin
-širm : [n.] lizard {Original}
--> širmäs : [adj.] lacertilian
+sirm : [n.] lizard {Old 'širm'}
+-> sirmäs : [adj.] lacertilian
 torte : [n.] tortoise, turtle {English 'toirtoise', French 'tortue'}
 -> tortäs : [adj.] chelonian
 serpe : [n.] snake {Latin 'serpens' via French 'serpent'}
@@ -3443,14 +3443,14 @@ klar : [adj.] clear; transparent; evident {Latin 'clarus' from English 'clarity'
 -> klarime : [n.] clarity
 -> klarät : [adv.] clearly
 
-rön : [adj.] dull, blunt {Original}
--> arön : [v.] blunt, dull
+rön : [adj.] dull, blunt {Original} &&&
+-> arön : [v.] blunt, dull &&&
 -> rönime : [n.] dullness, bluntness
 -> rönät : [adv.] dully, bluntly
-sir : [adj.] sharp, acute {Original}
--> asir : [v.] sharpen
--> sirime : [n.] sharpness
--> sirät : [adv.] sharply
+šir : [adj.] sharp, acute {Old 'sir'} &&&
+-> ašir : [v.] sharpen &&&
+-> širime : [n.] sharpness
+-> širät : [adv.] sharply
 
 bir : [adj.] near, close {Original}
 -> abir : [v.] to bring closer; to approach; [f:mathematics] to add
@@ -3677,11 +3677,11 @@ hoš : [adj.] hot {French 'chaud', English 'hot'}
 -> hošät : [adv.] hotly
 -> hošime : [n.] (state of) being hot, heat
 -> hoše : [n.] heat
-rosn : [adj.] warm
--> arosn : [v.] warm, heat up, reheat
--> rosnät : [adv.] warmly
--> rosnime : [n.] (state of) warmth, warmness
--> rosnem : [n.] warmth
+rösen : [adj.] warm {Old 'rosn'} &&&
+-> arösen : [v.] warm, heat up, reheat &&&
+-> rösenät : [adv.] warmly &&&
+-> rösenime : [n.] (state of) warmth, warmness
+-> rösenem : [n.] warmth &&&
 frisk : [adj.] fresh, cool; chilly, cold {French 'frisquet', Old 'fris'}
 -> afrisk : [v.] cool
 -> refrisk : [v.] refresh
