@@ -121,8 +121,8 @@ am : [prep.] locative (chiefly temporal: at, in, on) {French 'à'}
 u : [prep.] proximitive (at, near, by) {Russian 'у'}  
 gešt : [prep.] against; in exchange for {German 'gegen', English 'against'} &&&
 -> agešt : [v.] oppose, go against
-----> ageštem : [n.] opposition, contrast
--> gešt : [n.] con (reason against something)
+----> ageštem : [n.] opposition
+-> geštem : [n.] contrast, difference
 
 sär : [prep.] in the form(at) of, as {? Original}
 -> -sär : [suf.] in the form of the suffixed word
@@ -722,22 +722,22 @@ roba : [n.] tree
 mäc : [m.] wood; lumber {Estonian}
 -> mäctrošör : [n.] lumberjack {'mec' + 'troš' + '-ör'}
 -> mäctröbör : [n.] woodworker {'mec' + 'tröbör'}
--> gemäc [n.] forest, woods
-----> gemäcäs : [adj.] forestal
+-> mäcent : [n.] forest, woods
+----> mäcentäs : [adj.] forestal
+----> mäcentsijnek : [n.] woodland edge
 burš : [m.] birch {English 'birch', French 'bouleau}
 akašia : [m.] acacia {English, French 'acacia'}
 lilak : [n.] lilac {English 'lilac'}
 -> lila : [adj.] purple {Estonian 'lilla'}
-föl : {French 'feuille'}
--- [n.] leaf
--- [n.] feather
--> fölu : [n.] leaflet, strip of paper
+föl : [n.] leaf [n.] feather {French 'feuille'}
+-> fölti : [n.] leaflet, strip of paper
 byis : [n.] bush {Dutch, Afrikaans}
+-> byisti : [n.] shrub
 vit : [n.] vine {Latin 'vitis'}
 tärv : [n.] grass, herb {Old 'trav', Old 'härb'}
 -> tärväs : [adj.] herbal
 ----> tärväst : [adv.] herbally
--> getärv : [n.] lawn
+-> tärvent : [n.] lawn
 bambu : [m.] bamboo {French 'bambou'}
 kaktys : [n.] cactus {French 'cactus'}
 flor : {Italian 'fiore', French 'fleur'}
@@ -819,14 +819,14 @@ diamant : [m.] diamond {French, German 'Diamant'}
 emrod : [m.] emerald {French 'émeraude', English 'emerald'}
 piet : [m.] stone {Italian 'pietra', Latin 'petram'}
 -> apiet : [v.] petrify
--> gepiet : [n.] [collective] rock
+-> pietent : [n.] [collective] rock
 terrakotta : [m.] terracotta {Italian 'terracotta'}
 magma : [m. unc.] magma {Anc. Greek 'μάγμα' via French, English}
 piäs : [m.] sand {Croatian 'pijesak'}
 graviir : [m.] gravel {French 'gravier', English 'gravel'}
 erc : [n.] ore {German 'Erz'}
 
-lant : [n.] land, domain {German 'Land'}
+lant : [n.] land, domain, terrain {German 'Land'}
 -> alant : [v.] [intrans] make contact/arrive at land surface from air or sea
 -> ölant : [n.] island, isle {Swedish 'ö', English 'island'}
 -> ustäslant : [n.] foreign land
@@ -839,7 +839,6 @@ ter : {French 'terre'}
 ----> ucter : [adj.] underground
 -------> ucteräs : [adj.] subterreanean
 -------> ucterom : [n.] underground
-----> geter : [n.] [collective] terrain
 -- [v.] (of electrical equipment) connect to the ground
 -- [v.] (of aircraft) prevent from flying
 feld : [n.] field; plains {German 'Feld'}
@@ -1189,7 +1188,7 @@ ferm : [n.] [v.] farm {Latin 'firma' + via French 'ferme'}
 -> fermina : [n.] farming
 laboratom : [n.] laboratory {Latin 'laboratorium' via English 'laboratory' and French 'laboratoire'}
 
-=== clothes : getälen ===
+=== clothes : tälent ===
 šos : [n.] shoe {French 'chaussure'}
 -> šosu : [n.] sock
 bot : [n.] boot {French 'botte'}
@@ -1213,8 +1212,8 @@ res : [n.] thing, matter {Latin}
 -> resäs : [adj.] actual, real
 ----> resäst : [adv.] actually, really
 ----> resäsime : [n.] actuality, reality
--> resu : [n.] material, substance
-----> geresu : [n.] substance, composition
+-> resti : [n.] material, substance
+----> restient : [n.] substance, composition
 -> ares : [v.] compose (be a part of)
 ----> aresin : [n.] composition, makeup
 -> nöres : [n.] nothing
@@ -1263,7 +1262,7 @@ mod : [n.] style, fashion, way, manner {French 'mode'}
 -> -mod : [suf.] used to form verbs from nouns, with the sence of playing the role of, or being the suffixed word
 
 nart : [n.] capacity; weapon {Old 'nar'}
--> genart : [n.] arms, weapons
+-> nartent : [n.] arms, weapons
 -> anart : [v.] [trans] arm (equip with weapons); [v.] [trans] prime, charge with ammunition
 
 klass : [n.] class {French 'classe'}
@@ -1336,7 +1335,7 @@ sijnek : [n.] edge, boundary, border {Original}
 -> sijnekäj : [adj.] fringe, extreme, risqué, edgy, questionable
 ----> sijnekäjt : [adv.] extremely
 -> silnsijnek : [n.] horizon {'siln' +}
-----> orsilnsijnekom : [n.] (figurative) Timbuktu; distant place {'or' + + 'om'}
+----> orasilnsijnekom : [n.] (figurative) Timbuktu; distant place {'or' + + 'om'}
 
 vine : [n.] domain, realm {Croatian 'domovina'}
 -> vinu : [n.] zone, area
@@ -1643,7 +1642,7 @@ linen : [m.] linen {English}
 papiir : {Anc. Greek 'πάπυρος' via English 'paper' and French 'papier'}
 -- [m.] paper 
 -- [n.] document
-----> gepapiir : [n.] [collective] documentation
+----> papiirent : [n.] [collective] documentation
 ----> apapiir : [v.] to summarize; document, create a report on
 ----> papiirsor : [n.] filing cabinet
 gärt : [n.] card [n.] map [n.] [adj.] card (material) {Anc. Greek 'χάρτης' via Latin 'charta' via French 'carte' and English 'card'}
@@ -1668,10 +1667,10 @@ lozanž : {French 'losange'}
 rad : [n.] ray {Latin 'radius' via English 'radio'}
 -> erad : [v.] irradiate
 täl : [n.] fabric, canvas; (spider's) web {Latin 'tela' via French 'toile'}
--> getäl : [m.] cloth
-----> getälen : [n.] clothes, garments
--------> getälensor : [n.] wardrobe, closet
-----> getälu : [n.] cloth, serviette, napkin
+-> tälent : [m.] cloth
+----> tälenten : [n.] clothes, garments
+-------> tälentensor : [n.] wardrobe, closet
+----> tälentti : [n.] cloth, serviette, napkin
 ----> temstäl : [n.] tablecloth {'tem' +}
 -------> temstälu : [n.] apron
 näät : [n.] net, mesh {English 'net'}
@@ -1699,7 +1698,7 @@ sper : [v.] curl, coil {Latin 'spirale' via French, via English 'spiral'}
 
 
 cär : [n.] reed, stem, stalk, straw {Original} &&&
--> gecär : [m.] straw (bulk)
+-> cärent : [m.] straw (bulk)
 -> sulcär : [n.] drinking straw {'sul' +}
 guip : [n.] drop {French 'goutte', English 'drop'} &&&
 -> guiputi : [n.] droplet &&&
@@ -1845,7 +1844,7 @@ spät : [adj.] late {German}
 
 === people ===
 den : [n.] person {Breton}
--> geden : [n.] [collective] people
+-> denent : [n.] [collective] people
 uman : [n.] human {Latin 'humanus', +~ Romanian, Italian 'umano'}
 -> umanäs : [adj.] human
 ----> umanäsime : [n.] humanity
@@ -2143,7 +2142,7 @@ sol : [n.] sun {Latin 'sol' via French 'solaire'}
 lät : {Latin 'lac', + via French 'lait'}
 -- [n.] [v.] milk [v.] exploit
 ----> lätäs : [adj.] lactic
-----> gelät : [n.] dairy
+----> lätent : [n.] dairy
 ----> alät : [v.] breastfeed
 
 ov : [n.] egg {Latin 'ovum'}
@@ -2186,7 +2185,7 @@ ci : [v.] fare; be, feel {originally 'si', ? French 'soit'}
 
 ej : [v.] to have, possess, contain {English 'have', French 'avoir'} [EXCEPTION]
 -> ejime : [n.] possession
-----> gejime : [n.] inventory
+----> ejiment : [n.] inventory
 -> antej : [v.] share
 tenn : [v.] hold, keep {French 'tenir'}
 -> tennsime : [n.] custody; storage
