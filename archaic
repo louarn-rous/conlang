@@ -35,13 +35,16 @@ sei : [adv.] such, so {Original, ~ French 'ci'}
 širm : [n.] lizard {Original}
 -> širmäs : [adj.] lacertiliane
 setör : [n.] pain {Original}
-nudit : [adj.] naked, nude {French 'nudité'}
--> anudit : [v.] to strip of protection or clothing
--> nuditime : [n.] nakedness
--> nudität : [adv.] nakedly, nudely
-ru : [adj.] raw, crude; bare {? English 'raw', ? French 'cru'}
--> aru : [v.] to lay bare
--> ruät : [adv.] crudely; barely
+snog : [n.] edge, boundary, border {? Original} ##
+-> snogime : [n.] state of being on the edge, of being borderline; hesitancy
+-> snognuz : [adj.] boundless
+-> snoguz : [adj.] limited; bounded
+-> snogu : [n.] bordure
+-> snogät : [adj.] fringe
+----> snogätest : [archaic] [adj.] extreme
+-------> snogec : [adj.] extreme
+----------> snogecät : [adj.] extremely
+-> snogsti : [adj.] questionable; risqué, edgy
 läš : [n.] way, path, method {? Original}
 ulagarda : [n.] [f:marxism] vanguard {'ula' + 'garda'}
 or : [m. unc.] gold {French}
@@ -52,9 +55,6 @@ zbas : [n.] wing {Japanese '翼'}
 biit : [n.] beet {English 'beet'}
 par : [n.] side, part {Anc. Greek 'παρά'}
 por : [n.] leek {Latin 'porrum' & Polish}
-ur : [cnjc.] or {French 'ou', English 'or'}  
--> nur : [cnjc.] nor; neither
--> netur : [cnjc.] or (exclusive)
 form : [n.] form {Latin 'forma'}
 -> formäs : [adj.] formal
 ----> formäst : [adv.] formally
@@ -112,13 +112,6 @@ säls : [n.] sky {Italian 'cielo', French and English 'celestial'}
 
 jus : [adv.] just, only, simply, merely {French 'juste'}
 
-va : [cnjc.] on; at the instant of, at the moment of; exactly when [num.] two {Original}
-
-fris : [adj.] fresh, cool {French 'frais'}
--> afris : [v.] cool
--> refris : [v.] refresh
--> frisime : [n.] (state of) freshness
--> frise : [n.] cool
 
 to : [num.] 2 (two)
 -> tose : [ord. num.] second
@@ -408,7 +401,18 @@ manž : [v.] eat {Italian 'mangiare', French 'manger'}
 -> segetimmanžör : [n.] insectivore (+ 'manž' + '-ör')
 
 === adjectives ===
-
+fris : [adj.] fresh, cool {French 'frais'}
+-> afris : [v.] cool
+-> refris : [v.] refresh
+-> frisime : [n.] (state of) freshness
+-> frise : [n.] cool
+nudit : [adj.] naked, nude {French 'nudité'}
+-> anudit : [v.] to strip of protection or clothing
+-> nuditime : [n.] nakedness
+-> nudität : [adv.] nakedly, nudely
+ru : [adj.] raw, crude; bare {? English 'raw', ? French 'cru'}
+-> aru : [v.] to lay bare
+-> ruät : [adv.] crudely; barely
 gul : [adj.] wet {Breton 'gleb'}
 -> agul : [v.] wet
 -> gulät : [adv.] wetly
@@ -469,6 +473,10 @@ mo : [cnjc.] also, both, as well, again {Japanese 'も', Anc. Greek 'ὁμός'}
 ----------> neomäst : [adv.] inequally, unequally  
 ----------> neomäsime : [n.] inequality
 -------> omäse : [n.] equal
+ur : [cnjc.] or {French 'ou', English 'or'}  
+-> nur : [cnjc.] nor; neither
+-> netur : [cnjc.] or (exclusive)
+va : [cnjc.] on; at the instant of, at the moment of; exactly when [num.] two {Original}
 
 === determiners ===
 
