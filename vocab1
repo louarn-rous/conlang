@@ -632,11 +632,12 @@ ostre : [n.] oyster {Latin 'ostrea' via English 'oyster' & German 'Auster' & Fre
 ohtfus : [n.] octopus {'oht' + 'fus'}
 
 === crops, food, drink, vegetables, produce, fruits ===
-karot : [n.] carrot {French 'carrote'}
+sorgad : [n.] carrot {Original}
 radis : [n.] radish {French}
 bijt : [n.] beet {English 'beet'}
 -> rodbijt : [n.] beetroot {'rod' + }
-patat : [n.] potato {French 'patate'}
+kusk : [n.] potato {Original}
+-> kuskkajpa : [n.] potato cake, hash brown {+ 'kajpa'}
 kohl : [n.] cabbage {German 'Kohl'}
 läts : [n.] lettuce {French 'laitue', English 'lettuce'}
 mijl : [n.] corn {Afrikaans 'mielie'}
@@ -674,10 +675,8 @@ sukar : {Arabic 'سكر' via French 'sucre' and English 'sugar'}
 ----> asukar : [v.] sweeten {'-a' + 'sukar'}
 kräm : [n.] cream [v.] to fill or cover with cream {French 'crème'}
 -> krämglast : [n.] ice cream, gelato
-käbab : {Arabic 'كباب' via English 'kebab' and French 'kébab'}
--- [n.] kebab
-----> kebabsötör : [v.] kebab-maker
--- [v.] [informal] [figurative] to pierce with a sharp rod
+kebab : [n.] kebab {Arabic 'كباب' via English 'kebab' and French 'kébab'}
+-> kebabsötör : [v.] kebab-maker
 žus : [n.] juice {French 'jus', English 'juice'}
 -> ažus : [v.] to make into juice
 -> žussötör : [n.] juicer
@@ -692,6 +691,7 @@ formaž : [n.] cheese {Italian 'formaggio' via French 'fromage'}
 maskarpon : [n.] mascarpone {Italian 'mascarpone' via French and English}
 čädar : [n.] Cheddar (cheese) {English 'Cheddar'}
 tee : [n.] tea {German 'Tee'}
+kajpa : [n.] cake {Original}
 kafe : [n.] coffee {German 'Kaffee'}
 -> kafesötör : [n.] coffee machine
 akal : [n.] alcohol {Arabic 'أَكْحَال' via English 'alcohol' and French 'alcool'}
