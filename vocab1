@@ -316,20 +316,20 @@ uäst : {French 'ouest', English 'west'}
 ----> uästest : [adj.] westmost
 
 === adverbs ===
-mej : [adv.] [det.] much, many; very
--> meruz : [adj.] abundant, bountiful, rich
+mej : [adv.] [det.] much, many; very {Old 'me'}
+-> mejuz : [adj.] abundant, bountiful, rich
 ----> meruzät : [adv.] abundantly
--> amefär : [adj.] fertile
-mer : [adv.] comparative ('more') {Dutch 'meer'}
--> merät : [adv.] anymore, additionally
-mest : [adv.] superlative ('most') {Dutch 'meest'}  
--> mestäs : [adj.] maximal  
-----> mestäst : [adv.] maximally  
-le : [adv.] [det.] a few
-ler : [adv.] diminutive comparative ('less')
-lest : [adv.] diminutive superlative ('least') {English 'least'}  
--> lestäs : [adj.] minimal  
-----> lestäst : [adv.] minimally  
+-> amejfär : [adj.] fertile
+mejs : [adv.] comparative; more {Old 'mer'}
+-> mejsät : [adv.] anymore, additionally
+mejst : [adv.] superlative; most {Old 'mest'}
+-> mejstäs : [adj.] maximal  
+----> mejstäst : [adv.] maximally  
+lej : [adv.] [det.] a few {Old 'le'}
+lejs : [adv.] diminutive comparative; less {Old 'ler'}
+lejst : [adv.] diminutive superlative; least {Old 'lest'}
+-> lejstäs : [adj.] minimal  
+----> lejstäst : [adv.] minimally  
 te : [adv.] too, too much, too many {English 'too', French 'trop'}  
 seit : [adv.] such, so {Old 'sei'}
 
