@@ -53,7 +53,10 @@ vinj : [n.] vine {French 'vigne'}
 jan : [n.] person {Toki Pona}
 sipaträ : [n.] uncle
 -> obesipaträ : [n.] great-uncle
-sei : [adv.] such, so {Original, ~ French 'ci'}
+telefon : [n.] [v.] telephone
+-> telefonina : [n.] telephone call
+-> telefonäs : [adj.] telephonic
+----> telefonäst : [adv.] telephonically
 širm : [n.] lizard {Original}
 -> širmäs : [adj.] lacertiliane
 setör : [n.] pain {Original}
@@ -502,6 +505,8 @@ ler : [adv.] diminutive comparative ('less')
 lest : [adv.] diminutive superlative ('least') {English 'least'}  
 -> lestäs : [adj.] minimal  
 ----> lestäst : [adv.] minimally  
+sei : [adv.] such, so {Original, ~ French 'ci'}
+
 
 === conjunctions ===
 
