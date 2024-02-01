@@ -197,15 +197,15 @@ si : [cnjc.] if, in the case/condition that, given/supposing/assuming that {Fren
 -(d)en : [suf.] pluralizer {German} &&&
 -(u/y)ti : [suf.] diminutive {Old '-(n)u', 'tis'}
 
--(s)em : resultative nominative {Hungarian}
-
--ina : [suf.] verbal nominative; forms verbal nouns (the noun indicating the action of what is denoted by the verb) {Croatian 'batina'} #
--> -in : [suf.] nominative; forms nouns from verbs, describing the result of an action #
 -> -(n)a : [suf.] augmentative #
 
--(t)o/ör : [suf.] agentive nominalizer; forms agent nouns from verbs ('-er') &&&
--(s)ime : [suf.] forms nouns from adjectives, denoting the condition or state of the suffixed word ('-hood', '-dom', '-ness') #
--(n/l)(j)a/äs : [suf.] genitive; forms adjectives from nouns, with the meaning 'of or pertaining to' the suffixed word ('-ic')
+-(t)em : [suf.] resultative nominalizer; forms nouns from verbs, with the meaning equal to the result of the verb {Hungarian}
+-(e)jt : [suf.] gerundive/present participle; forms verbal nouns indicating the action of what is denoted by the verb; -ing, -ment, -tion
+-(e)st : [suf.] past participle; forms adjectives indicating a quality resulting from the undergoing of the verb
+-(e)js : [suf.] forms nouns from adjectives, denoting the condition or state of the suffixed word; -hood, -dom, -ness
+
+-(t)o/ör : [suf.] agentive nominalizer; forms agent nouns from verbs ('-er')
+-a/äs : [suf.] genitive; forms adjectives from nouns, with the meaning 'of or pertaining to' the suffixed word ('-ic')
 -> -jäs : [suf.] genitive when after 'i' or 'ia'
 -> -njäs : [suf.] genitive when after 'nia' or 'nja'
 -> -ljäs : [suf.] genitive when after 'lia' or 'lja'
@@ -215,8 +215,6 @@ si : [cnjc.] if, in the case/condition that, given/supposing/assuming that {Fren
 
 -(s)a/äj : [suf.] adjectivizer; forms adjectives from nouns signifying the possession of qualities related to the suffixed noun
 
--et or -it : [suf.] past participle {see README.md#Verbs}
--es : [suf.] present participle {see README.md#Verbs}
 
 -sti: [suf.] semblative; forms adjectives from nouns, having the sense of resembling the suffixed word
 -sat : [suf.] forms adjectives from nouns, meaning to possess or have the quality of the suffixed noun (English '-ful', -'ous') {see 'sat'}
@@ -225,7 +223,6 @@ si : [cnjc.] if, in the case/condition that, given/supposing/assuming that {Fren
 
 -e : [suf.] forms ordinal numbers {French '-ème') &&
 -ent : [suf.] collective nominalizer {Original}
-
 
 -o/öm : [suf.] used to mark a place {Original} &&&
 -im : [suf.] used to form nouns, indicating someone who is from a place or has a connection to the suffixed word (German and English '-ling')
@@ -365,7 +362,7 @@ i : [adj.] (the) current, present {Japanese '今'}
 
 alte : [det.] [n.] [adj.] other {Latin 'alter' via French 'autre'}
 -> alt(e)- : [prf.] other
--> altime : [n.] otherness
+-> altejs: [n.] otherness
 
 maci : [det.] one's own {Original}
 -> kur tön maci : [phrase] mind your own business
@@ -377,8 +374,8 @@ mäs : [adj.] constant, unmoving, permanent {German '-mals'}
 -> mäst : [adv.] ever; always  
 ----> nemäst : [adv.] never  
 ----> dömäst : [adv.] forever  
--------> dömastime : [n.] eternity  
--> mäsime : [n.] permanence, immutability  
+-------> dömastejs: [n.] eternity  
+-> mäsejs: [n.] permanence, immutability  
 -> mäsäs : [adv.] constantly
 
 === other particles === 
@@ -417,8 +414,8 @@ jos : {Japanese 'よし'}
 ----> josät : [adv.] readily  
 ----> nejos : [adj.] unprepared  
 -------> nejosät : [adv.] unpreparedly  
--------> nejosime : [n.] unpreparedness  
-----> josime : [n.] preparedness, readiness
+-------> nejosejs: [n.] (state of) unpreparedness  
+----> josejs: [n.] (state of) preparedness, readiness
 
 prac : [v.] thank {Original}
 -> prace : [intj.] thanks, thank you
@@ -447,7 +444,7 @@ sjan : [num.] 2 (two) {Original}
 ----> sjaneläs : [adv.] secondly
 -> sjanäs : [adj.] secondary
 ----> sjanäst : [adv.] secondarily
--> sjanime : [n.] duality
+-> sjanejs: [n.] duality
 -> sjanät : [adv.] twice
 drej : [num.] 3 (three) {Old 'tri', German 'Drei'}
 -> dreje : [ord. num.] third
@@ -1212,7 +1209,7 @@ učä : [n.] subject, object, item {?}
 res : [n.] thing, matter {Latin}
 -> resäs : [adj.] actual, real
 ----> resäst : [adv.] actually, really
-----> resäsime : [n.] actuality, reality
+----> resäsejs : [n.] reality; the state of being actual, real
 -> resti : [n.] material, substance
 ----> restient : [n.] substance, composition
 -> ares : [v.] compose (be a part of)
@@ -1246,14 +1243,13 @@ brec : [n.] task, work; doing, deed; accomplishment, achievement {clipping of 't
 -------> nebrecäst : [adj.] unofficially
 -> brecom : [n.] office
 -> nesabreces : [adj.] lazy
-----> nesabrecesime : [n.] (state of) laziness
 
 orde : [n.] order, arrangement, series {Latin 'ordo'}
 -> ordeät : [adj.] orderly
 -> desorde : [n.] disorder, disarray
 ----> desordät : [adj.] disorderly, messy
--------> desordätime : [n.] (state of) disorderliness
-----> desordime : [n.] (state of) disorder
+-------> desordätejs: [n.] (state of) disorderliness
+----> desordejs : [n.] (state of) disorder
 
 virte : [n.] virtue {Latin 'virtus'}
 -> virtsat : [adj.] virtuous
@@ -1313,7 +1309,8 @@ vet : [n.] age {Latin 'vetus'}
 
 niväl : [n.] level {English 'level', French 'niveau'}
 strat : [n.] layer {Latin 'stratum' via English}
--> stratime : [n.] layeredness
+-> stratest : [adj.] layered
+----> stratestejs : [n.] layeredness; state of being layered
 -> astrat : [v.] cover
 kut : [n.] coat, layer {English 'coat', French 'couche'}
 -> akut : [v.] coat
@@ -1331,7 +1328,7 @@ sijnek : [n.] edge, boundary, border {Original}
 ----> asijnekem : [n.] delimitation
 ----> asijneket : [adj.] limited, bound
 ----> nasijneket : [adj.] unlimited, unrestricted
--> sijnekime : [n.] state of being on the edge, of being borderline; hesitancy
+-> sijnekejs : [n.] state of being on the edge, of being borderline; hesitancy
 -> sijnekyti : [n.] bordure
 -> sijnekäj : [adj.] fringe, extreme, risqué, edgy, questionable
 ----> sijnekäjt : [adv.] extremely
@@ -1352,7 +1349,7 @@ strom : [n.] location, place {Japanese '所'}
 -> -(t)rom : [suf.] used to indicate a place with a purpose relating to the suffixed word ('-place')
 -> astrom : [v.] place
 ----> rastrom : [v.] replace
--------> restromin(a) : [n.] replacement
+-------> restromem : [n.] replacement
 ----> astromin(a) : [n.] placement (of)
 -> stromäs : [adj.] local (of a place)
 ----> stromäst : [adv.] locally
@@ -1360,13 +1357,13 @@ strom : [n.] location, place {Japanese '所'}
 ----> imstromet : [adj.] localized
 -> strum : [n.] site
 
-liäs : [n.] link {? French 'lier'}
--> aliäs : [v.] link, bind, connect
-----> aliäsina : [n.] connection
--> deliäs : [n.] disconnect
-----> deiliäsina : [n.] disconnection
--> liäsime : [n.] relation, togetherness
--> näätliäs : [n.] web link
+liäs : [v.] link, bind, connect {? French 'lier'}
+-> liäsem : [n.] link, connection
+----> näätliäsem : [n.] web link {+ 'näät'}
+-> liässt : [adj.] linked, bound, connected, related
+----> liässtejs : [n.] state of being connected, related; relation, togetherness
+-> deliäs : [v.] disconnect
+----> deiliäsem : [n.] disconnection
 
 gadäs : [n.] chain, link; channel {Latin 'catena' via Catalan 'cadena'}
 -> gadäsen : [n.] chains, irons, shackles; binds
@@ -1947,11 +1944,8 @@ post : [n.] mail {English, French 'poste'}
 -> postdat : [n.] mail bag
 -> lektrepost : [n.] [dated] email/e-mail
 -> e-post : [n.] email/e-mail
-päst : {French 'peste', English 'pester'}
--- [n.] plague
--- [v.] spread plague amongst
--- [n.] annoyance
--- [v.] plague, pester, annoy
+päst : [v.] spread plague amongst [v.] plague, pester, annoy {French 'peste', English 'pester'}
+-> pästem : [n.] plague [n.] annoyance
 frejd : [n.] peace {Swedish 'fred', German 'frieden'}
 -> afrejd : [v.] appease
 ----> afrejdina : [n.] appeasement
@@ -2238,10 +2232,9 @@ nad : [v.] give, deal, offer {Old 'don' + Hungarian 'ad'} &&&
 ----> ödnador : [n.] provider, supplier
 -------> mahtödnador : [n.] [f:electronics] power supply
 
-dräjt : [v.] betray; surrender; give up {? Breton 'dreitour'}
--> dräjtör : [n.] betrayer, traitor
--> dräjtin(a) : [n.] betrayal
--> dräjtime : [n.] (state of) betrayal
+drät : [v.] betray; surrender; give up {Old 'dräjt'}
+-> drätör : [n.] betrayer, traitor
+-> drätem : [n.] betrayal
 prom : [v.] get, gain, obtain; take, steal {Original}
 -> promin : [n.] gain
 -> aprom : [v.] sell
