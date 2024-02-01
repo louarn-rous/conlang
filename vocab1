@@ -1139,8 +1139,9 @@ tieb : [n.] tribe {Latin 'tribus' via French 'tribu' and English 'tribe'}
 -> tiebsic: [adj.] tribal (tribe-like)
 
 ratne : [n.] war {Serbo-Croatian 'рат'}
-----> ratnemätör : [n.] warmonger
-----> ratnemätina : [n.] warmongering
+-> ratneotbišt : [v.] warmonger
+----> ratneotbištor : [n.] warmonger
+----> ratneotbiština : [n.] warmongering
 arme : [n.] army {French 'armée', also via German 'Armee'}
 soldat : [n.] soldier {French 'soldat', German 'Soldat'}
 general : [n.] general {Serbian 'генерал', French 'général'}
@@ -2214,7 +2215,7 @@ ger : [v.] manage {Latin 'gero' via English 'register' & French 'gérer'}
 -> gerrägör : [n.] manager
 
 bišt : [v.] carry, bear {Original, backform from 'bištir'}
--> bištir : [v.] bring {Original}
+-> otbišt : [v.] bring
 -> sebišt : [v.] record; log; login
 ----> sebištiletä : [n.] logbook
 ----> sebištin : [n.] record, entry
