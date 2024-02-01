@@ -16,15 +16,14 @@ torš : [n.] cloth {Breton 'torch'}
 banier : [n.] banner {French 'banière'}
 busk : [n.] bush {English 'bush', ? German 'Busch', ? Finnish 'puska'}
 viv : [n.] life [v.] live [adj.] alive {Spanish 'vida', French 'vivre'}
-sir : [adj.] sharp, acute {Original}
--> asir : [v.] sharpen
--> sirime : [n.] sharpness
--> sirät : [adv.] sharply
-rosn : [adj.] warm
--> arosn : [v.] warm, heat up, reheat
--> rosnät : [adv.] warmly
--> rosnime : [n.] (state of) warmth, warmness
--> rosnem : [n.] warmth
+man : [n.] hand {Latin 'manus' via French 'main' and English 'manual'} 
+-> manäs : [adj.] of or relating to the hand; manual
+----> manäst : [adv.] manually
+-> mana : [n.] handle
+säl : [n.] salt {French 'sel'}
+-> säläs : [adj.] saline
+-> asäl : [v.] [trans] salt
+ravin : [n.] ravine {French 'ravin' & English 'ravine'}
 bov : [n.] cow {Late Latin 'bovinus'}
 -> boväs : [adj.] bovine
 -> bovu : [n.] calf
@@ -44,6 +43,7 @@ ru : [adj.] raw, crude; bare {? English 'raw', ? French 'cru'}
 -> aru : [v.] to lay bare
 -> ruät : [adv.] crudely; barely
 läš : [n.] way, path, method {? Original}
+ulagarda : [n.] [f:marxism] vanguard {'ula' + 'garda'}
 or : [m. unc.] gold {French}
 -> orät : [adj.] golden
 te : [n.] tea {German 'Tee'}
@@ -60,6 +60,7 @@ form : [n.] form {Latin 'forma'}
 ----> formäst : [adv.] formally
 toš : [n.] thing {French 'chose'}
 faas : [n.] cliff {? French 'face'}
+ecar : [n.] word; command {Original}
 departina : [n.] department
 not : [n.] brief record, usually written; score, mark or grade; [f:music] note {French & English 'note'}
 sistäm : [n.] system {French 'système', English 'system'}
@@ -134,6 +135,14 @@ tri : [num.] 3 (three) {Russian 'три', French 'trois'}
 kuät : [num.] 4 (four) {French 'quatre', Italian 'quattro'}
 -> kuäte : [ord. num.] fourth
 -> kuätt : [adv.] four times
+fän : [num.] 5 (five)
+-> fäne : [ord. num] fifth
+ses : [num.] 6 (six) {German 'sechs', French 'six'}
+-> sese : [ord. num] sixth
+sät : [num.] 7 (seven) {French 'sept'}
+-> säte : [ord. num] seventh
+oht : [num.] 8 (eight) {German 'acht'}
+-> ohte : [ord. num] eighth
 des : [num.] 10 (ten) {French 'dix'}
 -> dese : [ord. num] tenth
 
@@ -260,7 +269,12 @@ töl : {French 'tuile'}
 -- [n.] tile, pane, panel, plate &&
 -- [v.] to cover with tiles
 
+terakota : [m.] terracotta {Italian 'terracotta'}
+
 === verbs ===
+trem : [v.] shake, tremble, wobble, quake {French 'trembler', Croatian 'tresti'}
+-> tremem : [n.] shake, tremble, wobble
+-> tertremen : [n.] earthquake
 brilj : [v.] shine {Portugese 'brilhar', French 'briller'}
 komm : [v.] [intrans.] come, arrive {German 'kommen'}
 don : [v.] give, deal {French 'donner'}
@@ -276,6 +290,7 @@ don : [v.] give, deal {French 'donner'}
 ----> öddonör : [n.] provider, supplier
 -------> mahtöddonör : [n.] [f:electronics] power supply
 -> dontu : [n.] gift, present
+----> nosemnatdontu : [n.] birthday present
 
 ser : [v.] be {Original} [EXCEPTION]
 -> serin : [n.] existence
@@ -290,6 +305,12 @@ gil : [v.] [n.] help {Scottish Gaelic 'gille' via English 'gillie'}
 ----> giere : [n.] maid
 ----> giräs : [adj.] auxiliary
 -> gilin : [n.] aid, help
+štut : [v.] support {? German 'stützen'}
+-> štutör : [n.] supporter
+-> štutin [n.] support
+
+rac : [v.] get, go; start, commence [num.] one {Polish 'raz'}
+
 
 baes : {Unknown, ? ~ English 'bite'}
 -- [v.] [n.] bite
@@ -388,6 +409,28 @@ manž : [v.] eat {Italian 'mangiare', French 'manger'}
 
 === adjectives ===
 
+gul : [adj.] wet {Breton 'gleb'}
+-> agul : [v.] wet
+-> gulät : [adv.] wetly
+mals : [adj.] soft, tender {Dutch}
+-> amals : [v.] soften; tenderize
+-> malsät : [adv.] softly
+-> malsime : [n.] softness
+sir : [adj.] sharp, acute {Original}
+-> asir : [v.] sharpen
+-> sirime : [n.] sharpness
+-> sirät : [adv.] sharply
+rosn : [adj.] warm
+-> arosn : [v.] warm, heat up, reheat
+-> rosnät : [adv.] warmly
+-> rosnime : [n.] (state of) warmth, warmness
+-> rosnem : [n.] warmth
+sal : [adj.] far, distant; remote {Original}
+-> asal : [v.] to drive away, seclude
+-> saläs : [adj.] distal
+----> saläst : [adv.] distally; remotely
+-> salime : [n.] distance; remoteness
+-> salät : [adv.] distantly
 škort : [adj.] short {French 'court', English 'short'}
 san : [adj.] healthy, sound {Latin 'sanus' via English 'sanitary'}
 -> sanime : [n.] health, wellbeing
@@ -443,7 +486,7 @@ sti : [prep.] as if, like so, similar to
 -> stit : [adv.] thus, in this way or manner  
 
 === affixes ===
-
+-e : [suf.] used to form nouns from adjectives
 -a : [suf.] used to mark a place
 -esin : [suf.] forms nouns from adjectives, denoting the condition or state of the suffixed word ('-hood', '-dom', '-ness')
 -> -(s)ein : [suf.] forms nouns from adjectives, denoting the condition or state of the suffixed word ('-hood', '-dom', '-ness')
@@ -452,9 +495,15 @@ sti : [prep.] as if, like so, similar to
 -(n)i : [suf.] used to form nouns, indicating someone who is from a place or has a connection to the suffixed word (German & English '-ling')
 
 === interjections ===
-
+ura : [intj.] hooray {French 'hourra', Russian 'ура'}
 häj : [intj.] exclamation, protest or reprimand, expression of surprise; informal greeting ('hey')  
 nö : [intj.] negative; used to show disagreement or disbelief ('no') {German}
 sievat : [intj.] farewell, goodbye ('sie' + 'vat')  
 -> sie : [intj.] bye  
 -> sievatin : [n.] farewell, goodbye
+tagräm : {Original}  
+-- [intj.] sorry  
+-- [v.] apologise  
+----> tagrämina : [n.] apology  
+----> tagrämäs [adj.] apologetic  
+-------> tagrämäst : [adv.] apologetically
