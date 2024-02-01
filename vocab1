@@ -55,7 +55,7 @@ ceni : [det.] some, a part of
 us : [prep.] ablative, genitive ('from', 'of', authorship)  
 -> ussa : [prep.] beyond, further than
 -> usam : [prep.] away from, off
-o(t) : [prep.] allative (to, for) {Old 'öd'}
+ot : [prep.] allative (to, for) {Old 'öd'}
 -> otuz : [adv.] together  
 -> ote : [prep.] benefactive ('for', 'in favour/support/the objective of', 'so that')
 ----> ote : [n.] pro (reason in favour of something)
@@ -117,27 +117,26 @@ ant : [prep.] between, among {Latin 'inter' via English 'internal', ? French 'en
 ----> antvär : [adv.] towards between
 -> asant : [v.] join
 
-a : [prep.] locative (chiefly temporal: at, in, on) {French 'à'}  
--> am : [prep.] above (before vowel)
+am : [prep.] locative (chiefly temporal: at, in, on) {French 'à'}  
 u : [prep.] proximitive (at, near, by) {Russian 'у'}  
 gešt : [prep.] against; in exchange for {German 'gegen', English 'against'} &&&
 -> agešt : [v.] oppose, go against
 ----> ageštem : [n.] opposition, contrast
 -> gešt : [n.] con (reason against something)
 
-sär : [prep.] in the form(at) of, as
+sär : [prep.] in the form(at) of, as {? Original}
 -> -sär : [suf.] in the form of the suffixed word
-isän : [prep.] ablative (about, concerning)  
+isän : [prep.] ablative (about, concerning)  {?}
 urund : [prep.] circumlative (around, about) {from 'u' + 'rund'}
 tra(s) : [prep.] perlocative, perlative (across, through) {Breton 'tra'}
 -> trasal : [prep.] far from, far off; across
--> tras : [prep.] according to, by
+-> tras : [prep.] according to, by ##
 ga : [prep.] distributive (per, for each) {Original}
 
 === conjunctions === 
-ur : [cnjc.] or {French 'ou', English 'or'}  
--> nur : [cnjc.] nor; neither
--> netur : [cnjc.] or (exclusive)
+ei : [cnjc.] or {French 'ou', English 'or'}  
+-> nei : [cnjc.] nor; neither
+-> enei : [cnjc.] or (exclusive)
 e : [cnjc.] and (before consonant) {Italian, French 'e'}
 -> et : [cnjc.] and (before vowel) {French and Latin 'et'}
 
@@ -181,11 +180,11 @@ rösni : [cnjc.] [causal] [formal] therefore, so, thus, hence, consequently {Ori
 
 nast : [cnjc.] (non-interrogative) how, that ("it's funny how...", "curious that...")
 
-ar : [adv.] as [cnjc.] as, than 
+ar : [adv.] as [cnjc.] as, than {? Original}
 
 i : [cnjc.] seperates direct object and indirect object
 
-gän : [cjnc.] when, during the time that, at the time of the action of the following clause
+gän : [cjnc.] when, during the time that, at the time of the action of the following clause {? Unknown, ? ~ English 'when'}
 si : [cnjc.] if, in the case/condition that, given/supposing/assuming that {French}
 -> siime : [n.] case, condition
 ----> majsiime : [adv.] often
@@ -212,7 +211,9 @@ si : [cnjc.] if, in the case/condition that, given/supposing/assuming that {Fren
 -> -ljäs : [suf.] genitive when after 'lia' or 'lja'
 -(n)a/ät :  
 -- [suf.] used to form adverbs, giving a verb the quality of the suffixed word ('-ly', '-y')
--- [suf.] used to form adjectives from verbs, meaning inclined/liable to do the suffixed verb  ('-y')
+-- [suf.] used to form adjectives from verbs, meaning inclined/liable to do the suffixed verb ('-y')
+
+-(s)a/äj : [suf.] adjectivizer; forms adjectives from nouns signifying the possession of qualities related to the suffixed noun
 
 -et or -it : [suf.] past participle {see README.md#Verbs}
 -es : [suf.] present participle {see README.md#Verbs}
@@ -222,9 +223,7 @@ si : [cnjc.] if, in the case/condition that, given/supposing/assuming that {Fren
 
 -ret : [suf.] used to form nouns, meaning the practice of doing or doing something related to the suffixed word (English '-ry') {see 'ret'}
 
--e : [suf.]
--- forms ordinal numbers {French '-ème')
--- used to form nouns from adjectives ### &&&
+-e : [suf.] forms ordinal numbers {French '-ème')
 
 -o/öm : [suf.] used to mark a place {Original} &&&
 -im : [suf.] used to form nouns, indicating someone who is from a place or has a connection to the suffixed word (German and English '-ling')
@@ -331,12 +330,7 @@ lest : [adv.] diminutive superlative ('least') {English 'least'}
 -> lestäs : [adj.] minimal  
 ----> lestäst : [adv.] minimally  
 te : [adv.] too, too much, too many {English 'too', French 'trop'}  
-sei : [adv.] such, so {Original}
-
-čundr : [v.] suffice {Korean '충분'}
--> čundräs : [adj.] sufficient, enough 
-----> čundräst : [adv.] sufficiently
-----> ačundräs : [v.] to make sufficient, to fill, compensate
+seit : [adv.] such, so {Old 'sei'}
 
 yl : [adj.] (the) previous, anticedent {Original}  
 -> yla : [adj.] before
@@ -410,7 +404,8 @@ naj : [intj.] negative; used to show disagreement or disbelief ('no') {German} &
 ja : {German, Dutch, Swedish}  
 -- [intj.] affirmative; used to show agreement or acceptance ('yes')  
 -- [ptcl.] marks preceding clause as interrogative, prompting affirmation ('isn't it'/'right?')
-ura : [intj.] hooray {French 'hourra', Russian 'ура}
+ajča : [intj.] hooray, hey-ha {Estonian (Unknown)}
+ai : [intj.] ow, ouch {Estonian, Finnish, et al. 'ai' & French 'aïe'}
 un : [intj.] mhm, okay {Japanese 'うん'} &&&
 enna : [intj.] oh, well, now, let's see &&&
 
@@ -425,15 +420,14 @@ jos : {Japanese 'よし'}
 ----> josime : [n.] preparedness, readiness
 
 prac : [v.] thank {Original}
--> prace : [intj.] thanks
--> pracine : [n.] thanks
+-> prace : [intj.] thanks, thank you
+-> pracem : [n.] thanks
 
-tagräm : {Original}  
--- [intj.] sorry  
--- [v.] apologise  
-----> tagrämina : [n.] apology  
-----> tagrämäs [adj.] apologetic  
--------> tagrämäst : [adv.] apologetically
+tagräj : [v.] apologise {Old 'tagräm'} &&
+-> tagräje : [intj.] sorry
+-> tagräjem : [n.] apology  
+-> tagräjäs [adj.] apologetic (pertaining to apology)
+----> tagräjäst : [adv.] apologetically (in an apologetic manner)
 
 sate : {Original} please, if you will
 
@@ -462,14 +456,14 @@ drej : [num.] 3 (three) {Old 'tri', German 'Drei'}
 kyr : [num.] 4 (four) {Original}
 -> kyre : [ord. num.] fourth
 -> kyrät : [adv.] four times
-fän : [num.] 5 (five)
--> fäne : [ord. num] fifth
-ses : [num.] 6 (six) {German 'sechs', French 'six'}
--> sese : [ord. num] sixth
-sät : [num.] 7 (seven) {French 'sept'}
--> säte : [ord. num] seventh
-oht : [num.] 8 (eight) {German 'acht'}
--> ohte : [ord. num] eighth
+kej : [num.] 5 (five) {from 'kejs'}
+-> keje : [ord. num] fifth
+säjs : [num.] 6 (six) {Old 'ses'}
+-> säjse : [ord. num] sixth
+säjc : [num.] 7 (seven) {Old 'sät', Estonian 'seitse'}
+-> säjce : [ord. num] seventh
+ont : [num.] 8 (eight) {Old 'oht'}
+-> onte : [ord. num] eighth
 nön : [num.] 9 (nine) {French 'neuf', English 'nine'}
 -> nöne : [ord. num] ninth
 sejd : [num.] 10 (ten) {Original}
@@ -632,7 +626,7 @@ luzd : {? French 'lombric'}
 -- [v.] squirm, wriggle, worm, crawl
 
 pelaa : [n.] clam; mussel {Latin 'peloris' via French 'palourde'}
-ostre : [n.] oyster {Latin 'ostrea' via English 'oyster' and German 'Auster' and French 'huître'}
+ostre : [n.] oyster {Latin 'ostrea' via English 'oyster' & German 'Auster' & French 'huître'}
 
 ohtfus : [n.] octopus {'oht' + 'fus'}
 
@@ -658,7 +652,7 @@ sitre : [n.] citrus; lemon {Latin 'citrus' via English, French 'citron'}
 limonat : [n.] lemonade {Italian 'limonata'}
 mange : [n.] mango {Portugese 'manga' via English 'mango'}
 onion : [n.] onion {French 'oignon'}
-por : [n.] leek {Latin 'porrum' and Polish}
+porra : [n.] leek {Old 'por'}
 guso : [n.] garlic {~ French 'gousse'}
 soj : [n.] soy {Satsuma Jp. '醤油' via Dutch 'soja' via French 'soja' and English 'soy'}
 nys : [n.] nut {French 'noix', English 'nut'}
@@ -712,7 +706,8 @@ bär : [n.] berry {French 'baie', English 'berry'}
 -> rusbär : [n.] cranberry
 -> rozbär : [n.] raspberry
 brot : [n.] bread {German}
-nis : [n.] wheat {Estonian 'nisu'}
+nist : [n.] wheat {Old 'nis'}
+-> 
 läj : [n.] yeast; leavening agent (Estonian 'leib', French 'levure')
 glutän : [n.] gluten
 past : [n.] pasta {Italian 'pasta', French 'pâte'}
@@ -824,7 +819,7 @@ emrod : [m.] emerald {French 'émeraude', English 'emerald'}
 piet : [m.] stone {Italian 'pietra', Latin 'petram'}
 -> apiet : [v.] petrify
 -> gepiet : [n.] [collective] rock
-terakota : [m.] terracotta {Italian 'terracotta'}
+terrakotta : [m.] terracotta {Italian 'terracotta'}
 magma : [m. unc.] magma {Anc. Greek 'μάγμα' via French, English}
 piäs : [m.] sand {Croatian 'pijesak'}
 graviir : [m.] gravel {French 'gravier', English 'gravel'}
@@ -855,16 +850,17 @@ kristal : [n.] crystal {French 'cristal'}
 -> akristal : [v.] crystallize
 ----> akristalina : [n.] crystallization
 -> kristaläs : [adj.] crystalline
-säl : [n.] salt {French}
--> säläs : [adj.] saline
--> asäl : [v.] [trans] salt
+sal : [n.] salt {Old 'säl'}
+-> salas : [adj.] saline
+-> asal : [v.] [trans] salt
+-> salaj : [adj.] salty 
 kav : [n.] cave, basement {French 'cave'}
 -> kavör : [n.] spelunker {'kav' + '-ör'} 
-ravin : [n.] ravine
+tergana : [n.] ravine {French 'ravin' & English 'ravine'}
 kratär : [n.] crater {French 'cratère'}
 lic : [n.] shore {Latin 'litus' via French 'littoral'}
 -> alic : [adj.] ashore
-fast : [n.] cliff
+fast : [n.] cliff {Unknown}
 -> fastdrän : [n.] cliff face
 mont : {Latin 'montem' via French 'mont'}
 -- [n.] mountain
@@ -964,10 +960,10 @@ läp : {English 'lip', Latin 'labrum' via French 'lèvre'}
 -- [v.] [informal] to kiss
 pleč : [n.] shoulder {Russian 'плечо'}
 -> plečäs : [adj.] pertaining to the shoulder
-man : [n.] hand {Latin 'manus' via French 'main' and English 'manual'} 
--> manäs : [adj.] of or relating to the hand; manual
-----> manäst : [adv.] manually
--> mana : [n.] handle
+kejs : [n.] hand {~ Estonian & Finnish 'käsi', Hungarian 'kéz'}
+-> kejsäs : [adj.] of or relating to the hand; manual
+----> kejsäst : [adv.] manually
+-> kejsom : [n.] handle
 dist : [n.] finger, digit {Latin 'digitus' via English 'digit' and French 'doigt'}
 -> distu : [n.] (numerical) digit
 ----> distunäs : [adj.] digital
@@ -1385,14 +1381,12 @@ pär : [n.] side; part, share; piece, component {Latin 'partem' via English and 
 ----------> nesuspärfärime : [n.] undecidability
 -> pärät : [adv.] partly; partially
 -> apär : [adv.] aside, besides
-sem : [n.] half [adj.] half of {Latin 'semi-'}
--> sem(e)- : [prf.] half of, made of halves('semi-')
+sem : [n.] half [adj.] half of [prf.] semi- {Latin 'semi-'}
 -> asem : [v.] halve, split (in two/into two)
 -> semät : [adv.] halfly, half; kind of, kinda
 
 gove : [n.] voice, (manner of) speech; spirit {Japanese '声', ~? Serbo-Croatian ?}
 -> utegove : [n.] singing voice, song voice
-ecar : [n.] word; command {Original}
 fras : [n.] phrase, expression, term {Anc. Greek 'φράσις' via English and French 'phrase'}
 
 jukos : [n.] monster {Original}
@@ -1714,6 +1708,7 @@ tol : [n.] wall {Old 'dol'} &&&
 tor : [n.] door, gate {German 'Tür'} &&&
 tyl : [n.] tile, pane, panel, plate {Old 'töl'} &&&
 -> atyl : [v.] to cover with tiles
+-> tertyl : [n.] tectonic plate {'ter' +}
 
 kev : {Anc. Greek 'κύβος' via French and English 'cube'}
 -- [n.] cube
@@ -2153,9 +2148,9 @@ fung : [n.] mushroom {Italian 'funghi'}
 -> [n.] [colloq.] penis
 -> fungäs : [adj.] fungal
 ----> fungäst : [adv.] fungally
-tust : [n.] tail {? Original}
-embrion : [n.] embryo {French 'embryon'}
--> embrionäs : [adj.] embryonic
+tust : [n.] tail {? Original, ~ English 'tuft'} &&&
+embrijon : [n.] embryo {French 'embryon'}
+-> embrijonäs : [adj.] embryonic
 kälul : [n.] cell {Latin 'cellula' via French 'cellule'}
 -> käluläs : [adj.] cellular
 spos : [n.] root [adj.] original {? Original}
@@ -2167,26 +2162,24 @@ alfabät : [n.] alphabet {Anc. Greek 'ἀλφάβητος' via English and Frenc
 -> alfabätäs : [adj.] alphabetical
 ----> alfabätäst : [adv.] alphabetically
 kanton : [n.] [f:vexillology] canton {English 'canton'}
-ulagarda : [n.] [f:marxism] vanguard {'ula' + 'garda'}
 bit : [n.] [f:computing] bit
 servör : [n.] [f:computing] server
 adjektiv : [n.] adjective {Latin 'adiectivus'}
 
 === verbs ===
-ser : [v.] be {Original} [EXCEPTION]
--> serin : [n.] existence
-----> serinäs : [adj.] existential
--------> serinäst : [adv.] existentially
--> serime : [n.] being
--> suer : [v.] exist [EXCEPTION]
--> aser : [v.] make into, make become [EXCEPTION]
+sej : [v.] be {Original}
+-> sejem : [n.] existence, being
+----> sejemäs : [adj.] existential
+-------> sejemäst : [adv.] existentially
+-> sujer : [v.] [trans] to exist
+-> asej : [v.] to make into, turn into, transform into
 ci : [v.] fare; be, feel {originally 'si', ? French 'soit'}
 -> cievat : [intj.] farewell, goodbye {'ci' + 'vat'}
 ----> cie : [intj.] bye  
 ----> cievatin : [n.] farewell, goodbye
--> cijn : [n.] experience, times
+-> cijem : [n.] experience, times
 
-ej : [v.] have; possess; contain {English 'have', French 'avoir'} [EXCEPTION]
+ej : [v.] to have, possess, contain {English 'have', French 'avoir'} [EXCEPTION]
 -> ejime : [n.] possession
 ----> gejime : [n.] inventory
 -> antej : [v.] share
@@ -2211,7 +2204,7 @@ kaus : [v.] care, precaution, guard {Latin 'caveo'}
 -> kause : [n.] guard, care, precaution
 -> kaussat : [adj.] cautious, suspicious, wary
 -> kausina : [n.] caution, warning
-ger : [v.] manage
+ger : [v.] manage {Latin 'gero' via English 'register' & French 'gérer'}
 -> reger : [v.] register
 ----> areger : [v.] record; [f:computer] to save
 ----> regerom : [n.] registry
@@ -2254,20 +2247,17 @@ met : [v.] send {Latin 'mitto' +~ 'mät'}
 -> metör : [n.] sender
 -> metina : [n.] send
 -> resmet : [v.] return, take/send ... back
--> mecer : [v.] message
-----> mecerin : [n.] message
+-> metster : [v.] message
+----> metsterem : [n.] message
 -> ustemet : [v.] hurl, cast; send forth, emit, discharge {'ust' +}
 
 tac : [v.] [intrans.] touch, reach {Latin 'tango' via English 'tactile'}
 -> tacin : [n.] touch, reach
 
-rac : [v.] get, go; start, commence [num.] one {Polish 'raz'}
-->
-
 ir : [v.] [intrans] go, move (oneself) {French 'ira'}
 -> irina : [n.] movement
--> asir : [v.] [trans] displace, move
-----> asirina : [n.] transportation, displacement
+-> trasir : [v.] [trans] displace, move
+----> trasirina : [n.] transportation, displacement
 -> urundir : [v.] wander, go around
 ----> urundirina : [n.] ambition
 ----> urundiräs : [adj.] ambitious
@@ -2328,14 +2318,13 @@ mät : [v.] set, change, assign, put {Latin 'mitto' via French 'mettre'}
 -> tramät : [v.] distribute, disperse
 ----> tramätime : [n.] dispersion, distribution; traffic
 
-ster : {French 'dire', English 'say', German 'sprechen'}
--- [v.] say, speak, tell, talk
-----> sterör : [n.] speaker (one who speaks)
--- [v.] signifies, represents, means
-----> sterina : [n.] expression, meaning
--------> sterinäs : [adj.] meaningful
-----------> sterinäst : [adv.] meaningfully
+ster : [v.] say, speak, tell, talk; signifies, represents, means {French 'dire', English 'say', German 'sprechen'}
 -> sterin : [n.] parole, speech; expression, dialect; conversation
+-> sterem : [n.] word; command, order
+-> sterör : [n.] speaker (one who speaks)
+-> sterina : [n.] expression, meaning
+----> sterinäs : [adj.] meaningful
+-------> sterinäst : [adv.] meaningfully
 -> anster : [v.] converse
 ----> ansterin : [n.] conversation, exchange, dialogue
 ----> ansterina : [n.] dialect
@@ -2368,8 +2357,7 @@ klam : [v.] cry out, exclaim; shout, yell; call (out) {Latin 'clamo'}
 sih : [v.] screech, yowl {Anc. Greek 'στρίξ'}
 -> sihin : [n.] screen, yowl
 streg : [v.] curse (profane); curse (jinx) {Latin 'striga'}
--> stregin : [n.] profanity; curse
--> stregina : [n.] malediction; insult, blasphemy
+-> stregem : [n.] profanity, insult, blasphemy, curse, malediction
 -> streget : [adj.] cursed, profaned
 reb : [v.] spit {Old 'rehb'} &&&
 -> rebem : [n.] spit &&&
@@ -3114,8 +3102,9 @@ mäl : [v.] mix, combine, fuse {French 'mêler'}
 fis : [v.] blur, blend; tangle {~ French 'fondre'}
 -> ufis : [v.] blend in
 
-trem : [v.] shake, tremble, wobble {French 'trembler', Croatian 'tresti'}
--> tremin : [n.] trembling
+treb : [v.] shake, tremble, wobble, quake {Old 'trem'} &&
+-> trebem : [n.] shake, tremble, wobble &&
+-> tertrebem : [n.] earthquake
 
 spen : [v.] spy {French 'espion'}
 -> spenör : [n.] spy
@@ -3131,9 +3120,9 @@ konsol : [v.] console {English 'console', French 'consoler'}
 
 stag : [v.] start, commence, begin {Breton} &&&
 -> stagem : [n.] start, beginning &&&
-stöd : [v.] help {Swedish} &&&
--> stödem : [n.] aid, help &&&
--> stödör : [n.] helper; maid
+stöd : [v.] help, aid, support {Swedish} &&&
+-> stödem : [n.] aid, help, support &&&
+-> stödör : [n.] helper, supporter; maid
 -> stödäs : [adj.] auxiliary
 
 živ : [v.] persist, continue; stay {Croatian 'živi'}
@@ -3159,14 +3148,14 @@ grafit : {Italian 'graffiti' via English and French'}
 -- [n.] scribble; grafitti
 
 sträd : [v.] struggle {Frisian 'striid', Swedish 'strida'}
--> strädin : [n.] conflict, struggle, war
-----> strädinu : [n.] fight, squabble, dispute, argument
+-> strädem : [n.] conflict, struggle, war
+----> strädemyti : [n.] fight, squabble, dispute, argument
 
 naut : [v.] sail {Latin 'nauta'}
 -> nautör : [n.] sailor
 ----> kosmenautör : [n.] astronaut, cosmonaut
 -> nautäs : [n.] pertaining to sailing
-mast : [v.] steer, direct
+mast : [v.] steer, direct {?}
 -> mastina : [n.] (act of) steering
 -> otmast : [v.] to revolt, arise; take control
 ----> otmastin : [n.] revolt
@@ -3192,13 +3181,13 @@ pen : [v.] fine, punishment {Latin 'poena' via English 'penalty' and French 'pei
 ----> uspenin : [n.] excuse, pardon
 ----> uspenina : [n.] (formal) pardon
 
-list : {French 'liste', English}
--- [v.] list
--- [n.] list
+list : [v.] list {French 'liste', English}
+-> listem : [n.] list
 
-tänt : [v.] [n.] stain {French 'teindre'}
-pänt : [v.] [n.] paint {French 'peindre'}
--> päntte : [n.] painting
+tänt : [v.] stain {French 'teindre'}
+-> täntem : [n.] stain
+pänt : [v.] paint {French 'peindre'}
+-> päntem : [n.] painting
 -> päntret : [n.] (practice of) painting 
 -> päntet : [adj.] painted
 
@@ -3206,10 +3195,10 @@ klin : [v.] [n.] incline; bend, curve {Latin 'clino' via English 'incline' and F
 
 nos : [v.] [trans] give birth to; [when passive] [intrans] be born {Latin 'nascor' via French 'naissance', French 'noces'}
 -> nosina : [n.] birthing
--> nosin : [n.] birth
-----> nosinnat : [n.] birthday
--------> nosinnatfäst : [n.] birthday party
--------> nosinnatdontu
+-> nosem : [n.] birth
+----> nosemnat : [n.] birthday
+-------> nosemnatfäst : [n.] birthday party
+-------> nosemnatnademuti
 -> ennost : [adj.] native, indigenous
 ----> ennostim : [n.] native
 ----> ennostät : [adv.] natively
@@ -3226,10 +3215,6 @@ tröb : [v.] work, labour {German 'Arbeit', French 'travail', English 'labour'} 
 -> atröb : [v.] operate, maneuver
 ----> atröbina : [n.] operation, maneuvering
 
-štut : [v.] support {? German 'stützen'}
--> štutör : [n.] supporter
--> štutin [n.] support
-
 tortur : {French and English 'torture'}
 -- [v.] torture
 ----> torturör : [n.] torturer
@@ -3241,8 +3226,9 @@ mord : {German 'morden'}
 -------> seimordin : [n.] suicide
 -- [n.] murder
 
-kur : [v.] care [n.] care, concern {Latin 'cura' via 'securus' via German 'sicher'}
--> nekuret : [adj.] unconcerned, nonchalant, carefree
+kur : [v.] care {Latin 'cura' via 'securus' via German 'sicher'}
+-> kurem : [n.] care, concern
+----> nekurem : [adj.] unconcerned, nonchalant, carefree
 -> kuruz : [v.] nurture, raise; cultivate
 -> kursat : [adj.] careful
 ----> kursät : [adv.] carefully
@@ -3405,10 +3391,10 @@ plat : [adj.] flat {French 'aplatir'}
 
 dar : [adj.] hard, tough {French 'dur', English 'hard'}
 -> adar : [v.] harden
-mals : [adj.] soft, tender {Dutch}
--> amals : [v.] soften; tenderize
--> malsät : [adv.] softly
--> malsime : [n.] softness
+nujs : [adj.] soft, tender {Original, ~ French 'mou'}
+-> anujs : [v.] soften; tenderize
+-> nujsat : [adv.] softly
+-> nujsime : [n.] softness
 
 trum : [adj.] tough, difficult; harsh, stern {~ Finnish 'tuima'}
 -> atrum : [v.] to make difficult
@@ -3417,9 +3403,9 @@ trum : [adj.] tough, difficult; harsh, stern {~ Finnish 'tuima'}
 sišt : [adj.] easy {Original}
 -> sištät : [adv.] easily
 
-gul : [adj.] wet {Breton 'gleb'}
--> agul : [v.] wet
--> gulät : [adv.] wetly
+guls : [adj.] wet {Breton 'gleb'}
+-> aguls : [v.] wet
+-> gulsät : [adv.] wetly
 
 sih : [adj.] dry {Latin 'sicco' via French 'sec'}
 -> asih : [v.] dry
@@ -3460,12 +3446,12 @@ bir : [adj.] near, close {Original}
 -> birime : [n.] proximity
 -> birät : [adv.] closely; nearly, almost
 -> birim : [n.] neighbour
-sal : [adj.] far, distant; remote {Original}
--> asal : [v.] to drive away, seclude
--> saläs : [adj.] distal
-----> saläst : [adv.] distally; remotely
--> salime : [n.] distance; remoteness
--> salät : [adv.] distantly
+salk : [adj.] far, distant, remote {from Old 'sal'}
+-> salkät : [adv.] distantly, remotely
+-> salkäs : [adj.] distal
+----> salkäst : [adv.] distally; remotely
+-> asalk : [v.] to drive away, seclude
+-> salkime : [n.] distance; remoteness
 
 vist : [adj.] fast, rapid, quick, swift {French 'vite', Italian 'vista'}
 -> vistime : [n.] speed, rapidity, swiftness
@@ -3559,10 +3545,6 @@ stes : [adj.] sacred, blessed {Russian 'святой'}
 -> stesime : [n.] sanctity
 -> stesät : [adv.] sacredly
 
-ru : [adj.] raw, crude; bare
--> aru : [v.] to lay bare
--> ruät : [adv.] crudely; barely
-
 ran : [adj.] ready, prepared
 -> ranime : [n.] readiness; preparedness
 -> aran : [v.] [trans] prepare; charge, load
@@ -3655,6 +3637,11 @@ gol : [adj.] plain; bare, barren {Romanian}
 -> agol : [v.] clarify; make obvious, simplify
 ----> agolt : [adj.] simplified, clarified
 
+čundr : [v.] suffice {Korean '충분'}
+-> čundräs : [adj.] sufficient, enough 
+----> čundräst : [adv.] sufficiently
+----> ačundräs : [v.] to make sufficient, to fill, compensate
+
 fol : [adj.] swollen, puffed {Latin 'follis'}
 -> afol : [v.] inflate; swell, puff
 ----> afolt : [adj.] inflated, swollen, puffed; exaggerated
@@ -3671,6 +3658,10 @@ frid : [adj.] cold {French 'froid'}
 -> fridät : [adv.] coldly
 -> fridime : [n.] (state of) being cold, coldness
 -> fride : [n.] cold
+frisk : [adj.] fresh, cool; chilly, cold {French 'frisquet', Old 'fris'}
+-> afrisk : [v.] cool
+-> refrisk : [v.] refresh
+-> friskime : [n.] (state of) freshness
 hoš : [adj.] hot {French 'chaud', English 'hot'}
 -> ahoš : [v.] heat (up)
 ----> ahošina : [n.] heating
@@ -3682,10 +3673,6 @@ rösen : [adj.] warm {Old 'rosn'} &&&
 -> rösenät : [adv.] warmly &&&
 -> rösenime : [n.] (state of) warmth, warmness
 -> rösenem : [n.] warmth &&&
-frisk : [adj.] fresh, cool; chilly, cold {French 'frisquet', Old 'fris'}
--> afrisk : [v.] cool
--> refrisk : [v.] refresh
--> friskime : [n.] (state of) freshness
 
 lös : [adj.] single, alone [adv.] only, just, simply, merely [prf.] mono-, uni- {French 'seul', English 'lone'}
 -> alös : [v.] single out
@@ -3696,21 +3683,22 @@ pyli : [adj.] multiple, plural [prf.] multi-, plura-, poly- {Anc. Greek 'πολ�
 -> pylime : [n.] multiplicity, plurality
 -> pylijät : [adv.] plurally
 
-brat : [adj.] main, principal; central
+brat : [adj.] main, principal; central {Original?}
 -> bratät : [adv.] mainly, principally
 
-sim : [adj.] correct, valid
+sim : [adj.] correct, valid {Original ?}
 -> simmät : [v.] correct, rectify
 ----> simmätina : [n.] correction, rectification
 -> asim : [v.] validate
 ----> asimina : [n.] validation
 -> simät : [adv.] correctly
 
-nudit : [adj.] naked, nude
--> anudit : [v.] to strip of protection or clothing
--> nuditime : [n.] nakedness
--> nudität : [adv.] nakedly, nudely
-hoäl : [adj.] lame, limp; boring
+ruj : [adj.] raw, crude, bare {Old 'ru'} &&&
+-> aruj : [v.] to make bare
+-> rujät : [adv.] crudely, barely, plainly
+-> rujime : [n.] crudeness, nakedness
+
+hoäl : [adj.] lame, limp; boring {Original}
 -> ahoäl : [v.] bore
 -> hoälime : [n.] boredom
 -> hoälät : [adv.] lamely, limply
@@ -3722,14 +3710,14 @@ opag : [adj.] opaque {Latin 'opacus'}
 -> opagime : [n.] opacity
 
 === vulgar ===
-bata : [n.] imbecile, bastard
+bata : [n.] imbecile, bastard {French 'bâtard', English 'bastard', Japanese '馬鹿'}
 lidi : [n.] idiot
 -> lidisic: [adj.] stupid, dumb
 ----> lidistinät : [adv.] stupidly
 -> liditäs : [adj.] idiotic
 ----> liditäst : [adv.] idiotically
 ruug : [n.] ass
-šlog : [n.] poop, feces, shit, dung
+šlog : [n.] poop, feces, shit, dung {Original}
 smät : [v.] to copulate with
 šiäs : [v.] shit, crap
 bač : [v.] [intj.] damn {Original}
