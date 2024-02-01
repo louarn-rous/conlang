@@ -1951,11 +1951,10 @@ päst : {French 'peste', English 'pester'}
 -- [v.] spread plague amongst
 -- [n.] annoyance
 -- [v.] plague, pester, annoy
-fred : [n.] peace {Swedish 'fred', German 'frieden'}
--> afred : [v.] appease
-----> afredina : [n.] appeasement
--> fredime : [n.] (state of) peace, peacetime
--> fredsat : [adj.] peaceful
+frejd : [n.] peace {Swedish 'fred', German 'frieden'}
+-> afrejd : [v.] appease
+----> afrejdina : [n.] appeasement
+-> frejdsat : [adj.] peaceful
 
 orrör : [n.] horror {Latin 'horror' via English 'horror' and French 'horreur'}
 
