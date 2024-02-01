@@ -157,9 +157,9 @@ When the action of the verb is described as a potential without being in a speci
 
 | Voice   | Active | Passive | Active | Passive |
 | :---:   |:-----: | :----: | :----:  | :----:  |
-| Tense   | Simple | Contd. | Simple  | Contd.  |
+| Tense   | Simple | Simple | Contd.  | Contd.  |
 | Past    | sein   | seins  | seint   | seinst  |
-| Present | sej    | sejs   | sejt    | sejc    |
+| Present | sej    | sejs   | sejt    | sejst   |
 | Future  | sar    | sars   | sart    | sarst   |
 
 ## Pronouns
