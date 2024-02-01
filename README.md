@@ -153,10 +153,6 @@ When the action of the verb is described as a potential without being in a speci
 | Present | -e     | -es    | -et     | -ec     |
 | Future  | -a     | -as    | -at     | -ac     |
 
-__Exceptions: vowel inflection__
-- suer ('exist')
-- ej ('have')
-
 Exception: sej ('be')
 
 | Voice   | Active | Active | Passive | Passive |
