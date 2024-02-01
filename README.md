@@ -146,21 +146,21 @@ Prograde/progressive voicing assimilation occurs, even across word boundaries.
 Verbs are conjugated by appending the desired tense's suffixal to the verb's stem.  
 When the action of the verb is described as a potential without being in a specific time (almost always when the verb precedes another, which IS conjugated).
 
-| Voice   | Active | Active | Passive | Passive |
+| Voice   | Active | Passive | Active | Passive |
+| :---:   |:-----: | :----: | :----:  | :----:  |
+| Tense   | Simple | Simple | Contd.  | Contd.  |
+| Past    | -an    | -ans   | -ant    | -anst   |
+| Present | -t     | -st    | -(e)jt  | -(e)jst |
+| Future  | -ar    | -ars   | -art    | -arst   |
+
+**Exception: sej ('be')**
+
+| Voice   | Active | Passive | Active | Passive |
 | :---:   |:-----: | :----: | :----:  | :----:  |
 | Tense   | Simple | Contd. | Simple  | Contd.  |
-| Past    | -i     | -is    | -it     | -ic     |
-| Present | -e     | -es    | -et     | -ec     |
-| Future  | -a     | -as    | -at     | -ac     |
-
-Exception: sej ('be')
-
-| Voice   | Active | Active | Passive | Passive |
-| :---:   |:-----: | :----: | :----:  | :----:  |
-| Tense   | Simple | Contd. | Simple  | Contd.  |
-| Past    | sein   | seins  | seint   | seinc   |
+| Past    | sein   | seins  | seint   | seinst  |
 | Present | sej    | sejs   | sejt    | sejc    |
-| Future  | sar    | sars   | sart    | sarc    |
+| Future  | sar    | sars   | sart    | sarst   |
 
 ## Pronouns
 
