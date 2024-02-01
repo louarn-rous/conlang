@@ -150,7 +150,7 @@ When the action of the verb is described as a potential without being in a speci
 | :---:   |:-----: | :----: | :----:  | :----:  |
 | Tense   | Simple | Simple | Contd.  | Contd.  |
 | Past    | -an    | -ans   | -ant    | -anst   |
-| Present | -t     | -st    | -(e)jt  | -(e)jst |
+| Present | -t     | -(e)st | -(e)jt  | -(e)jst |
 | Future  | -ar    | -ars   | -art    | -arst   |
 
 **Exception: sej ('be')**
