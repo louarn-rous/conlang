@@ -187,40 +187,17 @@ täg : [n.] back {Original}
 treg : [adv.] back {Afrikaans, Dutch 'terug'}
 -> tregir : [v.] return
 
-prös : [v.] [trans] [n.] push {? Original ~ French 'pousser'} 
--> prösir : [v.] (usu. of a vehicle) drive
--> seiprösäs : [adj.] automatic, automobile
-----> seiprösäst : [adv.] automatically
-präm : [v.] [trans] [n.] press {? Original ~ English 'press'} &&
--> prämin : [n.] pressure; stress &&
--> apräm : [v.] pressure &&
+
 
 mujt : [n.] noise {Original} &&
 -> mujtsat : [adj.] noisy
 ----> mujtsät : [adv.] noisily
-
-štuz : [v.] [intrans] pretend, feign [v.] [trans] disguise {Original}
-käbab : [v.] [informal] [figurative] to pierce with a sharp rod
 
 maid : [n.] shell, hull {? Original}
 -> maidu : [n.] case
 
 tukon : [n.] lid, cap, top; plug {Korean '뚜껑'}
 
-fatig : [v.] [intrans] to tire, become weary {French 'fatigue'}
--> fatigime : [n.] tiredness
--> afatig : [v.] [trans] to tire, make weary
--> fatiget : [adj.] tired
-----> fatigät : [adv.] wearily
--> fatigver : [adj.] tiresome
--> fatignuz : [adj.] tireless
-----> fatignuzät : [adv.] tirelessly
-----> fatignuzime : [n.] tirelessness
-
-tam : [v.] note; indent, make a notch; nick {Original} &&
--> tame : [n.] note, mark; notch &&
-----> tamret : [n.] notation (system of notes)
--> tamina : [n.] (act of) notation
 
 
 rotu : [n.] wheel {?}
@@ -309,6 +286,32 @@ don : [v.] give, deal {French 'donner'}
 ----> nosemnatdontu : [n.] birthday present
 bištir : [v.] bring {Original}
 
+štuz : [v.] [intrans] pretend, feign [v.] [trans] disguise {Original}
+käbab : [v.] [informal] [figurative] to pierce with a sharp rod
+dräjt : [v.] betray; surrender; give up {? Breton 'dreitour'}
+-> dräjtör : [n.] betrayer, traitor
+-> dräjtin(a) : [n.] betrayal
+-> dräjtime : [n.] (state of) betrayal
+prös : [v.] [trans] [n.] push {? Original ~ French 'pousser'} 
+-> prösir : [v.] (usu. of a vehicle) drive
+-> seiprösäs : [adj.] automatic, automobile
+----> seiprösäst : [adv.] automatically
+präm : [v.] [trans] [n.] press {? Original ~ English 'press'} &&
+-> prämin : [n.] pressure; stress &&
+-> apräm : [v.] pressure &&
+fatig : [v.] [intrans] to tire, become weary {French 'fatigue'}
+-> fatigime : [n.] tiredness
+-> afatig : [v.] [trans] to tire, make weary
+-> fatiget : [adj.] tired
+----> fatigät : [adv.] wearily
+-> fatigver : [adj.] tiresome
+-> fatignuz : [adj.] tireless
+----> fatignuzät : [adv.] tirelessly
+----> fatignuzime : [n.] tirelessness
+tam : [v.] note; indent, make a notch; nick {Original} &&
+-> tame : [n.] note, mark; notch &&
+----> tamret : [n.] notation (system of notes)
+-> tamina : [n.] (act of) notation
 
 ser : [v.] be {Original} [EXCEPTION]
 -> serin : [n.] existence
@@ -543,6 +546,12 @@ sti : [prep.] as if, like so, similar to
 -(n)ät : [suf.] semblative; used to form adjectives from nouns, meaning resembling the suffixed word (esp. in behaviour)  
 -(n)i : [suf.] used to form nouns, indicating someone who is from a place or has a connection to the suffixed word (German & English '-ling')
 ge(s)- : [prf.] collective noun suffix {German}
+-(s)ime : [suf.] forms nouns from adjectives, denoting the condition or state of the suffixed word ('-hood', '-dom', '-ness') #
+-ina : [suf.] verbal nominative; forms verbal nouns (the noun indicating the action of what is denoted by the verb) {Croatian 'batina'} #
+-> -in : [suf.] nominative; forms nouns from verbs, describing the result of an action #
+-es : [suf.] present participle {see README.md#Verbs}
+-et or -it : [suf.] past participle {see README.md#Verbs}
+
 
 === interjections ===
 ura : [intj.] hooray {French 'hourra', Russian 'ура'}
