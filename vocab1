@@ -2724,6 +2724,11 @@ vur : [v.] want, wish {French 'vouloir'}
 sunt : [v.] demand, order, command {Finnish 'kysyntä'}
 -> suntem : [n.] demand, order, command
 tuž : [v.] will, would {Original}
+-> tužem : [n.] will
+----> tužemäs : [adj.] voluntary
+----> tužemsat : [adj.] wilful
+-------> tužemsatät : [adv.] wilfully, voluntarily
+-> tužt : [adj.] willing
 baj : [v.] might, may {Original}
 
 šam : [v.] hide, conceal {Original}
@@ -3208,9 +3213,11 @@ päs : [v.] [trans] feed, nourish {Original}
 grafit : [v.] scribble; graffiti {Italian 'graffiti' via English and French'}
 -> grafitem : [n.] scribble; grafitti
 
-sträd : [v.] struggle {Frisian 'striid', Swedish 'strida'}
+sträd : [v.] struggle, fight {Frisian 'striid', Swedish 'strida'}
 -> strädem : [n.] conflict, struggle, war
 ----> strädemyti : [n.] fight, squabble, dispute, argument
+-> strädör : [n.] fighter, soldier
+----> tužtsträdör : [n.] volunteer (military)
 
 naut : [v.] sail {Latin 'nauta'}
 -> nautör : [n.] sailor
