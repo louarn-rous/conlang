@@ -642,7 +642,7 @@ mijl : [n.] corn {Afrikaans 'mielie'}
 ris : [n.] rice {French 'riz', English 'rice'}
 abercin : [n.] eggplant {Catalan 'albergínia' via French 'aubergine'}
 kurbite : [n.] gourd, squash; pumpkin {Latin 'cucurbita'}
-sorsic: [n.] capsicum, bell pepper {'soru' + '-sic'}
+sorsti: [n.] capsicum, bell pepper {'soru' + '-sic'}
 melon : [n.] melon {English}
 tomat : [n.] tomato {French 'tomate'}
 pomegrenaat : [n.] pomegranate {Italian 'pomogranato' + via English 'pomegranate'} 
@@ -1834,15 +1834,15 @@ spät : [adj.] late {German}
 ----> aspätem : [n.] delay
 
 === people ===
-den : [n.] person {Breton}
--> denent : [n.] [collective] people
+kep : [n.] person, individual
+-> kepent : [n.] [collective] people
 uman : [n.] human {Latin 'humanus', +~ Romanian, Italian 'umano'}
 -> umanäs : [adj.] human
 ----> umanäsejs : [n.] humanity; state of being human
-jor : [n.] man {Original}
--> jorät : [adj.] manly, masculine
-----> jorätt : [adv.] masculinely
-----> jorätejs : [n.] manhood, masculinity
+jör : [n.] man {Old 'jor'}
+-> jörät : [adj.] manly, masculine
+----> jörätt : [adv.] masculinely
+----> jörätejs : [n.] manhood, masculinity
 sair : [n.] woman {Original}
 -> sairät : [adj.] womanly, feminine
 ----> sairätt : [adv.] femininely
@@ -2551,7 +2551,7 @@ utej : [v.] use
 -> utejem : [n.] use, pusage, urpose
 ----> utejemsat : [adj.] useful
 -------> utejemsatät : [adv.] usefully
--> utejör : [n.] user
+-> utejor : [n.] user
 -> autej : [v.] make use
 -> uteje : [n.] tool ##
 ret : [v.] do {Breton}
@@ -2890,9 +2890,9 @@ fol : [v.] swell, puff {Latin 'follis'}
 ------> afolstejt : [n.] act of exaggerating; exaggeration
 ------> mafolstim : [n.] fool, sensationalist
 ---------> mafolstimejs : [n.] folly
----------> mafolstimsic : [adj.] foolish, sensationalistic
-------------> mafolstimsicät : [adv.] foolishly, sensationalistically
-------------> mafolstimsicejs : [n.] follishness, sensationalism
+---------> mafolstimsti : [adj.] foolish, sensationalistic
+------------> mafolstimstijät : [adv.] foolishly, sensationalistically
+------------> mafolstimstijs : [n.] follishness, sensationalism
 
 falt : [v.] falter {Portugese 'faltar', French 'faute', English 'fault'}
 -> falte : [n.] fault, flaw
