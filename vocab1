@@ -2176,10 +2176,13 @@ ci : [v.] fare; be, feel {originally 'si', ? French 'soit'}
 ----> cievatem : [n.] farewell, goodbye
 -> cijem : [n.] experience, times
 
-ej : [v.] to have, possess, contain {English 'have', French 'avoir'} #
--> ejime : [n.] possession #
-----> ejiment : [n.] inventory #
--> antej : [v.] share #
+jed : [v.] to have, possess, contain {Old 'ej'}
+-> jedejt : [n.] act of possessing; possession
+----> jedejten : [n.] possessions
+----> jedejtent : [n.] inventory
+-> antjed : [v.] share
+----> antjedejt : [n.] sharing
+----> antjedem : [n.] share
 tenn : [v.] hold, keep {French 'tenir'}
 -> tennsejs : [n.] custody; storage
 ----> stattennsejs : [n.] state custody
