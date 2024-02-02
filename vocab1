@@ -1100,16 +1100,12 @@ toba : [n.] drum {Romanian 'tobă'}
 nacion : [n.] nation; body of people {Latin 'natio' via French 'nation' and German 'Nation'}
 -> nacionäs : [adj.] national
 ----> nacionäst : [adv.] nationally
-hast : [n.] [singular] people, folk; tribe
 stat : [n.] state, government {German 'Staat'}
 strane : [n.] country {Russian 'стране'}
 partit : [n.] (political) party {French 'parti'}
 politik : [n.] politics; set of (political) beliefs, ideology {German 'Politik'}
 -> politikäs : [adj.] political
 ----> politikäst : [adv.] politically
-popul : [n.] the people (collective) {Latin 'populus'}
--> populäs : [adj.] popular
-----> populäst : [adv.] popularly
 publik : [n.] crowd, people (collective) {Latin 'publicus' via French and English 'public'}
 -> publik : [adj.] public; concerning the public
 ----> publikät : [adv.] publicly
@@ -1833,17 +1829,19 @@ spät : [adj.] late {German}
 -> aspät : [v.] retard, delay, put off
 ----> aspätem : [n.] delay
 
-=== people ===
+=== people ; kepen ===
 kep : [n.] person, individual
--> kepent : [n.] [collective] people
+-> kepent : [n.] [collective singular] people, folk
+----> kepentäs : [adj.] popular; pertaining to the people
+-------> kepentäst : [adv.] popularly; in a popular manner
 uman : [n.] human {Latin 'humanus', +~ Romanian, Italian 'umano'}
 -> umanäs : [adj.] human
 ----> umanäsejs : [n.] humanity; state of being human
-jör : [n.] man {Old 'jor'}
+jör : [n.] man; male {Old 'jor'}
 -> jörät : [adj.] manly, masculine
 ----> jörätt : [adv.] masculinely
 ----> jörätejs : [n.] manhood, masculinity
-sair : [n.] woman {Original}
+sair : [n.] woman; female {Original}
 -> sairät : [adj.] womanly, feminine
 ----> sairätt : [adv.] femininely
 ----> sairätejs : [n.] womanhood, femininity
