@@ -269,7 +269,7 @@ terakota : [m.] terracotta {Italian 'terracotta'}
 
 === verbs ===
 rymä : [v.] dream {Japanese '夢', French 'rêve', English 'dream'}
-
+taträn : [v.] doubt {Original}
 trem : [v.] shake, tremble, wobble, quake {French 'trembler', Croatian 'tresti'}
 -> tremem : [n.] shake, tremble, wobble
 -> tertremen : [n.] earthquake
@@ -437,6 +437,10 @@ manž : [v.] eat {Italian 'mangiare', French 'manger'}
 -> segetimmanžör : [n.] insectivore (+ 'manž' + '-ör')
 
 === adjectives ===
+gol : [adj.] plain; bare, barren {Romanian}
+-> golät : [adv.] plainly; barely
+-> agol : [v.] clarify; make obvious, simplify
+----> agolt : [adj.] simplified, clarified
 fris : [adj.] fresh, cool {French 'frais'}
 -> afris : [v.] cool
 -> refris : [v.] refresh
