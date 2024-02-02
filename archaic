@@ -268,6 +268,8 @@ töl : {French 'tuile'}
 terakota : [m.] terracotta {Italian 'terracotta'}
 
 === verbs ===
+rymä : [v.] dream {Japanese '夢', French 'rêve', English 'dream'}
+
 trem : [v.] shake, tremble, wobble, quake {French 'trembler', Croatian 'tresti'}
 -> tremem : [n.] shake, tremble, wobble
 -> tertremen : [n.] earthquake
@@ -492,6 +494,9 @@ ful : [adj.] full
 sek : [adj.] dry {French 'sec'} #
 -> asek : [v.] dry
 -> sekät : [adv.] dryly
+ykin : [adj.] cute {? Japanese '好き')
+-> ykinime : [n.] cuteness
+-> ykinät : [adv.] cutely
 
 === adverbs ===
 mej : [adv.] [det.] much, many; very
