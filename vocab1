@@ -130,9 +130,9 @@ sär : [prep.] in the form(at) of, as {? Original}
 -> -sär : [suf.] in the form of the suffixed word
 isän : [prep.] ablative (about, concerning)  {?}
 urund : [prep.] circumlative (around, about) {from 'u' + 'rund'}
-tra(s) : [prep.] perlocative, perlative (across, through) {Breton 'tra'}
--> trasal : [prep.] far from, far off; across
--> tras : [prep.] according to, by ##
+fra(s) : [prep.] perlocative, perlative (across, through) {Old 'tra', Swedish 'fram'}
+-> frasal : [prep.] far from, far off; across
+-> fras : [prep.] according to, by ##
 ga : [prep.] distributive (per, for each) {Original}
 
 === conjunctions === 
@@ -1594,22 +1594,17 @@ pul : {Latin 'pulvis' via English 'pulverise' and French 'pulvériser'}
 -- [m.] powder, dust
 ----> apul : [v.] to make into powder @@ ipul
 -- [v.] (adorn with) powder
-frus : {? English 'froth', ? French 'mousse'}
--- [m.] froth, moss, foam
--- [v.] foam, froth
-fum : {French 'fumée'}
--- [m.] smoke
-----> fumu : [n.] whisp
--- [v.] produce smoke
-----> fumör : [n.] smoker; appartus for smoking
-flam : {French 'flamme'}
--- [n.] visible portion of gas undergoing combustion [n.] [figurative] strong passion
--- [v.] to blaze, to flame
+frus : [v.] foam, froth {? English 'froth', ? French 'mousse'}
+-> frusem [n.] froth, moss, foam 
+ful : [v.] smoke {Old 'fum'}
+-> fulem [n.] smoke
+----> fulemti : [n.] whisp
+-> fumör : [n.] smoker (consumer of cigarettes) [n.] appartus for smoking
+flam : [v.] to blaze, to flame {French 'flamme'}
+-> flamen [n.] visible portion of gas undergoing combustion [n.] [figurative] strong passion
 -> aflam : [v.] to set ablaze, aflame [v.] [figurative] to deliberately encourage hostility or anger
-lum : {Late Latin 'lūmināria' via French 'lumière'}
--- [n.] light
-----> lumät : [adv.] light
--- [v.] cast light onto/throughout
+lum : [v.] cast light onto/throughout {Late Latin 'lūmināria' via French 'lumière'}
+-> lumen : [n.] light
 är : [n.] air {French and English 'air'}
 -> ärodrom : [n.] aerodrome, airport
 säht : [m.] silk {Latin 'saeta' via French 'soie'}
@@ -1617,8 +1612,9 @@ kotun : [m.] cotton {Arabic 'قطن' via French 'coton' and English 'cotton'}
 glas : [n.] ice [v.] freeze {French 'glace'} 
 -> glasät : [adj.] icy, iced
 -> glasäs : [adj.] glacial
--> glast : [adj.] frozen
-vyjs : [n.] [v.] water {Old 'uis'} &&&
+-> aglas : [v.] freeze
+----> aglasst : [adj.] frozen
+vyjs : [n.] water {Old 'uis'} &&&
 -> vyjssor : [n.] toilet {+ 'sor'}
 vir : [m.] glass {French 'ver'}
 -> avir : [v.] turn into glass
@@ -2190,8 +2186,8 @@ tenn : [v.] hold, keep {French 'tenir'}
 -------> atennsimem
 -> atenn : [v.] to make hold; give
 -> tennem : [n.] hold; wealth
-----> tennemful : [adj.] wealthy
--------> tennemfulät : [adv.] wealthily
+----> tennemsat : [adj.] wealthy
+-------> tennemsatät : [adv.] wealthily
 -> estenn : [v.] occupy, stay at
 ----> estennest : [adj.] occupied
 -------> estennestejs : [n.] occupation; state of being occupied
