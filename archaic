@@ -1,4 +1,10 @@
 === nouns ===
+den : [n.] person {Breton}
+-> denent : [n.] [collective] people
+jor : [n.] man {Original}
+-> jorät : [adj.] manly, masculine
+----> jorätt : [adv.] masculinely
+----> jorätejs : [n.] manhood, masculinity
 oris : [n.] bird {Anc. Greek 'ὄρνις'}
 -> orisäs : [adj.] avian
 arb : [n.] tree {French 'arbre'}
@@ -175,14 +181,6 @@ dom : [n.] house, home {Russian 'дома'}
 ----> adomäs : [v.] domesticate
 ----> domäst : [adv.] domestically
 
-öd : [prep.] allative (to, for)
--> öduz : [adv.] together  
--> öde : [prep.] benefactive ('for', 'in favour/support/the objective of', 'so that')
-----> öde : [n.] pro (reason in favour of something)
--> ödvär : [adj.] towards  
-----> ödvärt : [adv.] towards  
--> ödža : [det.] why {'öd' +}  
-
 täg : [n.] back {Original}
 -> tägvär : [adj.] backwards  
 ----> tägvärt : [adv.] backwards  
@@ -268,6 +266,7 @@ töl : {French 'tuile'}
 terakota : [m.] terracotta {Italian 'terracotta'}
 
 === verbs ===
+fum : [v.] smoke {French 'fumée'}
 ej : [v.] to have, possess, contain {English 'have', French 'avoir'} #
 -> ejime : [n.] possession #
 ----> ejiment : [n.] inventory #
@@ -550,13 +549,22 @@ cej : [det.] those, the ones
 aža : [det.] where; wherein (interrogative) {'-a' +}  
 
 === preposition ===
-
+öd : [prep.] allative (to, for)
+-> öduz : [adv.] together  
+-> öde : [prep.] benefactive ('for', 'in favour/support/the objective of', 'so that')
+----> öde : [n.] pro (reason in favour of something)
+-> ödvär : [adj.] towards  
+----> ödvärt : [adv.] towards  
+-> ödža : [det.] why {'öd' +}  
 dö : [prep.] [dated] ablative, genitive ('from', 'of', authorship) {French 'de'}  
 na : [prep.]   
 -- succeeds the subject of a sentence, marking it as the passive agent  
 -- precedes the object of a sentence, marking it as the active agent
 sti : [prep.] as if, like so, similar to  
 -> stit : [adv.] thus, in this way or manner  
+tra(s) : [prep.] perlocative, perlative (across, through) {Breton 'tra'}
+-> trasal : [prep.] far from, far off; across
+-> tras : [prep.] according to, by ##
 
 === affixes ===
 -e : [suf.] used to form nouns from adjectives
