@@ -173,6 +173,8 @@ oht : [num.] 8 (eight) {German 'acht'}
 -> ohte : [ord. num] eighth
 des : [num.] 10 (ten) {French 'dix'}
 -> dese : [ord. num] tenth
+sän : [num.] 100 (hundred) {French 'cent'}
+-> sän : [ord. num] hundredth
 
 -(n)u/y : [suf.] diminutive {Turkish 'kuzu'}
 
@@ -272,6 +274,11 @@ töl : {French 'tuile'}
 terakota : [m.] terracotta {Italian 'terracotta'}
 
 === verbs ===
+särš : [v.] search, seek {French 'chercher', English 'search'}
+-> säršem : [n.] search
+-> imsärš : [v.] investigate
+----> imsäršejt : [n.] act of investigating; investigation
+----> imsäršör : [n.] investigator
 fum : [v.] smoke {French 'fumée'}
 ej : [v.] to have, possess, contain {English 'have', French 'avoir'} #
 -> ejime : [n.] possession #
