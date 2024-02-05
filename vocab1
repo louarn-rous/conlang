@@ -3595,13 +3595,10 @@ strijs : [n.] ?? {~'tri' + 'stras', Latin 'trivium'}
 -------> našigät : [adv.] rarely, scarcely
 -------> našigejs : [n.] state of being rare, scarce; rarity, scarcity
 
-rund : {Swedish}
--- [adj.] round
-----> arund : [v.] to make round; to inflate
--- [n.] circle
-----> rundäs : [adj.] circular
--------> rundäst : [adv.] circularly
--- [v.] [f:mathematics] (of a number) to round
+nyr : [n.] circle, ring {Original}
+-> nyräj : [adj.] round
+----> anyräj : [v.] to round
+-> nyräs : [adj.] circular
 
 sant : [adj.] healthy, sound, well {Latin 'sanus' via English 'sanitary'}
 -> santejs : [n.] state of being healthy, well; health, wellbeing
