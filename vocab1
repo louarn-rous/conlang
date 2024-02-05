@@ -129,7 +129,7 @@ gešt : [prep.] against; in exchange for {German 'gegen', English 'against'} &&&
 sär : [prep.] in the form(at) of, as {? Original}
 -> -sär : [suf.] in the form of the suffixed word
 isän : [prep.] ablative (about, concerning)  {?}
-urund : [prep.] circumlative (around, about) {from 'u' + 'rund'}
+nyry : [prep.] [adv.] circumlative; around, about {from 'nyr'}
 fra(s) : [prep.] perlocative, perlative (across, through) {Old 'tra', Swedish 'fram'}
 -> frasal : [prep.] far from, far off; across
 -> fras : [prep.] according to, by ##
@@ -2264,10 +2264,10 @@ ir : [v.] [intrans] go, move (oneself) {French 'ira'}
 -> trasir : [v.] [trans] displace, move
 ----> transirejt : [n.] (act of) moving, transportation
 ----> trasirem : [n.] displacement
--> urundir : [v.] wander, go around
-----> urundirejt : [n.] ambition
-------> urundirejtsat : [adj.] ambitious
----------> urundirejtsatät : [adv.] ambitiously
+-> nyryir : [v.] wander, go around
+----> nyryirejt : [n.] ambition
+------> nyryirejtsat : [adj.] ambitious
+---------> nyryirejtsatät : [adv.] ambitiously
 -> visir : [v.] visit
 ----> visirem : [n.] visit
 ----> visinör : [n.] visitor, guest
@@ -3599,6 +3599,7 @@ nyr : [n.] circle, ring {Original}
 -> nyräj : [adj.] round
 ----> anyräj : [v.] to round
 -> nyräs : [adj.] circular
+-> 
 
 sant : [adj.] healthy, sound, well {Latin 'sanus' via English 'sanitary'}
 -> santejs : [n.] state of being healthy, well; health, wellbeing
