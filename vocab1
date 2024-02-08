@@ -778,8 +778,7 @@ snež : {English 'snow', French 'neige'} #
 biom : [n.] biome {French 'biome'}
 džangal : [n.] jungle {Hindi 'जंगल' via English 'jungle'}
 miraž : [n.] mirage {French 'mirage'}
-räviir : [n.] river {French 'rivière', Afrikaans 'rivier'} 
--> räviiräs : [adj.] riverine
+visskär : [n.] river {'vyjs' + 'skär'}
 
 === marine : maräs ===
 mar : [n.] sea {Breton 'mor', French 'mer'}
@@ -1575,11 +1574,9 @@ skläv : [n.] slave {French 'esclave'}
 -> sklävejs : [n.] slavery, slavedom
 -> askläv : [v.] enslave
 ----> asklävejt : [n.] enslavement
-barst : [n.] lord {Original}
--> barstejs : [n.] lordship
-mästr : [n.] master {French 'maitre' and English 'master'}
--> mästrejs : [n.] mastery, mastership
--> mästru : [n.] mister
+barst : [n.] lord, master {Original}
+-> barstejs : [n.] lordship, mastership, mastery
+-> barstu : [n.] mister
 
 === substance : resu ===
 släm : [m.] slime, goo, sludge {English 'slime', PIE '*sley-'}
@@ -1628,12 +1625,11 @@ fibr : [m.] fibre {French 'fibre'}
 läder : [m.] leather {Swedish, via English 'leather'}
 -> lädersic: [adj.] leathery
 linen : [m.] linen {English}
-papiir : {Anc. Greek 'πάπυρος' via English 'paper' and French 'papier'}
--- [m.] paper 
--- [n.] document
-----> papiirent : [n.] [collective] documentation
-----> apapiir : [v.] to summarize; document, create a report on
-----> papiirsor : [n.] filing cabinet
+kjäs : [m.] paper {Original}
+-> kjäsent : [n.] documents
+-> akjäs : [v.] to summarize; document, create a report on
+----> akjäsejt : [n.] documentation
+-> kjässor : [n.] filing cabinet
 gärt : [n.] card [n.] map [n.] [adj.] card (material) {Anc. Greek 'χάρτης' via Latin 'charta' via French 'carte' and English 'card'}
 -> monetgärt : [n.] debit card
 
@@ -1650,9 +1646,7 @@ pot : [n.] pot, vase {French and English}
 linn : [n.] line, string, cord, rope {French 'ligne', later ~ Latin 'linea'}
 -> lektrestörlinn : [n.] telephone line
 -> linna : [n.] cable, wire
-lozanž : {French 'losange'}
--- [n.] rhombus, lozange
--- [n.] pill or tablet, esp. one shaped like a rhombus
+lozanž : [n.] rhombus, lozange [n.] pill or tablet, esp. one shaped like a rhombus {French 'losange'}
 rad : [n.] ray {Latin 'radius' via English 'radio'}
 -> erad : [v.] irradiate
 täl : [n.] fabric, canvas; (spider's) web {Latin 'tela' via French 'toile'}
@@ -1673,8 +1667,8 @@ gice : [n.] cup; mug; chalice {Original}
 -> gicu : [n.] small cup or glass
 ark : [n.] bow, arc; semicircle {Latin 'arcus'}
 -> ark : [n.] [f:archery] bow
-brik : [n.] brick, ingot {French 'brique', English 'brick'} #
--> brik : [v.] [f:computing] (of a dev) become non-functional
+nyr : [n.] block, brick, ingot {Original}
+-> anyr : [v.] [f:computing] to become non-functional
 gan : [n.] hole, gap, opening; pit, chasm {? Original}
 -> ganu : [n.] small hole
 krät : [n.] grid {Latin 'cratis'}
@@ -1684,7 +1678,6 @@ lemm : [n.] blade; flap; human nail; [f:computing] tab, widget {Latin 'lamina' v
 sper : [v.] curl, coil {Latin 'spirale' via French, via English 'spiral'}
 -> sperest : [adj.] spiral
 -> sperem : [n.] spiral, curl; coil
-
 
 cär : [n.] reed, stem, stalk, straw {Original} &&&
 -> cärent : [m.] straw (bulk)
@@ -1737,13 +1730,13 @@ mis : [n.] home, nest {? French 'nid'} &&&
 -> amis : [v.] host
 ----> amisor : [n.] host
 
-štog : {Original}
--- [n.] trash, garbage, rubbish
-----> štogtröbör : [n.] garbage collector
-----> štogsoru : [n.] bin, wastebasket
-----> štogdat : [n.] trash bag
--- [v.] pollute
-----> štogör : [n.] polluter
+štog : [n.] trash, garbage, rubbish {Original}
+-> štogtröbör : [n.] garbage collector
+-> štogsoru : [n.] bin, wastebasket
+-> štogdat : [n.] trash bag
+-> aštog : [v.] pollute
+----> aštogor : [n.] polluter
+----> aštogem : [n.] pollution
 tem : [n.] table {Spanish 'mesa', Latin 'tabula' via French and English 'table'}
 -> temsär, temät : [adj.] tabular
 pruc : [n.] plate, dish {Original}
@@ -1786,13 +1779,14 @@ nat : [n.] day {? Breton 'mat'}
 -> sätänat : [n.] week {'sät' +}
 ----> sätänatäs : [n.] weekly
 -> natäslum : [n.] daylight
--> anat : [v.] [n.] dawn
+-> anat : [v.] dawn
+----> anatem : [n.] dawning
 nošt : [n.] night {Russian 'ночь', German 'Nacht'}
 -> noštäs : [adj.] nocturnal, nightly
 ----> noštäst : [adv.] nocturnally
 -> mitenošt : [n.] time of night past midnight {'mitäl' +}
 -> minošt : [n.] midnight {'mi(t)-' +}
-damer : [n.] [v.] dusk {German 'Dämmerlicht'}
+damer : [n.] dusk {German 'Dämmerlicht'}
 aurora : [n.] aurora {Latin via English and via French 'aurore'}
 -> aurora boreal : [n.] aurora borealis
 säkond : [n.] second {French 'seconde', English 'second'}
