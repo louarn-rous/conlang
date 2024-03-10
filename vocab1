@@ -1403,11 +1403,10 @@ tite : [n.] title {Latin 'titulus' + via French 'titre'}
 -> uctite : [n.] subtitle
 -> titäs : [adj.] titular
 
-frän : [n.] mind {Anc. Greek 'φρήν'}
--> fränäs : [adj.] mental
-----> fränäst : [adv.] mentally
--> imfrän : [v.] [trans] know, be aware of, be conscious of {'im-' +}
--> fränsat : [adj.] mindful, aware, careful; knowledgeable {+ '-sat'}
+kani : [n.] mind {Original}
+-> kanijäs : [adj.] mental
+----> kanijäst : [adv.] mentally
+-> kanisat : [adj.] mindful, aware, careful; knowledgeable {+ '-sat'}
 
 prod : [n.] pride {Latin 'prode' via cogn. with English 'proud'}
 -> prodver : [adj.] prideworthy
@@ -2196,6 +2195,7 @@ tenn : [v.] hold, keep {French 'tenir'}
 -> donetenn : [v.] loan
 ----> donetennem : [n.] loan
 ----> donetennejt : [n.] (act of) loaning
+-> imtenn : [v.] [trans] know, be aware of, be conscious of {'im-' +}
 kaus : [v.] care, precaution, guard {Latin 'caveo'}
 -> kausem : [n.] guard, care, precaution
 -> kaussat : [adj.] cautious, suspicious, wary
@@ -3557,6 +3557,8 @@ parst : [adj.] polite, hospitable {Parisot}
 -> čere : [n.] evil
 -> čerejs : [n.] state of being immoral, wicked; immorality, wickedness
 -> čerät : [adj.] wickedly, immorally
+-> čerem : [n.] disease, illness, sickness, plague
+---> kaničerem : [n.] mental illness
 
 last : [adj.] free {Original}
 -> lastejs : [n.] freedom; state of being free
