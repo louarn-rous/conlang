@@ -38,6 +38,14 @@ The Ijter language employs a modified version of the Latin script.
 | /l/  | '**l**eg'             | Ll | äl | /f/ | '**f**ish'              | Ff | äf |
 | /m/  | '**m**ail'            | Mm | äm | /h/ | '**h**ome'              | Hh | he |
 
+### Substitutions
+
+If using a system that is limited to the standard Roman alphabet, or where diacritics are otherwise unavailable, the following substitutes should be used:
+
+| Monograph | ö  | ä  | š  | ž  | č  |
+|:--------  |:-: |:-: |:-: |:-: |:-: |
+| Digraph   | oe | ae | sz | zs | ch |
+
 ## Phonology
 
 ### Consonants
