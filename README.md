@@ -1,6 +1,6 @@
 # Ižter
 
-Ižter (localized in English as 'Ijter') is a constructed language with no specific purpose.  
+Ižter (localised in English as 'Ijter') is a constructed language with no specific purpose.  
 It is synthetic, fusional and mildly inflected. It utilises SVO (Subject-Verb-Object) word order.
 
 1. [Alphabet](#Alphabet)
@@ -46,6 +46,8 @@ If using a system that is limited to the standard Roman alphabet or where diacri
 |:--------  |:-: |:-: |:-: |:-: |:-: |
 | Digraph   | oe | ae | sz | zs | ch |
 
+When capitalising a word which begins with a digraph, only the first half of the digraph should be in upper case (unless the whole word is capitalised).
+
 ## Phonology
 
 ### Consonants
@@ -76,7 +78,7 @@ else if it precedes a plosive, it is rendered as /χ/.
 | u | \[w] |
 | y | \[ɥ] |
 
-The above vowels are realized as semiconsonants when preceding or proceeding a different vowel.
+The above vowels are realised as semiconsonants when preceding or proceeding a different vowel.
 When they follow a plosive and precede another vowel, they provoke the palatization, labio-palatization and labialization of the aforementioned plosive, respectively;
 
 | -  | -i⟩    | -y⟩   | -u⟩   |
@@ -120,9 +122,9 @@ In an conset (C)(H):
 - (z), (ž), (l), (m), and (n) can be followed by (j)
 - (r), (h), (j) cannot be followed by any medial
 
-if ⟨si⟩ is the body of a first syllable, it is realized as \[çi].  
+if ⟨si⟩ is the body of a first syllable, it is realised as \[çi].  
 
-⟨er⟩ is oft realized as \[ɪɾ].  
+⟨er⟩ is oft realised as \[ɪɾ].  
 
 **Assimilation**
 
