@@ -46,7 +46,8 @@ If using a system that is limited to the standard Roman alphabet or where diacri
 |:--------  |:-: |:-: |:-: |:-: |:-: |
 | Digraph   | oe | ae | sz | zs | ch |
 
-When capitalising a word which begins with a digraph, only the first half of the digraph should be in upper case (unless the whole word is capitalised).
+When capitalising a word which begins with a digraph, only the first half of the digraph should be in upper case,
+except when the entire word is capitalised, where both should be in upper case.
 
 ## Phonology
 
