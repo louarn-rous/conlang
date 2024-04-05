@@ -40,7 +40,7 @@ The Ijter language employs a modified version of the Latin script.
 
 ### Substitutions
 
-If using a system that is limited to the standard Roman alphabet or where diacritics are otherwise unavailable (such as ASCII), the following substitutes should be used:
+If using a system that is limited to the standard Roman alphabet or where diacritics are otherwise unavailable (such as ASCII), letters with diacritics should be substituted for their respective digraph equivalent:
 
 | Monograph | ö  | ä  | š  | ž  | č  |
 |:--------  |:-: |:-: |:-: |:-: |:-: |
