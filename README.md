@@ -42,12 +42,12 @@ The Ijter language employs a modified version of the Latin script.
 
 If using a system that is limited to the standard Roman alphabet or where diacritics are otherwise unavailable (such as ASCII), letters with diacritics should be substituted for their respective digraph equivalent:
 
-| Monograph | ö  | ä  | š  | ž  | č  |
-|:--------  |:-: |:-: |:-: |:-: |:-: |
-| Digraph   | oe | ae | sz | zs | ch |
+| Letter  | ö  | ä  | š  | ž  | č  |
+|:-----   |:-: |:-: |:-: |:-: |:-: |
+| Digraph | oe | ae | sz | zs | ch |
 
-When capitalising a word which begins with a digraph, only the first half of the digraph should be in upper case,
-except when the entire word is capitalised, where both should be in upper case.
+When capitalising a word which begins with a digraph, only the first half of the digraph should be in upper case.
+When the entire word is capitalised, both parts of the digraph should be in upper case.
 
 ## Phonology
 
