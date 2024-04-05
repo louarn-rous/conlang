@@ -779,7 +779,7 @@ snež : {English 'snow', French 'neige'} #
 ----> snežät : [adj.] snowy
 -- [v.] [intrans] (of a powder or snow-like substance) snow 
 biom : [n.] biome {French 'biome'}
-džangal : [n.] jungle {Hindi 'जंगल' via English 'jungle'}
+čangal : [n.] jungle {Old 'džangal}
 miraž : [n.] mirage {French 'mirage'}
 visskär : [n.] river {'vyjs' + 'skär'}
 
@@ -814,7 +814,7 @@ lyg : [m. unc.] gold {Original} &&&
 -> lygät : [adj.] golden
 platin : [m. unc.] platinum {French 'platine', English 'platinum'}
 granit : [m. unc.] granite {French 'granit' via Russian 'гранит'}
-kvardz : [m. unc.] quartz {German 'Quarz' via French and English 'quartz'}
+kvarc : [m. unc.] quartz {Old 'kvardz'}
 diamant : [m.] diamond {French, German 'Diamant'}
 emrod : [m.] emerald {French 'émeraude', English 'emerald'}
 piet : [m.] stone {Italian 'pietra', Latin 'petram'}
@@ -1187,7 +1187,8 @@ laboratom : [n.] laboratory {Latin 'laboratorium' via English 'laboratory' and F
 bot : [n.] boot {French 'botte'}
 šömit : [n.] shirt {French 'chemise'}
 käp : [n.] cape {English 'cape'}
-džin : [m.] jean {English 'jeans' via German 'Jeans'}
+gänz : [m.] jean {Latin 'Genua' via English 'jeans', also via Old 'džin'}
+-> blogänzen : [n.] blue jeans
 žeb : [n.] pocket, pouch {Hungarian 'zseb'}
 hälm : [n.] helmet {English 'helm'}
 lön : [m.] wool; woolen {French 'laine'}
