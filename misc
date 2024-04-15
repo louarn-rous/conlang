@@ -197,29 +197,47 @@ HänGong (HänGongäs)    : Hong Kong (Hong Konger, Hong Kongese)
 Oumon (Oumonäs)        : Macau (Macau)
 
 === cities ===
+Amsterdam    : Amsterdam
+Beičing      : Beijing
+-> : Peiking : Peking
 Berlin       : Berlin
-Blumfontäjn  : Bloemfontein
+Blumfontein  : Bloemfontein
 Budapešt     : Budapest
 Bukarest     : Bucharest
+Kahira       : Cairo
 Dakar        : Dakar
+Dehli        : Delhi
+Dhaka        : Dhaka
+-> Nov Dehli : New Delhi
 Dauha        : Doha
 Dublin       : Dublin
 Helsinki     : Helsinki
 Johannesböhr : Johannesburg
 Jötäbbori    : Gothenburg
+Göttingen    : Göttigen
 Kabul        : Kabul
 Kjiv         : Kiev/Kjiv
+Košice       : Košice
 London       : London
 Madrid       : Madrid
 Malmö        : Malmö
 Marsäj       : Marseilles
+Sutom Mehiko : Mexico City
 Moska        : Moscow
+Mumbai       : Mumbai
+-> Bombei    : Bombay
+Nančing      : Nanjing
 Nov Jark     : New York
 Oslo         : Oslo
 Pari         : Paris
 Praha        : Prague
 Roma         : Rome
+Sint-Peterburg  : Saint Petersburg
+-> Petrograd  : Petrograd
+-> Leningrad  : Leningrad
 Sarajevo     : Sarajevo
+San Paulu    : São Paulo
+Šanghai      : Shanghai
 Sofia        : Sofia
 Stokholm     : Stockholm
 Talljin      : Tallinn
@@ -228,11 +246,22 @@ Tokjo        : Tokyo
 Osaka        : Osaka 
 Toronto      : Toronto
 Vien         : Vienna
+Volgagrad    : Volgograd
+-> Caricin   : Tsaritsyn
+-> Stalingrad  : Stalingrad
 Varšave      : Warsaw
 
 === Planets ===
 
+Merkur : Mercury {German + French 'Mercure'}
+Venus : Venus {Latin}
 Erde  : Earth {German}
+Mars : Mars {Latin}
+Jupiter : Jupiter {Latin'}
+Saturn : Saturn {Latin 'Saturnus'}
+Uranus : Uranus {Latin}
+Neptun : Neptune {Latin 'Neptunus'} 
+Pluton : Pluto {French}
 
 === first names ===
 Alja : f
