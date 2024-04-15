@@ -199,7 +199,7 @@ Oumon (Oumonäs)        : Macau (Macau)
 === cities ===
 Amsterdam    : Amsterdam
 Beičing      : Beijing
--> : Peiking : Peking
+-> : Peiking : -> Peking
 Berlin       : Berlin
 Blumfontein  : Bloemfontein
 Budapešt     : Budapest
@@ -208,16 +208,19 @@ Kahira       : Cairo
 Dakar        : Dakar
 Dehli        : Delhi
 Dhaka        : Dhaka
--> Nov Dehli : New Delhi
+-> Nov Dehli : -> New Delhi
 Dauha        : Doha
 Dublin       : Dublin
 Helsinki     : Helsinki
+Džakarta     : Jakarta
+-> Batavja   : -> Batavia
 Johannesböhr : Johannesburg
 Jötäbbori    : Gothenburg
 Göttingen    : Göttigen
 Kabul        : Kabul
 Kjiv         : Kiev/Kjiv
 Košice       : Košice
+Kuala Lumpur : Kuala Lumpur
 London       : London
 Madrid       : Madrid
 Malmö        : Malmö
@@ -225,16 +228,17 @@ Marsäj       : Marseilles
 Sutom Mehiko : Mexico City
 Moska        : Moscow
 Mumbai       : Mumbai
--> Bombei    : Bombay
+-> Bombei    : -> Bombay
 Nančing      : Nanjing
+Neapoli      : Naples
 Nov Jark     : New York
 Oslo         : Oslo
 Pari         : Paris
 Praha        : Prague
 Roma         : Rome
 Sint-Peterburg  : Saint Petersburg
--> Petrograd  : Petrograd
--> Leningrad  : Leningrad
+-> Petrograd  : -> Petrograd
+-> Leningrad  : ->Leningrad
 Sarajevo     : Sarajevo
 San Paulu    : São Paulo
 Šanghai      : Shanghai
