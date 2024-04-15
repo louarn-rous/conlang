@@ -359,7 +359,7 @@ i : [adj.] (the) current, present {Japanese '今'}
 ----> ina : [n.] now
 -------> oräina : [adv.] henceforth, from now on, hereafter
 -> ijät : [adv.] currently  
--> isät : [adv.] instead [prep.] instead of {'i' + 'sät'} (joins two clauses)
+-> isät : [prep.] instead of, rather than [adv.] instead, rather {'i' + 'sät'} (joins two clauses)
 
 alte : [det.] [n.] [adj.] other {Latin 'alter' via French 'autre'}
 -> alt(e)- : [prf.] other
@@ -1696,6 +1696,7 @@ kest : [n.] frame {Finnish 'kehys' and Hungarian 'keret'} &&&
 pros : [n.] sign, board; panel, plaque, plate {? Original} &&&
 tav : [n.] tube, pipe, barrel [n.] pipe (tobacco) {Old 'tave'} &&&
 -> tavuti : [n.] small pipe
+-> fultav : [n.] tobacco pipe, smoking pipe
 tol : [n.] wall {Old 'dol'} &&&
 -> toluti : [n.] small wall, barrier, fence &&&
 tor : [n.] door, gate {German 'Tür'} &&&
@@ -2185,8 +2186,8 @@ jed : [v.] to have, possess, contain {Old 'ej'}
 tenn : [v.] hold, keep {French 'tenir'}
 -> tennsejs : [n.] custody; storage
 ----> stattennsejs : [n.] state custody
-----> atennsim : [v.] arrest
--------> atennsimem
+----> atennest : [v.] arrest
+-------> atennestem : [n.] arrest
 -> atenn : [v.] to make hold; give
 -> tennem : [n.] hold; wealth
 ----> tennemsat : [adj.] wealthy
@@ -2748,8 +2749,8 @@ avis : [v.] show, uncover, demonstrate, discover
 lus : [v.] open {Original}
 -> lusör : [n.] thing which opens; opener
 -> lusst : [adj.] opened
-usät : [v.] close
--> usätest : [adj.] closed
+fušt : [v.] close {Old 'usät'} &&&
+-> fuštest : [adj.] closed
 tör : [v.] pull, draw {? Original ~ French 'tirer'} &&
 -> törör : [n.] trigger
 -> törsoru : [n.] drawer {+ 'soru'}
@@ -3762,16 +3763,17 @@ opag : [adj.] opaque {Latin 'opacus'}
 -> opagejs : [n.] state of being opaque; opacity
 
 === vulgar ===
-bata : [n.] imbecile, bastard {French 'bâtard', English 'bastard', Japanese '馬鹿'}
+bata : [n.] imbecile, bastard {French 'bâtard', English 'bastard', Japanese 'ばか'}
 lidi : [n.] idiot
 -> lidisic: [adj.] stupid, dumb
 ----> lidistinät : [adv.] stupidly
 -> liditäs : [adj.] idiotic
 ----> liditäst : [adv.] idiotically
-ruug : [n.] ass
-šlog : [n.] poop, feces, shit, dung {Original}
+ruug : [n.] ass, bum {Original?}
+šleg : [v.] defecate, poop, shit, crap {Old 'šlog' + Old 'šiäs'}
+-> šlegem : [n.] poop, feces, shit, dung, crap
+-> ašleg : [v.] to 
 smät : [v.] to copulate with
-šiäs : [v.] shit, crap
 bač : [v.] [intj.] damn {Original}
 -> bačest : [adj.] damned
 kus : [intj.] fuck, damn, darn, shit
