@@ -196,25 +196,26 @@ si : [cnjc.] if, in the case/condition that, given/supposing/assuming that {Fren
 
 === affixes ===  
 -(d)en : [suf.] pluralizer {German} &&&
--(u/y)ti : [suf.] diminutive {Old '-(n)u', 'tis'}
+-u, -y : [suf.] diminutive {Old '-(n)u', 'tis'}
+-> -uti, -yti : [suf.] diminutive (strong)
 
--> -(n)a : [suf.] augmentative #
+-> -(n)a : [suf.] augmentative ##
 
 -(t)em : [suf.] resultative nominalizer; forms nouns from verbs, with the meaning equal to the result of the verb {Hungarian}
 -(e)jt : [suf.] gerundive/present participle; forms verbal nouns indicating the action of what is denoted by the verb; -ing, -ment, -tion
 -(e)st : [suf.] past participle; forms adjectives indicating a quality resulting from the undergoing of the verb
 -(e)js : [suf.] forms nouns from adjectives, denoting the condition or state of the suffixed word; -hood, -dom, -ness
 
--(t)o/ör : [suf.] agentive nominalizer; forms agent nouns from verbs ('-er')
--a/äs : [suf.] genitive; forms adjectives from nouns, with the meaning 'of or pertaining to' the suffixed word ('-ic')
--> -jäs : [suf.] genitive when after 'i' or 'ia'
--> -njäs : [suf.] genitive when after 'nia' or 'nja'
--> -ljäs : [suf.] genitive when after 'lia' or 'lja'
+-(t)or, -(t)ör : [suf.] agentive nominalizer; forms agent nouns from verbs ('-er')
+-äs, -as : [suf.] genitive; forms adjectives from nouns, with the meaning 'of or pertaining to' the suffixed word ('-ic')
+-> -jäs, -jas : [suf.] genitive when after 'i' or 'ia'
+-> -njäs, -njas : [suf.] genitive when after 'nia' or 'nja'
+-> -ljäs, -ljas : [suf.] genitive when after 'lia' or 'lja'
 -(n)a/ät :  
 -- [suf.] used to form adverbs, giving a verb the quality of the suffixed word ('-ly', '-y')
 -- [suf.] used to form adjectives from verbs, meaning inclined/liable to do the suffixed verb ('-y')
 
--(s)a/äj : [suf.] adjectivizer; forms adjectives from nouns signifying the possession of qualities related to the suffixed noun
+-(s)aj, -(s)äj : [suf.] adjectivizer; forms adjectives from nouns signifying the possession of a quality or qualities related to the suffixed noun (-ile, -y)
 
 -ism, -izm : [suf.] forms abstract nouns denoting a practice, teaching, doctrine, system, ideology or condition relating to the suffixed word
 
@@ -226,7 +227,7 @@ si : [cnjc.] if, in the case/condition that, given/supposing/assuming that {Fren
 -e : [suf.] forms ordinal numbers {French '-ème') &&
 -ent : [suf.] collective nominalizer {Original}
 
--o/öm : [suf.] used to mark a place {Original} &&&
+-om, -öm : [suf.] used to mark a place {Original} &&&
 -im : [suf.] used to form nouns, indicating someone who is from a place or has a connection to the suffixed word (German and English '-ling')
 
 a(s)- : [prf.] verbalizer {French} &&&
@@ -634,7 +635,7 @@ ostre : [n.] oyster {Latin 'ostrea' via English 'oyster' & German 'Auster' & Fre
 
 ohtfus : [n.] octopus {'oht' + 'fus'}
 
-=== crops, food, drink, vegetables, produce, fruits ===
+=== crops, food, drink, vegetables, produce, fruits, spices ===
 sorgad : [n.] carrot {Original}
 radis : [n.] radish {French}
 bijt : [n.] beet {English 'beet'}
@@ -656,6 +657,7 @@ sitre : [n.] citrus; lemon {Latin 'citrus' via English, French 'citron'}
 -> grönsitre : lime {'grön' + }
 limonat : [n.] lemonade {Italian 'limonata'}
 mange : [n.] mango {Portugese 'manga' via English 'mango'}
+papaja : [n.] papaja {English 'papaya')
 onion : [n.] onion {French 'oignon'}
 porra : [n.] leek {Old 'por'}
 guso : [n.] garlic {~ French 'gousse'}
@@ -664,6 +666,7 @@ nys : [n.] nut {French 'noix', English 'nut'}
 -> nysket : [n.] peanut {'nus' + French 'cacahuète'}
 -> nysdat : [n.] [derog.] bag of nuts
 makademia : [n.] macadamia
+pevre : [n.] pepper (spice) {French 'poivre'}
 frut : {French, English 'fruit'}
 -- [n.] fruit
 ----> fruttemätör : [n.] fruitmonger
@@ -711,7 +714,6 @@ bär : [n.] berry {French 'baie', English 'berry'}
 -> rozbär : [n.] raspberry
 brot : [n.] bread {German}
 nist : [n.] wheat {Old 'nis'}
--> 
 läj : [n.] yeast; leavening agent (Estonian 'leib', French 'levure')
 glutän : [n.] gluten
 past : [n.] pasta {Italian 'pasta', French 'pâte'}
@@ -1713,11 +1715,12 @@ kev : {Anc. Greek 'κύβος' via French and English 'cube'}
 ----> akev : [v.] [f:mathematics] to multiply a number by itself twice
 
 skär : [n.] lane, track, channel {Original}
+
 pajg : [n.] page {Latin 'pagina'}
 
 pont : [n.] point [v.] [intrans] point {Latin 'punctum'}
--> ustpont : [v.] [trans] point out
--> ödpont : [v.] point to, point towards
+-> ustpont : [v.] [trans] to point out
+-> ödpont : [v.] to point to, point towards
 
 vapor : [n.] steam, vapor {Latin}
 -> ustvapor : [v.] evaporate
@@ -1886,6 +1889,9 @@ kin : [n.] child {German 'kinder', English}
 ----> kinätt : [adv.] childishly
 -> ucekin : [n.] grandchild
 -> kinejs : [n.] childhood
+bijk : [n.] infant, baby, toddler {Original}
+-> bijku : [n.] newborn
+-> bijkaj : [adj.] infantile
 poj : [n.] boy {Swedish 'pojke', Finnish 'poika'}
 -> pojä : [n.] son
 ----> ucpojä : [n.] grandson
@@ -2895,6 +2901,10 @@ vid : [v.] empty {French 'vide'}
 ----> čundräst : [adv.] sufficiently
 ----> ačundräs : [v.] to make sufficient, to fill, compensate
 
+njok : [v.] to show, to outline, to direct, to schedule, to demonstrate
+-> njokem : [n.] plan, schedule; directive, decree
+-> njokor : [n.] planner, scheduler, outline
+
 fol : [v.] swell, puff {Latin 'follis'}
 -> folem : [n.] swelling
 -> folejt : [n.] (act of) swelling
@@ -3269,7 +3279,7 @@ pänt : [v.] paint {French 'peindre'}
 
 klin : [v.] incline; bend, curve {Latin 'clino' via English 'incline' and French 'incliner'} #
 
-nos : [v.] [trans] give birth to; [when passive] [intrans] be born {Latin 'nascor' via French 'naissance', French 'noces'}
+nos : [v.] [trans] to give birth to; [passive] [intrans] be born {Latin 'nascor' via French 'naissance', French 'noces'}
 -> nosejt : [n.] act of givin birth; birthing
 -> nosem : [n.] birth
 ----> nosemnat : [n.] birthday
@@ -3279,6 +3289,8 @@ nos : [v.] [trans] give birth to; [when passive] [intrans] be born {Latin 'nasco
 ----> ennostim : [n.] native
 ----> ennostät : [adv.] natively
 ----> ennostejs : [n.] nativity, state of being native
+-> renos : [v.] to be reborn
+----> renosem : [n.] rebirth
 
 tröb : [v.] work, labour {German 'Arbeit', French 'travail', English 'labour'} &&&
 -> tröbem : [n.] work, labour, job, task &&&
@@ -3455,8 +3467,12 @@ nov : [adj.] new {Portugese 'novo'}
 -> anov : [adj.] anew
 jong : [adj.] young {German 'jung', Dutch}
 -> jongejs : [n.] state of being young; youth
+-> rajong : [v.] [trans] to rejuvenate [intrans] to be rejuvenated
+----> rajongejt : [n.] rejuvenation
 au : [adj.] old {Afrikaans 'ou'}
 -> auer : [n.] senior
+smöd : [adj.] mature {Original}
+-> nesmöd : [adj.] immature
 
 lis : [adj.] smooth {French 'lisse'}
 -> alis : [v.] smooth, polish
