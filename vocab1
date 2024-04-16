@@ -207,6 +207,9 @@ si : [cnjc.] if, in the case/condition that, given/supposing/assuming that {Fren
 -(e)js : [suf.] forms nouns from adjectives, denoting the condition or state of the suffixed word; -hood, -dom, -ness
 
 -(t)or, -(t)ör : [suf.] agentive nominalizer; forms agent nouns from verbs ('-er')
+-er : [suf.] used to form nouns, indicating someone who is from a place or has a connection to the suffixed word (-man, -i, -ling, -e)
+# prototype implenment
+
 -äs, -as : [suf.] genitive; forms adjectives from nouns, with the meaning 'of or pertaining to' the suffixed word ('-ic')
 -> -jäs, -jas : [suf.] genitive when after 'i' or 'ia'
 -> -njäs, -njas : [suf.] genitive when after 'nia' or 'nja'
@@ -229,7 +232,6 @@ si : [cnjc.] if, in the case/condition that, given/supposing/assuming that {Fren
 -ent : [suf.] collective nominalizer {Original}
 
 -om, -öm : [suf.] used to mark a place {Original} &&&
--im : [suf.] used to form nouns, indicating someone who is from a place or has a connection to the suffixed word (German and English '-ling')
 
 a(s)- : [prf.] verbalizer {French} &&&
 -- used to form verbs from adjectives, indicating the gain of the adjectivial property  
@@ -1973,7 +1975,7 @@ pagje : [n.] sponge {~ Latin 'spongia' via French 'éponge' and English 'sponge'
 
 diabr : [v.] slander, libel {Anc. Greek 'διαβάλλω'}
 -> diabrör : [n.] slanderer
--> diabrim : [n.] devil
+-> diabrke : [n.] devil
 ----> diabrisic: [adj.] devilish
 -------> diabristiät : [adv.] devilishly
 
@@ -2021,7 +2023,7 @@ cugot : [n.] bottle; canteen, gourd {Original}
 majd : [n.] shell, hull {Old 'maid'}
 -> majduti : [n.] case
 
-tim : [v.] note, indent, make a notch, nick {Old 'tam'} &&&
+tke : [v.] note, indent, make a notch, nick {Old 'tam'} &&&
 -> timem : [n.] note, mark, notch &&&
 ----> timemret : [n.] notation (system of notes)
 -> timejt : [n.] (act of) notation
@@ -2033,7 +2035,7 @@ nave : [n.] ship, boat; craft {Latin 'navis'}
 besät : [n.] team, crew {Swedish 'besättning'}
 -> abesät : [v.] team up, group
 -> besätfränd : [n.] teammate {+ 'fränd'}
--> besätim : [n.] colleague
+-> besätek : [n.] colleague
 -> besättröbem : [n.] teamwork {+ 'tröbem'}
 -> besätu : [n.] band, club, troupe, party
 
@@ -2290,8 +2292,8 @@ ir : [v.] [intrans] go, move (oneself) {French 'ira'}
 -> ucir : [v.] creep, sneak {etym. Latin 'subire' via English 'sudden' and French 'soudain'}
 ----> cirt : [adj.] sudden, abrupt
 -------> cirtät : [adv.] suddenly, abruptly
-nim : [v.] walk {Latin 'anima' via French and English 'animal'}
--> anim : [v.] to make move; animate, bring to life
+nek : [v.] walk {Latin 'anima' via French and English 'animal'}
+-> anek : [v.] to make move; animate, bring to life
 ----> animäs : [adj.] animal
 -------> animäst : [adv.] animally
 ----> animät : [n.] animal
@@ -2660,7 +2662,7 @@ söt : [v.] create, make, build, assemble, bring to fruition {Original} &&&
 -> sötem : [n.] creation &&&
 -> sötör : [n.] creator, maker &&&
 -> acöt : [v.] produce {from 'öd' +}
-----> acötim : [n.] progeny, offspring
+----> acötek : [n.] progeny, offspring
 ----> acötem : [n.] product
 ----> acötör : [n.] producer
 -> sötäs : [adj.] creative (pertaining to creation)
