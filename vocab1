@@ -46,6 +46,7 @@ netä : [det.] any, either
 -> netänom : [adv.] anywhere
 ait : [det.] each, every
 -> artu : [det.] all
+----> arttem : [n.] all; everything; the whole {+ 'ten' + '-em'}
 ceni : [det.] some, a part of
 -> cenijät : [adv.] somewhat
 -> cenikep : [n.] someone
@@ -223,7 +224,7 @@ si : [cnjc.] if, in the case/condition that, given/supposing/assuming that {Fren
 -isem, -izem : [suf.] forms abstract nouns denoting a practice, teaching, doctrine, system, ideology or condition relating to the suffixed word
 -ist, -izt : [suf.] forms nouns denoting someone who studies or practices a discipline, or who subscribes to a doctrine or system of belief
 
--sti: [suf.] semblative; forms adjectives from nouns, having the sense of resembling the suffixed word
+-sti: [suf.] semblative; forms adjectives from nouns, having the sense of resembling the suffixed word (English '-ish', '-like')
 -sat : [suf.] forms adjectives from nouns, meaning to possess or have the quality of the suffixed noun (English '-ful', -'ous') {see 'sat'}
 
 -ret : [suf.] used to form nouns, meaning the practice of doing or doing something related to the suffixed word (English '-ry') {see 'ret'}
@@ -1562,9 +1563,9 @@ maži : [n.] magic {French 'magie'}
 ----> mažijäst : [adv.] magically
 goläm : [n.] golem {English 'golem'}
 zambi : [n.] zombie {Bantu via English 'zombie'}
-dragon : [n.] dragon {English, French}
--> dragonäs : [adj.] draconic
-----> dragonäst : [adv.] draconically
+drak : [n.] dragon {Latin 'draco'}
+-> drakäs : [adj.] draconic (pertaining to dragons)
+-> draksti : [adj.] draconic; dragon-like
 posion : [n.] potion {French, English 'potion'}
 
 === historical ===
@@ -2890,7 +2891,8 @@ guran : [v.] tickle {Original}
 -> guranem : [n.] tickles
 -> guran (ceni den) isän (učä) : [phrase] tease (someone) about (subject)
 
-kys : [v.] kiss {German 'küss'}
+kys : [v.] to kiss {German 'küss'}
+-> kysem : [n.] to kiss
 
 sat : [v.] fill, fulfill, satisfy {Original}
 -> satst : [adj.] full, filled
@@ -2911,9 +2913,13 @@ vid : [v.] empty {French 'vide'}
 ----> čundräst : [adv.] sufficiently
 ----> ačundräs : [v.] to make sufficient, to fill, compensate
 
-njok : [v.] to show, to outline, to direct, to schedule, to demonstrate {Original}
+njok : [v.] to show; to outline; to direct (towards); to schedule; to demonstrate {Original}
 -> njokem : [n.] plan, schedule; directive, decree
 -> njokor : [n.] planner, scheduler, outline
+
+bražeg : [v.] to organise/to organize; to engineer; to orchestrate; to plan; to direct {Original}
+-> bražegejt : [n.] organisation; orchestration; planning; direction; engineering
+-> bražegör : [n.] orchestrator; director
 
 fol : [v.] swell, puff {Latin 'follis'}
 -> folem : [n.] swelling
