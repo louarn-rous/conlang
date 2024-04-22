@@ -513,7 +513,7 @@ pors : [n.] pig {Latin 'Porcus' via French 'porc'}
 kuz : [n.] sheep {Turkish 'kuzu'}
 -> kuzas : [adj.] ovine
 -> kuzti : [n.] lamb
--> kuztennor : [n.] shepherd {+ 'tenn' + '-ör'}
+-> kuzbrykör : [n.] shepherd {+ 'bryk' + '-ör'}
 bok : [n.] goat {Afrikaans}
 -> bokas : [adj.] caprine
 -> bokti : [n.] kid
@@ -1550,7 +1550,7 @@ son : [n.] sound [v.] ring, sound {Latin 'sono' + via French 'son'}
 mujt : [v.] to verbalise, mutter, make noise {Original} &&&
 -> mujtem : [n.] noise
 ----> mujtemsat : [adj.] noisy
--------> mujtemsatät : [adv.] noisily
+-------> mujtemsät : [adv.] noisily
 stryg : [v.] squirm, wriggle, worm, crawl &&
 -> strygem : [n.] squirming, wriggle
 
@@ -2201,26 +2201,27 @@ jed : [v.] to have, possess, contain {Old 'ej'}
 -> antjed : [v.] share
 ----> antjedejt : [n.] sharing
 ----> antjedem : [n.] share
-tenn : [v.] hold, keep {French 'tenir'}
--> tennsejs : [n.] custody; storage
-----> stattennsejs : [n.] state custody
-----> atennest : [v.] arrest
--------> atennestem : [n.] arrest
--> atenn : [v.] to make hold; give
--> tennem : [n.] hold; wealth
-----> tennemsat : [adj.] wealthy
--------> tennemsatät : [adv.] wealthily
--> estenn : [v.] occupy, stay at
-----> estennest : [adj.] occupied
--------> estennestejs : [n.] occupation; state of being occupied
-----> estennejt : [n.] occupation
--> prometenn : [v.] borrow
-----> prometennem : [n.] borrowing
-----> prometennejt : [n.] (act of) borrowing
--> donetenn : [v.] loan
-----> donetennem : [n.] loan
-----> donetennejt : [n.] (act of) loaning
--> imtenn : [v.] [trans] know, be aware of, be conscious of {'im-' +}
+
+bryk : [v.] to hold; to keep {Original}
+-> bryksejs : [n.] custody; storage
+----> statbryksejs : [n.] state custody
+----> abrykest : [v.] to arrest
+-------> abrykestem : [n.] arrest
+-> brykem : [n.] hold; wealth
+----> brykemsat : [adj.] wealthy
+-------> brykemsät : [adv.] wealthily
+-> ejbryk : [v.] to occupy; to stay at
+----> ejbrykest : [adj.] occupied
+-------> ejbrykestejs : [n.] occupation; state of being occupied
+----> ejbrykejt : [n.] occupation
+-> prombryk : [v.] to borrow
+----> prombrykem : [n.] borrowing
+----> prombrykejt : [n.] (act of) borrowing
+-> donebryk : [v.] to loan
+----> donebrykem : [n.] loan
+----> donebrykejt : [n.] (act of) loaning
+-> imbryk : [v.] [trans] to know; to be aware of; to be conscious of {'im-' +}
+
 kaus : [v.] care, precaution, guard {Latin 'caveo'}
 -> kausem : [n.] guard, care, precaution
 -> kaussat : [adj.] cautious, suspicious, wary
@@ -2264,7 +2265,7 @@ nad : [v.] give, deal, offer {Old 'don' + Hungarian 'ad'} &&&
 drät : [v.] betray; surrender; give up {Old 'dräjt'}
 -> drätör : [n.] betrayer, traitor
 -> drätem : [n.] betrayal
-prom : [v.] get, gain, obtain; take, steal {Original}
+prom : [v.] to get; to gain; to obtain; to take; to steal {Original}
 -> promem : [n.] gain
 -> aprom : [v.] sell
 ----> apromor : [n.] seller
@@ -2290,7 +2291,7 @@ ir : [v.] [intrans] go, move (oneself) {French 'ira'}
 -> nyryir : [v.] wander, go around
 ----> nyryirejt : [n.] ambition
 ------> nyryirejtsat : [adj.] ambitious
----------> nyryirejtsatät : [adv.] ambitiously
+---------> nyryirejtsät : [adv.] ambitiously
 -> visir : [v.] visit
 ----> visirem : [n.] visit
 ----> visinör : [n.] visitor, guest
@@ -2573,7 +2574,7 @@ utej : [v.] use
 -> tej : [prep.] [cnjc.] instrumentative ('with')
 -> utejem : [n.] use, pusage, urpose
 ----> utejemsat : [adj.] useful
--------> utejemsatät : [adv.] usefully
+-------> utejemsät : [adv.] usefully
 -> utejor : [n.] user
 -> autej : [v.] make use
 -> uteje : [n.] tool ##
@@ -2675,7 +2676,7 @@ söt : [v.] create, make, build, assemble, bring to fruition {Original} &&&
 -> sötäs : [adj.] creative (pertaining to creation)
 -> sötsat : [adj.] creative
 ----> sötsatejs : [n.] state of being creative; creativity
-----> sötsatät : [n.] creatively
+----> sötsät : [n.] creatively
 tös : [v.] [trans] to make into, turn the subject into #
 bryg : [v.] to build, construct {Original}
 -> brygör : [n.] builder
@@ -2754,7 +2755,7 @@ tuž : [v.] will, would {Original}
 -> tužem : [n.] will
 ----> tužemäs : [adj.] voluntary
 ----> tužemsat : [adj.] wilful
--------> tužemsatät : [adv.] wilfully, voluntarily
+-------> tužemsät : [adv.] wilfully, voluntarily
 -> tužt : [adj.] willing
 baj : [v.] might, may {Original}
 
@@ -2835,7 +2836,7 @@ heg : [v.] [reflexive] choke
 -> aseg : [v.] anger
 ----> asegem : [n.] anger
 -------> asegemsat : [adj.] angry
-----------> asegemsatät : [adj.] angrily
+----------> asegemsät : [adj.] angrily
 ----------> asegemsatejs : [n.] state of being angry
 -> steg : [v.] stumble; stutter
 ----> stegejt : [n.] (act of) stuttering
@@ -2846,7 +2847,7 @@ heg : [v.] [reflexive] choke
 spär : [v.] hope {Latin 'spero' via French 'espérer'}
 -> spärem : [n.] hope
 ----> späremsat : [adj.] hopeful
--------> späremsatät : [adv.] hopefully
+-------> späremsät : [adv.] hopefully
 tärt : [v.] doubt {Old 'taträn'}
 -> tärtem : [n.] doubt
 ----> tärtemsat : [adj.] doubtful
