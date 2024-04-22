@@ -1030,13 +1030,9 @@ rai : [n.] rail {French 'rail'}
 räd : [n.] wheel {German 'Räder'}
 -> toräd : [n.] bicycle {'to' +}
 
-ingäne : [n.] engine, machine, contraption {Latin 'ingenium' via French 'engin'}
--> ingän : [v.] engineer
-----> ingänör : [n.] engineer
-----> ingänejt : [n.] (act of) engineering
--> ingänret : [n.] engineering (field)
-
-mäkane : [n.] machine {Anc. Greek 'μηχανή' via English and French 'machine'}
+girenk : [n.] machine; engine; contraption {Original}
+-> girenkör : [n.] engineer; mechanic
+-> girekret : [n.] engineering (field)
 
 drog : {English 'drug', French 'drogue'}
 -- [n.] medicinal substance
@@ -1710,6 +1706,10 @@ pros : [n.] sign, board; panel, plaque, plate {? Original} &&&
 tav : [n.] tube, pipe, barrel [n.] pipe (tobacco) {Old 'tave'} &&&
 -> tavuti : [n.] small pipe
 -> fultav : [n.] tobacco pipe, smoking pipe
+-> tavtröbör : [n.] plumber &&&
+-> tavtröbret : [n.] (practice of) plumbing
+----> tavret : [n.] (common) (practice of) plumbing
+-> tavtröbem : [n.] plumbing, pipe-work
 tol : [n.] wall {Old 'dol'} &&&
 -> toluti : [n.] small wall, barrier, fence &&&
 tor : [n.] door, gate {German 'Tür'} &&&
@@ -2911,7 +2911,7 @@ vid : [v.] empty {French 'vide'}
 ----> čundräst : [adv.] sufficiently
 ----> ačundräs : [v.] to make sufficient, to fill, compensate
 
-njok : [v.] to show, to outline, to direct, to schedule, to demonstrate
+njok : [v.] to show, to outline, to direct, to schedule, to demonstrate {Original}
 -> njokem : [n.] plan, schedule; directive, decree
 -> njokor : [n.] planner, scheduler, outline
 
