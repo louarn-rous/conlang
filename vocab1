@@ -578,7 +578,7 @@ segetim : [n.] insect {'sek(et)' + '-im'}
 mostik : [n.] mosquito {French 'moustique', English 'mosquito'}
 apiä : [n.] bee {Latin 'apis'}
 -> apijäs : [n.] apian
--> apiäretom : [n.] apiary
+-> apiätyd : [n.] apiary
 skarb : [n.] beetle, scarab {Old 'scarbe'}
 musk : [n.] fly {Latin 'musca' via French 'mouche'}
 koi : [n.] moth {Finnish}
@@ -1160,11 +1160,9 @@ krimen : [n.] crime, fault, infraction {Latin 'crimen'}
 ----> krimenäst : [adv.] criminally
 -> krimenör : [n.] criminal (person)
 
-polic : {French 'police'}
--- [n.] police, law enforcement
-----> policäs : [adj.] police
-----> policdom : [n.] police station 
--- [v.] police
+smerbryk : [n.] police; law enforcement {'smer' + 'bryk'}
+-> smerbrykör : [n.] police officer; cop {+ '-ör'}
+-> smerbryktyd : [n.] police station {+ 'tyd'}
 
 prizon : [n.] prison
 -> prizonör : [n.] prisoner
