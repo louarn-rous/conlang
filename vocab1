@@ -718,6 +718,7 @@ bär : [n.] berry {French 'baie', English 'berry'}
 -> rusbär : [n.] cranberry
 -> rozbär : [n.] raspberry
 brot : [n.] bread {German}
+-> nyrbrot : [n.] bagel {'nyr' +}
 nist : [n.] wheat {Old 'nis'}
 läj : [n.] yeast; leavening agent (Estonian 'leib', French 'levure')
 glutän : [n.] gluten
@@ -3165,20 +3166,20 @@ piter : [v.] dig {? rel. to 'piet'}
 -> piterem : [n.] dig
 -> piterör : [n.] digger
 
-furn : [v.] bake, roast {French 'four', English 'furnace'}
+furn : [v.] to bake; to roast {French 'four', English 'furnace'}
 -> furnör : [n.] oven, furnace
 -> furnret : [n.] baking (practice)
 -> furnejt : [n.] (act of) baking
 -> furnom : [n.] bakery
 -> furnest : [adj.] roasted
 -> furnem : [n.] roast
-graj : [v.] grill {Latin 'cratis', + via English 'grill' + French 'griller'}
+graj : [v.] to grill {Latin 'cratis', + via English 'grill' + French 'griller'}
 -> grajest : [adj.] grilled
-kag : [v.] cook {Latin 'coquo'}
+kag : [v.] to cook {Latin 'coquo'}
 -> kagret : [n.] cooking (practice)
 -> kagejt : [n.] (act of) cooking
 -> kagom : [n.] kitchen
--> kagör : [n.] cook (occupation)
+-> kagor : [n.] cook; chef
 -> kagest : [adj.] cooked
 
 vad : [v.] fit, match, correspond {Original}
@@ -3633,7 +3634,7 @@ nyr : [n.] circle, ring {Original}
 -> nyräj : [adj.] round
 ----> anyräj : [v.] to round
 -> nyräs : [adj.] circular
--> 
+-> ?
 
 sant : [adj.] healthy, sound, well {Latin 'sanus' via English 'sanitary'}
 -> santejs : [n.] state of being healthy, well; health, wellbeing
