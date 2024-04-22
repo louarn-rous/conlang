@@ -240,7 +240,9 @@ a(s)- : [prf.] verbalizer {French} &&&
 
 ne(s)- : [prf.] negatory; absent, lacking  
 de(s)- : [prf.] reversal or removal, lack of ('dis-', 'de-')  
-me(s)- : [prf.] badly or wrongly {French 'mal-', 'me-', English 'mis-'}  
+me(s)- : [prf.] badly or wrongly {French 'mal-', 'me-', English 'mis-'}  ###OUTATED
+če(r)- : [prf.] badly or wrongly {'čer'}
+
 re(s)- : [prf.] again; anew {French and English 're-'} 
 
 -äst : [suf.] [cntrc.] equiv. to -äs and -ät  
@@ -1254,12 +1256,17 @@ kärst : [n.] type, genre, category, class {Original} &&&
 -> akärst : [v.] to sort, class, categorize
 -> kepentkärst : [n.] ethnic group, race, people
 
-orde : [n.] order, arrangement, series {Latin 'ordo'}
--> ordeät : [adj.] orderly
--> desorde : [n.] disorder, disarray
-----> desordät : [adj.] disorderly, messy
--------> desordätejs: [n.] (state of) disorderliness
-----> desordejs : [n.] (state of) disorder
+smer : [n.] order {Original}
+-> česmer : [n.] disorder
+----> ačesmer : [v.] to put into disorder
+----> česmerejs : [n.] (state of) disorder
+-> asmer : [v.] to order; to arrange
+----> asmerem : [n.] series, sequence
+----> asmerejt : [n.] arrangement
+-> smersat : [adj.] orderly
+----> česmersat : [adj.] disorderly
+-> smerejs : [n.] (state of) order
+-> smerät : [adj.] ordinal
 
 virte : [n.] virtue {Latin 'virtus'}
 -> virtsat : [adj.] virtuous
@@ -3580,13 +3587,12 @@ moče : [adj.] nice, pleasant {Typo of English 'nice' → 'moce'}
 parst : [adj.] polite, hospitable {Parisot}
 -> parstejs : [n.] state of being polite, hospitable; politeness, hospitality
 
-čer : [adj.] bad, wrong, evil {Original}
+čer : [adj.] bad, incorrect; wrong, evil {Original}
 -> ačer : [v.] corrupt, taint; contaminate, pollute
 ----> ačerest : [adj.] corrupted, tainted
--> čere : [n.] evil
 -> čerejs : [n.] state of being immoral, wicked; immorality, wickedness
 -> čerät : [adj.] wickedly, immorally
--> čerem : [n.] disease, illness, sickness, plague
+-> čerem : [n.] evil; disease, illness, sickness, plague
 ---> kaničerem : [n.] mental illness
 
 last : [adj.] free {Original}
