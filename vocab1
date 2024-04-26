@@ -324,6 +324,9 @@ mej : [adv.] [det.] much, many; very {Old 'me'}
 -> mejuz : [adj.] abundant, bountiful, rich
 ----> meruzät : [adv.] abundantly
 -> amejfär : [adj.] fertile
+-> -mej : [suf.] (-plex, -fold, -times)
+---> smej : [v.] to copy; to duplicate; to double
+------> smejem : [n.] copy; duplicate
 mejs : [adv.] comparative; more {Old 'mer'}
 -> mejsät : [adv.] anymore, additionally
 mejst : [adv.] superlative; most {Old 'mest'}
@@ -454,7 +457,7 @@ saj : [num.] 2 (two) {Old 'sjan'}
 -> sajäs : [adj.] secondary
 ----> sajäst : [adv.] secondarily
 -> sajejs: [n.] duality
--> sajät : [adv.] twice
+-> sajmej : [adv.] twice; twofold
 drej : [num.] 3 (three) {Old 'tri', German 'Drei'}
 -> dreje : [ord. num.] third
 ----> drejenät : [adv.] thirdly
@@ -1721,6 +1724,12 @@ kev : {Anc. Greek 'κύβος' via French and English 'cube'}
 ----> kevsti : [adj.] cubic
 -- [n.] [f:mathematics] third power of a number or term
 ----> akev : [v.] [f:mathematics] to multiply a number by itself twice
+
+nörök : [n.] corner, angle {~ Finnish 'nurkka', ~ Hungarian 'szöglet'}
+-> drejnörök : [n.] triangle
+-> kyrnörök : [n.] quadrilateral
+-> ortnörök : [n.] right angle (90°)
+-> platnörök : [n.] straight angle (180°)
 
 skär : [n.] lane, track, channel {Original}
 
@@ -3766,7 +3775,7 @@ lös : [adj.] single, alone [adv.] only, just, simply, merely [prf.] mono-, uni-
 -> lösejs : [n.] state of being lonely, alone; loneliness
 -> lösät : [adv.] lonelily; singularly
 pyli : [adj.] multiple, plural [prf.] multi-, plura-, poly- {Anc. Greek 'πολύς'}
--> apyli : [v.] to make plural, to multiply; to duplicate
+-> apyli : [v.] to make plural, to multiply
 -> pylijs : [n.] state of being plural; multiplicity, plurality
 -> pylijät : [adv.] plurally
 
