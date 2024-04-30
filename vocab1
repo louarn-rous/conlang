@@ -236,6 +236,7 @@ a(s)- : [prf.] verbalizer {French} &&&
 -- used to form verbs from adjectives, indicating the gain of the adjectivial property  
 -- used to form verbs from verbs, indicating the action of making an object do an action  
 -- used to form verbs from nouns, meaning to make into or create the prefixed noun
+----> -n : [suf.] used to close terminating open syllables when a verbalizer is added
 
 ne(s)- : [prf.] negatory; absent, lacking  
 de(s)- : [prf.] reversal or removal, lack of ('dis-', 'de-')  
@@ -483,11 +484,10 @@ jat : [num.] 100 (hundred)
 mil : [num.] 1000 (thousand) {French 'mille'}
 -> mil : [ord. num] thousandth
 
-=== colours : koloren ===
-kolor : {French 'colorer', English 'colour'}
--- [n.] colour, pigment
-----> kolorsat : [adj.] colourful
--- [v.] colour
+=== colours/colors : sarvaden ===
+sarva : [n.] colour/color; pigment; hue; shade {German 'Farbe', Lithuanian 'spalva', Finnish 'väri'}
+-> asarvan : [v.] to colour/to color; to paint; to shade
+-> sarvasat : [adj.] colourful; vibrant
 blo : [m.] blue {Swedish 'blå'}
 brön : [m.] brown {English 'brown' + 'grön'}
 gäl : [m.] yellow {Swedish 'gul', German 'Gelb', Dutch 'geel'}
