@@ -79,7 +79,7 @@ im : [prep.] em (locative: contained by, withemthe bounds of, part of, into) ('a
 ----> imirem : [n.] entry
 ----> aimir : [v.] make enter, welcome, bring in
 -------> aimiret : [intj.] [greeting] welcome (in)
--> imöd : [prep.] into
+-> imöd : [prep.] into ## repl. with 'imot'
 -> inom : [n.] inside &&&
 
 ust : [prep.] out (outside of, away from, not in) {French 'ouste'}  
@@ -488,6 +488,7 @@ mil : [num.] 1000 (thousand) {French 'mille'}
 sarva : [n.] colour/color; pigment; hue; shade {German 'Farbe', Lithuanian 'spalva', Finnish 'väri'}
 -> asarvan : [v.] to colour/to color; to paint; to shade
 -> sarvasat : [adj.] colourful; vibrant
+-> drejsarva : [n.] tricolour/tricolor
 blo : [m.] blue {Swedish 'blå'}
 brön : [m.] brown {English 'brown' + 'grön'}
 gäl : [m.] yellow {Swedish 'gul', German 'Gelb', Dutch 'geel'}
@@ -2705,7 +2706,7 @@ sret : [v.] write {French 'écrire', English 'write'} &&&
 värt : [v.] turn {Latin 'verto' via English '-ward'}
 -> värtem : [n.] turn
 -> värtejt : [n.] version
--> devärt : [v.] divert, redirect; deflect, reflect
+-> devärt : [v.] to divert; to redirect; to deflect; to reflect
 ----> devärtejt : [n.] act of diverting, redirecting, deflecting, reflecting; diversion, redirection, deflection, reflection
 -> mevärt : [v.] degenerate, degrade, decline
 ----> mevärtejt : [n.] act of degenerating, degrading, declining; degeneration, degradation
@@ -2875,20 +2876,24 @@ fräj : [v.] fear {French 'effrayer', English 'fear'}
 -> fräjem : [n.] fear
 ----> fräjemver : [adj.] fearful, fearsome
 
-grom : [v.] groan, rumble {Serbian 'гром'}
+grom : [v.] to groan; to rumble {Serbian 'гром'}
 -> gromem : [n.] groan
 -> gromejt : [n.] groaning, rumbling
 -> groma : [n.] thunder
 
-träg : [v.] wear {German 'tragenen'}
--> aträg : [v.] dress; make wear
+träg : [v.] to wear {German 'tragenen'}
+-> aträg : [v.] to dress
 -> träge : [n.] dress, outfit
 
-merg : [v.] dip, plunge, sink {Latin 'mergo'}
--> ustmerg : [v.] emerge
--> immerg : [v.] immerse
+merg : [v.] to dip; to plunge; to sink {Latin 'mergo'}
+-> ustmerg : [v.] to emerge ## ('from' instead?) 
+-> immerg : [v.] to immerse ## ('to' instead? or 'into')
 
-čus : [v.] trespass, violate, breach, infringe {Original}
+nersak : [v.] to dive; to plunge {Finnish 'sukeltaa', Russian 'нырять'}
+-> nersakem : [n.] dive, plunge
+-> nersakenav : [n.] submarine
+
+čus : [v.] to trespass; to violate; to breach; to infringe {Original}
 -> čusem : [n.] breach
 -> čusejt : [n.] trespassing, violation, infringement
 
