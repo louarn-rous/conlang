@@ -58,13 +58,23 @@ When the entire word is capitalised, both parts of the digraph should be in uppe
 | Nasal        | /m/     | /n/       |           |       |         |     |
 | Plosive      | /p/ /b/ | /t/ /d/   |           |       | /k/ /ɡ/ |     |
 | Affricate    |         | /t͡s/ /d͡z/ | /t͡ʃ/ /d͡ʒ/ |       |         |     |
-| Fricative    | /f/ /v/ | /s/ /z/   | /ʃ/ /ʒ/   | /ʝ~j/ | (/χ/)   | /h/ |
+| Fricative    | /f/ /v/ | /s/ /z/   | /ʃ/ /ʒ/   | /ʝ~j/ | /x/     | /h/ |
 | Tap/Flap     |         | /ɾ/       |           |       |         |     |
 | Lat. Approx. |         | /l/       |           |       |         |     |
 
-if ⟨h⟩ is the onset of a word's first syllable, it is /h/.  
+if ⟨h⟩ precedes a vowel, and does not follow a consonant, it is realised as /h/.  
+if it precedes a vowel, and follows a consonant, that consonant becomes aspirated.
+if it precedes a plosive, or if it follows a vowel but is not itself followed by a vowel, it is realised as /x~χ/.
+
+  VhV, hV
+
+  ### work in progress
+ 
 else if it follows a plosive, it causes that plosive to be aspirated.  
-else if it precedes a plosive, it is rendered as /χ/.
+else if it precedes a plosive, it is rendered as .
+
+⟨žh⟩ → \[ʑ]
+⟨šh⟩ → \[ɕ]
 
 ### Vowels  
 | -         | Front   | Back |
@@ -93,10 +103,10 @@ When they follow a plosive and precede another vowel, they provoke the palatizat
 | ⟨g- | \[gʲ] | \[gᶣ] | \[gʷ] |
 
 ### Digraphs
-| -         | -          | -          |  -         |  -        |
-|:---:      |:---:       |:---:       |:---:       |:---:      |
-|⟨šh⟩ → \[ɕ]|⟨dz⟩ → \[d͡z]|⟨lj⟩ → \[ʎ] |⟨ng⟩ → \[ŋ]|⟨tj⟩ → \[c]|
-|⟨žh⟩ → \[ʑ]|⟨dž⟩ → \[d͡ʒ]|⟨ht⟩ → \[xt]|⟨nj⟩ → \[ɲ]|⟨dj⟩ → \[ɟ]|
+| -          | -          |  -         |  -        |
+|:---:       |:---:       |:---:       |:---:      |
+|⟨dz⟩ → \[d͡z]|⟨lj⟩ → \[ʎ] |⟨ng⟩ → \[ŋ]|⟨tj⟩ → \[c]|
+|⟨dž⟩ → \[d͡ʒ]|⟨ht⟩ → \[xt]|⟨nj⟩ → \[ɲ]|⟨dj⟩ → \[ɟ]|
 
 ### Diphtongs
 | - | ⟨e | ⟨i | ⟨a | ⟨ä | ⟨o | ⟨ö | ⟨u | ⟨y |
