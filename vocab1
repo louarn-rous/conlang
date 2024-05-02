@@ -203,13 +203,13 @@ si : [cnjc.] if, in the case/condition that, given/supposing/assuming that {Fren
 -> -(n)a : [suf.] augmentative ##
 
 -(t)em : [suf.] resultative nominalizer; forms nouns from verbs, with the meaning equal to the result of the verb {Hungarian}
--(e)jt : [suf.] gerundive/present participle; forms verbal nouns indicating the action of what is denoted by the verb; -ing, -ment, -tion
--(e)st : [suf.] past participle; forms adjectives indicating a quality resulting from the undergoing of the verb
--(e)js : [suf.] forms nouns from adjectives, denoting the condition or state of the suffixed word; -hood, -dom, -ness
+-(e)jt : [suf.] gerundive/present participle; forms verbal nouns indicating the action of what is denoted by the verb (-ing, -ment, -tion)
+-(e)st : [suf.] past participle; forms adjectives indicating a quality resulting from the undergoing of the verb (-ed)
+-(e)js : [suf.] forms nouns from adjectives, denoting the condition or state of the suffixed word (-hood, -dom, -ness, -ship)
 
 -(t)or, -(t)ör : [suf.] agentive nominalizer; forms agent nouns from verbs ('-er')
 
--äs, -as : [suf.] genitive; forms adjectives from nouns, with the meaning 'of or pertaining to' the suffixed word ('-ic')
+-äs, -as : [suf.] genitive; forms adjectives from nouns, with the meaning 'of or pertaining to' the suffixed word (-ic, -ian)
 -> -jäs, -jas : [suf.] genitive when after 'i' or 'ia'
 -> -njäs, -njas : [suf.] genitive when after 'nia' or 'nja'
 -> -ljäs, -ljas : [suf.] genitive when after 'lia' or 'lja'
@@ -504,86 +504,88 @@ roz : [m.] pink {French 'rose'}
 rus : [m.] reddish-brown {French 'rousse'}
 
 === animals : animäten ===
-brin : [n.] cow {Breton 'brini'}
+brin : [n.] cow (Bovinae) {Breton 'brini'}
 -> brinäs : [adj.] bovine
 -> brinyti : [n.] calf
 -> brinent : [n. unc.] cattle
-bos : [n.] ox, bull {Latin}
+bos : [n.] ox, bull (Bos taurus) {Latin}
 -> bosent : [n.] beef
-pors : [n.] pig {Latin 'Porcus' via French 'porc'}
+pors : [n.] pig; swine; hog (Sus domesticus) {Latin 'Porcus' via French 'porc'}
 -> porsas : [adj.] porcine
 -> porsti : [n.] piglet
-kuz : [n.] sheep {Turkish 'kuzu'}
+kuz : [n.] sheep (Ovis aries) {Turkish 'kuzu'}
 -> kuzas : [adj.] ovine
 -> kuzti : [n.] lamb
 -> kuzbrykör : [n.] shepherd {+ 'bryk' + '-ör'}
-bok : [n.] goat {Afrikaans}
+bok : [n.] goat (Capra) {Afrikaans}
 -> bokas : [adj.] caprine
 -> bokti : [n.] kid
-ekus : [n.] horse {Latin 'equus'}
+ekus : [n.] horse (Equus ferus) {Latin 'equus'}
 -> ekusas : [adj.] equine
 -> ekusti : [n.] foal
-az : [n.] donkey {Breton 'azen'}
+az : [n.] donkey (Equus africanus asinus; Equus asinus) {Breton 'azen'}
 -> azas : [adj.] asinine
 -> azti : [n.] donkey foal
-kip : [n.] fox {Old 'gupil', Finnish 'kettu'}}
+kip : [n.] fox (Vulpini, incl. Vulpes) {Old 'gupil', Finnish 'kettu'}}
 -> kipäs : [adj.] vulpine
 -> kipti : [n.] fox cub
-kot : [n.] cat {Polish, English 'cat', German 'Katze'}
+kot : [n.] cat (Felis catus) {Polish, English 'cat', German 'Katze'}
 -> kotas : [adj.] feline
 -> kotti : [n.] kitten
-käry : [n.] dog {Old 'käru'}
+käry : [n.] dog (Canis familiaris) {Old 'käru'}
 -> kärynäs : [adj.] canine
 -> käryti : [n.] pup, puppy
-luv : [n.] wolf {Latin 'lupus' via French 'louve'}
+luv : [n.] wolf (Canis lupus) {Latin 'lupus' via French 'louve'}
 -> luvas : [adj.] lupine
 -> luvti : [n.] wolf cub
-lappu : [n.] rabbit {Old 'lapin', Latin 'lepus'}
+lappu : [n.] rabbit; hare (Leporidae, incl. Lepus) {Old 'lapin', Latin 'lepus'}
 -> lappunas : [adj.] leporine
 -> lapputi : [n.] kitten (rabbit)
-myz : [n.] mouse {English 'mouse', French 'souris'}
+myz : [n.] mouse (Mus) {English 'mouse', French 'souris'}
 -> myz : [n.] computer mouse
 -> myzyti : [n.] mouse pup
 -> myzäs : [adj.] musine
-leo : [n.] lion {Latin}
+rat : [n.] rat (Rattus) {English, Latin 'rattus' via French 'rat'}
+leon : [n.] lion (Panthera leo) {Old 'leo'}
 -> leonas : [adj.] leonine
--> leonti : [n.] lion cub
-pantär : [n.] panther {French 'panthère', Serbian 'пантери'}
+-> leonti : [n.] lion cubPanthera
+pantär : [n.] panther (Panthera, esp. Panthera pardus and Panthera onca) {French 'panthère', Serbian 'пантери'}
 -> pantärti : [n.] panther cub
-urs : [n.] bear {Latin 'ursus'}
+urs : [n.] bear (Ursidae) {Latin 'ursus'}
 -> ursas : [adj.] ursine
 -> ursti : [n.] bear cub
-blär : [n.] badger {French 'blaireau'}
+blär : [n.] badger (Mustelidae, esp. Meles meles) {French 'blaireau'} &&&
 -> bläräs : [adj.] meline
 -> blärti : [n.] badger cub
--> stamblär : [n.] pangolin
-sirm : [n.] lizard {Old 'širm'}
--> sirmäs : [adj.] lacertilian
-torte : [n.] tortoise, turtle {English 'toirtoise', French 'tortue'}
--> tortäs : [adj.] chelonian
-serp : [n.] snake {Latin 'serpens' via French 'serpent'}
--> serpäs : [adj.] ophidian
--> serpät : [adj.] serpentine
-lämyr : [n.] ring-tailed lemur (lemur catta)
+-> stamblär : [n.] pangolin (Pholidota, esp. Manidae)
+lämyr : [n.] ring-tailed lemur (Lemur, esp. Lemur catta)
 -> lämyräs : [adj.] lemurine, lemurian
-luter : [n.] otter {Latin 'lutra' + via French 'loutre'}
+luter : [n.] otter (Lutrinae) {Latin 'lutra' + via French 'loutre'}
 -> luteras : [adj.] lutrine
-ermin : [n.] ermine {French 'hermine', English 'ermine'}
+ermin : [n.] ermine; stoat (Mustela erminea) {French 'hermine', English 'ermine'}
 -> erminäs : [adj.] of or pertaining to ermines
-mustel : [n.] weasel {Latin 'mustela'}
+mustel : [n.] weasel; mink; ferret (Mustela, esp. Mustela nivalis) {Latin 'mustela'}
 -> mustelas : [adj.] of or pertaining to weasels
 -> mustelsti : [adj.] cunning, sneaky, devious
 ----> mustelstijät : [adv.] cunningly, sneakily, deviously
 
+sirm : [n.] lizard (Squamata, excl. Serpentes) {Old 'širm'}
+-> sirmäs : [adj.] lacertilian
+torte : [n.] tortoise; turtle (Testudines) {English 'toirtoise', French 'tortue'}
+-> tortäs : [adj.] chelonian
+serp : [n.] snake (Serpentes) {Latin 'serpens' via French 'serpent'}
+-> serpäs : [adj.] ophidian
+-> serpät : [adj.] serpentine
+
 segetim : [n.] insect {'sek(et)' + '-im'}
 -> segetimäs : [adj.] insectile
 -> segetimessör : [n.] insectivore (+ 'ess' + '-ör')
-mostik : [n.] mosquito {French 'moustique', English 'mosquito'}
-apiä : [n.] bee {Latin 'apis'}
+mostik : [n.] mosquito (Culicidae) {French 'moustique', English 'mosquito'}
+apiä : [n.] bee (Anthophila) {Latin 'apis'}
 -> apijäs : [n.] apian
 -> apiätyd : [n.] apiary
-skarb : [n.] beetle, scarab {Old 'scarbe'}
-musk : [n.] fly {Latin 'musca' via French 'mouche'}
+skarb : [n.] beetle, scarab (Coleoptera, esp. Scarabaeidae) {Old 'scarbe'}
+musk : [n.] fly (Muscidae, esp. Musca domestica) {Latin 'musca' via French 'mouche'}
 koi : [n.] moth {Finnish}
 
 rojs : [n.] bird {Old 'oris'}
@@ -610,7 +612,6 @@ parok : [n.] parrot, parrakeet {English 'parrot', French 'perroquet'}
 -> parokas : [adj.] psittacine
 huulu : [n.] owl {Original, onomatopoeic}
 
-rat : [n.] rat {English, Latin 'rattus' via French 'rat'}
 
 žiraf : [n.] giraffe {French 'giraffe'}
 -> žirafäs : [adj.] giraffine
@@ -1251,7 +1252,7 @@ brec : [n.] task, work; doing, deed; accomplishment, achievement {clipping of 't
 -> nesabreces : [adj.] lazy
 
 kärst : [n.] type, genre, category, class {Original} &&&
--> akärst : [v.] to sort, class, categorize
+-> akärst : [v.] to sort; to class; to categorize
 -> kepentkärst : [n.] ethnic group, race, people
 
 smer : [n.] order {Original}
@@ -1943,8 +1944,8 @@ klun : [n.] clown {French 'clown'}
 -> klunpäsk : [n.] clownfish { + 'pesk'}
 sint : [n.] Saint {Dutch}
 -> sintät : [adj.] saintly
-kamarad : [n.] comrade, mate; fellow student, classmate {French 'camarade', German 'Kamerad'}
--> kamaradejs : [n.] comradeship, mateship
+kamerad : [n.] comrade, mate; fellow student, classmate {Old 'kamarad', Danish 'kammerat'}
+-> kameradejs : [n.] comradeship, mateship
 
 soc : [n.] fellow, acquantiance
 -> socäs : [adj.] social
@@ -2436,7 +2437,7 @@ rast : [v.] [intrans] reason, reflect, reckon, calculate [trans] consider, judge
 ----> rastfärt : [adv.] reasonably
 ----> nerastfär : [adj.] unreasonable
 -------> nerastfärt : [adv.] reasonably
-sien : [v.] know {Latin 'sciens', later 'sienca'} &&&
+sien : [v.] to know {Latin 'sciens', later 'sienca'} &&&
 -> sienem : [n.] knowledge, idea &&&
 ----> sienimsat : [adj.] knowledgeable
 -> nesient : [adj.] unknown
@@ -2451,15 +2452,15 @@ sien : [v.] know {Latin 'sciens', later 'sienca'} &&&
 ----> asienor : [v.] teacher
 ----> asienret : [n.] (practice of) teaching
 -> ussien : [v.] to know, become aware of
-ren : [v.] believe {Original}
+ren : [v.] to believe {Original}
 -> renem : [n.] belief
 ----> nerenem : [n.] disbelief
--> aren : [v.] convince
-per : [v.] think, ponder; consider {Original}
+-> aren : [v.] to convince
+per : [v.] to think; to ponder; to consider {Original}
 -> perem : [n.] thought
 ----> peremäs : [adj.] of or pertaining to thought
 -> perejt : [n.] (act of) thinking
-maris : [v.] remember, recall {Original}
+maris : [v.] to remember; to recall {Original}
 -> marisejt : [n.] act of remembering; rememberance
 -> marisfär : [adj.] memorable
 ----> marisfärt : [adv.] memorably
@@ -3266,16 +3267,17 @@ päs : [v.] [trans] feed, nourish {Original}
 -> päsejt : [n.] meal, dinner, lunch
 ----> päsejta : [n.] feast, buffet
 
-grafit : [v.] scribble; graffiti {Italian 'graffiti' via English and French'}
+grafit : [v.] to scribble; to graffiti {Italian 'graffiti' via English and French'}
 -> grafitem : [n.] scribble; grafitti
 
-sträd : [v.] struggle, fight {Frisian 'striid', Swedish 'strida'}
+sträd : [v.] to struggle; to fight; to clash {Frisian 'striid', Swedish 'strida'}
 -> strädem : [n.] conflict, struggle, war
-----> strädemyti : [n.] fight, squabble, dispute, argument
+----> strädemyti : [n.] fight, squabble, dispute, argument, scramble
 -> strädör : [n.] fighter, soldier
 ----> tužtsträdör : [n.] volunteer (military)
+->
 
-naut : [v.] sail {Latin 'nauta'}
+naut : [v.] to sail {Latin 'nauta'}
 -> nautör : [n.] sailor
 ----> kosmenautör : [n.] astronaut, cosmonaut
 -> nautäs : [n.] pertaining to sailing
