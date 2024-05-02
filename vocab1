@@ -207,27 +207,27 @@ si : [cnjc.] if, in the case/condition that, given/supposing/assuming that {Fren
 -(e)st : [suf.] past participle; forms adjectives indicating a quality resulting from the undergoing of the verb (-ed)
 -(e)js : [suf.] forms nouns from adjectives, denoting the condition or state of the suffixed word (-hood, -dom, -ness, -ship)
 
--(t)or, -(t)ör : [suf.] agentive nominalizer; forms agent nouns from verbs ('-er')
+-(t)or, -(t)ör : [suf.] agentive nominalizer; forms agent nouns from verbs (-er, -or)
 
 -äs, -as : [suf.] genitive; forms adjectives from nouns, with the meaning 'of or pertaining to' the suffixed word (-ic, -ian)
 -> -jäs, -jas : [suf.] genitive when after 'i' or 'ia'
 -> -njäs, -njas : [suf.] genitive when after 'nia' or 'nja'
 -> -ljäs, -ljas : [suf.] genitive when after 'lia' or 'lja'
 -(n)a/ät :  
--- [suf.] used to form adverbs, giving a verb the quality of the suffixed word ('-ly', '-y')
--- [suf.] used to form adjectives from verbs, meaning inclined/liable to do the suffixed verb ('-y')
+-- [suf.] used to form adverbs, giving a verb the quality of the suffixed word (-ly, -y)
+-- [suf.] used to form adjectives from verbs, meaning inclined/liable to do the suffixed verb (-y)
 
 -(s)aj, -(s)äj : [suf.] adjectivizer; forms adjectives from nouns signifying the possession of a quality or qualities related to the suffixed noun (-ile, -y)
 
 -isem, -izem : [suf.] forms abstract nouns denoting a practice, teaching, doctrine, system, ideology or condition relating to the suffixed word
 -ist, -izt : [suf.] forms nouns denoting someone who studies or practices a discipline, or who subscribes to a doctrine or system of belief
 
--sti: [suf.] semblative; forms adjectives from nouns, having the sense of resembling the suffixed word (English '-ish', '-like')
--sat : [suf.] forms adjectives from nouns, meaning to possess or have the quality of the suffixed noun (English '-ful', -'ous') {see 'sat'}
+-sti: [suf.] semblative; forms adjectives from nouns, having the sense of resembling the suffixed word (-ish, -like)
+-sat : [suf.] forms adjectives from nouns, meaning to possess or have the quality of the suffixed noun (-ful, -ous) {see 'sat'}
 
--ret : [suf.] used to form nouns, meaning the practice of doing or doing something related to the suffixed word (English '-ry') {see 'ret'}
+-ret : [suf.] used to form nouns, meaning the practice of doing or doing something related to the suffixed word (-ry) {see 'ret'}
 
--e : [suf.] forms ordinal numbers {French '-ème') &&
+-e : [suf.] forms ordinal numbers {French '-ème'} &&
 -ent : [suf.] collective nominalizer {Original}
 
 -om, -öm : [suf.] used to mark a place {Original} &&&
@@ -239,8 +239,8 @@ a(s)- : [prf.] verbalizer {French} &&&
 ----> -n : [suf.] used to close terminating open syllables when a verbalizer is added
 
 ne(s)- : [prf.] negatory; absent, lacking  
-de(s)- : [prf.] reversal or removal, lack of ('dis-', 'de-')  
-me(s)- : [prf.] badly or wrongly {French 'mal-', 'me-', English 'mis-'}  ###OUTATED
+de(s)- : [prf.] reversal or removal, lack of (dis-, de-)  
+me(s)- : [prf.] badly or wrongly {French 'mal-', 'me-', English 'mis-'}  ###OUTDATED
 če(r)- : [prf.] badly or wrongly {'čer'}
 
 re(s)- : [prf.] again; anew {French and English 're-'} 
@@ -584,17 +584,19 @@ mostik : [n.] mosquito (Culicidae) {French 'moustique', English 'mosquito'}
 apiä : [n.] bee (Anthophila) {Latin 'apis'}
 -> apijäs : [n.] apian
 -> apiätyd : [n.] apiary
+bardot : [n.] bumblebee (Bombus) {Catalan 'borinot', ~ Breton 'sardon', ~ French 'bourdon'}
 skarb : [n.] beetle, scarab (Coleoptera, esp. Scarabaeidae) {Old 'scarbe'}
 musk : [n.] fly (Muscidae, esp. Musca domestica) {Latin 'musca' via French 'mouche'}
-koi : [n.] moth {Finnish}
+lyylapyrin : [n.] butterfly (Rhopalocera) {Original}
+koi : [n.] moth (Lepidoptera, excl. Rhopalocera) {Finnish}
 
-rojs : [n.] bird {Old 'oris'}
+rojs : [n.] bird (Aves) {Old 'oris'}
 -> rojsas : [adj.] avian
 -> rojsti : [n.] bird chick
-taub : [n.] dove {Swedish 'duva', German 'Taube'} 
-agräl : [n.] eagle {Latin 'aquila' via French 'aigle and English 'eagle'}
+taub : [n.] dove (Columbidae) {Swedish 'duva', German 'Taube'} 
+agräl : [n.] eagle; hawk (Accipitridae, esp. Aquila) {Latin 'aquila' via French 'aigle and English 'eagle'}
 -> agräläs : [adj.] aquiline
-falk : [n.] falcon; hawk
+falk : [n.] falcon (Falco)
 -> falkas : [adj.] falconine
 alar : [n.] swan {Breton "alarc'h"}
 -> alaras : [adj.] cygnine
@@ -1944,7 +1946,7 @@ klun : [n.] clown {French 'clown'}
 -> klunpäsk : [n.] clownfish { + 'pesk'}
 sint : [n.] Saint {Dutch}
 -> sintät : [adj.] saintly
-kamerad : [n.] comrade, mate; fellow student, classmate {Old 'kamarad', Danish 'kammerat'}
+kamerad : [n.] comrade; mate; fellow student, classmate {Old 'kamarad', Danish 'kammerat'}
 -> kameradejs : [n.] comradeship, mateship
 
 soc : [n.] fellow, acquantiance
