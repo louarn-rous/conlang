@@ -64,24 +64,17 @@ When the entire word is capitalised, both parts of the digraph should be in uppe
 
 if ⟨h⟩ precedes a vowel, and does not follow a consonant, it is realised as /h/.  
 if it precedes a vowel, and follows a consonant, that consonant becomes aspirated.
-if it precedes a plosive, or if it follows a vowel but is not itself followed by a vowel, it is realised as /x~χ/.
+if it precedes a plosive, or if it follows a vowel but is not itself followed by a vowel, it is realised as /x/.
 
-  VhV, hV
-
-  ### work in progress
- 
-else if it follows a plosive, it causes that plosive to be aspirated.  
-else if it precedes a plosive, it is rendered as .
-
-⟨žh⟩ → \[ʑ]
-⟨šh⟩ → \[ɕ]
+if ⟨ž⟩ is followed by a front vowel, it is closer to \[ʑ].
+if ⟨š⟩ is followed by a front vowel, it is closer to \[ɕ].
 
 ### Vowels  
-| -         | Front   | Back |
-|:--------  |:----:   |:--:  |
-| Close     | /i/ /y/ | /u/  |
-| Close-mid | /e/ /ø/ | /o/  |
-| Open      | /æ/     | /ɑ/  |
+| -     | Front   | Back |
+| :-:   |   :-:   | :-:  |
+| Close | /i/ /y/ | /u/  |
+| Mid   | /e/ /ø/ | /o/  |
+| Open  | /æ/     | /ɑ/  |
  
 ### Semivowels  
 | Vowel | Semivowel |
@@ -91,7 +84,7 @@ else if it precedes a plosive, it is rendered as .
 | y | \[ɥ] |
 
 The above vowels are realised as semiconsonants when preceding or proceeding a different vowel.
-When they follow a plosive and precede another vowel, they provoke the palatization, labio-palatization and labialization of the aforementioned plosive, respectively;
+When they follow a plosive and precede another vowel, they provoke the palatalization, labio-palatization and labialization of the aforementioned plosive, respectively;
 
 | -  | -i⟩    | -y⟩   | -u⟩   |
 | -  | :-:   | :-:   | :-:   |
@@ -106,7 +99,7 @@ When they follow a plosive and precede another vowel, they provoke the palatizat
 | -          | -          |  -         |  -        |
 |:---:       |:---:       |:---:       |:---:      |
 |⟨dz⟩ → \[d͡z]|⟨lj⟩ → \[ʎ] |⟨ng⟩ → \[ŋ]|⟨tj⟩ → \[c]|
-|⟨dž⟩ → \[d͡ʒ]|⟨ht⟩ → \[xt]|⟨nj⟩ → \[ɲ]|⟨dj⟩ → \[ɟ]|
+|⟨dž⟩ → \[d͡ʒ]|⟨hj⟩ → \[ç] |⟨nj⟩ → \[ɲ]|⟨dj⟩ → \[ɟ]|
 
 ### Diphtongs
 | - | ⟨e | ⟨i | ⟨a | ⟨ä | ⟨o | ⟨ö | ⟨u | ⟨y |
