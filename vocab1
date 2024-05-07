@@ -2466,18 +2466,18 @@ maris : [v.] to remember; to recall {Original}
 -> marisejt : [n.] act of remembering; rememberance
 -> marisfär : [adj.] memorable
 ----> marisfärt : [adv.] memorably
-oblis : [v.] forget {Latin 'obliviscor' via French 'oublier'}
+oblis : [v.] to forget {Latin 'obliviscor' via French 'oublier'}
 -> oblistfär : [adj.] forgettable
 ----> nesoblistfär : [adj.] unforgettable
-štus : [v.] pretend, feign, disguise {Old 'štus'} &&&
+štus : [v.] to pretend; to feign; to disguise {Old 'štus'} &&&
 -> štusem : [n.] ruse, trick, disguise &&&
-kuet : [v.] count, calculate {Original}
+kuet : [v.] to count; to calculate {Original}
 -> kuetem : [n.] count
 -> kuetejt : [n.] act of calculating; calculation
 -> kuetsor : [n.] computer {+ 'sor'}
 ----> kuetsoräs : [adj.] pertaining to computers
 
-läc : [v.] lure, deceive; entice, ensnare {Latin 'lacio'}
+läc : [v.] to lure; to deceive; to entice; to ensnare {Latin 'lacio'}
 -> öläc : [v.] allure, attract; tempt
 ----> öläcem : [n.] temptation, attraction
 -> deläc : [v.] allure, entice
@@ -2489,12 +2489,12 @@ läc : [v.] lure, deceive; entice, ensnare {Latin 'lacio'}
 ----> deläcun : [n.] delight
 -------> deläcunsat : [adj.] delightful
 ----------> deläcunsät : [adv.] delightfully
-fäl : [v.] trick, deceive, cheat {Latin 'fallo'}
+fäl : [v.] to trick; to deceive; to cheat {Latin 'fallo'}
 -> fälem : [n.] trick, lie
 -> fälejt : [n.] act of lying, cheating, deceiving; deception
 -> fälör : [n.] cheater
 
-vis : [v.] see, perceive, view, look, observe {Latin 'visio' via English and French 'vision'}
+vis : [v.] to see; to perceive; to view; to look; to observe {Latin 'visio' via English and French 'vision'}
 -> visem : [n.] viewing; video
 -> visejt : [n.] (act of) viewing; perspective, observation
 -> visör : [n.] viewer, witness
@@ -2505,20 +2505,20 @@ vis : [v.] see, perceive, view, look, observe {Latin 'visio' via English and Fre
 -------> neavisfärt : [adv.] invisibly
 ----> navisfärejs : [n.] visibility; state of being visible
 ----> navisät : [adv.] visibly
--> obvis : [v.] supervise, oversee
+-> obvis : [v.] to supervise; to oversee
 ----> obvisör : [n.] supervisor, overseer
 ----> obvisejs : [n.] supervision
 ----> obvisäs : [adj.] supervisory
--> imvis : [v.] examine, inspect
+-> imvis : [v.] to examine; to inspect
 ----> imvisejt : [n.] act of examining, inspecting; examination, inspection
 ----> imvisör : [n.] examiner, inspector
--> antevis : [v.] compare, contrast
+-> antevis : [v.] to compare; to contrast
 ----> antevisem : [n.] contrast
 ----> antevisejt : [n.] act of comparing; comparison
--> uzvir : [v.] consult, consider
+-> uzvir : [v.] to consul; to consider
 ----> uzvirejt : [n.] act of consulting, considering; consultation, consideration
--> ylvir : [v.] foresee
--> televis : [v.] televize
+-> ylvir : [v.] to foresee
+-> televis : [v.] to televize
 ----> televisör : [n.] television (device)
 -------> televisöräs : [adj.] televisional; related to the television
 -------> tevi : [n.] tv/t.v. (device)
@@ -2527,15 +2527,15 @@ vis : [v.] see, perceive, view, look, observe {Latin 'visio' via English and Fre
 ----------> tevisstys : [n.] [rare] tv series
 ----> televisejt : [n.] act of televising; television
 ----> televisäs : [adj.] televisional
-od : [v.] hear, feel, sense {? Latin 'odor'}
+od : [v.] to hear; to feel; to sense {? Latin 'odor'}
 -> odäs : [adj.] sensory
 ----> odäst : [adv.] sensorially
 -> odör : [n.] sensor
 -> odem : [n.] feel, sense
-sänt : [v.] [trans] sense, smell [intrans] smell of {Latin 'sentio' via French 'sentir'}
+sänt : [v.] [trans] to sense; to smell [intrans] smell of {Latin 'sentio' via French 'sentir'}
 -> säntem : [n.] smell, scent
 -> säntäs : [n.] sensory
-paskäl : [v.] notice, spot, remark {? Original}
+paskäl : [v.] to notice; to spot; to remark {? Original}
 mjec : [v.] measure; judge {Anc. Greek 'μέτρον'}
 -> mjecäs : [adj.] metric (pertaining to measure)
 ----> mosmjecäs : [adj.] isometric
@@ -3027,7 +3027,7 @@ vareg : [v.] to tire, wear out {~ Old 'fatigue'}
 ----> varegnuzät : [adv.] tirelessly
 ----> varegnuzejs : [n.] tirelessness
 
-let : [v.] live {Old 'leb', Hungarian 'lét'} &&&
+let : [v.] to live {Old 'leb', Hungarian 'lét'} &&&
 -> letom : [n.] home, town, village &&&
 ----> letomi : [n.] townsperson, villager
 -> letem : [n.] life &&&
@@ -3037,7 +3037,7 @@ let : [v.] live {Old 'leb', Hungarian 'lét'} &&&
 -> obelet : [v.] survive; outlive
 ----> obeletem : [n.] survival
 ----> obeletes : [adj.] surviving, remaining
-lys : [v.] shine, sparkle {Swedish} &&&
+lys : [v.] to shine; to sparkle {Swedish} &&&
 -> lysem : [n.] shine, sparkle &&&
 -> lysejt : [adj.] shining, sparkling; beautiful
 
@@ -3046,10 +3046,10 @@ mut : [v.] to die; to end {Original}
 -> mutfär : [adj.] mortal
 -> mutest : [adj.] dead
 
-öjr : [v.] thrive, prosper {Original}
+öjr : [v.] to thrive; to prosper {Original}
 -> öjrejt : (act of) thriving, prospering
 
-siät : [v.] wait, expect {Original}
+siät : [v.] to wait; to expect {Original}
 -> siätejt : [n.] act of waiting, expecting; expectation
 -> siätem : [n.] wait
 -> siätest : [adj.] expected
@@ -3057,7 +3057,7 @@ siät : [v.] wait, expect {Original}
 ----> nesiätest : [adj.] unexpected
 -------> nesiätestät : [adv.] unexpectedly
 
-troš : [v.] [trans] slice, cut {French 'trancher'}
+troš : [v.] [trans] to slice; to cut {French 'trancher'}
 -> trošor : [n.] one that cuts
 -> trošem : [n.] cut, incision
 -> trošte : [n.] dresses, robes, skirts, jupes or similar
@@ -3069,21 +3069,22 @@ sek : [v.] cut, seperate, divide; amputate {Latin 'seccare'}
 -> sekpär : [n.] part, section
 ----> sekpärom : [n.] division, department 
 
-štät : [v.] damage {Serbian 'штете'}
+štät : [v.] to damage {Serbian 'штете'}
 -> štätem : [n.] damage; cost, expense
 -> štätfär : [adj.] damageable
-šaff : [v.] rip, tear {~ Japanese '破'}
+šaff : [v.] to rip; to tear {~ Japanese '破'}
 -> šaffem : [n.] rip, tear
 
-liäd : [v.] love {German 'Liebe'}
+liäd : [v.] to love {German 'Liebe'}
 -> liädem : [n.] love
--> liädejst : [n.] loved one, partner, girlfriend, boyfriend
+-> liädest : [n.] loved one, partner, girlfriend, boyfriend
 -> liädver : [adj.] loveable
 ----> liädvert : [adv.] loveably
-fir : [v.] like, appreciate {?}
-snog : [v.] treasure, value
+fir : [v.] to like; to appreciate {?}
+snog : [v.] to treasure; to value
+-> snogest : [n.] beloved; treasured
 
-pend : [v.] weigh; hang
+pend : [v.] to weigh; to hang {Latin 'pendo'}
 -> pendejt : [n.] hanging (capital punishment)
 -> pendor : [n.] pendant
 
@@ -3106,42 +3107,42 @@ räs : [v.] let, allow
 -> imräs : [v.] invite
 ----> imräsem : [n.] invite
 ----> imräsejt : [n.] act of inviting; invitation
-pärmit : [v.] allow, permit {French 'permit'}
+pärmit : [v.] to allow; to permit {French 'permit'}
 -> pärmitejt : [n.] act of permitting; permission
 -> pärmitest : [adj.] allowed
-probit : [v.] prohibit, disallow {English 'prohibit'}
+probit : [v.] to prohibit; to disallow {English 'prohibit'}
 -> probitejt : [n.] act of prohibiting; prohibition
 -> probitest : [adj.] prohibited, banned
 
-las : [v.] leave, depart [v.] leave behind, let (go of) {French 'laisser'}
+las : [v.] to leave; to depart [v.] to leave behind; to let (go of) {French 'laisser'}
 -> lasejt : [n.] departure
 -> dölas : [v.] discard, dump
-perd : [v.] lose; drop; waste {French 'perdre'}
+perd : [v.] to lose; to drop; to waste {French 'perdre'}
 -> perdem : [n.] loss
-šteg : [v.] shed; overcome {Original}
+šteg : [v.] to shed; to overcome; to sublate {Original}
 
-kräs : [v.] grow {Latin 'crescere' via Portugese 'crescer'}
+kräs : [v.] to grow {Latin 'crescere' via Portugese 'crescer'}
 -> kräsör : [n.] one that grows
 -> dekräs : [v.] shrink, decrease
 ----> dekräsem : [n.] decrease
 -> kräsem : [n.] growth
--> akräs : [v.] [trans] increase
+-> akräs : [v.] [trans] to increase
 ----> akräsem : [n.] increase
-fal : [v.] fall, drop, decrease {Swedish 'falla'}
+fal : [v.] to fall; to drop; to decrease {Swedish 'falla'}
 -> falem : [n.] fall, drop, decrease
 
-bran : [v.] burn {Swedish 'brann'} &&&
+bran : [v.] to burn {Swedish 'brann'} &&&
 -> branem : [n.] burn &&&
-brit : [v.] break {Swedish 'bryta'} &&&
+brit : [v.] to break {Swedish 'bryta'} &&&
 -> britem : [n.] break; fissure &&&
 -> britejt : [n.] breaking, destruction
 -> britfär : [adj.] breakable
 ----> britnefär : [adj.] unbreakable
-flet : [v.] fly {German 'Flieg', French 'voler', English 'flutter'} &&&
+flet : [v.] to fly {German 'Flieg', French 'voler', English 'flutter'} &&&
 -> fletem : [n.] flight &&&
-seg : [v.] ask, inquire, question {Original} &&&
+seg : [v.] to ask; to inquire; to question {Original} &&&
 -> segem : [n.] question, query &&&
-val : [v.] lie {Finnish 'valhe'} &&&
+val : [v.] to lie {Finnish 'valhe'} &&&
 -> valem : [n.] lie &&&
 
 ruin : [v.] ruin {French 'ruine', English 'ruin', German 'Ruin'}
