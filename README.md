@@ -62,11 +62,11 @@ When the entire word is capitalised, both parts of the digraph should be in uppe
 | Tap/Flap     |         | /ɾ/       |           |       |         |     |
 | Lat. Approx. |         | /l/       |           |       |         |     |
 
-if ⟨h⟩ precedes a vowel, and does not follow a consonant, it is realised as /h/.  
-if it precedes a vowel, and follows a consonant, that consonant becomes aspirated.
-if it precedes a plosive, or if it follows a vowel but is followed by a consonant, it is realised as /x/.
-if it closes a front-vowel syllable at the end of a word, it is realised as \[ç].
-if ⟨ž⟩ is followed by a front vowel, it is closer to \[ʑ].
+if ⟨h⟩ precedes a vowel, and does not follow a consonant, it is realised as /h/.    
+if it precedes a vowel, and follows a consonant, that consonant becomes aspirated.  
+if it precedes a plosive, or if it follows a vowel but is followed by a consonant, it is realised as /x/.  
+if it closes a front-vowel syllable at the end of a word, it is realised as \[ç].  
+if ⟨ž⟩ is followed by a front vowel, it is closer to \[ʑ].  
 if ⟨š⟩ is followed by a front vowel, it is closer to \[ɕ].
 
 ### Vowels  
