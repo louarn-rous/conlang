@@ -473,6 +473,8 @@ säjs : [num.] 6 (six) {Old 'ses'}
 -> säjse : [ord. num] sixth
 säjc : [num.] 7 (seven) {Old 'sät', Estonian 'seitse'}
 -> säjce : [ord. num] seventh
+-> säjceb : [n.] week {Old 'sätänat'}
+----> säjcevnat : [n.] weekday
 ont : [num.] 8 (eight) {Old 'oht'}
 -> onte : [ord. num] eighth
 nön : [num.] 9 (nine) {French 'neuf', English 'nine'}
@@ -1811,8 +1813,6 @@ nat : [n.] day {? Breton 'mat'}
 ----> natäst : [adv.] diurnally
 -> mitälnat : [n.] afternoon {'mitäl' +}
 -> minat : [n.] midday {'mi(t)-' +}
--> sätänat : [n.] week {'sät' +}
-----> sätänatäs : [n.] weekly
 -> natäslum : [n.] daylight
 -> anat : [v.] dawn
 ----> anatem : [n.] dawning
