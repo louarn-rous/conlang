@@ -1934,11 +1934,11 @@ famil : [n.] family {Latin 'familia' via French 'famille' and English 'family'}
 -> familäs : [adj.] familial
 -> familät : [adj.] familiar
  
-fränd : [n.] friend {English 'friend', German 'Freund'}
--> frändejs : [n.] friendship
--> frändät : [adj.] friendly
-----> frändätt : [adv.] friendlily
-----> afrändät : [v.] befriend
+toms : [n.] friend {Japanese '友'}
+-> tomsejs : [n.] friendship
+-> tomsat : [adj.] friendly
+----> tomsatät : [adv.] friendlily
+----> atomsat : [v.] befriend
 fiänd : [n.] enemy, fiend {Swedish 'fiende'}
 -> fiändät : [adj.] hostile
 ----> fiändätt : [adv.] hostilely
@@ -2299,7 +2299,7 @@ met : [v.] send {Latin 'mitto' +~ 'mät'}
 tac : [v.] [intrans.] touch, reach {Latin 'tango' via English 'tactile'}
 -> tacem : [n.] touch, reach
 
-ir : [v.] [intrans] go, move (oneself) {French 'ira'}
+ir : [v.] [intrans] to go; to move (oneself) {French 'ira'} ##
 -> irejt : [n.] movement
 -> irem : [n.] move
 -> trasir : [v.] [trans] displace, move
@@ -2317,6 +2317,11 @@ ir : [v.] [intrans] go, move (oneself) {French 'ira'}
 -> ucir : [v.] creep, sneak {etym. Latin 'subire' via English 'sudden' and French 'soudain'}
 ----> cirt : [adj.] sudden, abrupt
 -------> cirtät : [adv.] suddenly, abruptly
+
+-> (from)-### : [v.] [intrans.] to come; to arrive {Original}
+-> (by/near)-### : [v.] [trans] to pass; to go by
+----> (over)-(by/near)-### : [v.] [trans] to surpass
+
 nek : [v.] walk {Latin 'anima' via French and English 'animal'}
 -> anek : [v.] to make move; animate, bring to life
 ----> animäs : [adj.] animal
@@ -2325,18 +2330,16 @@ nek : [v.] walk {Latin 'anima' via French and English 'animal'}
 ----> animetem : [n.] animation
 ----> animetejt : [n.] (act of) animation
 ----> animeret : [n.] animation (practice)
-pris : [v.] run {? Original}
+pris : [v.] to run {? Original}
 -> prisem : [n.] run
 -> prisejt : [n.] (act of) running
 -> prisät : [n.] [adj.] cursive (writing)
 ----> prissretem : [n.] cursive script
-vök : [v.] [intrans.] come, arrive {Original}
-jun : [v.] jump {Original} #
-pas : [v.] [trans] pass, go by {French 'passer'}
--> obpas : [v.] [trans] surpass
+jök : [v.] to jump {Original} {Old 'jun' + Old 'vök'} &&&
+-> jökem : [n.] jump &&&
 
-mät : [v.] set, change, assign, put {Latin 'mitto' via French 'mettre'}
--> mätkal : [v.] confirm, verify
+mät : [v.] to set; to change; to assign; to put {Latin 'mitto' via French 'mettre'}
+-> mätkal : [v.] to confirm; to verify
 ----> mätkalem : [n.] confirmation, verification
 ----> mätkalejt : [n.] (act of) confirmation, verification
 -> mättös : [v.] modify, edit
@@ -3091,8 +3094,8 @@ pend : [v.] to weigh; to hang {Latin 'pendo'}
 -> pendejt : [n.] hanging (capital punishment)
 -> pendor : [n.] pendant
 
-räs : [v.] let, allow
--> aräs : [v.] endure, tolerate
+räs : [v.] to let; to allow
+-> aräs : [v.] to endure; to tolerate
 -> aräsejt : [n.] act of tolerating, enduring; tolerance, endurance
 ----> aräsät : [adj.] tolerant
 -------> aräsätt : [adv.] tolerantly
