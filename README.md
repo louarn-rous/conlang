@@ -45,7 +45,7 @@ letters with diacritics should each be substituted for their corresponding digra
 
 | Letter  | ö  | ä  | š  | ž  | č  |
 |:-----   |:-: |:-: |:-: |:-: |:-: |
-| Digraph | oe | ae | sz | zs | ch |
+| Digraph | oe | ae | sz | zs | cs |
 
 When capitalising a word which begins with a digraph, only the first half of the digraph should be in upper case.
 When the entire word is capitalised, both parts of the digraph should be in upper case.
