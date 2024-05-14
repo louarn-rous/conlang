@@ -49,27 +49,16 @@ karot : [n.] carrot {French 'carrote'}
 taj : [n.] day {German 'tag'}
 šiäs : [v.] shit, crap {French 'chiasse', German 'Scheiße'}
 šlog : [n.] poop, feces, shit, dung, crap {Original}
-gupil : [n.] fox {Old/Middle French 'goupil'}
--> gupiläs : [adj.] vulpine
--> gupilu : [n.] fox cub
-käru : [n.] dog {Estonian 'koer'}
--> käruäs : [adj.] canine
--> kärunu : [n.] pup, puppy
-lapin : [n.] rabbit {French}
--> lapinäs : [adj.] leporine
--> lapinti : [n.] kitten (rabbit)
+
 päskret : [n.] (practice of) fishing
 päskör : [n.] angler, fisherman
 patat : [n.] potato {French 'patate'}
-serpe : [n.] snake {Latin 'serpens' via French 'serpent'}
-scarbe : [n.] beetle, scarab {French 'scarabée', English 'scarab'}
+
 haim : [n.] home {German 'Heim'}
 kvardz : [m. unc.] quartz {German 'Quarz' via French and English 'quartz'}
 džangal : [n.] jungle {Hindi 'जंगल' via English 'jungle'}
 džin : [m.] jean {English 'jeans' via German 'Jeans'}
 sübas : [n.] wing {Japanese '翼'}
-lemyr : [n.] ring-tailed lemur (lemur catta)
--> lemyräs : [adj.] lemurine, lemurian
 dragon : [n.] dragon {English, French}
 -> dragonäs : [adj.] draconic
 ----> dragonäst : [adv.] draconically
@@ -79,7 +68,6 @@ zdal : [n.] slab {French 'dalle'}
 fas : [n.] front {French 'face'} 
 dos : [n.] back {French}
 nis : [n.] wheat {Estonian 'nisu'}
-haafu : [n.] owl {Original, onomatopoeic}
 hart : [n.] core, centre {Afrikaans}
 torš : [n.] cloth {Breton 'torch'}
 banier : [n.] banner {French 'banière'}
@@ -93,20 +81,45 @@ man : [n.] hand {Latin 'manus' via French 'main' and English 'manual'}
 -> manäs : [adj.] of or relating to the hand; manual
 ----> manäst : [adv.] manually
 -> mana : [n.] handle
+ravin : [n.] ravine {French 'ravin' & English 'ravine'}
+
+=== plants, vegetables, food ===
+pera : [n.] pear {Italian via Latin 'pirum' via English 'pear'}
+sorsti: [n.] capsicum, bell pepper {'soru' + '-sic'}
+mili : [n.] corn {Afrikaans 'mielie'}
+por : [n.] leek {Latin 'porrum' & Polish}
 säl : [n.] salt {French 'sel'}
 -> säläs : [adj.] saline
 -> asäl : [v.] [trans] salt
-ravin : [n.] ravine {French 'ravin' & English 'ravine'}
+
+=== animals ===
 bov : [n.] cow {Late Latin 'bovinus'}
 -> boväs : [adj.] bovine
 -> bovu : [n.] calf
 leo : [n.] lion {Latin}
-širm : [n.] lizard {Original}
--> širmäs : [adj.] lacertiliane
-vinj : [n.] vine {French 'vigne'}
+torte : [n.] tortoise; turtle (Testudines) {English 'toirtoise', French 'tortue'}
+-> tortäs : [adj.] chelonian
+gupil : [n.] fox {Old/Middle French 'goupil'}
+-> gupiläs : [adj.] vulpine
+-> gupilu : [n.] fox cub
+lapin : [n.] rabbit {French}
+-> lapinäs : [adj.] leporine
+-> lapinti : [n.] kitten (rabbit)
+serpe : [n.] snake {Latin 'serpens' via French 'serpent'}
+scarbe : [n.] beetle, scarab {French 'scarabée', English 'scarab'}
+lemyr : [n.] ring-tailed lemur (lemur catta)
+-> lemyräs : [adj.] lemurine, lemurian
+haafu : [n.] owl {Original, onomatopoeic}
+mono : [n.] monkey {Spanish}
+-> monäs : [adj.] simian
+
+=== people ===
 jan : [n.] person {Toki Pona}
 sipaträ : [n.] uncle
 -> obesipaträ : [n.] great-uncle
+
+vinj : [n.] vine {French 'vigne'}
+
 telefon : [n.] [v.] telephone
 -> telefonina : [n.] telephone call
 -> telefonäs : [adj.] telephonic
@@ -127,12 +140,8 @@ läš : [n.] way, path, method {? Original}
 ulagarda : [n.] [f:marxism] vanguard {'ula' + 'garda'}
 or : [m. unc.] gold {French}
 -> orät : [adj.] golden
-te : [n.] tea {German 'Tee'}
-mili : [n.] corn {Afrikaans 'mielie'}
 zbas : [n.] wing {Japanese '翼'}
-biit : [n.] beet {English 'beet'}
 par : [n.] side, part {Anc. Greek 'παρά'}
-por : [n.] leek {Latin 'porrum' & Polish}
 form : [n.] form {Latin 'forma'}
 -> formäs : [adj.] formal
 ----> formäst : [adv.] formally
@@ -248,6 +257,7 @@ sät : [num.] 7 (seven) {French 'sept'}
 ----> sätänatäs : [n.] weekly
 oht : [num.] 8 (eight) {German 'acht'}
 -> ohte : [ord. num] eighth
+-> ohtfus : [n.] octopus {+ 'fus'}
 des : [num.] 10 (ten) {French 'dix'}
 -> dese : [ord. num] tenth
 sän : [num.] 100 (hundred) {French 'cent'}
@@ -296,7 +306,6 @@ tukon : [n.] lid, cap, top; plug {Korean '뚜껑'}
 
 
 rotu : [n.] wheel {?}
-otryš : [n.] ostrich {French 'otruche'}
 rehb : [v.] [n.] spit {Original}
 pač : [n.] peace {Latin 'pax'}
 -> apač : [v.] appease
