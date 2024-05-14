@@ -197,8 +197,8 @@ si : [cnjc.] if, in the case/condition that, given/supposing/assuming that {Fren
 
 === affixes ===  
 -(d)en : [suf.] pluralizer {German} &&&
--u, -y : [suf.] diminutive {Old '-(n)u', 'tis'}
--> -uti, -yti : [suf.] diminutive (strong)
+
+-tij, -tyj : [suf.] diminutive {Old '-(n)u', 'tis'}
 
 -> -(n)a : [suf.] augmentative ##
 
@@ -287,7 +287,7 @@ mitäl : [dated] {German 'mittel', English 'middle'}
 ----> mit : [n.] middle, centre [adj.] middle, central
 -------> mität : [adj.] mild  
 ----------> mitätt : [adv.] mildly
--> metia : [n.] media
+-> metia : [n.] media #
 
 nord : {French and German, English 'north'}  
 -- [n.] north  
@@ -366,7 +366,7 @@ or : [adj.] (the) next, subsequent {Original}
 
 i : [adj.] (the) current, present {Japanese '今'}   
 -> inat : [n.] today  
-----> ina : [n.] now
+----> ina : [n.] now #
 -------> oräina : [adv.] henceforth, from now on, hereafter
 -> ijät : [adv.] currently  
 -> isät : [prep.] instead of; rather than [adv.] instead, rather {'i' + 'sät'} (joins two clauses)
@@ -487,11 +487,11 @@ jat : [num.] 100 (hundred)
 mil : [num.] 1000 (thousand) {French 'mille'}
 -> mil : [ord. num] thousandth
 
-=== colours/colors : sarvaden ===
-sarva : [n.] colour/color; pigment; hue; shade {German 'Farbe', Lithuanian 'spalva', Finnish 'väri'}
--> asarvan : [v.] to colour/to color; to paint; to shade
+=== colours/colors : sarven ===
+sarv : [n.] colour/color; pigment; hue; shade {German 'Farbe', Lithuanian 'spalva', Finnish 'väri'}
+-> asarvan : [v.] to colour/to color; to paint; to shade #?
 -> sarvasat : [adj.] colourful; vibrant
--> drejsarva : [n.] tricolour/tricolor
+-> drejsarven : [n.] tricolour/tricolor
 blo : [m.] blue {Swedish 'blå'}
 brön : [m.] brown {English 'brown' + 'grön'}
 gäl : [m.] yellow {Swedish 'gul', German 'Gelb', Dutch 'geel'}
@@ -509,57 +509,57 @@ rus : [m.] reddish-brown {French 'rousse'}
 === animals : animäten ===
 brin : [n.] cow (Bovinae) {Breton 'brini'}
 -> brinäs : [adj.] bovine
--> brinyti : [n.] calf
+-> brinij : [n.] calf
 -> brinent : [n. unc.] cattle
 bos : [n.] ox, bull (Bos taurus) {Latin}
 -> bosent : [n.] beef
 pors : [n.] pig; swine; hog (Sus domesticus) {Latin 'Porcus' via French 'porc'}
 -> porsas : [adj.] porcine
--> porsti : [n.] piglet
+-> porstij : [n.] piglet
 kuz : [n.] sheep (Ovis aries) {Turkish 'kuzu'}
 -> kuzas : [adj.] ovine
--> kuzti : [n.] lamb
+-> kuztij : [n.] lamb
 -> kuzbrykör : [n.] shepherd {+ 'bryk' + '-ör'}
 bok : [n.] goat (Capra) {Afrikaans}
 -> bokas : [adj.] caprine
--> bokti : [n.] kid
+-> bokij : [n.] kid
 ekus : [n.] horse (Equus ferus) {Latin 'equus'}
 -> ekusas : [adj.] equine
--> ekusti : [n.] foal
+-> ekustij : [n.] foal
 az : [n.] donkey (Equus africanus asinus; Equus asinus) {Breton 'azen'}
 -> azas : [adj.] asinine
--> azti : [n.] donkey foal
+-> aztij : [n.] donkey foal
 kip : [n.] fox (Vulpini, incl. Vulpes) {Old 'gupil', Finnish 'kettu'}}
 -> kipäs : [adj.] vulpine
--> kipti : [n.] fox cub
+-> kipij : [n.] fox cub
 kot : [n.] cat (Felis catus) {Polish, English 'cat', German 'Katze'}
 -> kotas : [adj.] feline
--> kotti : [n.] kitten
+-> kottij : [n.] kitten
 käry : [n.] dog (Canis familiaris) {Estonian 'koer'} #
 -> kärynäs : [adj.] canine
--> käryti : [n.] pup, puppy
+-> kärytyj : [n.] pup, puppy
 luv : [n.] wolf (Canis lupus) {Latin 'lupus' via French 'louve'} #
 -> luvas : [adj.] lupine
--> luvti : [n.] wolf cub
+-> luvtij : [n.] wolf cub
 lappu : [n.] rabbit; hare (Leporidae, incl. Lepus) {Old 'lapin', Latin 'lepus'}
 -> lappunas : [adj.] leporine
--> lapputi : [n.] kitten (rabbit)
+-> lapputij : [n.] kitten (rabbit)
 myz : [n.] mouse (Mus) {English 'mouse', French 'souris'}
 -> myz : [n.] computer mouse
--> myzyti : [n.] mouse pup
+-> myztyj : [n.] mouse pup
 -> myzäs : [adj.] musine
 rat : [n.] rat (Rattus) {English, Latin 'rattus' via French 'rat'}
 leon : [n.] lion (Panthera leo) {Old 'leo'}
 -> leonas : [adj.] leonine
--> leonti : [n.] lion cubPanthera
-pantär : [n.] panther (Panthera, esp. Panthera pardus and Panthera onca) {French 'panthère', Serbian 'пантери'}
--> pantärti : [n.] panther cub
+-> leonij : [n.] lion cubPanthera
+panter : [n.] panther (Panthera, esp. Panthera pardus and Panthera onca) {French 'panthère', Serbian 'пантери'}
+-> panterij : [n.] panther cub
 urs : [n.] bear (Ursidae) {Latin 'ursus'}
 -> ursas : [adj.] ursine
--> ursti : [n.] bear cub
+-> urstij : [n.] bear cub
 blär : [n.] badger (Mustelidae, esp. Meles meles) {French 'blaireau'} &&&
 -> bläräs : [adj.] meline
--> blärti : [n.] badger cub
+-> blärij : [n.] badger cub
 -> stamblär : [n.] pangolin (Pholidota, esp. Manidae)
 lämyr : [n.] ring-tailed lemur (Lemur, esp. Lemur catta)
 -> lämyräs : [adj.] lemurine, lemurian
@@ -596,7 +596,7 @@ koi : [n.] moth (Lepidoptera, excl. Rhopalocera) {Finnish}
 
 rojs : [n.] bird (Aves) {Old 'oris'}
 -> rojsas : [adj.] avian
--> rojsti : [n.] bird chick
+-> rojstij : [n.] bird chick
 taub : [n.] dove (Columbidae) {Swedish 'duva', German 'Taube'} 
 agräl : [n.] eagle; hawk (Accipitridae, esp. Aquila) {Latin 'aquila' via French 'aigle and English 'eagle'}
 -> agräläs : [adj.] aquiline
@@ -604,10 +604,11 @@ falk : [n.] falcon (Falco)
 -> falkas : [adj.] falconine
 alar : [n.] swan {Breton "alarc'h"}
 -> alaras : [adj.] cygnine
+-> alarij : [n.] swaling
 storh : [n.] stork (Ciconiidae) {German 'Storch'}
 otrus : [n.] ostrich (Struthio) {French 'otruche'}
 pol : [n.] chicken {Spanish 'pollo'}
--> polu : [n.] chick
+-> poltij : [n.] chick
 -> polent : [n.] poultry
 ----> polentäs : [adj.] relating to poultry
 gal : [n.] rooster, hen {Latin 'gallus'}
@@ -1315,9 +1316,9 @@ vet : [n.] age {Latin 'vetus'}
 ----> avetejt : [n.] aging
 
 ötren : [n.] problem; issue; concern {Original}
--> ötrena : [n.] crisis #
+-> ötrena : [n.] crisis #aug
 -> ötrenäs : [adj.] problematic
--> ötrenu : [n.] trouble #
+-> ötrenu : [n.] trouble #dim
 
 niväl : [n.] level {English 'level', French 'niveau'}
 strat : [n.] layer {Latin 'stratum' via English}
@@ -1465,14 +1466,14 @@ gad : [adj.] happy, glad {~ English 'glad', ? Breton}
 -> gadät : [adv.] happily
 -> agad : [v.] to make happy
 -> gadejs : [n.] joy, happiness
-----> gadejsa : [n.] bliss
+----> gadejsa : [n.] bliss #
 ----> gadejssat : [adj.] joyous; funny, humorous
 -> gada : [adj.] ecstatic
 cer : [adj.] sad {Original}
 -> acer : [v.] to make sad
 -> cerät : [adv.] sadly
 -> cerejs : [n.] sadness, grief
-----> cerejsa : [n.] [common] depression
+----> cerejsa : [n.] [common] depression #
 ----> vältcerejs : [n.] weltschmerz
 vurt : [v.] envy, be jealous of {? ~ French 'vouloir', English 'want'}
 -> vurtem : [n.] envy, jealousy
@@ -1662,9 +1663,8 @@ post : [n.] pole, post; trunk {French 'poteau', English 'post'}
 ----> manpostu : [n.] handlebar
 -> uisespost : [n.] fire hydrant
 pot : [n.] pot, vase {French and English}
-linn : [n.] line, string, cord, rope {French 'ligne', later ~ Latin 'linea'}
+linn : [n.] line, string, cord, rope; cable, wire {French 'ligne', later ~ Latin 'linea'}
 -> lektrestörlinn : [n.] telephone line
--> linna : [n.] cable, wire
 lozanž : [n.] rhombus, lozange [n.] pill or tablet, esp. one shaped like a rhombus {French 'losange'}
 rad : [n.] ray {Latin 'radius' via English 'radio'}
 -> erad : [v.] irradiate
@@ -1816,8 +1816,8 @@ nošt : [n.] night {Russian 'ночь', German 'Nacht'}
 -> mitenošt : [n.] time of night past midnight {'mitäl' +}
 -> minošt : [n.] midnight {'mi(t)-' +}
 damer : [n.] dusk {German 'Dämmerlicht'}
-aurora : [n.] aurora {Latin via English and via French 'aurore'}
--> aurora boreal : [n.] aurora borealis
+aurore : [n.] aurora {Latin 'aurora' via English and via French 'aurore'}
+-> aurore boreal : [n.] aurora borealis
 säkond : [n.] second {French 'seconde', English 'second'}
 minut : [n.] minute {French, English 'minute'}
 uur : [n.] hour {German 'Uhr'}
@@ -1840,7 +1840,7 @@ tän : {French 'temps', Italian 'tempo', English 'time'}
 ----> ultän : [n.] past {'ul' + }
 ----> ortän : [n.] future {'or' + }
 ----> itän : [n.] present {'i' + }
--------> ita : [n.] now
+-------> ita : [n.] now #
 ----> nattän : [n.] daytime
 ----> nošttän : [n.] nighttime
 -- [v.] to measure time
@@ -2082,7 +2082,7 @@ letä : [n.] letter, text, book {Latin 'littera'}
 ---> letänomi : [n.] librarian
 
 === the sciences : er siencade ===
-sienca : [n.] science {Italian 'scienza', French and English 'science'}
+sienca : [n.] science {Italian 'scienza', French and English 'science'} #
 -> siencäs : [adj.] scientific
 ----> siencäst : [adv.] scientifically
 matematik : [n.] mathematics, maths {German 'Mathematik'}
@@ -2880,9 +2880,9 @@ fräj : [v.] fear {French 'effrayer', English 'fear'}
 ----> fräjemver : [adj.] fearful, fearsome
 
 grom : [v.] to groan; to rumble {Serbian 'гром'} ##
--> gromem : [n.] groan
+-> gromem : [n.] groan #
 -> gromejt : [n.] groaning, rumbling
--> groma : [n.] thunder
+-> groma : [n.] thunder #
 
 träg : [v.] to wear {German 'tragenen'}
 -> aträg : [v.] to dress
@@ -3268,7 +3268,7 @@ päs : [v.] [trans] feed, nourish {Original}
 -> päsem : [n.] food, nourishment
 ----> vistpäsem : [n.] fast-food
 -> päsejt : [n.] meal, dinner, lunch
-----> päsejta : [n.] feast, buffet
+----> päsejta : [n.] feast, buffet #aug
 
 grafit : [v.] to scribble; to graffiti {Italian 'graffiti' via English and French'}
 -> grafitem : [n.] scribble; grafitti
@@ -3300,7 +3300,7 @@ pen : [v.] fine, punishment {Latin 'poena' via English 'penalty' and French 'pei
 -> penäs : [adj.] penal
 ----> penäst : [adv.] penally
 -> penem : [n.] penalty
-----> penema : [n.] (act of) punishment
+----> penema : [n.] (act of) punishment #act
 -> uspen : [v.] excuse, pardon {'ust'+ }
 ----> uspenstejs : [n.] being forgiving forgiveness
 ----> uspenem : [n.] excuse, pardon
@@ -3822,7 +3822,7 @@ opag : [adj.] opaque {Latin 'opacus'}
 -> opagejs : [n.] state of being opaque; opacity
 
 === vulgar ===
-bata : [n.] imbecile, bastard {French 'bâtard', English 'bastard', Japanese 'ばか'}
+batak : [n.] imbecile, bastard {French 'bâtard', English 'bastard', Japanese 'ばか'}
 lidi : [n.] idiot
 -> lidisic: [adj.] stupid, dumb
 ----> lidistinät : [adv.] stupidly
