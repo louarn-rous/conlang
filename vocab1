@@ -59,7 +59,7 @@ us : [prep.] ablative, genitive ('from', 'of', 'by', authorship)
 ot : [prep.] allative (to, for) {Old 'öd'}
 -> otuz : [adv.] together  
 -> ote : [prep.] benefactive ('for', 'emfavour/support/the objective of', 'so that')
-----> ote : [n.] pro (reason emfavour of something)
+----> otem : [n.] pro (reason emfavour of something)
 -> otvär : [adj.] towards  
 ----> otvärt : [adv.] towards  
 
@@ -348,7 +348,7 @@ yl : [adj.] (the) previous, anticedent {Original}
 ----> ylnät : [adv.] primordially, firstly
 -> yl(a)- : [prf.] preceding ('pre-')  
 -> ödyl : [prep.] [cnjc.] until
--> ylče : [n.] (the) former (first mentioned)
+-> ylčem : [n.] (the) former (first mentioned)
 -> ylnat : [n.] yesterday
 or : [adj.] (the) next, subsequent {Original}
 -> ora : [adj.] after  
@@ -358,10 +358,10 @@ or : [adj.] (the) next, subsequent {Original}
 -> or(a)- : [prf.] succeeding ('post-')  
 -> ore : [cnjc.] then  
 -> döhor : [prep.] [cnjc.] since
--> uzore : [n.] consequence
+-> uzorem : [n.] consequence
 ----> uzoräs : [adj.] consequential
 -------> uzoräst : [adv.] consequentially
--> orče : [n.] (the) latter
+-> orčem : [n.] (the) latter
 -> ornat : [n.] tomorrow
 
 i : [adj.] (the) current, present {Japanese '今'}   
@@ -477,6 +477,7 @@ säjc : [num.] 7 (seven) {Old 'sät', Estonian 'seitse'}
 ----> säjcevnat : [n.] weekday
 ont : [num.] 8 (eight) {Old 'oht'}
 -> onte : [ord. num] eighth
+-> ontfus : [n.] octopus {'ont' + 'fus'}
 nön : [num.] 9 (nine) {French 'neuf', English 'nine'}
 -> nöne : [ord. num] ninth
 sejd : [num.] 10 (ten) {Original}
@@ -534,10 +535,10 @@ kip : [n.] fox (Vulpini, incl. Vulpes) {Old 'gupil', Finnish 'kettu'}}
 kot : [n.] cat (Felis catus) {Polish, English 'cat', German 'Katze'}
 -> kotas : [adj.] feline
 -> kotti : [n.] kitten
-käry : [n.] dog (Canis familiaris) {Old 'käru'}
+käry : [n.] dog (Canis familiaris) {Estonian 'koer'} #
 -> kärynäs : [adj.] canine
 -> käryti : [n.] pup, puppy
-luv : [n.] wolf (Canis lupus) {Latin 'lupus' via French 'louve'}
+luv : [n.] wolf (Canis lupus) {Latin 'lupus' via French 'louve'} #
 -> luvas : [adj.] lupine
 -> luvti : [n.] wolf cub
 lappu : [n.] rabbit; hare (Leporidae, incl. Lepus) {Old 'lapin', Latin 'lepus'}
@@ -571,10 +572,11 @@ mustel : [n.] weasel; mink; ferret (Mustela, esp. Mustela nivalis) {Latin 'muste
 -> mustelsti : [adj.] cunning, sneaky, devious
 ----> mustelstijät : [adv.] cunningly, sneakily, deviously
 
-sirm : [n.] lizard (Squamata, excl. Serpentes) {Old 'širm'}
+sirm : [n.] lizard (Squamata, excl. Serpentes) {Original}
 -> sirmäs : [adj.] lacertilian
-torte : [n.] tortoise; turtle (Testudines) {English 'toirtoise', French 'tortue'}
--> tortäs : [adj.] chelonian
+bort : [n.] tortoise; turtle (Testudines) {Old 'torte', Breton 'baot'} &&&
+-> bortäs : [adj.] chelonian
+-> marbort : [n.] sea turtle
 serp : [n.] snake (Serpentes) {Latin 'serpens' via French 'serpent'}
 -> serpäs : [adj.] ophidian
 -> serpät : [adj.] serpentine
@@ -585,7 +587,7 @@ segetim : [n.] insect {'sek(et)' + '-im'}
 mostik : [n.] mosquito (Culicidae) {French 'moustique', English 'mosquito'}
 apiä : [n.] bee (Anthophila) {Latin 'apis'}
 -> apijäs : [n.] apian
--> apiätyd : [n.] apiary
+-> apiätyd : [n.] hive; apiary {+ 'tyd'}
 bardot : [n.] bumblebee (Bombus) {Catalan 'borinot', ~ Breton 'sardon', ~ French 'bourdon'}
 skarb : [n.] beetle, scarab (Coleoptera, esp. Scarabaeidae) {Old 'scarbe'}
 musk : [n.] fly (Muscidae, esp. Musca domestica) {Latin 'musca' via French 'mouche'}
@@ -602,8 +604,8 @@ falk : [n.] falcon (Falco)
 -> falkas : [adj.] falconine
 alar : [n.] swan {Breton "alarc'h"}
 -> alaras : [adj.] cygnine
-stor : [n.] stork {German 'Storch'}
-otrus : [n.] ostrich {Old 'otryš'}
+storh : [n.] stork (Ciconiidae) {German 'Storch'}
+otrus : [n.] ostrich (Struthio) {French 'otruche'}
 pol : [n.] chicken {Spanish 'pollo'}
 -> polu : [n.] chick
 -> polent : [n.] poultry
@@ -614,14 +616,14 @@ korv : [n.] crow, raven {Japanese '烏', Latin 'corvus' via English 'corvid' and
 -> korvas : [adj.] corvine
 parok : [n.] parrot, parrakeet {English 'parrot', French 'perroquet'}
 -> parokas : [adj.] psittacine
-huulu : [n.] owl {Original, onomatopoeic}
+huulu : [n.] owl (Strigiformes) {Original, onomatopoeic. unconscious borrowing from French 'hululer'} #
 
 
-žiraf : [n.] giraffe {French 'giraffe'}
+žiraf : [n.] giraffe (Giraffa) {French 'giraffe'}
 -> žirafäs : [adj.] giraffine
 
-mono : [n.] monkey {Spanish}
--> monäs : [adj.] simian
+somon : [n.] monkey (Simiiformes) {Old 'mono', Latin 'simia'}
+-> somonäs : [adj.] simian
 
 päsk : [n.] fish {Breton 'pesk'}
 -> päsktemätör : [n.] fishmonger
@@ -636,17 +638,13 @@ arän : [n.] spider {Latin 'aranea' + via French 'araignée'}
 -> aränäs : [adj.] arachnid
 
 malsäd : [n.] mollusk {'mals' + 'maid'}
-lusi : [n.] slug {~ French 'limace'}
--> lusijäs : [adj.] limacine
-skyrne : [n.] snail {~ French 'escargot'}
-luzd : {? French 'lombric'}
--- [n.] worm
-----> luzdäs : [adj.] vermicular
+lusig : [n.] slug (unshelled Gastropoda) {~ French 'limace'}
+skyrn : [n.] snail (shelled Gastropoda) {~ French 'escargot'}
+luzd : [n.] worm {? French 'lombric'}
+-> luzdäs : [adj.] vermicular
 
-pelaa : [n.] clam; mussel {Latin 'peloris' via French 'palourde'}
+pelaas : [n.] clam; mussel {Latin 'peloris' via French 'palourde'}
 ostre : [n.] oyster {Latin 'ostrea' via English 'oyster' & German 'Auster' & French 'huître'}
-
-ohtfus : [n.] octopus {'oht' + 'fus'}
 
 === crops, food, drink, vegetables, produce, fruits, spices ===
 sorgad : [n.] carrot {Original}
@@ -661,24 +659,24 @@ mijl : [n.] corn {Afrikaans 'mielie'}
 ris : [n.] rice {French 'riz', English 'rice'}
 abercin : [n.] eggplant {Catalan 'albergínia' via French 'aubergine'}
 kurbite : [n.] gourd, squash; pumpkin {Latin 'cucurbita'}
-sorsti: [n.] capsicum, bell pepper {'soru' + '-sic'}
+borst: [n.] capsicum; bell pepper {eclipsed Old 'sorsti'}
 melon : [n.] melon {English}
 tomat : [n.] tomato {French 'tomate'}
 pomegrenaat : [n.] pomegranate {Italian 'pomogranato' + via English 'pomegranate'} 
-pera : [n.] pear {Italian via Latin 'pirum' via English 'pear'}
+pörd : [n.] pear {eclipsed Old 'pera'}
 sitre : [n.] citrus; lemon {Latin 'citrus' via English, French 'citron'}
 -> grönsitre : lime {'grön' + }
 limonat : [n.] lemonade {Italian 'limonata'}
 mange : [n.] mango {Portugese 'manga' via English 'mango'}
-papaja : [n.] papaja {English 'papaya')
+papaje : [n.] papaya {English 'papaya'}
 onion : [n.] onion {French 'oignon'}
-porra : [n.] leek {Old 'por'}
-guso : [n.] garlic {~ French 'gousse'}
+porra : [n.] leek {Old 'por'} #
+guso : [n.] garlic {~ French 'gousse'} #
 soj : [n.] soy {Satsuma Jp. '醤油' via Dutch 'soja' via French 'soja' and English 'soy'}
 nys : [n.] nut {French 'noix', English 'nut'}
 -> nysket : [n.] peanut {'nus' + French 'cacahuète'}
--> nysdat : [n.] [derog.] bag of nuts
-makademia : [n.] macadamia
+-> nysdat : [n.] [derog.] bag of nuts; nutcase, idiot
+makademia : [n.] [uncountable] macadamia
 pevre : [n.] pepper (spice) {French 'poivre'}
 frut : {French, English 'fruit'}
 -- [n.] fruit
@@ -703,19 +701,19 @@ sau : [n.] sauce {Old French 'sause' via English and French 'sauce'}
 frit : [n.] [v.] fry {French 'frite'}
 -> fritt : [adj.] fried
 sup : [n.] soup, stew {French 'soupe'}
-koko : [n.] cocoa {French 'cacao', English 'cocoa'}
-šokola : [m.] chocolate {French 'chocolat', Russian 'шоколад'}
+koko : [n.] [uncountable] cocoa {French 'cacao', English 'cocoa'}
+šokolad : [m.] chocolate {French 'chocolat', Russian 'шоколад'}
 tart : [n.] tart {French 'tarte'}
 formaž : [n.] cheese {Italian 'formaggio' via French 'fromage'}
 maskarpon : [n.] mascarpone {Italian 'mascarpone' via French and English}
 čädar : [n.] Cheddar (cheese) {English 'Cheddar'}
-tee : [n.] tea {German 'Tee'}
-kajpa : [n.] cake {Original}
+tee : [n.] [uncountable] tea [countable] {German 'Tee'}
+kajpa : [n.] cake {Old 'kajpa'} #
 kafe : [n.] coffee {German 'Kaffee'}
 -> kafesötör : [n.] coffee machine
 akal : [n.] alcohol {Arabic 'أَكْحَال' via English 'alcohol' and French 'alcool'}
 -> akaläs : [adj.] alcoholic
-vodka : [n.] vodka {Russian 'водка' via French, English 'vodka'}
+vodka : [n.] [uncountable] vodka {Russian 'водка' via French, English 'vodka'}
 bier : [n.] beer {French 'bière'}
 šistr : [n.] cider {Breton 'chistr'}
 jogurt : [n.] yogurt
@@ -876,7 +874,7 @@ sal : [n.] salt {Old 'säl'}
 -> salaj : [adj.] salty 
 kav : [n.] cave, basement {French 'cave'}
 -> kavör : [n.] spelunker {'kav' + '-ör'} 
-tergana : [n.] ravine {French 'ravin' & English 'ravine'}
+tergan : [n.] ravine {'ter' + 'gan'}
 kratär : [n.] crater {French 'cratère'}
 lic : [n.] shore {Latin 'litus' via French 'littoral'}
 -> alic : [adj.] ashore
@@ -1052,8 +1050,8 @@ drog : {English 'drug', French 'drogue'}
 eskrän : {French 'écran', English 'screen'}
 -- [n.] monitor, computer screen
 -- [v.] screen, display
-otomobil : [n.] [formal] car {French 'automobile', also via Russian 'автомобиль'}
--> oto : [n.] [common] car 
+otomobil : [n.] [formal] car {French 'automobile', also via Russian 'автомобиль'} ## replace with native constructed
+-> oto : [n.] [common] car
 ----> ototröbör : [n.] [common] car mechanic
 piston : {English, French}
 -- [n.] piston
@@ -1061,9 +1059,7 @@ piston : {English, French}
 tram : {English}
 -- [n.] tram
 -- [v.] [intrans] commute by tram
-trän : {English 'train', French 'train'}
--- [n.] train
--- [v.] [intrans] commute by train
+trän : [n.] train {English 'train', French 'train'}
 radio : {English, French}
 -- [n.] radio reciever or transmitter
 -- [v.] communicate with by radio
@@ -1091,7 +1087,7 @@ kinematograf : [n.] cinematography [dated] moving picture {French 'cinématograp
 -> kinematografäs : [adj.] cinematographic
 -> kinematograför : [n.] cinematographer
 -> kine : [n.] film, motion picture
-----> kina : [n.] cinema
+----> kinom : [n.] cinema
 ----> kinu : [n.] movie, flic
 theatrom : [n.] theatre; stage; stadium; gallery {Latin 'theatrum'}
 -> theatret : [n.] theatre (practice)
@@ -1111,8 +1107,8 @@ muzik : [n.] music {German 'Musik', French 'musique'}
 -> muzikäs : [adj] musical
 ----> muzikäst : [adv.] musically
 saksofon : [n.] saxophone {French 'saxophone' also via English}
-piano : [n.] piano {Italian}
-toba : [n.] drum {Romanian 'tobă'}
+piano : [n.] piano {Italian} #?
+toba : [n.] drum {Romanian 'tobă'} #?
 
 === society, politics, government ===
 nacion : [n.] nation; body of people {Latin 'natio' via French 'nation' and German 'Nation'}
@@ -1321,10 +1317,10 @@ vet : [n.] age {Latin 'vetus'}
 -> avet : [v.] age
 ----> avetejt : [n.] aging
 
-ötren : [n.] problem, issue; concern {Original}
--> ötrena : [n.] crisis
+ötren : [n.] problem; issue; concern {Original}
+-> ötrena : [n.] crisis #
 -> ötrenäs : [adj.] problematic
--> ötrenu : [n.] trouble
+-> ötrenu : [n.] trouble #
 
 niväl : [n.] level {English 'level', French 'niveau'}
 strat : [n.] layer {Latin 'stratum' via English}
@@ -1448,7 +1444,7 @@ enor : [v.] honour {Breton}
 -> enorem
 -> enorfär : [adj.] honourable
 ----> enorfärt : [adv.] honourably
-gloria : [n.] glory {Latin}
+gloria : [n.] glory {Latin} #
 -> glorisat : [n.] glorious
 ----> glorisät : [v.] gloriously
 -> aglor : [v.] glorify
@@ -1580,7 +1576,7 @@ posion : [n.] potion {French, English 'potion'}
 === historical ===
 armur : [n.] armor {French 'armure' via English}
 klad : [n.] sword {Proto-Celtic '*kladiwos' via French 'glaive'}
-špea : [n.] spear {German 'Speer', English 'spear'}
+šper : [n.] spear {German 'Speer', English 'spear'}
 stam : [n.] shield {?}
 kastäl : [n.] castle; fort {Breton 'kastell'}
 -> kastälu : [n.] fortress
@@ -2886,7 +2882,7 @@ fräj : [v.] fear {French 'effrayer', English 'fear'}
 -> fräjem : [n.] fear
 ----> fräjemver : [adj.] fearful, fearsome
 
-grom : [v.] to groan; to rumble {Serbian 'гром'}
+grom : [v.] to groan; to rumble {Serbian 'гром'} ##
 -> gromem : [n.] groan
 -> gromejt : [n.] groaning, rumbling
 -> groma : [n.] thunder
