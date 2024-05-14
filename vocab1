@@ -1,7 +1,7 @@
 === determinants ===
-er : [det.] definite ('the') {Breton 'ar'}  
+er : [det.] definite (the) {Breton 'ar'}  
 -> s'er [cntrc.] of the  
-en : [det.] indefinite ('a'/'an', 'some') [num.] 1 (one) {English 'an', French 'un(e)'} &&&
+en : [det.] indefinite ('a'/an', some) [num.] 1 (one) {English 'an', French 'un(e)'} &&&
 -> s'en [cntrc.] of a/an/some
 -> asen : [v.] unite, unify &&&
 ----> asenem : [n.] union &&&
@@ -53,7 +53,7 @@ ceni : [det.] some, a part of
 čej : [det.] those, the ones
 
 === prepositions ===
-us : [prep.] ablative, genitive ('from', 'of', 'by', authorship)  
+us : [prep.] ablative, genitive (from, of, by, authorship)  
 -> ussa : [prep.] beyond, further than
 -> usam : [prep.] away from, off
 ot : [prep.] allative (to, for) {Old 'öd'}
@@ -63,7 +63,7 @@ ot : [prep.] allative (to, for) {Old 'öd'}
 -> otvär : [adj.] towards  
 ----> otvärt : [adv.] towards  
 
-im : [prep.] em (locative: contained by, withemthe bounds of, part of, into) ('at', 'in') {German} &&&
+im : [prep.] em (locative: contained by, withemthe bounds of, part of, into) (at, in) {German} &&&
 -> im- : [prf.] inwards ('in')
 -> imtrom : [n.] interior
 -> imäs : [adj.] inner, internal
@@ -1004,10 +1004,11 @@ geb : [n.] leg {Original}
 -> trigeb : [n.] tripod [adj.] three-legged
 brac : [n.] arm {Latin 'bracchium'}
 -> bracäs : [adj.] pertaining to the arm
-syt : [v.] sweat [n.] sweat; residue {French 'suant'}
+syt : [v.] sweat {French 'suant'} &
+-> sytem : [n.] sweat; residue
 fus : [n.] foot {German 'Fuß'}
 -> fusäs : [adj.] pedal
-kint : [n.] cheek {Swedish}
+kint : [n.] cheek {Swedish} &&
 -> kintäs : [adj.] buccal
 hepas : [n.] liver {Latin 'hepaticus'}
 -> hepasäs : [adj.] hepatic
@@ -1042,9 +1043,7 @@ girenk : [n.] machine; engine; contraption {Original}
 -> girekret : [n.] engineering (field)
 
 drog : {English 'drug', French 'drogue'}
--- [n.] medicinal substance
--- [n.] narcotic, hallucinogen or stimulant
--- [n.] [figurative] having the effect of a drug, addictive
+-- [n.] medicinal substance [n.] narcotic; hallucinogen; stimulant [n.] [figurative] having the effect of a drug, addictive
 -- [v.] [trans] administer a drug to
 -- [v.] [trans] add drugs to (food or drink)
 eskrän : {French 'écran', English 'screen'}
@@ -1056,13 +1055,11 @@ otomobil : [n.] [formal] car {French 'automobile', also via Russian 'автом�
 piston : {English, French}
 -- [n.] piston
 -- [v.] to move in and out of or into, like a piston
-tram : {English}
--- [n.] tram
--- [v.] [intrans] commute by tram
+tram : [n.] tram {English}
 trän : [n.] train {English 'train', French 'train'}
-radio : {English, French}
--- [n.] radio reciever or transmitter
--- [v.] communicate with by radio
+radio : {English, French} !!
+-- [n.] radio reciever or transmitter !!
+-- [v.] communicate with by radio !!
 
 === tools : utejen ===
 fals : [n.] sickle {Catalan 'falç'}
