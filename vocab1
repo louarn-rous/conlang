@@ -730,7 +730,7 @@ nist : [n.] wheat {Old 'nis'}
 läj : [n.] yeast; leavening agent (Estonian 'leib', French 'levure')
 glutän : [n.] gluten
 past : [n.] pasta {Italian 'pasta', French 'pâte'}
-spagetti : [n.] spaghetti {Italian 'spaghetti'}
+spagetti : [n.] spaghetti {Italian 'spaghetti'} #
 šam : [n.] ham
 hamburgir : [n.] hamburger {English 'hamburger'}
 patee : [n.] pâté; patty {French 'pâté', + via English 'patty'}
@@ -749,9 +749,9 @@ akašia : [m.] acacia {English, French 'acacia'}
 lilak : [n.] lilac {English 'lilac'}
 -> lila : [adj.] purple {Estonian 'lilla'}
 föl : [n.] leaf [n.] feather {French 'feuille'}
--> fölti : [n.] leaflet, strip of paper
+-> föltij : [n.] leaflet, strip of paper
 byis : [n.] bush {Dutch, Afrikaans}
--> byisti : [n.] shrub
+-> byistij : [n.] shrub
 vit : [n.] vine {Latin 'vitis'}
 tärv : [n.] grass, herb {Old 'trav', Old 'härb'}
 -> tärväs : [adj.] herbal
@@ -814,7 +814,7 @@ haj : [n.] shark {Swedish}
 -> hajäs : [adj.] selachian
 byj : [n.] buoy
 veg : [n.] [v.] wave {French 'vague', English 'wave'}
--> vegu : [n.] wavelet
+-> vegij : [n.] wavelet
 -> lektreveg : [n.] radio wave; airwave {calque of Japanese '電波'}
 
 === geological, mineral, geographic ===
@@ -886,7 +886,7 @@ mont : {Latin 'montem' via French 'mont'}
 ----> montirör : [n.] mountaineer {'mont' + 'ir' + '-ör'}
 ----> montäs : [adj.] mountainous
 -------> montäst : [adv.] mountainously
-----> montu : [n.] hill, mound; pile
+----> montij : [n.] hill, mound; pile
 -- [v.] [trans] to tower over, to dwarf
 min : {French 'mine'}
 -- [n.] mine, mineshaft
@@ -984,9 +984,9 @@ kejs : [n.] hand {~ Estonian & Finnish 'käsi', Hungarian 'kéz'}
 ----> kejsäst : [adv.] manually
 -> kejsom : [n.] handle
 dist : [n.] finger, digit {Latin 'digitus' via English 'digit' and French 'doigt'}
--> distu : [n.] (numerical) digit
-----> distunäs : [adj.] digital
--------> distunäst : [adv.] digitally
+-> distij : [n.] (numerical) digit
+----> distijäs : [adj.] digital
+-------> distijäst : [adv.] digitally
 -> distäs : [adj.] pertaining to the finger
 räš :
 -- [n.] flesh, meat
@@ -1084,9 +1084,8 @@ flis : {Frisian 'fluitsje', French 'siffle(t)'}
 kinematograf : [n.] cinematography [dated] moving picture {French 'cinématographe', German 'Kino'}
 -> kinematografäs : [adj.] cinematographic
 -> kinematograför : [n.] cinematographer
--> kine : [n.] film, motion picture
+-> kine : [n.] film, motion picture, movie
 ----> kinom : [n.] cinema
-----> kinu : [n.] movie, flic
 theatrom : [n.] theatre; stage; stadium; gallery {Latin 'theatrum'}
 -> theatret : [n.] theatre (practice)
 -> theaträs : [adj.] theatrical (pertaining to theatre)
@@ -1215,8 +1214,8 @@ res : [n.] thing, matter {Latin}
 -> resäs : [adj.] actual, real
 ----> resäst : [adv.] actually, really
 ----> resäsejs : [n.] reality; the state of being actual, real
--> resti : [n.] material, substance
-----> restient : [n.] substance, composition
+-> restij : [n.] material, substance
+----> restijent : [n.] substance, composition
 -> ares : [v.] compose (be a part of)
 ----> aresejt : [n.] act of composing; composition
 ----> aresem : [n.] composition, makeup
@@ -1306,10 +1305,10 @@ sort : [n.] fate, fortune; destined {Latin 'sors'}
 undär : [n.] wonder {Icelandic 'undur'}
 -> undärver : [adj.] wonderful (worthy of wonder
 
-fogu : [n.] [f:optics] focus {English 'focus'}
--> afogu : [v.] [trans] put into focus, focus on
--> fogut : [adj.] focused; subject of focus
-----> nefogut : [adj.] unfocused; not the subject of focus
+fogul : [n.] [f:optics] focus {English 'focus'}
+-> afogul : [v.] [trans] put into focus, focus on
+-> fogulest : [adj.] focused; subject of focus
+----> nefogulest : [adj.] unfocused; not the subject of focus
 
 vet : [n.] age {Latin 'vetus'}
 -> avet : [v.] age
@@ -1318,7 +1317,7 @@ vet : [n.] age {Latin 'vetus'}
 ötren : [n.] problem; issue; concern {Original}
 -> ötrena : [n.] crisis #aug
 -> ötrenäs : [adj.] problematic
--> ötrenu : [n.] trouble #dim
+-> ötrenyj : [n.] trouble
 
 niväl : [n.] level {English 'level', French 'niveau'}
 strat : [n.] layer {Latin 'stratum' via English}
@@ -1329,7 +1328,7 @@ kut : [n.] coat, layer {English 'coat', French 'couche'}
 -> akut : [v.] coat
 ----> akutin(a) : [n.] coating
 stras : [n.] road; street {Latin 'strata' via Italian 'strada' and German 'Straße'}
--> strasu : [n.] alleyway, lane
+-> strastij : [n.] alleyway, lane
 vaj : [n.] way, path, method [prep.] by means of, according to {Latin 'via'}
 -> ödvaj : [adj.] immediate, obvious, accessible
 ----> ödväjst : [adv.] obviously
@@ -1342,14 +1341,14 @@ sijnek : [n.] edge, boundary, border {Original}
 ----> asijnekest : [adj.] limited, bound
 ----> nasijnekest : [adj.] unlimited, unrestricted
 -> sijnekejs : [n.] state of being on the edge, of being borderline; hesitancy
--> sijnekyti : [n.] bordure
+-> sijnekij : [n.] bordure
 -> sijnekäj : [adj.] fringe, extreme, risqué, edgy, questionable
 ----> sijnekäjt : [adv.] extremely
 -> silnsijnek : [n.] horizon {'siln' +}
 ----> orasilnsijnekom : [n.] (figurative) Timbuktu; distant place {'or' + + 'om'}
 
 vine : [n.] domain; realm {Croatian 'domovina'}
--> vinu : [n.] zone; area
+-> vinij : [n.] zone; area
 -> vinom : [n.] territory
 
 trät : [n.] step [v.] step; trample, tread {German 'Tritt'}
@@ -1409,7 +1408,7 @@ fras : [n.] phrase, expression, term {Anc. Greek 'φράσις' via English and 
 jukos : [n.] monster {Original}
 bäst : [n.] beast, creature {French 'bête', English 'beast'}
 -> bästi : [adj.] beastial, beastly
--> bästu : [n.] bug, critter
+-> bästtij : [n.] bug, critter
 
 nam : [n.] name {German 'Name', French 'nom', English 'name'}
 -> namäs : [adj.] nominal
@@ -1577,15 +1576,15 @@ klad : [n.] sword {Proto-Celtic '*kladiwos' via French 'glaive'}
 šper : [n.] spear {German 'Speer', English 'spear'}
 stam : [n.] shield {?}
 kastäl : [n.] castle; fort {Breton 'kastell'}
--> kastälu : [n.] fortress
+-> kastälyj : [n.] fortress
 totäm : [n.] totem {French 'totème', English 'totem'}
 -> totämäs : [adj.] totemic
 räi : [n.] king {Portugese 'rei'}
 -> räijäs : [adj.] royal
 ----> räijäst : [adv.] royally
 -> räin : [n.] queen {+ French 'reine'}
-----> räinu : [n.] princess
--> ränu : [n.] prince
+----> räinyj : [n.] princess
+-> ränyj : [n.] prince
 -> räivine : [n.] kingdom
 koron : [n.] crown {Latin 'corona' via Italian 'corona' and French 'couronne'}
 -> akoron : [v.] crown
@@ -1596,7 +1595,7 @@ skläv : [n.] slave {French 'esclave'}
 ----> asklävejt : [n.] enslavement
 barst : [n.] lord, master {Original}
 -> barstejs : [n.] lordship, mastership, mastery
--> barstu : [n.] mister
+-> barsttyj : [n.] mister
 
 === substance : resu ===
 släm : [m.] slime, goo, sludge {English 'slime', PIE '*sley-'}
@@ -1613,7 +1612,7 @@ frus : [v.] foam, froth {? English 'froth', ? French 'mousse'}
 -> frusem [n.] froth, moss, foam 
 ful : [v.] smoke {Old 'fum'}
 -> fulem [n.] smoke
-----> fulemti : [n.] whisp
+----> fulemij : [n.] whisp
 -> fumör : [n.] smoker (consumer of cigarettes) [n.] appartus for smoking
 flam : [v.] to blaze, to flame {French 'flamme'}
 -> flamen [n.] visible portion of gas undergoing combustion [n.] [figurative] strong passion
@@ -1656,11 +1655,11 @@ gärt : [n.] card [n.] map [n.] [adj.] card (material) {Anc. Greek 'χάρτης
 === form : väm ===
 štok : [n.] stick, branch; handle, rod {German 'Stock'}
 furk : [n.] fork; branch (shape, abstract) {English 'fork', French 'fourche', German 'Forke'}
--> furku : [n.] fork (utensil)
+-> furkij : [n.] fork (utensil)
 -> furksic: [adj.] forked
 post : [n.] pole, post; trunk {French 'poteau', English 'post'}
--> postu : [n.] bar, rod
-----> manpostu : [n.] handlebar
+-> posttij : [n.] bar, rod
+----> manposttij : [n.] handlebar
 -> uisespost : [n.] fire hydrant
 pot : [n.] pot, vase {French and English}
 linn : [n.] line, string, cord, rope; cable, wire {French 'ligne', later ~ Latin 'linea'}
@@ -1672,9 +1671,9 @@ täl : [n.] fabric, canvas; (spider's) web {Latin 'tela' via French 'toile'}
 -> tälent : [m.] cloth
 ----> tälenten : [n.] clothes, garments
 -------> tälentensor : [n.] wardrobe, closet
-----> tälentti : [n.] cloth, serviette, napkin
+----> tälenttij : [n.] cloth, serviette, napkin
 ----> temstäl : [n.] tablecloth {'tem' +}
--------> temstälu : [n.] apron
+-------> temstälyj : [n.] apron
 näät : [n.] net, mesh {English 'net'}
 -> antenäät : [n.] internet
 ----> antenääcor : [n.] router, modem {+ 'sor'}
@@ -1683,17 +1682,17 @@ näät : [n.] net, mesh {English 'net'}
 -> näät : [n.] [adj.] net (internet)
 ----> näätpajg : [n.] website {+ 'pajg'}
 gice : [n.] cup; mug; chalice {Original}
--> gicu : [n.] small cup or glass
+-> gicij : [n.] small cup or glass
 ark : [n.] bow, arc; semicircle {Latin 'arcus'}
 -> ark : [n.] [f:archery] bow
 nyr : [n.] block, brick, ingot {Original}
 -> anyr : [v.] [f:computing] to become non-functional
 gan : [n.] hole, gap, opening; pit, chasm {? Original}
--> ganu : [n.] small hole
+-> ganij : [n.] small hole
 krät : [n.] grid {Latin 'cratis'}
 
 lemm : [n.] blade; flap; human nail; [f:computing] tab, widget {Latin 'lamina' via French 'lamelle'}
--> lemmu : [n.] lamella
+-> lemmij : [n.] lamella
 sper : [v.] curl, coil {Latin 'spirale' via French, via English 'spiral'}
 -> sperest : [adj.] spiral
 -> sperem : [n.] spiral, curl; coil
@@ -1702,19 +1701,19 @@ cär : [n.] reed, stem, stalk, straw {Original} &&&
 -> cärent : [m.] straw (bulk)
 -> sulcär : [n.] drinking straw {'sul' +}
 guip : [n.] drop {French 'goutte', English 'drop'} &&&
--> guiputi : [n.] droplet &&&
+-> guipij : [n.] droplet
 hust : [n.] chair {Original} &&&
 kest : [n.] frame {Finnish 'kehys' and Hungarian 'keret'} &&&
 pros : [n.] sign, board; panel, plaque, plate {? Original} &&&
 tav : [n.] tube, pipe, barrel [n.] pipe (tobacco) {Old 'tave'} &&&
--> tavuti : [n.] small pipe
+-> tavij : [n.] small pipe
 -> fultav : [n.] tobacco pipe, smoking pipe
 -> tavtröbör : [n.] plumber &&&
 -> tavtröbret : [n.] (practice of) plumbing
 ----> tavret : [n.] (common) (practice of) plumbing
 -> tavtröbem : [n.] plumbing, pipe-work
 tol : [n.] wall {Old 'dol'} &&&
--> toluti : [n.] small wall, barrier, fence &&&
+-> toltij : [n.] small wall, barrier, fence
 tor : [n.] door, gate {German 'Tür'} &&&
 tyl : [n.] tile, pane, panel, plate {Old 'töl'} &&&
 -> atyl : [v.] to cover with tiles
@@ -1781,7 +1780,7 @@ teg : [n.] roof, ceiling, maximum {Original} &&&
 -> tegom : [n.] hut, shack; shelter &&&
 nost : [n.] floor; ground; floor (lower limit) {Original} &&
 kac : [n.] tower {Original}
--> kacu : [n.] small tower; turret
+-> kacij : [n.] small tower; turret
 siment : [m.] cement {French 'ciment', English 'cement'}
 -> asiment : [v.] [trans] cement (in)
 fraj : [n.] window, opening; glimpse; opportunity {Original}
@@ -1984,7 +1983,7 @@ vampir : [n.] vampire {German 'Vampir' via English and French 'vampire'}
 -> vampiräs : [adj.] vampiric (pertaining to vampires)
 
 kamb : [n.] bell {Latin 'campana'}
--> kambu : [n.] little bell
+-> kambij : [n.] little bell
 
 vals : [n.] waltz [v.] to waltz {Swedish}
 
@@ -1999,7 +1998,7 @@ diabr : [v.] slander, libel {Anc. Greek 'διαβάλλω'}
 
 passe : [n.] pass, permit, license/licence; passport {Finnish 'passi'}
 -> bištinpasse : [n.] driver's license/licence {+ 'bištine'}
--> passu : [n.] ticket, pass, stamp
+-> passij : [n.] ticket, pass, stamp
 
 patent : [n.] [v.] patent {English}
 -> patentt : [adj.] patented
@@ -2019,7 +2018,7 @@ ruft : [v.] rust {Latin 'rufus'}
 ----> ruftemsat : [adj.] rusty
 -> ruftest : [adj.] rusted
 
-amau : [n.] shadow {Anc. Greek 'ἀμαυρός'}
+amau : [n.] shadow {Anc. Greek 'ἀμαυρός'} #
 -> cemau : [adj.] dark; dim, faint
 ----> cemauät : [adv.] dimly, faintly; dark
 ----> cemauine : [n.] darkness
@@ -2029,17 +2028,17 @@ amau : [n.] shadow {Anc. Greek 'ἀμαυρός'}
 štaf : [n.] flag, banner {Old 'štafe'} &&&
 
 korb : [n.] basket {French 'corbeille'}
--> korbu : [n.] parcel
+-> korbij : [n.] parcel
 dat : [n.] bag
--> datu : [n.] small bag
+-> datij : [n.] small bag
 sor : [n.] chest, trunk {Original}
--> soru : [n.] box
-----> asor(u) : [v.] [trans] to put in a box
-----> imsoru : [n.] [f:email] inbox
+-> sortij : [n.] box
+----> asortijn : [v.] [trans] to put in a box
+----> imsortij : [n.] [f:email] inbox
 -> sorpros : [n.] shelf, cabinet, cupboard
 cugot : [n.] bottle; canteen, gourd {Original}
 majd : [n.] shell, hull {Old 'maid'}
--> majduti : [n.] case
+-> majdij : [n.] case
 
 tke : [v.] note, indent, make a notch, nick {Old 'tam'} &&&
 -> timem : [n.] note, mark, notch &&&
@@ -2047,7 +2046,7 @@ tke : [v.] note, indent, make a notch, nick {Old 'tam'} &&&
 -> timejt : [n.] (act of) notation
 
 nave : [n.] ship, boat; craft {Latin 'navis'}
--> navu : [n.] small boat
+-> navij : [n.] small boat
 -> kosmenave : [n.] spacecraft
 
 besät : [n.] team, crew {Swedish 'besättning'}
@@ -2055,7 +2054,7 @@ besät : [n.] team, crew {Swedish 'besättning'}
 -> besätfränd : [n.] teammate {+ 'fränd'}
 -> besätek : [n.] colleague
 -> besättröbem : [n.] teamwork {+ 'tröbem'}
--> besätu : [n.] band, club, troupe, party
+-> besättyj : [n.] band, club, troupe, party
 
 lite : [n.] letter {Latin 'littera'}
 -> aliter : [v.] spell; alliterate
@@ -3006,8 +3005,8 @@ ryn : [v.] dream {Old 'rymä'}
 fam : [v.] hunger {Latin 'fames' via French 'faim'} 
 -> famem : [n.] hunger
 ----> advam : [v.] [archaic] to break fast
--------> spadvame : [n.] supper, dinner
-----------> spadvamu : [n.] luncheon
+-------> spadvam : [n.] supper, dinner
+----------> spadvamij : [n.] luncheon
 -> afam : [v.] [trans] to make hungry
 -> famät : [adj.] hunger
 ----> famätt : [adv.] hungrily
@@ -3155,8 +3154,8 @@ skän : [v.] climb, scale {? Latin 'scala'}
 -> skänör : [n.] climber
 -> skene : [n.] ladder ##
 -> skänem : [n.] climb
-----> skänu : [n.] step ##
--------> skänude : [n.] steps; stairs ##
+----> skänemyj : [n.] step
+-------> skänemyjen : [n.] steps; stairs
 
 plod : [v.] burst, blow {Latin 'plodo' via English 'explode', 'implode'}
 -> ustplod : [v.] explode
@@ -3275,7 +3274,7 @@ grafit : [v.] to scribble; to graffiti {Italian 'graffiti' via English and Frenc
 
 sträd : [v.] to struggle; to fight; to clash {Frisian 'striid', Swedish 'strida'}
 -> strädem : [n.] conflict, struggle, war
-----> strädemyti : [n.] fight, squabble, dispute, argument, scramble
+----> strädemyj : [n.] fight, squabble, dispute, argument, scramble
 -> strädör : [n.] fighter, soldier
 ----> tužtsträdör : [n.] volunteer (military)
 ->
@@ -3336,7 +3335,7 @@ tröb : [v.] work, labour {German 'Arbeit', French 'travail', English 'labour'} 
 ----> tröbemnuz : [adj.] unemployed
 -------> tröbemnuzör : [n.] unemployed person
 ----> seitröbemuz : [adj.] self-employed
-----> tröbemyti : [n.] part-time job
+----> tröbemyj : [n.] part-time job
 -> tröbör : [n.] worker, labourer &&&
 -> tröbestrom : [n.] workplace; office, bureau {+ 'trom'}
 -> atröb : [v.] operate, maneuver
