@@ -185,7 +185,7 @@ When the action of the verb is described as a potential without being in a speci
 |:-:  |:--:  |:--:  |
 | 1s  | Je   | Jen  |
 | 1p  | Na   | Nes  |
-| 2s  | Te   | Ten  |
+| 2s  | Du   | Dun  |
 | 2p  | Ve   | Ves  |
 | 3s  | Sa   | San  |
 | 3p  | He   | Hes  |
