@@ -419,7 +419,7 @@ ai : [intj.] ow, ouch {Estonian, Finnish, et al. 'ai' & French 'aïe'}
 un : [intj.] mhm, okay {Japanese 'うん'} &&&
 enna : [intj.] oh, well, now, let's see &&&
 
-jos : {Japanese 'よし'}  
+jos : {Japanese 'よし'}
 -- [intj.] confirmation, acknowledgement ('okay')  
 -- [adj.] ready, done  
 ----> ajos : [v.] make ready; prepare  
@@ -1226,6 +1226,8 @@ res : [n.] thing, matter {Latin}
 ----> ressat : [adj.] factual, true
 -------> ressät : [adv.] factually
 
+körd : [n.] image, picture {Original}
+
 kultur : [n.] culture {German 'Kultur', French 'culture'}
 -> kulturäs : [adj.] cultural
 ----> kulturäst : [adv.] culturally
@@ -1556,9 +1558,6 @@ stryg : [v.] squirm, wriggle, worm, crawl &&
 väm : [n.] form, shape, figure, outline {~ Latin 'forma'} &&&
 -> vämäs : [adj.] formal
 ----> vämäst : [adv.] formally
--> lumväm : [n.] photograph
-----> lumvämret : [n.] photography
-----> lumvämretör : [n.] photographer
 
 === fantasy ===
 maži : [n.] magic {French 'magie'}
@@ -1618,8 +1617,12 @@ ful : [v.] smoke {Old 'fum'}
 flam : [v.] to blaze, to flame {French 'flamme'}
 -> flamen [n.] visible portion of gas undergoing combustion [n.] [figurative] strong passion
 -> aflam : [v.] to set ablaze, aflame [v.] [figurative] to deliberately encourage hostility or anger
-lum : [v.] cast light onto/throughout {Late Latin 'lūmināria' via French 'lumière'}
--> lumen : [n.] light
+
+lum : [n.] light [v.] cast light onto/throughout {Late Latin 'lūmināria' via French 'lumière'}
+-> lumkörd : [v.] to photograph [n.] photograph {+ 'körd'}
+----> lumkördret : [n.] (practice of) photography
+----> lumkördör : [n.] photographer
+
 är : [n.] air {French and English 'air'}
 -> ärodrom : [n.] aerodrome, airport
 säht : [m.] silk {Latin 'saeta' via French 'soie'}
