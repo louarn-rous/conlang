@@ -2236,7 +2236,7 @@ bryk : [v.] to hold; to keep {Original}
 ----> donebrykejt : [n.] (act of) loaning
 -> imbryk : [v.] [trans] to know; to be aware of; to be conscious of {'im-' +}
 
-kaus : [v.] care, precaution, guard {Latin 'caveo'}
+kaus : [v.] care, precaution, to guard {Latin 'caveo'}
 -> kausem : [n.] guard, care, precaution
 -> kaussat : [adj.] cautious, suspicious, wary
 -> kausejt : [n.] (act of) warning, giving caution
@@ -2246,9 +2246,9 @@ ger : [v.] manage {Latin 'gero' via English 'register' & French 'gérer'}
 ----> regerom : [n.] registry
 -> gerrägör : [n.] manager
 
-bišt : [v.] carry, bear {Original, backform from 'bištir'}
--> otbišt : [v.] bring
--> sebišt : [v.] record; log; login
+bišt : [v.] to carry; to bear {Original, backform from 'bištir'}
+-> otbišt : [v.] to bring
+-> sebišt : [v.] to record; log; login
 ----> sebištiletä : [n.] logbook
 ----> sebištem : [n.] record, recording, entry
 ----> sebištejt : [n.] (act of) recording
@@ -2263,9 +2263,9 @@ bišt : [v.] carry, bear {Original, backform from 'bištir'}
 -------> bištejtöräs : [adj.] vehicular
 -> bištem : [n.] burden, weight
 
-nad : [v.] give, deal, offer {Old 'don' + Hungarian 'ad'} &&&
+nad : [v.] to give, deal, offer {Old 'don' + Hungarian 'ad'} &&&
 -> nadem : [n.] gift, donation, offering &&&
--> anad : [v.] buy, purchase
+-> anad : [v.] to buy, to purchase
 ----> anador : [n.] buyer, customer
 ----> anadem : [n.] purchase
 ----> ranad : [v.] redeem
@@ -2276,7 +2276,7 @@ nad : [v.] give, deal, offer {Old 'don' + Hungarian 'ad'} &&&
 ----> ödnador : [n.] provider, supplier
 -------> mahtödnador : [n.] [f:electronics] power supply
 
-drät : [v.] betray; surrender; give up {Old 'dräjt'}
+drät : [v.] to betray; to surrender, to give up {Old 'dräjt'}
 -> drätör : [n.] betrayer, traitor
 -> drätem : [n.] betrayal
 prom : [v.] to get; to gain; to obtain; to take; to steal {Original}
@@ -2319,7 +2319,7 @@ ir : [v.] [intrans] to go; to move (oneself) {French 'ira'} ##
 -> (by/near)-### : [v.] [trans] to pass; to go by
 ----> (over)-(by/near)-### : [v.] [trans] to surpass
 
-nek : [v.] walk {Latin 'anima' via French and English 'animal'}
+nek : [v.] to walk {Latin 'anima' via French and English 'animal'}
 -> anek : [v.] to make move; animate, bring to life
 ----> animäs : [adj.] animal
 -------> animäst : [adv.] animally
@@ -2583,9 +2583,12 @@ pläs : [v.] to please, favour {Latin 'placeo' via French 'plaire'}
 prät : [v.] joke {Original}
 -> prätem : [n.] joke
 
-marit : [v.] marry {Latin 'marito'}
+marit : [v.] to marry {Latin 'marito'}
 -> maritejt : [n.] act of marrying, being wed; marriage, wedding
 -> maritem : [n.] wedding, marriage
+
+värons : [v.] to surprise & {'waearoms'}
+-> väronsem : [n.] surprise
 
 utej : [v.] use
 -> tej : [prep.] [cnjc.] instrumentative ('with')
