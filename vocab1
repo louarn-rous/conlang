@@ -528,7 +528,7 @@ ekus : [n.] horse (Equus ferus) {Latin 'equus'}
 az : [n.] donkey (Equus africanus asinus; Equus asinus) {Breton 'azen'}
 -> azas : [adj.] asinine
 -> aztij : [n.] donkey foal
-kip : [n.] fox (Vulpini, incl. Vulpes) {Old 'gupil', Finnish 'kettu'}}
+kip : [n.] fox (Vulpini, incl. Vulpes) {Old 'gupil', Finnish 'kettu'}
 -> kipäs : [adj.] vulpine
 -> kipij : [n.] fox cub
 kot : [n.] cat (Felis catus) {Polish, English 'cat', German 'Katze'}
@@ -1575,8 +1575,8 @@ armur : [n.] armor {French 'armure' via English}
 klad : [n.] sword {Proto-Celtic '*kladiwos' via French 'glaive'}
 šper : [n.] spear {German 'Speer', English 'spear'}
 stam : [n.] shield {?}
-kastäl : [n.] castle; fort {Breton 'kastell'}
--> kastälyj : [n.] fortress
+kestel : [n.] castle; fort {Breton 'kastell'}
+-> kestelyj : [n.] fortress
 totäm : [n.] totem {French 'totème', English 'totem'}
 -> totämäs : [adj.] totemic
 räi : [n.] king {Portugese 'rei'}
@@ -2659,12 +2659,12 @@ sed : [v.] to yield, withdraw {Latin 'cedo'}
 -------> asedest : [n.] slave, captive
 ----------> drogasedest : [n.] drug addict
 
-ran : [v.] prepare, charge, load
--> ranst : [adj.] prepared
-----> ranstät : [adv.] readily
-----> ranstejs : [n.] state of being ready, prepared; readiness, preparedness
--> ranejt : [n.] act of preparing; preparation
--> ranem : [n.] charge, load
+lad : [v.] to prepare, to charge, to load, to prime {German 'laden'}
+-> ladst : [adj.] prepared
+----> ladstät : [adv.] readily
+----> ladstejs : [n.] state of being ready, prepared; readiness, preparedness
+-> ladejt : [n.] act of preparing; preparation
+-> ladem : [n.] charge, load
 
 särk : [v.] search, seek {Old 'särš'}
 -> särkem : [n.] search
@@ -3009,15 +3009,15 @@ ryn : [v.] dream {Old 'rymä'}
 -> rynät : [adj.] dreamy
 ----> rynätät : [adv.] dreamily
 
-fam : [v.] hunger {Latin 'fames' via French 'faim'} 
--> famem : [n.] hunger
-----> advam : [v.] [archaic] to break fast
--------> spadvam : [n.] supper, dinner
-----------> spadvamij : [n.] luncheon
--> afam : [v.] [trans] to make hungry
--> famät : [adj.] hunger
-----> famätt : [adv.] hungrily
--> famver : [adj.] mouthwatering
+pek : [v.] to hunger {English 'peckish'} &&
+-> pekem : [n.] hunger
+----> adpek : [v.] [archaic] to break fast ##
+-------> spadpek : [n.] supper, dinner ##
+----------> spadpekij : [n.] luncheon ##
+-> peksat : [adj.] hungry
+----> peksät : [adv.] hungrily
+-> apek : [v.] [trans] to make hungry
+-> pekver : [adj.] mouthwatering
 sijt : [v.] thirst {? French 'soif', ? English 'thirsty'}
 -> sijtem : [n.] thirst
 -> asijt : [v.] [trans] to make thirsty
@@ -3838,9 +3838,11 @@ ruug : [n.] ass, bum {Original?}
 mygöl : [n.] vermin; turd; cretin; abomination
 šleg : [v.] defecate, poop, shit, crap {Old 'šlog' + Old 'šiäs'}
 -> šlegem : [n.] poop, feces, shit, dung, crap
--> ašleg : [v.] to 
+-> ašleg : [v.] to ?
 smät : [v.] to copulate with
 bač : [v.] [intj.] damn {Original}
 -> bačest : [adj.] damned
-kus : [intj.] fuck, damn, darn, shit
+kast : [adj.] crap, bad {Swedish 'kass'}
 traste : [intj.] egads, by god
+pječ : [adj.] ugly, useless
+kurva : [n.] whore [intj.] fuck, shit {Polish 'kurwa'}
