@@ -27,18 +27,18 @@ yr : [det.] proximal demonstrative ('this', 'these') {French 'ici'} &&&
 nar : [det.] distal demonstrative ('that', 'those') &&&
 -> narom : [n.] distal locative ('there') &&&
 
-ža : [det.] interrogative ('what', 'which') {Croatian 'za'}  
--> žaj : [det.] [prn.] (relative) what, which
--> otža : [det.] why {'öd' +}  
-----> žadöj : [det.] (non-interrogative) why, the reason for which
--> läža : [det.] how {'läš' +}
+na : [det.] interrogative ('what', 'which')
+-> onna : [det.] why (for what end) {'on' +}  
+----> nadöj : [det.] (non-interrogative) why, the reason for which ##
+-> usna : [det.] why (by what cause) {'us' +}
+-> läšna : [det.] how {'läš' +}
 -> täna : [det.] [cnjc.] when {'tän' +}  
--> žadom : [det.] where; whereabouts {'-a' +}  
+-> nadom : [det.] where; whereabouts {'-a' +}  
 ---> retom : [det.] [adv.] where [n.] where; the place where (not-interrogative)
--> meža : [det.] how many, how much {'me' +}  
--> žavär : [det.] to/emwhat direction, towards where {+ '-vär'}
--> žakep : [det.] who, whose {+ 'den'}
-----> žadej : [det.] (non-interrogative) who, whom
+-> mena : [det.] how many, how much {'me' +}  
+-> navär : [det.] to/emwhat direction, towards where {+ '-vär'}
+-> nakep : [det.] who, whose {+ 'den'}
+----> nadej : [det.] (non-interrogative) who, whom
 
 netä : [det.] any, either  
 -> tošnetä : [det.] whatever, anything {'toš' + 'netä')  
@@ -56,12 +56,12 @@ ceni : [det.] some, a part of
 us : [prep.] ablative, genitive (from, of, by, authorship)  
 -> ussa : [prep.] beyond, further than
 -> usam : [prep.] away from, off
-ot : [prep.] allative (to, for) {Old 'öd'}
--> otuz : [adv.] together  
--> ote : [prep.] benefactive ('for', 'emfavour/support/the objective of', 'so that')
-----> otem : [n.] pro (reason emfavour of something)
--> otvär : [adj.] towards  
-----> otvärt : [adv.] towards  
+on : [prep.] allative (to, for)
+-> onuz : [adv.] together ##
+-> one : [prep.] benefactive ('for', 'emfavour/support/the objective of', 'so that')
+----> onem : [n.] pro (reason emfavour of something)
+-> onvär : [adj.] towards  
+----> onvärt : [adv.] towards  
 
 im : [prep.] em (locative: contained by, withemthe bounds of, part of, into) (at, in) {German} &&&
 -> im- : [prf.] inwards ('in')
@@ -366,8 +366,8 @@ or : [adj.] (the) next, subsequent {Original}
 
 i : [adj.] (the) current, present {Japanese '今'}   
 -> inat : [n.] today  
-----> ina : [n.] now #
--------> oräina : [adv.] henceforth, from now on, hereafter
+----> intä : [n.] now #
+-------> oräintä : [adv.] henceforth, from now on, hereafter
 -> ijät : [adv.] currently  
 -> isät : [prep.] instead of; rather than [adv.] instead, rather {'i' + 'sät'} (joins two clauses)
 
@@ -934,9 +934,9 @@ dänt : [n.] tooth {Latin 'dens' via French 'dentiste'/'dentaire', English 'dent
 leng : [n.] tongue {French 'langue'}
 -> lengäs : [adj.] lingual
 ----> lengäst : [adv.] lingually
--> lengina : [n.] language
-----> lenginäs : [adj.] linguistic
--------> lenginäst : [adv.] linguistically
+-> lengejt : [n.] language
+----> lengejtäs : [adj.] linguistic
+-------> lengejtäst : [adv.] linguistically
 -> [v.] [colloq.] lick
 -> trasleng : [v.] translate {'tra(s)' +}
 ----> traslengejt : [n.] translation
@@ -1317,8 +1317,7 @@ vet : [n.] age {Latin 'vetus'}
 -> avet : [v.] age
 ----> avetejt : [n.] aging
 
-ötren : [n.] problem; issue; concern {Original}
--> ötrena : [n.] crisis #aug
+ötren : [n.] problem, issue, concern, crisis {Original}
 -> ötrenäs : [adj.] problematic
 -> ötrenyj : [n.] trouble
 
@@ -2378,9 +2377,9 @@ ster : [v.] say, speak, tell, talk; signifies, represents, means {French 'dire',
 -> sterin : [n.] parole, speech; expression, dialect; conversation
 -> sterem : [n.] word; command, order
 -> sterör : [n.] speaker (one who speaks)
--> sterina : [n.] act of expressing; expression, meaning
-----> sterinäs : [adj.] meaningful
--------> sterinäst : [adv.] meaningfully
+-> sterejt : [n.] act of expressing; expression, meaning
+----> sterejtäs : [adj.] meaningful
+-------> sterejtäst : [adv.] meaningfully
 -> anster : [v.] converse
 ----> ansterem : [n.] cexchange, dialogue
 ----> ansterejt : [n.] dialect, act of conversing; conversation
@@ -2689,10 +2688,10 @@ säm : [v.] sow {German 'säen', French 'semer'}
 söt : [v.] create, make, build, assemble, bring to fruition {Original} &&&
 -> sötem : [n.] creation &&&
 -> sötör : [n.] creator, maker &&&
--> acöt : [v.] produce {from 'öd' +}
-----> acötek : [n.] progeny, offspring
-----> acötem : [n.] product
-----> acötör : [n.] producer
+-> onsöt : [v.] produce {'on' +}
+----> onsötek : [n.] progeny, offspring
+----> onsötem : [n.] product
+----> onsötor : [n.] producer
 -> sötäs : [adj.] creative (pertaining to creation)
 -> sötsat : [adj.] creative
 ----> sötsatejs : [n.] state of being creative; creativity
