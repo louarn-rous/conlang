@@ -337,11 +337,6 @@ ot : [n.] up, high, top (of) {French 'haut(e)'}
 -> otvär : [adj.] upwards  
 ----> otvärt : [adv.] upwards  
 
-is : [det.] proximal demonstrative ('this', 'these') {French 'ici'}
--> isa : [n.] proximal locative ('here')
-as : [det.] distal demonstrative ('that', 'those')
--> asa : [n.] distal locative ('there')
-
 fin : [v.] finish, end, conclude {Latin 'finio' via French 'finir' and English 'finish'}
 -> fine : [n.] end
 ----> afine : [adv.] finally, at last {'a' +}
@@ -699,6 +694,25 @@ lest : [adv.] diminutive superlative ('least') {English 'least'}
 ----> lestäst : [adv.] minimally  
 sei : [adv.] such, so {Original, ~ French 'ci'}
 
+=== determinants/determiners ===
+
+is : [det.] proximal demonstrative ('this', 'these') {French 'ici'}
+-> isa : [n.] proximal locative ('here')
+as : [det.] distal demonstrative ('that', 'those')
+-> asa : [n.] distal locative ('there')
+
+ža : [det.] interrogative ('what', 'which') {Croatian 'za'}  
+-> žaj : [det.] [prn.] (relative) what, which
+-> otža : [det.] why {'öd' +}  
+----> žadöj : [det.] (non-interrogative) why, the reason for which
+-> läža : [det.] how {'läš' +}
+-> täna : [det.] [cnjc.] when {'tän' +}  
+-> žadom : [det.] where; whereabouts {'-a' +}  
+---> retom : [det.] [adv.] where [n.] where; the place where (not-interrogative)
+-> meža : [det.] how many, how much {'me' +}  
+-> žavär : [det.] to/emwhat direction, towards where {+ '-vär'}
+-> žakep : [det.] who, whose {+ 'den'}
+----> žadej : [det.] (non-interrogative) who, whom
 
 === conjunctions ===
 
@@ -742,6 +756,13 @@ sti : [prep.] as if, like so, similar to
 tra(s) : [prep.] perlocative, perlative (across, through) {Breton 'tra'}
 -> trasal : [prep.] far from, far off; across
 -> tras : [prep.] according to, by ##
+
+ot : [prep.] allative (to, for) {Old 'öd'}
+-> otuz : [adv.] together  
+-> ote : [prep.] benefactive ('for', 'emfavour/support/the objective of', 'so that')
+----> otem : [n.] pro (reason emfavour of something)
+-> otvär : [adj.] towards  
+----> otvärt : [adv.] towards
 
 === affixes ===
 -e : [suf.] used to form nouns from adjectives
