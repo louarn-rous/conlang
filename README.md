@@ -1,9 +1,8 @@
 # Ižter
 
-Ižter (localised in English as 'Ijter') is a constructed language with no specific purpose.  
 It is synthetic, fusional and mildly inflected. It utilises SVO (Subject-Verb-Object) word order.
 
-1. [Alphabet](#Alphabet)
+1. [Orthography](#Orthography)
 2. [Phonology](#Phonology)
 	1. [Consonants](#Consonants)
 	2. [Vowels](#Vowels)
@@ -15,40 +14,51 @@ It is synthetic, fusional and mildly inflected. It utilises SVO (Subject-Verb-Ob
 4. [Pronouns](#Pronouns)
 5. [Phonotactics](#Phonotactics)
 6. [Grammar](#Grammar)
-7. [Braille](#Braille)
-8. [Morse](#Morse)
 
-## Alphabet
-The Ijter language employs a modified version of the Latin script.
+## Orthography
 
-| IPA  | English               |Lat |Nom | IPA | English                 |Lat | -  |
-|:---: |:---                   |:-: |:-: |:---:|:---                     |:-: |:-: |
-| /ɑ/  | 'h**o**t' (Gen. Am)   | Aa | aa | /n/ | '**n**et'               | Nn | än |
-| /æ/  | 'y**e**s'             | Ää | ää | /o/ | 'y**aw**n' (SA)         | Oo | oo |
-| /b/  | '**b**all'            | Bb | be | /ø/ | 'b**ir**d' (NZ)         | Öö | öö |
-| /t͡s/ | 'klu**tz**'           | Cc | ce | /p/ | '**p**en'               | Pp | pe |
-| /t͡ʃ/ | '**ch**um'            | Čč | če | /ɾ/ | 'be**tt**er' (Aus, NAE) | Rr | är |
-| /d/  | '**d**og'             | Dd | de | /s/ | '**s**un'               | Ss | äs |
-| /e/  | 'h**a**y'             | Ee | ee | /ʃ/ | '**sh**oe'              | Šš | äš |
-| /v/  | '**v**ine'            | Vv | ve | /t/ | '**t**op'               | Tt | te |
-| /ɡ/  | '**g**oat'            | Gg | ge | /u/ | 'fr**u**it'             | Uu | uu |
-| /i/  | 'b**ee**'             | Ii | ii | /y/ | 'f**ew**' (Gen. SA)     | Yy | yy |
-| /j/  | '**y**ak'             | Jj | je | /z/ | '**z**oo'               | Zz | ze |
-| /k/  | '**k**ey'             | Kk | ke | /ʒ/ | 'vi**si**on'            | Žž | že |
-| /l/  | '**l**eg'             | Ll | äl | /f/ | '**f**ish'              | Ff | äf |
-| /m/  | '**m**ail'            | Mm | äm | /h/ | '**h**ome'              | Hh | he |
+| Letter | Name | Value | Rough English (or other) equivalent |
+| :-	 | :-	| :-	| :-		    	   	      |
+| A a	 | aa	| /ɑ/	| h**o**t (General American)	      |
+| Ä ä	 | ää	| /æ/	| y**e**s 	   		      |
+| B B	 | be	| /b/	| **b**all			      |
+| C c	 | tse	| /t͡s/	| di**tz**y			      |
+| Č č	 | tše	| /t͡ʃ/	| **ch**ew			      |
+| D d	 | de	| /d/	| **d**og			      |
+| E e	 | eh	| /e/	| h**a**y			      |
+| V v	 | ve	| /v/	| **v**ine			      |
+| G g	 | ge	| /ɡ/	| **g**oat			      |
+| I i	 | ij	| /i/	| b**ee**			      |
+| J j	 | je	| /j/	| **y**ak			      |
+| K k	 | ke	| /k/	| **k**ey			      |
+| L l	 | el	| /l/	| **l**amp			      |
+| M m	 | em	| /m/	| **m**ail			      |
+| N n	 | en	| /n/	| **n**et			      |
+| O o	 | oo	| /o/	| y**aw**n (South Africa)	      |
+| Ö ö	 | öö	| /ø/	| b**ir**d (New Zealand)	      |
+| P p	 | pe	| /p/	| **p**en  			      |
+| R r	 | er	| /ɾ/	| be**tt**er (North America)	      |
+| S s	 | es	| /s/	| **s**un    	    		      |
+| Š š	 | eš	| /ʃ/	| **sh**oe			      |
+| T t	 | te	| /t/	| **t**ell			      |
+| U u	 | uu	| /u/	| fr**u**it			      |
+| Y y	 | uju	| /y/	| f**ew** (South Africa)	      |
+| Z z	 | ze	| /z/	| **z**oo 	 		      |
+| Ž ž	 | že	| /ʒ/	| vi**si**on			      |
+| F f	 | ef	| /f/	| **f**ish			      |
+| H h	 | eh	| /h/	| **h**ome			      |
 
 ### Substitutions
 
-When using a system which is limited to the standard Roman alphabet or where diacritics are otherwise unavailable (such as ASCII),
-letters with diacritics should each be substituted for their corresponding digraph:
+When diacritics are unavailable, the following substitutions should be made: 
 
-| Letter  | ö  | ä  | š  | ž  | č  |
-|:-----   |:-: |:-: |:-: |:-: |:-: |
-| Digraph | oe | ae | sz | zs | cs |
-
-When capitalising a word which begins with a digraph, only the first half of the digraph should be in upper case.
-When the entire word is capitalised, both parts of the digraph should be in upper case.
+| Letter  | Substitution |
+| :-	  | :-		 |
+| Ä ä	  | AE / ae / ae |
+| Ö ö	  | OE / Oe / oe |
+| Č č	  | CS / Cs / cs |
+| Š š	  | SZ / Sz / sz |
+| Ž ž	  | ZS / Zs / zs |
 
 ## Phonology
 
@@ -66,8 +76,7 @@ if ⟨h⟩ precedes a vowel, and does not follow a consonant, it is realised as 
 if it precedes a vowel, and follows a consonant, that consonant becomes aspirated.  
 if it precedes a plosive, or if it follows a vowel but is followed by a consonant, it is realised as /x/.  
 if it closes a front-vowel syllable at the end of a word, it is realised as \[ç].  
-if ⟨ž⟩ is followed by a front vowel, it is closer to \[ʑ].  
-if ⟨š⟩ is followed by a front vowel, it is closer to \[ɕ].
+
 
 ### Vowels  
 | -     | Front   | Back |
@@ -75,43 +84,12 @@ if ⟨š⟩ is followed by a front vowel, it is closer to \[ɕ].
 | Close | /i/ /y/ | /u/  |
 | Mid   | /e/ /ø/ | /o/  |
 | Open  | /æ/     | /ɑ/  |
- 
-### Semivowels  
-| Vowel | Semivowel |
-| :-: | :-: |
-| i | \[j] |
-| u | \[w] |
-| y | \[ɥ] |
-
-The above vowels are realised as semiconsonants when preceding or proceeding a different vowel.
-When they follow a plosive and precede another vowel, they provoke the palatalization, labio-palatization and labialization of the aforementioned plosive, respectively;
-
-| -  | -i⟩    | -y⟩   | -u⟩   |
-| -  | :-:   | :-:   | :-:   |
-| ⟨p- | \[pʲ] | \[pᶣ] | \[pʷ] |
-| ⟨b- | \[bʲ] | \[bᶣ] | \[bʷ] |
-| ⟨t- | \[tʲ] | \[tᶣ] | \[tʷ] |
-| ⟨d- | \[dʲ] | \[dᶣ] | \[dʷ] |
-| ⟨k- | \[kʲ] | \[kᶣ] | \[kʷ] |
-| ⟨g- | \[gʲ] | \[gᶣ] | \[gʷ] |
 
 ### Digraphs
 | -          | -          |  -         |  -        |
 |:---:       |:---:       |:---:       |:---:      |
 |⟨dz⟩ → \[d͡z]|⟨lj⟩ → \[ʎ] |⟨ng⟩ → \[ŋ]|⟨tj⟩ → \[c]|
 |⟨dž⟩ → \[d͡ʒ]|⟨hj⟩ → \[ç] |⟨nj⟩ → \[ɲ]|⟨dj⟩ → \[ɟ]|
-
-### Diphtongs
-| - | ⟨e | ⟨i | ⟨a | ⟨ä | ⟨o | ⟨ö | ⟨u | ⟨y |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| e⟩ | \[eː] | \[i̯e] | \[ɐe̞] | - | - | - | \[u̯e] | - |
-| i⟩ | \[ɪː] | \[iː] | \[æː] | - | - | - | \[u̯i] | - |
-| a⟩ | \[e̞ɐ] | \[i̯a] | \[ɑː] | \[o̯a] | - | - | \[u̯a] | - |
-| ä⟩ | - | \[i̯æ] | - | \[æː] | - | - | \[u̯æ] | - |
-| o⟩ | - | \[i̯o] | - | - | \[oː] | - | \[u̯o] | - |
-| ö⟩ | - | \[i̯ø] | - | - | - | \[øː] | \[u̯ø] | - |
-| u⟩ | - | \[i̯u] | \[ʌʊ̯] | - | - | - | \[uː] | - |
-| y⟩ | - | \[i̯y] | - | - | - | - | \[u̯y] | \[yː] |
 
 ### Phonotactics
 
@@ -130,6 +108,10 @@ In an conset (C)(H):
 if ⟨si⟩ is the body of a first syllable, it is realised as \[çi].  
 
 ⟨er⟩ is oft realised as \[ɪɾ].  
+
+if ⟨ž⟩ is followed by a front vowel, it is closer to \[ʑ].  
+if ⟨š⟩ is followed by a front vowel, it is closer to \[ɕ].
+
 
 **Assimilation**
 
@@ -216,48 +198,3 @@ would be "You should give chance another to me"
 Note that this is subject to some variation.
 
 When a phrase contains a catenative verb in addition to a regular verb, the former is conjugated while the latter remains in its infinitive/root/unconjugated form.
-
-To specify the gender of an agent noun, one can replace -ör with -ar for feminine and -or for masculine, though this is entirely optional.
-
-## Braille
-
-Ijter braille is inspired by the French, English, Czech and Scandinavian braille alphabets.
-
-| 1  | 2  | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 0 |
-| -  | -  | - | - | - | - | - | - | - | - |
-| Aa ⠁ | Bb ⠃ | Cc ⠉ | Dd ⠙ | Ee ⠑ | Ff ⠋ | Gg ⠛ | Hh ⠓ | Ii ⠊ | Jj ⠚ |
-| Kk ⠅ | Ll ⠇ | Mm ⠍ | Nn ⠝ | Oo ⠕ | Pp ⠏ |      | Rr ⠗ | Ss ⠎ | Tt ⠞ |
-| Uu ⠥ | Vv ⠧ |      | Yy ⠽ | Zz ⠵ |       |      |      | Žž ⠮ |      |
-|      | Ää ⠣ | Čč ⠩ |       | Šš ⠱ |      |      |       | Öö ⠪ |      |
-
-| Punc. | Br. | Punc. | Br. |
-|:-:    |:-:  |:-:    |:-:  |
-| .     | ⠲   | ,     | ⠂  |
-| :     | ⠒   | ;     | ⠆  |
-| !     | ⠖   | ?     | ⠢  |
-
-| Name           |Br.|
-| :--            |:-:|
-| Capital marker | ⠠ |
-| Number sign    | ⠼ |
-
-## Morse
-
-| -- | Code  | -- | Code |
-|:-- |:---   |:-- |:---  |
-| Aa | .-    | Nn | -.   |
-| Ää | .-.-  | Oo | ---  |
-| Cc | -.-.  | Öö | ---. |
-| Čč | -.--. | Pp | .--. |
-| Bb | -...  | Rr | .-.  |
-| Dd | -..   | Ss | ...  |
-| Ee | .     | Šš | ---- |
-| Vv | ...-  | Tt | -    |
-| Gg | --.   | Uu | ..-  |
-| Ii | ..    | Yy | ..-- |
-| Jj | .---  | Zz | --.. |
-| Kk | -.-   | Žž | --..-|
-| Ll | .-..  | Ff | ..-. |
-| Mm | --    | Hh | .... |
-
-Ijter Morse is partly influenced by Croatian Morse code.   	 	 	
